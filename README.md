@@ -14,6 +14,9 @@ getLines.js - js file to pull out the dialogue lines
 soldist.js solwebpack.js - webpack files pulled from riots cdn that are being looked through for this data  
 
 ### Assets
+https://lolstatic-a.akamaihd.net/frontpage/apps/prod/sentinels-hub-2021/en_GB/d9526add81a76b67a6ba1c83327612a0a2770edc/assets
+
+
 assets.json - json file with the asset mapping  
 
 ### dialogue scene branch mapping
