@@ -1,31 +1,45 @@
 # ruination-event-stuff
 
 
-## files
+## ggez.py
 
-### Dialogue
-bf.py - attempting to figure out what the string used as the id for the dialogue is  
-line.html - html file where the dialogue lines were pulled from  
-lines.json - json file of the lines and ids  
-getLines.js - js file to pull out the dialogue lines  
-
-### Webpack files
-
-soldist.js solwebpack.js - webpack files pulled from riots cdn that are being looked through for this data  
-arg.js - webpack file from the arg  
-
-### Assets
-https://lolstatic-a.akamaihd.net/frontpage/apps/prod/sentinels-hub-2021/en_GB/d9526add81a76b67a6ba1c83327612a0a2770edc/assets
+### How It Works
+ 
+1. Utilizes requests to download https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/sentinels-hub-2021#/  
+2. Utilizes BeautifulSoup to loop through the script tags and when it finds dist.js , delete it
+3. Inject a modified dist.js that assigns the hashmap to window.dehashFunction
+4. Save this modified html to a local file
+5. Using Chrome Selenium launch this html page
+6. Loop through each scene in scenes.json and executes `console.log(window.dehashFunction(<dialogueKey>))`
+7. Take that log and add it to the scene dict
+8. Return the list of scene dicts
+9. Write the updated secnes to a new json file
 
 
-assets.json - json file with the asset mapping  
+### Requires
+dist-modified.js
+scenes.json
+`pip install -r requirements.txt`
 
-### dialogue scene branch mapping
+## FILES
 
-decode.html - simple html file to run decode.js  
-decode.js - base64 decode of the dialogue mapping  
+### JSON 
+lines.json - json file of the dialoge lines and ids  
 scenes.json - json file storing the results  
+speakers.json - json file storing the speakers  
+characters.json - json file storing the characters that show up  
+assets.json - json file with the asset mapping - https://lolstatic-a.akamaihd.net/frontpage/apps/prod/sentinels-hub-2021/en_GB/d9526add81a76b67a6ba1c83327612a0a2770edc/assets
 
-### worthless files
-testloldecode.py - simple file checking if this was a simple substitution  
-maybe_hash_question.py - hash function pulled from lol wiki to see if this is what was being used  
+### Custom JS
+decode.js - base64 decode of the dialogue mapping  
+getLines.js - js file to pull out the dialogue lines  
+dist-modified.js - our modified version ofriots dist.js to utilize the hashing of the dialogueKeys
+
+### PY
+
+get_lines.py - pulls the dialogue lines from riot
+get_speakers.py - writes the lists of speakers/characters to json files  
+
+### HTML
+decode.html - simple html file to run decode.js  
+line.html - html file where the dialogue lines were pulled from  

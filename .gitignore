@@ -1,2 +1,4 @@
 *.py[cdo]
 env/*
+# generated on the fly so we don't need to commit it
+injected_index.html
