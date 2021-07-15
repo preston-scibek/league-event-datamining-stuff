@@ -32,7 +32,7 @@ speakers.json - json file storing the speakers
 characters.json - json file storing the characters that show up  
 assets.json - json file with the asset mapping - https://lolstatic-a.akamaihd.net/frontpage/apps/prod/sentinels-hub-2021/en_GB/d9526add81a76b67a6ba1c83327612a0a2770edc/assets
 
-### Custom JS
+### JS
 decode.js - base64 decode of the dialogue mapping  
 getLines.js - js file to pull out the dialogue lines  
 dist-modified.js - our modified version of riots dist.js to utilize the hashing of the dialogueKeys
@@ -43,5 +43,4 @@ get_lines.py - pulls the dialogue lines from riot
 get_speakers.py - writes the lists of speakers/characters to json files  
 
 ### HTML
-decode.html - simple html file to run decode.js  
-line.html - html file where the dialogue lines were pulled from  
+decode.html - simple html file to run decode.js
