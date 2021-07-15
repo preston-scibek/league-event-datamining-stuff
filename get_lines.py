@@ -14,7 +14,7 @@ def get_lines():
 		text = script.text
 		_id = script.get('id')
 		res_json[_id] = text
-	return res_json[_id]
+	return res_json
 
 if __name__ == "__main__":
 	res_json = get_lines()

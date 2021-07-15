@@ -30,7 +30,8 @@ lines.json - json file of the dialoge lines and ids
 scenes.json - json file storing the results  
 speakers.json - json file storing the speakers  
 characters.json - json file storing the characters that show up  
-assets.json - json file with the asset mapping
+assets.json - json file with the asset mapping - https://lolstatic-a.akamaihd.net/frontpage/apps/prod/sentinels-hub-2021/en_US/08edf12f55c2dfb944d448da4a234b384321ec73  
+
 ### JS
 decode.js - base64 decode of the dialogue mapping  
 getLines.js - js file to pull out the dialogue lines  
