@@ -27,6 +27,7 @@ def execute_selenium(driver_path='./chromedriver.exe', headless=True):
         for scene in region:
             # execute the dehashing function
             # log the output
+            # reddit u/LordredstoneNr1 for the idea to pin this function in the dist file and to then log the output
             driver.execute_script("console.log(window.dehashFunction(\"{}\"));".format(scene.get('dialogueKey')))
             # grab the last browser output which is our dialogue
             dialogue = driver.get_log('browser')[-1]
