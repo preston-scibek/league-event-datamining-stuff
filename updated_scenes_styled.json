@@ -93,15 +93,18 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_s3_scene_60_responseA",
-                    "nextSlug": "70"
+                    "nextSlug": "70",
+                    "dialogue": "Yeah. We tend to not quit when someone\u2019s trying to ruin the world."
                 },
                 {
                     "dialogueKey": "freljord_s3_scene_60_responseB",
-                    "nextSlug": "70"
+                    "nextSlug": "70",
+                    "dialogue": "I dunno. I feel like I\u2019m trying a pretty average amount."
                 },
                 {
                     "dialogueKey": "freljord_s3_scene_60_responseC",
-                    "nextSlug": "70"
+                    "nextSlug": "70",
+                    "dialogue": "I normally don\u2019t. I swear, I was a complete underachiever until these people came into my life."
                 }
             ],
             "dialogue": "Has anyone ever told you guys that you try way too hard?",
@@ -536,15 +539,18 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_s3_scene_300_responseA",
-                    "nextSlug": "310a_10"
+                    "nextSlug": "310a_10",
+                    "dialogue": "Because you have a poor grasp of words and their meanings. You\u2019re basically an illiterate caveman."
                 },
                 {
                     "dialogueKey": "freljord_s3_scene_300_responseB",
-                    "nextSlug": "310b_10"
+                    "nextSlug": "310b_10",
+                    "dialogue": "She\u2019s just trying to help you by pointing out a flaw. But frankly, I\u2019d start with your body odor."
                 },
                 {
                     "dialogueKey": "freljord_s3_scene_300_responseC",
-                    "nextSlug": "310c_10"
+                    "nextSlug": "310c_10",
+                    "dialogue": "Because we all hate you? We hate you and can\u2019t stand your ugly face?"
                 }
             ],
             "dialogue": "What? Why would you say such a thing?",
@@ -569,15 +575,18 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_s3_scene_320_responseA",
-                    "nextSlug": "330"
+                    "nextSlug": "330",
+                    "dialogue": "Shh, careful. Don\u2019t wanna scare away all your lice."
                 },
                 {
                     "dialogueKey": "freljord_s3_scene_320_responseB",
-                    "nextSlug": "330"
+                    "nextSlug": "330",
+                    "dialogue": "Okay. Just got a whiff of that breath. Do you eat anything other than yak droppings?"
                 },
                 {
                     "dialogueKey": "freljord_s3_scene_320_responseC",
-                    "nextSlug": "330"
+                    "nextSlug": "330",
+                    "dialogue": "Careful. You\u2019re starting to spit, and I really don\u2019t want to catch whatever nasty caveman disease you\u2019re carrying."
                 }
             ],
             "dialogue": "I\u2019VE HEARD JUST ABOUT ENOUGH FROM THE LOT OF YA!",
@@ -812,15 +821,18 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_s3_scene_310a_10_responseA",
-                    "nextSlug": "320"
+                    "nextSlug": "320",
+                    "dialogue": "Just the one. But at least I know not to refer to myself in third person. Idiot."
                 },
                 {
                     "dialogueKey": "freljord_s3_scene_310a_10_responseB",
-                    "nextSlug": "320"
+                    "nextSlug": "320",
+                    "dialogue": "Yeesh. Your speech is barely intelligible. You been hitting the mead, or did you take another blow to the helmet?"
                 },
                 {
                     "dialogueKey": "freljord_s3_scene_310a_10_responseC",
-                    "nextSlug": "320"
+                    "nextSlug": "320",
+                    "dialogue": "I\u2019m sorry. I\u2019m trying to listen to you, but your fetid stench is just so distracting."
                 }
             ],
             "dialogue": "Olaf is fluent in nine Freljordian tongues! How many do you speak?",
@@ -903,11 +915,13 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_s3_scene_310c_10_responseA",
-                    "nextSlug": "320"
+                    "nextSlug": "320",
+                    "dialogue": "That\u2019s a good question. I guess I could make fun of your dimwit ancestors next. I mean, they settled here. How bright could they have been?"
                 },
                 {
                     "dialogueKey": "freljord_s3_scene_310c_10_responseB",
-                    "nextSlug": "320"
+                    "nextSlug": "320",
+                    "dialogue": "Well, I haven\u2019t mentioned the bugs living in your beard yet. That\u2019s next though. We really need to talk about those."
                 }
             ],
             "dialogue": "Make fun of my appearance, will ya? How much lower can you go?!",
@@ -1616,11 +1630,13 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_n0_scene_420_responseA",
-                    "nextSlug": "430"
+                    "nextSlug": "430",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_420_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_n0_scene_420_responseB",
-                    "nextSlug": "430"
+                    "nextSlug": "430",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_420_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_420_text}",
@@ -1653,11 +1669,13 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_n0_scene_440_responseA",
-                    "nextSlug": "450"
+                    "nextSlug": "450",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_440_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_n0_scene_440_responseB",
-                    "nextSlug": "450"
+                    "nextSlug": "450",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_440_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_440_text}",
@@ -1732,11 +1750,13 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_n0_scene_490_responseA",
-                    "nextSlug": "500"
+                    "nextSlug": "500",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_490_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_n0_scene_490_responseB",
-                    "nextSlug": "500"
+                    "nextSlug": "500",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_490_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_490_text}",
@@ -1783,11 +1803,13 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_n0_scene_520_responseA",
-                    "nextSlug": "530"
+                    "nextSlug": "530",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_520_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_n0_scene_520_responseB",
-                    "nextSlug": "530"
+                    "nextSlug": "530",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_520_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_520_text}",
@@ -1870,11 +1892,13 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_n0_scene_580_responseA",
-                    "nextSlug": "590"
+                    "nextSlug": "590",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_580_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_n0_scene_580_responseB",
-                    "nextSlug": "590"
+                    "nextSlug": "590",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_580_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_580_text}",
@@ -2180,11 +2204,13 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_n0_scene_770_responseA",
-                    "nextSlug": "780"
+                    "nextSlug": "780",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_770_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_n0_scene_770_responseB",
-                    "nextSlug": "780"
+                    "nextSlug": "780",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_770_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_n0_scene_770_text}",
@@ -2515,15 +2541,18 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s2_scene_120_responseA",
-                    "nextSlug": "130a_10"
+                    "nextSlug": "130a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_120_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s2_scene_120_responseB",
-                    "nextSlug": "140"
+                    "nextSlug": "140",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_120_responseB}"
                 },
                 {
                     "dialogueKey": "ixtal_s2_scene_120_responseC",
-                    "nextSlug": "130c_10"
+                    "nextSlug": "130c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_120_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_120_text}",
@@ -2640,7 +2669,8 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s2_scene_200_responseA",
-                    "nextSlug": "210"
+                    "nextSlug": "210",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_200_responseA}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_200_text}",
@@ -2661,15 +2691,18 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s2_scene_210_responseA",
-                    "nextSlug": "220a_10"
+                    "nextSlug": "220a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_210_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s2_scene_210_responseB",
-                    "nextSlug": "220b_10"
+                    "nextSlug": "220b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_210_responseB}"
                 },
                 {
                     "dialogueKey": "ixtal_s2_scene_210_responseC",
-                    "nextSlug": "220c_10"
+                    "nextSlug": "220c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_210_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_210_text}",
@@ -2690,7 +2723,8 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s2_scene_230_responseA",
-                    "nextSlug": "240"
+                    "nextSlug": "240",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_230_responseA}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_230_text}",
@@ -2712,7 +2746,8 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s2_scene_240_responseA",
-                    "nextSlug": "250"
+                    "nextSlug": "250",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_240_responseA}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_240_text}",
@@ -2749,15 +2784,18 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s2_scene_260_responseA",
-                    "nextSlug": "270"
+                    "nextSlug": "270",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_260_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s2_scene_260_responseB",
-                    "nextSlug": "270"
+                    "nextSlug": "270",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_260_responseB}"
                 },
                 {
                     "dialogueKey": "ixtal_s2_scene_260_responseC",
-                    "nextSlug": "270"
+                    "nextSlug": "270",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_260_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_260_text}",
@@ -3018,15 +3056,18 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s2_scene_420_responseA",
-                    "nextSlug": "430"
+                    "nextSlug": "430",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_420_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s2_scene_420_responseB",
-                    "nextSlug": "430"
+                    "nextSlug": "430",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_420_responseB}"
                 },
                 {
                     "dialogueKey": "ixtal_s2_scene_420_responseC",
-                    "nextSlug": "430"
+                    "nextSlug": "430",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_420_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_420_text}",
@@ -3091,7 +3132,8 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s2_scene_220a_10_responseA",
-                    "nextSlug": "220a_20"
+                    "nextSlug": "220a_20",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220a_10_responseA}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220a_10_text}",
@@ -3112,15 +3154,18 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s2_scene_220a_20_responseA",
-                    "nextSlug": "230"
+                    "nextSlug": "230",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220a_20_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s2_scene_220a_20_responseB",
-                    "nextSlug": "230"
+                    "nextSlug": "230",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220a_20_responseB}"
                 },
                 {
                     "dialogueKey": "ixtal_s2_scene_220a_20_responseC",
-                    "nextSlug": "230"
+                    "nextSlug": "230",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220a_20_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220a_20_text}",
@@ -3141,7 +3186,8 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s2_scene_220b_10_responseA",
-                    "nextSlug": "220b_20"
+                    "nextSlug": "220b_20",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220b_10_responseA}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220b_10_text}",
@@ -3162,15 +3208,18 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s2_scene_220b_20_responseA",
-                    "nextSlug": "230"
+                    "nextSlug": "230",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220b_20_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s2_scene_220b_20_responseB",
-                    "nextSlug": "230"
+                    "nextSlug": "230",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220b_20_responseB}"
                 },
                 {
                     "dialogueKey": "ixtal_s2_scene_220b_20_responseC",
-                    "nextSlug": "230"
+                    "nextSlug": "230",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220b_20_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220b_20_text}",
@@ -3191,7 +3240,8 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s2_scene_220c_10_responseA",
-                    "nextSlug": "220c_20"
+                    "nextSlug": "220c_20",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220c_10_responseA}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220c_10_text}",
@@ -3212,11 +3262,13 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s2_scene_220c_20_responseA",
-                    "nextSlug": "230"
+                    "nextSlug": "230",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220c_20_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s2_scene_220c_20_responseB",
-                    "nextSlug": "230"
+                    "nextSlug": "230",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220c_20_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s2_scene_220c_20_text}",
@@ -3992,15 +4044,18 @@
             "responses": [
                 {
                     "dialogueKey": "bilgewater_s2_scene_460_responseA",
-                    "nextSlug": "470"
+                    "nextSlug": "470",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s2_scene_460_responseA}"
                 },
                 {
                     "dialogueKey": "bilgewater_s2_scene_460_responseB",
-                    "nextSlug": "470"
+                    "nextSlug": "470",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s2_scene_460_responseB}"
                 },
                 {
                     "dialogueKey": "bilgewater_s2_scene_460_responseC",
-                    "nextSlug": "470"
+                    "nextSlug": "470",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s2_scene_460_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.bilgewater_s2_scene_460_text}",
@@ -4152,15 +4207,18 @@
             "responses": [
                 {
                     "dialogueKey": "bilgewater_s2_scene_550_responseA",
-                    "nextSlug": "560"
+                    "nextSlug": "560",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s2_scene_550_responseA}"
                 },
                 {
                     "dialogueKey": "bilgewater_s2_scene_550_responseB",
-                    "nextSlug": "560"
+                    "nextSlug": "560",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s2_scene_550_responseB}"
                 },
                 {
                     "dialogueKey": "bilgewater_s2_scene_550_responseC",
-                    "nextSlug": "560"
+                    "nextSlug": "560",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s2_scene_550_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.bilgewater_s2_scene_550_text}",
@@ -4195,15 +4253,18 @@
             "responses": [
                 {
                     "dialogueKey": "bilgewater_s2_scene_570_responseA",
-                    "nextSlug": "580"
+                    "nextSlug": "580",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s2_scene_570_responseA}"
                 },
                 {
                     "dialogueKey": "bilgewater_s2_scene_570_responseB",
-                    "nextSlug": "580"
+                    "nextSlug": "580",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s2_scene_570_responseB}"
                 },
                 {
                     "dialogueKey": "bilgewater_s2_scene_570_responseC",
-                    "nextSlug": "580"
+                    "nextSlug": "580",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s2_scene_570_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.bilgewater_s2_scene_570_text}",
@@ -4929,15 +4990,18 @@
             "responses": [
                 {
                     "dialogueKey": "bilgewater_s3_scene_190_responseA",
-                    "nextSlug": "200a_10"
+                    "nextSlug": "200a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_190_responseA}"
                 },
                 {
                     "dialogueKey": "bilgewater_s3_scene_190_responseB",
-                    "nextSlug": "200b_10"
+                    "nextSlug": "200b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_190_responseB}"
                 },
                 {
                     "dialogueKey": "bilgewater_s3_scene_190_responseC",
-                    "nextSlug": "200c_10"
+                    "nextSlug": "200c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_190_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_190_text}",
@@ -5524,15 +5588,18 @@
             "responses": [
                 {
                     "dialogueKey": "bilgewater_s3_scene_500_responseA",
-                    "nextSlug": "510a_10"
+                    "nextSlug": "510a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_500_responseA}"
                 },
                 {
                     "dialogueKey": "bilgewater_s3_scene_500_responseB",
-                    "nextSlug": "510b_10"
+                    "nextSlug": "510b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_500_responseB}"
                 },
                 {
                     "dialogueKey": "bilgewater_s3_scene_500_responseC",
-                    "nextSlug": "520"
+                    "nextSlug": "520",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_500_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_500_text}",
@@ -5721,15 +5788,18 @@
             "responses": [
                 {
                     "dialogueKey": "bilgewater_s3_scene_630_responseA",
-                    "nextSlug": "640a_10"
+                    "nextSlug": "640a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_630_responseA}"
                 },
                 {
                     "dialogueKey": "bilgewater_s3_scene_630_responseB",
-                    "nextSlug": "650"
+                    "nextSlug": "650",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_630_responseB}"
                 },
                 {
                     "dialogueKey": "bilgewater_s3_scene_630_responseC",
-                    "nextSlug": "640c_10"
+                    "nextSlug": "640c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_630_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_630_text}",
@@ -5888,11 +5958,13 @@
             "responses": [
                 {
                     "dialogueKey": "bilgewater_s3_scene_510a_10_responseA",
-                    "nextSlug": "520"
+                    "nextSlug": "520",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_510a_10_responseA}"
                 },
                 {
                     "dialogueKey": "bilgewater_s3_scene_510a_10_responseB",
-                    "nextSlug": "520"
+                    "nextSlug": "520",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_510a_10_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_510a_10_text}",
@@ -5911,11 +5983,13 @@
             "responses": [
                 {
                     "dialogueKey": "bilgewater_s3_scene_510b_10_responseA",
-                    "nextSlug": "520"
+                    "nextSlug": "520",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_510b_10_responseA}"
                 },
                 {
                     "dialogueKey": "bilgewater_s3_scene_510b_10_responseB",
-                    "nextSlug": "520"
+                    "nextSlug": "520",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_510b_10_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.bilgewater_s3_scene_510b_10_text}",
@@ -6431,15 +6505,18 @@
             "responses": [
                 {
                     "dialogueKey": "ionia_s1_scene_290_responseA",
-                    "nextSlug": "300a_10"
+                    "nextSlug": "300a_10",
+                    "dialogue": "You\u2019re just giving up? Surely you have some fancy magical spirit thing you can hide it in."
                 },
                 {
                     "dialogueKey": "ionia_s1_scene_290_responseB",
-                    "nextSlug": "300b_10"
+                    "nextSlug": "300b_10",
+                    "dialogue": "I know\u2014Gwen could shroud it in Hallowed Mist! It worked on us. Why wouldn\u2019t it work on a fetter?"
                 },
                 {
                     "dialogueKey": "ionia_s1_scene_290_responseC",
-                    "nextSlug": "300c_10"
+                    "nextSlug": "300c_10",
+                    "dialogue": "Well, that sucks. Guess it\u2019s time for you all to move."
                 }
             ],
             "dialogue": "He will soon take what he seeks. And Ionia with it.",
@@ -6539,7 +6616,7 @@
             "uiMode": "sentinel",
             "dialogueKey": "ionia_s1_scene_360_text",
             "nextSlug": "370",
-            "dialogue": "Is she always this spacey?",
+            "dialogue": "[$rClientAudio] createGetAssetsPromise\" Error: Timed out: Assets category \"shq2021-audio\"\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:10427:50\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:26332:41",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-vayne-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-ionia-altar.jpg",
             "speaker_image": "generalbloodsword.com/assets/scenery/speakers/vayne.png"
@@ -6962,15 +7039,18 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s1_scene_20_responseA",
-                    "nextSlug": "30a_10"
+                    "nextSlug": "30a_10",
+                    "dialogue": "So I suppose you\u2019ll tell me sooner or later, but WHAT EXACTLY WERE THOSE THINGS?"
                 },
                 {
                     "dialogueKey": "prologue_demacia_s1_scene_20_responseB",
-                    "nextSlug": "30b_10"
+                    "nextSlug": "30b_10",
+                    "dialogue": "That\u2026 That was the Black Mist, wasn\u2019t it?"
                 },
                 {
                     "dialogueKey": "prologue_demacia_s1_scene_20_responseC",
-                    "nextSlug": "30c_10"
+                    "nextSlug": "30c_10",
+                    "dialogue": "What were those things? Does this have something to do with that Ruined King I\u2019ve been reading about?"
                 }
             ],
             "dialogue": "I think that\u2019s all of them. Good work, sentinels.",
@@ -7087,11 +7167,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s1_scene_100_responseA",
-                    "nextSlug": "110a_10"
+                    "nextSlug": "110a_10",
+                    "dialogue": "Um\u2026 are you missing somebody? Who\u2019s \u201cshe\u201d?"
                 },
                 {
                     "dialogueKey": "prologue_demacia_s1_scene_100_responseB",
-                    "nextSlug": "110b_10"
+                    "nextSlug": "110b_10",
+                    "dialogue": "Sounds like quite a friend. I\u2019m sorry for your loss."
                 }
             ],
             "dialogue": "When I fired my gun, she wasn\u2019t calming my nerves.",
@@ -7502,15 +7584,18 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s1_scene_340_responseA",
-                    "nextSlug": "350a_10"
+                    "nextSlug": "350a_10",
+                    "dialogue": "Hmm. She is a little strange. But she seems to be on our side. Give her a chance."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s1_scene_340_responseB",
-                    "nextSlug": "350b_10"
+                    "nextSlug": "350b_10",
+                    "dialogue": "Why are you asking me? I just started this job."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s1_scene_340_responseC",
-                    "nextSlug": "350c_10"
+                    "nextSlug": "350c_10",
+                    "dialogue": "No way. I don\u2019t trust anyone with scissors that big. Cut her loose."
                 }
             ],
             "dialogue": "No idea. What do you think, Rook? Should we trust Miss Scissors here?",
@@ -8099,11 +8184,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s1_scene_110a_50_responseA",
-                    "nextSlug": "120"
+                    "nextSlug": "120",
+                    "dialogue": "Okay, I can see I\u2019ve opened a can of worms here. Can we, maybe, change the subject?"
                 },
                 {
                     "dialogueKey": "prologue_demacia_s1_scene_110a_50_responseB",
-                    "nextSlug": "120"
+                    "nextSlug": "120",
+                    "dialogue": "Hoo boy! Yeah, who hasn\u2019t been possessed by an undead queen at some point, right?"
                 }
             ],
             "dialogue": "Who are you to decide that, Lucian?",
@@ -8172,11 +8259,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s1_scene_110b_40_responseA",
-                    "nextSlug": "120"
+                    "nextSlug": "120",
+                    "dialogue": "Oh. Yeah. I\u2019m... always here if you need a shoulder to cry on."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s1_scene_110b_40_responseB",
-                    "nextSlug": "120"
+                    "nextSlug": "120",
+                    "dialogue": "Sure. I mean, you\u2019re my superior officer, so I pretty much have to be here for you."
                 }
             ],
             "dialogue": "Alone? What are you talking about? You\u2019ve got me! Uh, and Rookie!",
@@ -8856,11 +8945,13 @@
             "responses": [
                 {
                     "dialogueKey": "piltover_zaun_s2_scene_270_responseA",
-                    "nextSlug": "280"
+                    "nextSlug": "280",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s2_scene_270_responseA}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_s2_scene_270_responseB",
-                    "nextSlug": "280"
+                    "nextSlug": "280",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s2_scene_270_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s2_scene_270_text}",
@@ -9217,11 +9308,13 @@
             "responses": [
                 {
                     "dialogueKey": "piltover_zaun_s2_scene_460_responseA",
-                    "nextSlug": "480"
+                    "nextSlug": "480",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s2_scene_460_responseA}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_s2_scene_460_responseB",
-                    "nextSlug": "470b_10"
+                    "nextSlug": "470b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s2_scene_460_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s2_scene_460_text}",
@@ -9505,15 +9598,18 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s2_scene_70_responseA",
-                    "nextSlug": "80a_10"
+                    "nextSlug": "80a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s2_scene_70_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s2_scene_70_responseB",
-                    "nextSlug": "80b_10"
+                    "nextSlug": "80b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s2_scene_70_responseB}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s2_scene_70_responseC",
-                    "nextSlug": "80c_10"
+                    "nextSlug": "80c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s2_scene_70_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s2_scene_70_text}",
@@ -9812,15 +9908,18 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s2_scene_250_responseA",
-                    "nextSlug": "260"
+                    "nextSlug": "260",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s2_scene_250_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s2_scene_250_responseB",
-                    "nextSlug": "260"
+                    "nextSlug": "260",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s2_scene_250_responseB}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s2_scene_250_responseC",
-                    "nextSlug": "260"
+                    "nextSlug": "260",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s2_scene_250_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s2_scene_250_text}",
@@ -10002,15 +10101,18 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s2_scene_360_responseA",
-                    "nextSlug": "370"
+                    "nextSlug": "370",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s2_scene_360_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s2_scene_360_responseB",
-                    "nextSlug": "370"
+                    "nextSlug": "370",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s2_scene_360_responseB}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s2_scene_360_responseC",
-                    "nextSlug": "370"
+                    "nextSlug": "370",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s2_scene_360_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s2_scene_360_text}",
@@ -10471,11 +10573,13 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s2_scene_750_responseA",
-                    "nextSlug": "760"
+                    "nextSlug": "760",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s2_scene_750_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s2_scene_750_responseB",
-                    "nextSlug": "760"
+                    "nextSlug": "760",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s2_scene_750_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s2_scene_750_text}",
@@ -10801,15 +10905,18 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s3_scene_80_responseA",
-                    "nextSlug": "90a_10"
+                    "nextSlug": "90a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s3_scene_80_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s3_scene_80_responseB",
-                    "nextSlug": "90b_10"
+                    "nextSlug": "90b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s3_scene_80_responseB}"
                 },
                 {
                     "dialogueKey": "shurima_s3_scene_80_responseC",
-                    "nextSlug": "90c_10"
+                    "nextSlug": "90c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s3_scene_80_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s3_scene_80_text}",
@@ -11011,15 +11118,18 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s3_scene_200_responseA",
-                    "nextSlug": "210"
+                    "nextSlug": "210",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s3_scene_200_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s3_scene_200_responseB",
-                    "nextSlug": "210"
+                    "nextSlug": "210",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s3_scene_200_responseB}"
                 },
                 {
                     "dialogueKey": "shurima_s3_scene_200_responseC",
-                    "nextSlug": "210"
+                    "nextSlug": "210",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s3_scene_200_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s3_scene_200_text}",
@@ -11096,15 +11206,18 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s3_scene_240_responseA",
-                    "nextSlug": "250"
+                    "nextSlug": "250",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s3_scene_240_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s3_scene_240_responseB",
-                    "nextSlug": "250"
+                    "nextSlug": "250",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s3_scene_240_responseB}"
                 },
                 {
                     "dialogueKey": "shurima_s3_scene_240_responseC",
-                    "nextSlug": "250"
+                    "nextSlug": "250",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s3_scene_240_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s3_scene_240_text}",
@@ -12643,15 +12756,18 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_s2_scene_80_responseA",
-                    "nextSlug": "90"
+                    "nextSlug": "90",
+                    "dialogue": "Gwen\u2019s right. Sometimes, words can be used to quell violence. I was a diplomat before joining the sentinels. Perhaps I can talk him down..."
                 },
                 {
                     "dialogueKey": "freljord_s2_scene_80_responseB",
-                    "nextSlug": "90"
+                    "nextSlug": "90",
+                    "dialogue": "You\u2019d be surprised how quickly you can gain someone\u2019s trust by talking. I used to be a con artist. Allow me\u2026"
                 },
                 {
                     "dialogueKey": "freljord_s2_scene_80_responseC",
-                    "nextSlug": "90"
+                    "nextSlug": "90",
+                    "dialogue": "Actually, talking to someone can work wonders. I took several classes in de-escalation during training. Watch and learn..."
                 }
             ],
             "dialogue": "If you think you can deal with this guy using words, you\u2019re even dumber than the Rookie here.",
@@ -12702,15 +12818,18 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_s2_scene_110_responseA",
-                    "nextSlug": "120a_10"
+                    "nextSlug": "120a_10",
+                    "dialogue": "Uh, Mr. Barbarian, sir? Instead of killing me, why not have a seat and tell me what\u2019s really bothering you?"
                 },
                 {
                     "dialogueKey": "freljord_s2_scene_110_responseB",
-                    "nextSlug": "120b_10"
+                    "nextSlug": "120b_10",
+                    "dialogue": "It\u2019s a shame you\u2019re about to kill me. I was hoping you\u2019d show me how to craft one of those fashionable helmets."
                 },
                 {
                     "dialogueKey": "freljord_s2_scene_110_responseC",
-                    "nextSlug": "120c_10"
+                    "nextSlug": "120c_10",
+                    "dialogue": "Ah, going to chop my head off, huh? I suppose I deserve it. But before I die, would you mind telling me how I can grow a beard as lush as yours?"
                 }
             ],
             "dialogue": "[Olaf takes a swing at your head. His axe just misses your skull but takes off a piece of your hair.]",
@@ -12742,15 +12861,18 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_s2_scene_140_responseA",
-                    "nextSlug": "150a_10"
+                    "nextSlug": "150a_10",
+                    "dialogue": "Wait! I know the reason you\u2019re so angry. You\u2019re just afraid you won\u2019t be remembered. That\u2019s all any of us want, right?"
                 },
                 {
                     "dialogueKey": "freljord_s2_scene_140_responseB",
-                    "nextSlug": "150b_10"
+                    "nextSlug": "150b_10",
+                    "dialogue": "Fine. Take your best shot. Kill me now, if you\u2019ve got the guts."
                 },
                 {
                     "dialogueKey": "freljord_s2_scene_140_responseC",
-                    "nextSlug": "150c_10"
+                    "nextSlug": "150c_10",
+                    "dialogue": "PleaseDon\u2019tKillMeI\u2019mTooYoungToDie!"
                 }
             ],
             "dialogue": "[Olaf raises his axe above his head, ready to split you in two.]",
@@ -13205,11 +13327,13 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_s2_scene_150a_40_responseA",
-                    "nextSlug": "160"
+                    "nextSlug": "160",
+                    "dialogue": "I know, Olaf. I know."
                 },
                 {
                     "dialogueKey": "freljord_s2_scene_150a_40_responseB",
-                    "nextSlug": "160"
+                    "nextSlug": "160",
+                    "dialogue": "[SNICKER UNDER YOUR BREATH AT OLAF\u2019S VULNERABILITY]"
                 }
             ],
             "dialogue": "To not fade from this world without leaving some bootprints in the snow.",
@@ -13499,15 +13623,18 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s3_scene_60_responseA",
-                    "nextSlug": "70"
+                    "nextSlug": "70",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_60_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s3_scene_60_responseB",
-                    "nextSlug": "70"
+                    "nextSlug": "70",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_60_responseB}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s3_scene_60_responseC",
-                    "nextSlug": "70"
+                    "nextSlug": "70",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_60_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_60_text}",
@@ -13862,15 +13989,18 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s3_scene_250_responseA",
-                    "nextSlug": "260"
+                    "nextSlug": "260",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_250_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s3_scene_250_responseB",
-                    "nextSlug": "260"
+                    "nextSlug": "260",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_250_responseB}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s3_scene_250_responseC",
-                    "nextSlug": "260"
+                    "nextSlug": "260",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_250_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_250_text}",
@@ -14282,15 +14412,18 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s3_scene_480_responseA",
-                    "nextSlug": "490a_10"
+                    "nextSlug": "490a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_480_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s3_scene_480_responseB",
-                    "nextSlug": "490b_10"
+                    "nextSlug": "490b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_480_responseB}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s3_scene_480_responseC",
-                    "nextSlug": "490c_10"
+                    "nextSlug": "490c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_480_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_480_text}",
@@ -14370,11 +14503,13 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s3_scene_490b_20_responseA",
-                    "nextSlug": "500"
+                    "nextSlug": "500",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_490b_20_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s3_scene_490b_20_responseB",
-                    "nextSlug": "500"
+                    "nextSlug": "500",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_490b_20_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_490b_20_text}",
@@ -14417,11 +14552,13 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s3_scene_490c_10_responseA",
-                    "nextSlug": "490c_20"
+                    "nextSlug": "490c_20",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_490c_10_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s3_scene_490c_10_responseB",
-                    "nextSlug": "490c_20"
+                    "nextSlug": "490c_20",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_490c_10_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s3_scene_490c_10_text}",
@@ -15070,15 +15207,18 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s4_scene_380_responseA",
-                    "nextSlug": "390a_10"
+                    "nextSlug": "390a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_380_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s4_scene_380_responseB",
-                    "nextSlug": "390b_10"
+                    "nextSlug": "390b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_380_responseB}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s4_scene_380_responseC",
-                    "nextSlug": "390c_10"
+                    "nextSlug": "390c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_380_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_380_text}",
@@ -15443,15 +15583,18 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s4_scene_590_responseA",
-                    "nextSlug": "600a_10"
+                    "nextSlug": "600a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_590_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s4_scene_590_responseB",
-                    "nextSlug": "600b_10"
+                    "nextSlug": "600b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_590_responseB}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s4_scene_590_responseC",
-                    "nextSlug": "600c_10"
+                    "nextSlug": "600c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_590_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_590_text}",
@@ -15871,15 +16014,18 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s4_scene_850_responseA",
-                    "nextSlug": "860"
+                    "nextSlug": "860",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_850_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s4_scene_850_responseB",
-                    "nextSlug": "860"
+                    "nextSlug": "860",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_850_responseB}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s4_scene_850_responseC",
-                    "nextSlug": "860"
+                    "nextSlug": "860",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_850_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_850_text}",
@@ -16081,15 +16227,18 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s4_scene_990_responseA",
-                    "nextSlug": "1000a_10"
+                    "nextSlug": "1000a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_990_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s4_scene_990_responseB",
-                    "nextSlug": "1000b_10"
+                    "nextSlug": "1000b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_990_responseB}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s4_scene_990_responseC",
-                    "nextSlug": "1000c_10"
+                    "nextSlug": "1000c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_990_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_990_text}",
@@ -17223,7 +17372,8 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s4_scene_1640_responseA",
-                    "nextSlug": "1650"
+                    "nextSlug": "1650",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_1640_responseA}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_1640_text}",
@@ -17268,15 +17418,18 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s4_scene_1660_responseA",
-                    "nextSlug": "1670"
+                    "nextSlug": "1670",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_1660_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s4_scene_1660_responseB",
-                    "nextSlug": "1670"
+                    "nextSlug": "1670",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_1660_responseB}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s4_scene_1660_responseC",
-                    "nextSlug": "1670"
+                    "nextSlug": "1670",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_1660_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s4_scene_1660_text}",
@@ -17960,15 +18113,18 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s3_scene_150_responseA",
-                    "nextSlug": "160a_10"
+                    "nextSlug": "160a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s3_scene_150_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s3_scene_150_responseB",
-                    "nextSlug": "160b_10"
+                    "nextSlug": "160b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s3_scene_150_responseB}"
                 },
                 {
                     "dialogueKey": "ixtal_s3_scene_150_responseC",
-                    "nextSlug": "160c_10"
+                    "nextSlug": "160c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s3_scene_150_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s3_scene_150_text}",
@@ -18467,15 +18623,18 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s3_scene_420_responseA",
-                    "nextSlug": "430a_10"
+                    "nextSlug": "430a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s3_scene_420_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s3_scene_420_responseB",
-                    "nextSlug": "430b_10"
+                    "nextSlug": "430b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s3_scene_420_responseB}"
                 },
                 {
                     "dialogueKey": "ixtal_s3_scene_420_responseC",
-                    "nextSlug": "430c_10"
+                    "nextSlug": "430c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s3_scene_420_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s3_scene_420_text}",
@@ -19556,15 +19715,18 @@
             "responses": [
                 {
                     "dialogueKey": "piltover_zaun_n0_scene_380_responseA",
-                    "nextSlug": "390a_10"
+                    "nextSlug": "390a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_n0_scene_380_responseA}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_n0_scene_380_responseB",
-                    "nextSlug": "390b_10"
+                    "nextSlug": "390b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_n0_scene_380_responseB}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_n0_scene_380_responseC",
-                    "nextSlug": "390c_10"
+                    "nextSlug": "390c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_n0_scene_380_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_n0_scene_380_text}",
@@ -20350,15 +20512,18 @@
             "responses": [
                 {
                     "dialogueKey": "ionia_s3_scene_250_responseA",
-                    "nextSlug": "260"
+                    "nextSlug": "260",
+                    "dialogue": "I don\u2019t need to hear anymore from you. Let\u2019s finish her off, sentinels!"
                 },
                 {
                     "dialogueKey": "ionia_s3_scene_250_responseB",
-                    "nextSlug": "260"
+                    "nextSlug": "260",
+                    "dialogue": "Okay, I\u2019ll bite. Tell me this love story."
                 },
                 {
                     "dialogueKey": "ionia_s3_scene_250_responseC",
-                    "nextSlug": "260"
+                    "nextSlug": "260",
+                    "dialogue": "Hey, I did not travel halfway around the world fighting Mist monsters to be called a villain. Take it back!"
                 }
             ],
             "dialogue": "But you are villains... in the greatest love story ever to be told.",
@@ -21328,15 +21493,18 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s2_scene_200_responseA",
-                    "nextSlug": "210"
+                    "nextSlug": "210",
+                    "dialogue": "Those wraiths\u2014they're all going into the base of that statue. What\u2019s that about?"
                 },
                 {
                     "dialogueKey": "noxus_s2_scene_200_responseB",
-                    "nextSlug": "210"
+                    "nextSlug": "210",
+                    "dialogue": "Whatever we do, we should avoid that creepy statue. That thing is haunted!"
                 },
                 {
                     "dialogueKey": "noxus_s2_scene_200_responseC",
-                    "nextSlug": "210"
+                    "nextSlug": "210",
+                    "dialogue": "I don\u2019t wanna alarm everyone, but\u2026 that statue is eating wraiths."
                 }
             ],
             "dialogue": "[One by one, the wraiths slither through a crack in the statue\u2019s pedestal, disappearing from sight.]",
@@ -21511,15 +21679,18 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s2_scene_290_responseA",
-                    "nextSlug": "300a_10"
+                    "nextSlug": "300a_10",
+                    "dialogue": "Who would that be? You mean the Noxian king or something?"
                 },
                 {
                     "dialogueKey": "noxus_s2_scene_290_responseB",
-                    "nextSlug": "300b_10"
+                    "nextSlug": "300b_10",
+                    "dialogue": "Why would they need to move secretly if they run Noxus?"
                 },
                 {
                     "dialogueKey": "noxus_s2_scene_290_responseC",
-                    "nextSlug": "300c_10"
+                    "nextSlug": "300c_10",
+                    "dialogue": "And have secret underground parties! ...Right? ...Because that\u2019s what I\u2019d do."
                 }
             ],
             "dialogue": "I\u2019ve heard rumors, but never seen them. They say the people who run Noxus use them to get around in secret.",
@@ -21857,15 +22028,18 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s2_scene_480_responseA",
-                    "nextSlug": "490"
+                    "nextSlug": "490",
+                    "dialogue": "That\u2026 sounded vaguely threatening. I get the message loud and clear."
                 },
                 {
                     "dialogueKey": "noxus_s2_scene_480_responseB",
-                    "nextSlug": "490"
+                    "nextSlug": "490",
+                    "dialogue": "I promise you, sir, I will do my best to protect her."
                 },
                 {
                     "dialogueKey": "noxus_s2_scene_480_responseC",
-                    "nextSlug": "490"
+                    "nextSlug": "490",
+                    "dialogue": "Oh, for Pete\u2019s sake\u2014I just started this job! What do you want from me?!"
                 }
             ],
             "dialogue": "I mean it. If she gets hurt\u2026",
@@ -22078,11 +22252,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s3_scene_70_responseA",
-                    "nextSlug": "80"
+                    "nextSlug": "80",
+                    "dialogue": "We\u2019ve come to help. We\u2019re sentinels."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s3_scene_70_responseB",
-                    "nextSlug": "80"
+                    "nextSlug": "80",
+                    "dialogue": "For the love of the gods, please open the door! We\u2019re sentinels!"
                 }
             ],
             "dialogue": "Yeah?",
@@ -22311,15 +22487,18 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s3_scene_190_responseA",
-                    "nextSlug": "200"
+                    "nextSlug": "200",
+                    "dialogue": "Not Black Mist monsters. They can only be put down by weapons made with relic stones."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s3_scene_190_responseB",
-                    "nextSlug": "200"
+                    "nextSlug": "200",
+                    "dialogue": "Heh. They\u2019re wraiths. Technically, they can\u2019t be \u201ckilled.\u201d Just neutralized."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s3_scene_190_responseC",
-                    "nextSlug": "200"
+                    "nextSlug": "200",
+                    "dialogue": "This is the work of Viego, the Ruined King of Camavor. It can only be undone by sentinel armaments."
                 }
             ],
             "dialogue": "What are you talking about? This baby\u2019s loaded with prime silver bolts. More than enough for any monster.",
@@ -22438,11 +22617,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s3_scene_250_responseA",
-                    "nextSlug": "260a_10"
+                    "nextSlug": "260a_10",
+                    "dialogue": "I\u2019m sorry. I\u2014I didn\u2019t mean any offense... Please don\u2019t hurt me."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s3_scene_250_responseB",
-                    "nextSlug": "270"
+                    "nextSlug": "270",
+                    "dialogue": "I\u2019m sure you\u2019re great at killing monsters, but this is different. This is a Harrowing."
                 }
             ],
             "dialogue": "Do you really think I don\u2019t know how to kill them?",
@@ -22918,11 +23099,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s3_scene_260a_20_responseA",
-                    "nextSlug": "260a_30"
+                    "nextSlug": "260a_30",
+                    "dialogue": "I don\u2019t think so."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s3_scene_260a_20_responseB",
-                    "nextSlug": "260a_30"
+                    "nextSlug": "260a_30",
+                    "dialogue": "I mean, I can\u2019t say for sure, but\u2026 no?"
                 }
             ],
             "dialogue": "...Unless you\u2019re a monster. You\u2019re not a monster are you?",
@@ -23258,11 +23441,13 @@
             "responses": [
                 {
                     "dialogueKey": "piltover_zaun_s3_scene_180_responseA",
-                    "nextSlug": "190"
+                    "nextSlug": "190",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_180_responseA}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_s3_scene_180_responseB",
-                    "nextSlug": "190"
+                    "nextSlug": "190",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_180_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_180_text}",
@@ -23293,15 +23478,18 @@
             "responses": [
                 {
                     "dialogueKey": "piltover_zaun_s3_scene_200_responseA",
-                    "nextSlug": "210a_10"
+                    "nextSlug": "210a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_200_responseA}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_s3_scene_200_responseB",
-                    "nextSlug": "210b_10"
+                    "nextSlug": "210b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_200_responseB}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_s3_scene_200_responseC",
-                    "nextSlug": "210c_10"
+                    "nextSlug": "210c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_200_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_200_text}",
@@ -23355,15 +23543,18 @@
             "responses": [
                 {
                     "dialogueKey": "piltover_zaun_s3_scene_240_responseA",
-                    "nextSlug": "250a_10"
+                    "nextSlug": "250a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_240_responseA}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_s3_scene_240_responseB",
-                    "nextSlug": "250b_10"
+                    "nextSlug": "250b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_240_responseB}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_s3_scene_240_responseC",
-                    "nextSlug": "250c_10"
+                    "nextSlug": "250c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_240_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_240_text}",
@@ -23400,15 +23591,18 @@
             "responses": [
                 {
                     "dialogueKey": "piltover_zaun_s3_scene_270_responseA",
-                    "nextSlug": "280a_10"
+                    "nextSlug": "280a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_270_responseA}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_s3_scene_270_responseB",
-                    "nextSlug": "280b_10"
+                    "nextSlug": "280b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_270_responseB}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_s3_scene_270_responseC",
-                    "nextSlug": "280c_10"
+                    "nextSlug": "280c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_270_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_270_text}",
@@ -23432,11 +23626,13 @@
             "responses": [
                 {
                     "dialogueKey": "piltover_zaun_s3_scene_290_responseA",
-                    "nextSlug": "300"
+                    "nextSlug": "300",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_290_responseA}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_s3_scene_290_responseB",
-                    "nextSlug": "300"
+                    "nextSlug": "300",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_290_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s3_scene_290_text}",
@@ -24435,15 +24631,18 @@
             "responses": [
                 {
                     "dialogueKey": "targon_s4_scene_230_responseA",
-                    "nextSlug": "240"
+                    "nextSlug": "240",
+                    "dialogue": "Buddy, we are sentinels, and most of us have relic weapons. If I was you, I\u2019d think twice about this."
                 },
                 {
                     "dialogueKey": "targon_s4_scene_230_responseB",
-                    "nextSlug": "240"
+                    "nextSlug": "240",
+                    "dialogue": "Oh, no. \\u003CWHEEZ> I did not just climb thousands of feet up Mount Targon to do battle with the Aspect of War. Can\u2019t I get a breather first?"
                 },
                 {
                     "dialogueKey": "targon_s4_scene_230_responseC",
-                    "nextSlug": "240"
+                    "nextSlug": "240",
+                    "dialogue": "Pantheon, you jerk! I was at the peak, ready to be greeted by the Aspects! They would\u2019ve given me amazing powers! I will never forgive you for this!"
                 }
             ],
             "dialogue": "...through combat, and suffering.",
@@ -25408,11 +25607,13 @@
             "responses": [
                 {
                     "dialogueKey": "targon_s4_scene_780_responseA",
-                    "nextSlug": "790"
+                    "nextSlug": "790",
+                    "dialogue": "[SNICKER UNDER YOUR BREATH AT LUCIAN\u2019S AWKWARDNESS]"
                 },
                 {
                     "dialogueKey": "targon_s4_scene_780_responseB",
-                    "nextSlug": "790"
+                    "nextSlug": "790",
+                    "dialogue": "Holy Night Moonness? Wow..."
                 }
             ],
             "dialogue": "Diana. Right.",
@@ -26199,15 +26400,18 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_n0_scene_490_responseA",
-                    "nextSlug": "500a_10"
+                    "nextSlug": "500a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_n0_scene_490_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_n0_scene_490_responseB",
-                    "nextSlug": "500b_10"
+                    "nextSlug": "500b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_n0_scene_490_responseB}"
                 },
                 {
                     "dialogueKey": "shadow_isles_n0_scene_490_responseC",
-                    "nextSlug": "500c_10"
+                    "nextSlug": "500c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_n0_scene_490_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_n0_scene_490_text}",
@@ -26981,15 +27185,18 @@
             "responses": [
                 {
                     "dialogueKey": "key_upgrade_a1_scene_30_responseA",
-                    "nextSlug": "40a_10"
+                    "nextSlug": "40a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a1_scene_30_responseA}"
                 },
                 {
                     "dialogueKey": "key_upgrade_a1_scene_30_responseB",
-                    "nextSlug": "40b_10"
+                    "nextSlug": "40b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a1_scene_30_responseB}"
                 },
                 {
                     "dialogueKey": "key_upgrade_a1_scene_30_responseC",
-                    "nextSlug": "40c_10"
+                    "nextSlug": "40c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a1_scene_30_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a1_scene_30_text}",
@@ -28149,15 +28356,18 @@
             "responses": [
                 {
                     "dialogueKey": "key_upgrade_b8_scene_50_responseA",
-                    "nextSlug": "60a_10"
+                    "nextSlug": "60a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b8_scene_50_responseA}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b8_scene_50_responseB",
-                    "nextSlug": "60b_10"
+                    "nextSlug": "60b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b8_scene_50_responseB}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b8_scene_50_responseC",
-                    "nextSlug": "60c_10"
+                    "nextSlug": "60c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b8_scene_50_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b8_scene_50_text}",
@@ -29279,15 +29489,18 @@
             "responses": [
                 {
                     "dialogueKey": "ionia_n0_scene_160_responseA",
-                    "nextSlug": "170a_10"
+                    "nextSlug": "170a_10",
+                    "dialogue": "[Duck.]"
                 },
                 {
                     "dialogueKey": "ionia_n0_scene_160_responseB",
-                    "nextSlug": "170b_10"
+                    "nextSlug": "170b_10",
+                    "dialogue": "[Dive out of the way.]"
                 },
                 {
                     "dialogueKey": "ionia_n0_scene_160_responseC",
-                    "nextSlug": "170c_10"
+                    "nextSlug": "170c_10",
+                    "dialogue": "[Use the Wayfinder to Parry each of the blades with cat-like alacrity.]"
                 }
             ],
             "dialogue": "[You look up to see a flash of metal blades slicing through the thicket, spinning toward your head.]",
@@ -29356,15 +29569,18 @@
             "responses": [
                 {
                     "dialogueKey": "ionia_n0_scene_210_responseA",
-                    "nextSlug": "220"
+                    "nextSlug": "220",
+                    "dialogue": "STOP! We\u2019re the Sentinels of Light! We\u2019re here to fight that foul darkness!"
                 },
                 {
                     "dialogueKey": "ionia_n0_scene_210_responseB",
-                    "nextSlug": "220"
+                    "nextSlug": "220",
+                    "dialogue": "You\u2019re going to kill the Sentinels of Light?! We\u2019re your best chance at beating this foul darkness!"
                 },
                 {
                     "dialogueKey": "ionia_n0_scene_210_responseC",
-                    "nextSlug": "220"
+                    "nextSlug": "220",
+                    "dialogue": "Don\u2019t kill me! I just became a sentinel a few months ago! I barely know these people!"
                 }
             ],
             "dialogue": "This land will be your grave.",
@@ -29495,15 +29711,18 @@
             "responses": [
                 {
                     "dialogueKey": "ionia_n0_scene_280_responseA",
-                    "nextSlug": "290"
+                    "nextSlug": "290",
+                    "dialogue": "You\u2019re clearly mistaken. Riven is the only reason we got out of Noxus alive. She\u2019s good people!"
                 },
                 {
                     "dialogueKey": "ionia_n0_scene_280_responseB",
-                    "nextSlug": "290"
+                    "nextSlug": "290",
+                    "dialogue": "Riven seems like a stand-up person. So, if she did something to you... maybe you deserved it?"
                 },
                 {
                     "dialogueKey": "ionia_n0_scene_280_responseC",
-                    "nextSlug": "290"
+                    "nextSlug": "290",
+                    "dialogue": "Uh, Riven? Is there something you\u2019d like to tell us? Something about being a butcher in a bay?"
                 }
             ],
             "dialogue": "...",
@@ -29939,11 +30158,13 @@
             "responses": [
                 {
                     "dialogueKey": "ionia_n0_scene_170a_20_responseA",
-                    "nextSlug": "170a_30"
+                    "nextSlug": "170a_30",
+                    "dialogue": "OWOWOWOW! OH, GODS, I\u2019M DYING!"
                 },
                 {
                     "dialogueKey": "ionia_n0_scene_170a_20_responseB",
-                    "nextSlug": "170a_30"
+                    "nextSlug": "170a_30",
+                    "dialogue": "Uh-oh. I think I\u2019m hit. Didn\u2019t really feel it though, being the warrior that I am."
                 }
             ],
             "dialogue": "[...But the tip of one blade just manages to nick your ear.]",
@@ -29990,11 +30211,13 @@
             "responses": [
                 {
                     "dialogueKey": "ionia_n0_scene_170c_10_responseA",
-                    "nextSlug": "170c_20"
+                    "nextSlug": "170c_20",
+                    "dialogue": "Yeah! Did you all see that?!"
                 },
                 {
                     "dialogueKey": "ionia_n0_scene_170c_10_responseB",
-                    "nextSlug": "170c_20"
+                    "nextSlug": "170c_20",
+                    "dialogue": "[SUPER-COOL] What else you got, blades?"
                 }
             ],
             "dialogue": "[You swing the Wayfinder at the fleet of spinning blades. You knock a couple aside, and the rest miraculously miss your body.]",
@@ -30097,11 +30320,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s4_scene_40_responseA",
-                    "nextSlug": "60"
+                    "nextSlug": "60",
+                    "dialogue": "I read you loud and clear."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s4_scene_40_responseB",
-                    "nextSlug": "50b_10"
+                    "nextSlug": "50b_10",
+                    "dialogue": "Can\u2019t I just use it now? I mean, maybe Demacia doesn\u2019t need saving."
                 }
             ],
             "dialogue": "Rookie, keep your hand on that Wayfinder. But don\u2019t trigger it unless I say so. Got it?",
@@ -30535,15 +30760,18 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s4_scene_280_responseA",
-                    "nextSlug": "290a_10"
+                    "nextSlug": "290a_10",
+                    "dialogue": "I\u2019m alive. But I\u2019m pretty stuck."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s4_scene_280_responseB",
-                    "nextSlug": "290b_10"
+                    "nextSlug": "290b_10",
+                    "dialogue": "\\u003Ccough> \u2026\\u003Ccough>... \\u003Cwheeze>... Think I broke a rib, but I\u2019m okay."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s4_scene_280_responseC",
-                    "nextSlug": "290c_10"
+                    "nextSlug": "290c_10",
+                    "dialogue": "Actually, I feel remarkably safe under this rubble. Maybe we should stay here and wait this out?"
                 }
             ],
             "dialogue": "Get these rocks off me and I\u2019ll be better. I can\u2019t move. Rookie, you with us?",
@@ -30762,15 +30990,18 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s4_scene_420_responseA",
-                    "nextSlug": "430"
+                    "nextSlug": "430",
+                    "dialogue": "Sure... Run toward the Harrowing, right?"
                 },
                 {
                     "dialogueKey": "prologue_demacia_s4_scene_420_responseB",
-                    "nextSlug": "430"
+                    "nextSlug": "430",
+                    "dialogue": "Hells yes! Let\u2019s do this!"
                 },
                 {
                     "dialogueKey": "prologue_demacia_s4_scene_420_responseC",
-                    "nextSlug": "430"
+                    "nextSlug": "430",
+                    "dialogue": "Um\u2026 Well\u2026 Hey, what if I stand guard out here?"
                 }
             ],
             "dialogue": "Rookie?",
@@ -30894,11 +31125,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s4_scene_290a_10_responseA",
-                    "nextSlug": "300"
+                    "nextSlug": "300",
+                    "dialogue": "No. It got knocked out of my hand! It\u2019s buried in here somewhere."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s4_scene_290a_10_responseB",
-                    "nextSlug": "300"
+                    "nextSlug": "300",
+                    "dialogue": "Are you in the right headspace to receive some potentially terrible news?"
                 }
             ],
             "dialogue": "Can you reach your Wayfinder?",
@@ -30914,11 +31147,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s4_scene_290b_10_responseA",
-                    "nextSlug": "300"
+                    "nextSlug": "300",
+                    "dialogue": "No. It got knocked out of my hand! It\u2019s buried in here somewhere."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s4_scene_290b_10_responseB",
-                    "nextSlug": "300"
+                    "nextSlug": "300",
+                    "dialogue": "Are you in the right headspace to receive some potentially terrible news?"
                 }
             ],
             "dialogue": "Can you reach your Wayfinder?",
@@ -30956,11 +31191,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s4_scene_290c_30_responseA",
-                    "nextSlug": "300"
+                    "nextSlug": "300",
+                    "dialogue": "Sorry, sir. But I can\u2019t run toward anything right now. I\u2019m stuck."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s4_scene_290c_30_responseB",
-                    "nextSlug": "300"
+                    "nextSlug": "300",
+                    "dialogue": "Thanks for the motivational speech, sir. I\u2019d salute you, but... I can\u2019t move."
                 }
             ],
             "dialogue": "Rookie, remember what you signed up for. Sentinels run toward the Harrowing. We don\u2019t hide from it.",
@@ -31178,11 +31415,13 @@
             "responses": [
                 {
                     "dialogueKey": "pyke_induction_scene_120_responseA",
-                    "nextSlug": "130"
+                    "nextSlug": "130",
+                    "dialogue": "{i18n sentinels_hub_2021.pyke_induction_scene_120_responseA}"
                 },
                 {
                     "dialogueKey": "pyke_induction_scene_120_responseB",
-                    "nextSlug": "130"
+                    "nextSlug": "130",
+                    "dialogue": "{i18n sentinels_hub_2021.pyke_induction_scene_120_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.pyke_induction_scene_120_text}",
@@ -32099,11 +32338,13 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_n0_scene_90_responseA",
-                    "nextSlug": "100a_10"
+                    "nextSlug": "100a_10",
+                    "dialogue": "You know, I\u2019m no expert on Noxian arena sports, but something tells me to run far away from this."
                 },
                 {
                     "dialogueKey": "noxus_n0_scene_90_responseB",
-                    "nextSlug": "110"
+                    "nextSlug": "110",
+                    "dialogue": "Ah, cool. We\u2019ve all been working so hard fighting this Harrowing. Maybe it\u2019s time we unwind and enjoy a local sporting event."
                 }
             ],
             "dialogue": "Even in the middle of a Harrowing, these people still make time for bloodsport. Wow again.",
@@ -32442,11 +32683,13 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_n0_scene_310_responseA",
-                    "nextSlug": "320"
+                    "nextSlug": "320",
+                    "dialogue": "Hey, the gate back here just locked. Just in case anyone was wondering about having an exit."
                 },
                 {
                     "dialogueKey": "noxus_n0_scene_310_responseB",
-                    "nextSlug": "320"
+                    "nextSlug": "320",
+                    "dialogue": "Ah crap. Did that gate just lock? If I didn\u2019t know better, I\u2019d say we\u2019re about to fight for our lives."
                 }
             ],
             "dialogue": "[From behind, you hear the closing of a metal portcullis.]",
@@ -32599,11 +32842,13 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_n0_scene_100a_20_responseA",
-                    "nextSlug": "110"
+                    "nextSlug": "110",
+                    "dialogue": "Yeah. I was afraid you might say that."
                 },
                 {
                     "dialogueKey": "noxus_n0_scene_100a_20_responseB",
-                    "nextSlug": "110"
+                    "nextSlug": "110",
+                    "dialogue": "Fine. Let\u2019s investigate. I think you\u2019ll see that it\u2019s nothing but ordinary, everyday Noxian bloodsport."
                 }
             ],
             "dialogue": "But we came here to fight the Harrowing. And this has Harrowing written all over it.",
@@ -32688,15 +32933,18 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s4_scene_60_responseA",
-                    "nextSlug": "70a_10"
+                    "nextSlug": "70a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_60_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s4_scene_60_responseB",
-                    "nextSlug": "70b_10"
+                    "nextSlug": "70b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_60_responseB}"
                 },
                 {
                     "dialogueKey": "shurima_s4_scene_60_responseC",
-                    "nextSlug": "70c_10"
+                    "nextSlug": "70c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_60_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_60_text}",
@@ -32715,15 +32963,18 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s4_scene_80_responseA",
-                    "nextSlug": "90a_10"
+                    "nextSlug": "90a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_80_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s4_scene_80_responseB",
-                    "nextSlug": "90b_10"
+                    "nextSlug": "90b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_80_responseB}"
                 },
                 {
                     "dialogueKey": "shurima_s4_scene_80_responseC",
-                    "nextSlug": "90c_10"
+                    "nextSlug": "90c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_80_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_80_text}",
@@ -32878,15 +33129,18 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s4_scene_190_responseA",
-                    "nextSlug": "200a_10"
+                    "nextSlug": "200a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_190_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s4_scene_190_responseB",
-                    "nextSlug": "200b_10"
+                    "nextSlug": "200b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_190_responseB}"
                 },
                 {
                     "dialogueKey": "shurima_s4_scene_190_responseC",
-                    "nextSlug": "200c_10"
+                    "nextSlug": "200c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_190_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_190_text}",
@@ -33291,15 +33545,18 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s4_scene_450_responseA",
-                    "nextSlug": "460a_10"
+                    "nextSlug": "460a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_450_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s4_scene_450_responseB",
-                    "nextSlug": "460b_10"
+                    "nextSlug": "460b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_450_responseB}"
                 },
                 {
                     "dialogueKey": "shurima_s4_scene_450_responseC",
-                    "nextSlug": "460c_10"
+                    "nextSlug": "460c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_450_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s4_scene_450_text}",
@@ -33789,15 +34046,18 @@
             "responses": [
                 {
                     "dialogueKey": "key_upgrade_a4_scene_40_responseA",
-                    "nextSlug": "50a_10"
+                    "nextSlug": "50a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a4_scene_40_responseA}"
                 },
                 {
                     "dialogueKey": "key_upgrade_a4_scene_40_responseB",
-                    "nextSlug": "50b_10"
+                    "nextSlug": "50b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a4_scene_40_responseB}"
                 },
                 {
                     "dialogueKey": "key_upgrade_a4_scene_40_responseC",
-                    "nextSlug": "50c_10"
+                    "nextSlug": "50c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a4_scene_40_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a4_scene_40_text}",
@@ -34193,11 +34453,13 @@
             "responses": [
                 {
                     "dialogueKey": "rengar_induction_scene_80_responseA",
-                    "nextSlug": "90"
+                    "nextSlug": "90",
+                    "dialogue": "{i18n sentinels_hub_2021.rengar_induction_scene_80_responseA}"
                 },
                 {
                     "dialogueKey": "rengar_induction_scene_80_responseB",
-                    "nextSlug": "90"
+                    "nextSlug": "90",
+                    "dialogue": "{i18n sentinels_hub_2021.rengar_induction_scene_80_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.rengar_induction_scene_80_text}",
@@ -34241,11 +34503,13 @@
             "responses": [
                 {
                     "dialogueKey": "rengar_induction_scene_110_responseA",
-                    "nextSlug": "120a_10"
+                    "nextSlug": "120a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.rengar_induction_scene_110_responseA}"
                 },
                 {
                     "dialogueKey": "rengar_induction_scene_110_responseB",
-                    "nextSlug": "120b_10"
+                    "nextSlug": "120b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.rengar_induction_scene_110_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.rengar_induction_scene_110_text}",
@@ -34950,15 +35214,18 @@
             "responses": [
                 {
                     "dialogueKey": "piltover_zaun_s1_scene_50_responseA",
-                    "nextSlug": "60a_10"
+                    "nextSlug": "60a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s1_scene_50_responseA}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_s1_scene_50_responseB",
-                    "nextSlug": "60b_10"
+                    "nextSlug": "60b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s1_scene_50_responseB}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_s1_scene_50_responseC",
-                    "nextSlug": "60c_10"
+                    "nextSlug": "60c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s1_scene_50_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s1_scene_50_text}",
@@ -35563,11 +35830,13 @@
             "responses": [
                 {
                     "dialogueKey": "piltover_zaun_s1_scene_360_responseA",
-                    "nextSlug": "370"
+                    "nextSlug": "370",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s1_scene_360_responseA}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_s1_scene_360_responseB",
-                    "nextSlug": "370"
+                    "nextSlug": "370",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s1_scene_360_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s1_scene_360_text}",
@@ -35678,7 +35947,8 @@
             "responses": [
                 {
                     "dialogueKey": "piltover_zaun_s1_scene_60b_10_responseA",
-                    "nextSlug": "60b_20"
+                    "nextSlug": "60b_20",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s1_scene_60b_10_responseA}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s1_scene_60b_10_text}",
@@ -35699,7 +35969,8 @@
             "responses": [
                 {
                     "dialogueKey": "piltover_zaun_s1_scene_60b_20_responseA",
-                    "nextSlug": "60b_30"
+                    "nextSlug": "60b_30",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s1_scene_60b_20_responseA}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s1_scene_60b_20_text}",
@@ -35720,7 +35991,8 @@
             "responses": [
                 {
                     "dialogueKey": "piltover_zaun_s1_scene_60b_30_responseA",
-                    "nextSlug": "60b_40"
+                    "nextSlug": "60b_40",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s1_scene_60b_30_responseA}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s1_scene_60b_30_text}",
@@ -36423,11 +36695,13 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_s4_scene_160_responseA",
-                    "nextSlug": "170a_10"
+                    "nextSlug": "170a_10",
+                    "dialogue": "Hey, what if we make a lot of noise? I heard that causes avalanches."
                 },
                 {
                     "dialogueKey": "freljord_s4_scene_160_responseB",
-                    "nextSlug": "170b_10"
+                    "nextSlug": "170b_10",
+                    "dialogue": "I say we just shoot the mountain with our guns. That oughta bring down some snow."
                 }
             ],
             "dialogue": "Everyone help me figure out how to start an avalanche.",
@@ -36949,11 +37223,13 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_s4_scene_460_responseA",
-                    "nextSlug": "470a_10"
+                    "nextSlug": "470a_10",
+                    "dialogue": "The guy is clearly insane. And you\u2019re insane for wanting him in our party, Lucian. ...No offense."
                 },
                 {
                     "dialogueKey": "freljord_s4_scene_460_responseB",
-                    "nextSlug": "470b_10"
+                    "nextSlug": "470b_10",
+                    "dialogue": "Sure. If we can harness his rage for good, he might be a valuable asset."
                 }
             ],
             "dialogue": "Rookie, back me up on this.",
@@ -37342,15 +37618,18 @@
             "responses": [
                 {
                     "dialogueKey": "key_upgrade_b2_scene_30_responseA",
-                    "nextSlug": "40a_10"
+                    "nextSlug": "40a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b2_scene_30_responseA}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b2_scene_30_responseB",
-                    "nextSlug": "40b_10"
+                    "nextSlug": "40b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b2_scene_30_responseB}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b2_scene_30_responseC",
-                    "nextSlug": "40c_10"
+                    "nextSlug": "40c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b2_scene_30_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b2_scene_30_text}",
@@ -37761,15 +38040,18 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s4_scene_60_responseA",
-                    "nextSlug": "70"
+                    "nextSlug": "70",
+                    "dialogue": "Hey! ...I mean, I am, but\u2026 HEY!"
                 },
                 {
                     "dialogueKey": "noxus_s4_scene_60_responseB",
-                    "nextSlug": "70"
+                    "nextSlug": "70",
+                    "dialogue": "I\u2019ll have you know, I\u2019m a fully grown adult!"
                 },
                 {
                     "dialogueKey": "noxus_s4_scene_60_responseC",
-                    "nextSlug": "70"
+                    "nextSlug": "70",
+                    "dialogue": "The name\u2019s Rookie! And by the gods, you\u2019ll remember it after this day!"
                 }
             ],
             "dialogue": "LADY BIG GUNS!... RIVEN, THE FILTHY, TURNCOAT TRAITOR!... and\u2026 SOME KID!",
@@ -38259,15 +38541,18 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s4_scene_330_responseA",
-                    "nextSlug": "340"
+                    "nextSlug": "340",
+                    "dialogue": "I\u2019m good. It\u2019s just my shoulder. Get Draven!"
                 },
                 {
                     "dialogueKey": "noxus_s4_scene_330_responseB",
-                    "nextSlug": "340"
+                    "nextSlug": "340",
+                    "dialogue": "Hells no! That really hurt, and I think I\u2019m bleeding!"
                 },
                 {
                     "dialogueKey": "noxus_s4_scene_330_responseC",
-                    "nextSlug": "340"
+                    "nextSlug": "340",
+                    "dialogue": "I dunno. Did the crowd like it? I just want to make sure we\u2019re going over well with the fans."
                 }
             ],
             "dialogue": "[Senna rushes to your side. You feel a warm trickle of blood flowing from your shoulder.]",
@@ -38423,11 +38708,13 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s4_scene_410_responseA",
-                    "nextSlug": "420"
+                    "nextSlug": "420",
+                    "dialogue": "That\u2019s not a bad idea. Keep him occupied with the roar of the crowd."
                 },
                 {
                     "dialogueKey": "noxus_s4_scene_410_responseB",
-                    "nextSlug": "420"
+                    "nextSlug": "420",
+                    "dialogue": "That\u2019s the worst idea I\u2019ve ever heard! Just attack him now!"
                 }
             ],
             "dialogue": "When he attacks again, we take a dive. And wait for an opportunity.",
@@ -38748,15 +39035,18 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s4_scene_590_responseA",
-                    "nextSlug": "600"
+                    "nextSlug": "600",
+                    "dialogue": "[Sarcastic] Sure. That\u2019s exactly what happened. I did all the fighting and saved everyone."
                 },
                 {
                     "dialogueKey": "noxus_s4_scene_590_responseB",
-                    "nextSlug": "600"
+                    "nextSlug": "600",
+                    "dialogue": "Yeah. Wish I could say the same for me."
                 },
                 {
                     "dialogueKey": "noxus_s4_scene_590_responseC",
-                    "nextSlug": "600"
+                    "nextSlug": "600",
+                    "dialogue": "Don\u2019t! Touch! The shoulder!"
                 }
             ],
             "dialogue": "[You wince as Lucian pats you on your badly injured shoulder.]",
@@ -39084,15 +39374,18 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s3_scene_60_responseA",
-                    "nextSlug": "70a_10"
+                    "nextSlug": "70a_10",
+                    "dialogue": "The Black Rose? Who are they exactly? Some kind of florist, I\u2019m guessing."
                 },
                 {
                     "dialogueKey": "noxus_s3_scene_60_responseB",
-                    "nextSlug": "70b_10"
+                    "nextSlug": "70b_10",
+                    "dialogue": "[LIE] Oh. The Black Rose. I definitely know all about them. I mean, only an idiot wouldn\u2019t. Right?"
                 },
                 {
                     "dialogueKey": "noxus_s3_scene_60_responseC",
-                    "nextSlug": "70c_10"
+                    "nextSlug": "70c_10",
+                    "dialogue": "The Black Rose? Such a warm and welcoming name. I\u2019m sure they won\u2019t mind us using their secret tunnels."
                 }
             ],
             "dialogue": "Sure enough. We\u2019ve stumbled right up to the Black Rose\u2019s doorstep.",
@@ -39202,15 +39495,18 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s3_scene_140_responseA",
-                    "nextSlug": "150a_10"
+                    "nextSlug": "150a_10",
+                    "dialogue": "See? It is a florist. Maybe it wants us to leave a bouquet of flowers at the door."
                 },
                 {
                     "dialogueKey": "noxus_s3_scene_140_responseB",
-                    "nextSlug": "160"
+                    "nextSlug": "160",
+                    "dialogue": "Sounds like it wants us to reveal something about ourselves. Like our darkest secrets?"
                 },
                 {
                     "dialogueKey": "noxus_s3_scene_140_responseC",
-                    "nextSlug": "150c_10"
+                    "nextSlug": "150c_10",
+                    "dialogue": "Who cares? We\u2019re armed to the gills. Let\u2019s blow this door down!"
                 }
             ],
             "dialogue": "What the hell does that mean?",
@@ -39376,15 +39672,18 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s3_scene_250_responseA",
-                    "nextSlug": "260"
+                    "nextSlug": "260",
+                    "dialogue": "Okay, door. Here\u2019s my secret: ...I wet the bed \u2018til I was eight."
                 },
                 {
                     "dialogueKey": "noxus_s3_scene_250_responseB",
-                    "nextSlug": "260"
+                    "nextSlug": "260",
+                    "dialogue": "I cheated on all my tests during sentinel training!"
                 },
                 {
                     "dialogueKey": "noxus_s3_scene_250_responseC",
-                    "nextSlug": "260"
+                    "nextSlug": "260",
+                    "dialogue": "I once murdered a guy and dumped his dismembered body in the sea! Actually, it was more like manslaughter, but it was still awful, and oh dear gods, it feels good to tell someone this!"
                 }
             ],
             "dialogue": "[Looking at the door, you plumb the depths of your memory for your darkest secret. One that you\u2019ve never told anybody.]",
@@ -39607,15 +39906,18 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s3_scene_380_responseA",
-                    "nextSlug": "390a_10"
+                    "nextSlug": "390a_10",
+                    "dialogue": "Senna, maybe it\u2019s best you stay back and let us handle him. Lucian told me to\u2014"
                 },
                 {
                     "dialogueKey": "noxus_s3_scene_380_responseB",
-                    "nextSlug": "390b_10"
+                    "nextSlug": "390b_10",
+                    "dialogue": "Senna, I really think you should stay back. This guy wants you to engage. He\u2019s up to something."
                 },
                 {
                     "dialogueKey": "noxus_s3_scene_380_responseC",
-                    "nextSlug": "390c_10"
+                    "nextSlug": "390c_10",
+                    "dialogue": "Senna, I promised Lucian I\u2019d protect you, but frankly, you seem like you can handle yourself, so..."
                 }
             ],
             "dialogue": "Senna. I was hoping we\u2019d meet again.",
@@ -40296,11 +40598,13 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s3_scene_70b_10_responseA",
-                    "nextSlug": "70b_20"
+                    "nextSlug": "70b_20",
+                    "dialogue": "Oh. Uh, maybe go ahead and tell me anyway. I just want to make sure you know what I know. For your sake."
                 },
                 {
                     "dialogueKey": "noxus_s3_scene_70b_10_responseB",
-                    "nextSlug": "70b_20"
+                    "nextSlug": "70b_20",
+                    "dialogue": "Right. But, uh\u2026 go ahead and tell Senna. She might not know."
                 }
             ],
             "dialogue": "Then you don\u2019t need me to tell you how dangerous they are.",
@@ -40386,11 +40690,13 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s3_scene_150a_10_responseA",
-                    "nextSlug": "160"
+                    "nextSlug": "160",
+                    "dialogue": "Yeah, that would make more sense. Wait a minute! Secrets\u2026 It wants us to tell our dark secrets!"
                 },
                 {
                     "dialogueKey": "noxus_s3_scene_150a_10_responseB",
-                    "nextSlug": "160"
+                    "nextSlug": "160",
+                    "dialogue": "Okay, wow, I just had a thought. What if it wants to hear our darkest secrets? Awful stuff we\u2019ve never told anyone?"
                 }
             ],
             "dialogue": "That doesn\u2019t sound like the Black Rose. I think the flower thing is just a metaphor.",
@@ -40438,7 +40744,8 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s3_scene_150c_30_responseA",
-                    "nextSlug": "150c_40"
+                    "nextSlug": "150c_40",
+                    "dialogue": "What does this stupid door want from us?!"
                 }
             ],
             "dialogue": "[...But it remains closed and unscathed.]",
@@ -40460,11 +40767,13 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s3_scene_150c_40_responseA",
-                    "nextSlug": "160"
+                    "nextSlug": "160",
+                    "dialogue": "Wait a minute! Secrets\u2026 It wants us to tell our dark secrets!"
                 },
                 {
                     "dialogueKey": "noxus_s3_scene_150c_40_responseB",
-                    "nextSlug": "160"
+                    "nextSlug": "160",
+                    "dialogue": "Okay, wow, I just had a thought. What if it wants to hear our darkest secrets? Awful stuff we\u2019ve never told anyone?"
                 }
             ],
             "dialogue": "Don\u2019t look at me.",
@@ -40665,15 +40974,18 @@
             "responses": [
                 {
                     "dialogueKey": "key_upgrade_b3_scene_30_responseA",
-                    "nextSlug": "40a_10"
+                    "nextSlug": "40a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b3_scene_30_responseA}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b3_scene_30_responseB",
-                    "nextSlug": "40b_10"
+                    "nextSlug": "40b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b3_scene_30_responseB}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b3_scene_30_responseC",
-                    "nextSlug": "40c_10"
+                    "nextSlug": "40c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b3_scene_30_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b3_scene_30_text}",
@@ -41032,11 +41344,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_n0_scene_40_responseA",
-                    "nextSlug": "50a_10"
+                    "nextSlug": "50a_10",
+                    "dialogue": "Hello? Who\u2019s there? This is the headquarters for the Sentinels of Light."
                 },
                 {
                     "dialogueKey": "prologue_demacia_n0_scene_40_responseB",
-                    "nextSlug": "50b_10"
+                    "nextSlug": "50b_10",
+                    "dialogue": "Stop right there! You\u2019re trespassing! I\u2019m armed and not afraid to shoot!"
                 }
             ],
             "dialogue": "[Two figures emerge from the boat.]",
@@ -41071,11 +41385,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_n0_scene_70_responseA",
-                    "nextSlug": "80"
+                    "nextSlug": "80",
+                    "dialogue": "I\u2019m the only sentinel here. And I\u2019m not equipped to make repairs to the headquarters, so..."
                 },
                 {
                     "dialogueKey": "prologue_demacia_n0_scene_70_responseB",
-                    "nextSlug": "80"
+                    "nextSlug": "80",
+                    "dialogue": "They\u2019re all dead. I tried signaling for help. I kept expecting reinforcements to arrive, but..."
                 }
             ],
             "dialogue": "Where are all the other sentinels? Who\u2019s your commanding officer?",
@@ -41112,11 +41428,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_n0_scene_90_responseA",
-                    "nextSlug": "100"
+                    "nextSlug": "100",
+                    "dialogue": "Would you be upset if I said \u201cnone\u201d?"
                 },
                 {
                     "dialogueKey": "prologue_demacia_n0_scene_90_responseB",
-                    "nextSlug": "100"
+                    "nextSlug": "100",
+                    "dialogue": "I just started a few months ago. But I swear, I\u2019m a fast learner!"
                 }
             ],
             "dialogue": "You better be the best damn sentinel in history. How many years of experience do you have?",
@@ -41263,11 +41581,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_n0_scene_180_responseA",
-                    "nextSlug": "190"
+                    "nextSlug": "190",
+                    "dialogue": "Of course I do. But the sentinels told me to use this gun. And I can\u2019t get it to fire!"
                 },
                 {
                     "dialogueKey": "prologue_demacia_n0_scene_180_responseB",
-                    "nextSlug": "190"
+                    "nextSlug": "190",
+                    "dialogue": "Okay, please don\u2019t be mad, but\u2026 no. And my sentinel gun doesn\u2019t seem to work anyway."
                 }
             ],
             "dialogue": "Lock \u2018n\u2019 load, Rookie! You know how to shoot, right?",
@@ -41522,15 +41842,18 @@
             "responses": [
                 {
                     "dialogueKey": "key_upgrade_b4_scene_30_responseA",
-                    "nextSlug": "40a_10"
+                    "nextSlug": "40a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b4_scene_30_responseA}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b4_scene_30_responseB",
-                    "nextSlug": "40b_10"
+                    "nextSlug": "40b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b4_scene_30_responseB}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b4_scene_30_responseC",
-                    "nextSlug": "40c_10"
+                    "nextSlug": "40c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b4_scene_30_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b4_scene_30_text}",
@@ -42869,13 +43192,16 @@
             "dialogueKey": "targon_n0_scene_280_text",
             "responses": [
                 {
-                    "dialogueKey": "targon_n0_scene_280_responseA"
+                    "dialogueKey": "targon_n0_scene_280_responseA",
+                    "dialogue": "Dang right! I can\u2019t wait to be part god!"
                 },
                 {
-                    "dialogueKey": "targon_n0_scene_280_responseB"
+                    "dialogueKey": "targon_n0_scene_280_responseB",
+                    "dialogue": "Are you kidding? We\u2019ll be up that mountain in no time. ...Wait, how high is it exactly?"
                 },
                 {
-                    "dialogueKey": "targon_n0_scene_280_responseC"
+                    "dialogueKey": "targon_n0_scene_280_responseC",
+                    "dialogue": "Uuuhhhhboy. This is gonna suck."
                 }
             ],
             "dialogue": "Stupendous. We shall make splendid new memories on this mountain! Right, Rookie?",
@@ -42910,11 +43236,13 @@
             "responses": [
                 {
                     "dialogueKey": "ionia_s4_scene_20_responseA",
-                    "nextSlug": "30"
+                    "nextSlug": "30",
+                    "dialogue": "Yeah\u2026 \\u003CPANT> I never\u2026 realized\u2026 \\u003CPANT> how outta shape I was."
                 },
                 {
                     "dialogueKey": "ionia_s4_scene_20_responseB",
-                    "nextSlug": "30"
+                    "nextSlug": "30",
+                    "dialogue": "Sounds like you need to do more cardio training. Morning runs, Gwen. You and me. I\u2019ll get you into shape."
                 }
             ],
             "dialogue": "Oh, goodness\u2026 [PANT] My sides hurt ever\u2026 so much. [PANT]",
@@ -43270,15 +43598,18 @@
             "responses": [
                 {
                     "dialogueKey": "ionia_s4_scene_200_responseA",
-                    "nextSlug": "210a_10"
+                    "nextSlug": "210a_10",
+                    "dialogue": "Our entire victory hinges on someone we don\u2019t even know? I am not liking our odds."
                 },
                 {
                     "dialogueKey": "ionia_s4_scene_200_responseB",
-                    "nextSlug": "210b_10"
+                    "nextSlug": "210b_10",
+                    "dialogue": "So, what\u2019s the plan then? We just wait for her to show up?"
                 },
                 {
                     "dialogueKey": "ionia_s4_scene_200_responseC",
-                    "nextSlug": "210c_10"
+                    "nextSlug": "210c_10",
+                    "dialogue": "You may not know all the parts of her, but you seem to know the one that\u2019s inside you. That\u2019s something."
                 }
             ],
             "dialogue": "But I do know she has a big part to play in our fight.",
@@ -43592,15 +43923,18 @@
             "responses": [
                 {
                     "dialogueKey": "ionia_s4_scene_370_responseA",
-                    "nextSlug": "380"
+                    "nextSlug": "380",
+                    "dialogue": "The woods just took our fetter!"
                 },
                 {
                     "dialogueKey": "ionia_s4_scene_370_responseB",
-                    "nextSlug": "380"
+                    "nextSlug": "380",
+                    "dialogue": "Uh\u2026 I don\u2019t really know what\u2019s happening, but I think we just lost our fetter."
                 },
                 {
                     "dialogueKey": "ionia_s4_scene_370_responseC",
-                    "nextSlug": "380"
+                    "nextSlug": "380",
+                    "dialogue": "Wow, you don\u2019t see that every day."
                 }
             ],
             "dialogue": "[You break free from the vines and rocks just long enough to see the silver flower being carried away by the vines.]",
@@ -44280,15 +44614,18 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s5_scene_80_responseA",
-                    "nextSlug": "90a_10"
+                    "nextSlug": "90a_10",
+                    "dialogue": "Something the Mist wants. Which means we should probably keep it closed."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s5_scene_80_responseB",
-                    "nextSlug": "90b_10"
+                    "nextSlug": "90b_10",
+                    "dialogue": "Something the mageseekers locked up tight. Let\u2019s proceed with caution."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s5_scene_80_responseC",
-                    "nextSlug": "90c_10"
+                    "nextSlug": "90c_10",
+                    "dialogue": "Give me a hammer, and we\u2019ll find out!"
                 }
             ],
             "dialogue": "Ooh! Rookie, what kind of shimmering treasure do you think awaits us?",
@@ -45016,11 +45353,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s5_scene_470_responseA",
-                    "nextSlug": "480"
+                    "nextSlug": "480",
+                    "dialogue": "Oh. You mean Senna? I, um\u2026 haven\u2019t seen her."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s5_scene_470_responseB",
-                    "nextSlug": "480"
+                    "nextSlug": "480",
+                    "dialogue": "Do I look like a snitch to you?"
                 }
             ],
             "dialogue": "By telling me where your leader is hiding.",
@@ -45116,11 +45455,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s5_scene_530_responseA",
-                    "nextSlug": "540"
+                    "nextSlug": "540",
+                    "dialogue": "Where did he go?!"
                 },
                 {
                     "dialogueKey": "prologue_demacia_s5_scene_530_responseB",
-                    "nextSlug": "540"
+                    "nextSlug": "540",
+                    "dialogue": "He\u2019s gone! And he took that mirror! Was that important?"
                 }
             ],
             "dialogue": "[In a blink, Viego disappears into the Black Mist, taking the mirror he retrieved from the vault.]",
@@ -45695,11 +46036,13 @@
             "responses": [
                 {
                     "dialogueKey": "piltover_zaun_s4_scene_75_responseA",
-                    "nextSlug": "80"
+                    "nextSlug": "80",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s4_scene_75_responseA}"
                 },
                 {
                     "dialogueKey": "piltover_zaun_s4_scene_75_responseB",
-                    "nextSlug": "80"
+                    "nextSlug": "80",
+                    "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s4_scene_75_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s4_scene_75_text}",
@@ -47012,15 +47355,18 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_s1_scene_250_responseA",
-                    "nextSlug": "260a_10"
+                    "nextSlug": "260a_10",
+                    "dialogue": "This guy seems out of his mind. I don\u2019t want to get involved in this weirdness."
                 },
                 {
                     "dialogueKey": "freljord_s1_scene_250_responseB",
-                    "nextSlug": "260b_10"
+                    "nextSlug": "260b_10",
+                    "dialogue": "I always root for the smaller fighter. Let\u2019s help the yordle."
                 },
                 {
                     "dialogueKey": "freljord_s1_scene_250_responseC",
-                    "nextSlug": "260c_10"
+                    "nextSlug": "260c_10",
+                    "dialogue": "Yeah, let\u2019s save him! But\u2026 is it just me or does he seem happy with how this is going?"
                 }
             ],
             "dialogue": "I\u2019m inclined to agree. What do you say, Rook?",
@@ -47253,15 +47599,18 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_s1_scene_390_responseA",
-                    "nextSlug": "410"
+                    "nextSlug": "410",
+                    "dialogue": "I told you. Told you all. \u201cLet\u2019s not get involved,\u201d I said. But nobody listens to the Rookie."
                 },
                 {
                     "dialogueKey": "freljord_s1_scene_390_responseB",
-                    "nextSlug": "410"
+                    "nextSlug": "410",
+                    "dialogue": "Great. He wanted to die, and we ruined it. He\u2019s about to kill us, isn\u2019t he?"
                 },
                 {
                     "dialogueKey": "freljord_s1_scene_390_responseC",
-                    "nextSlug": "400c_10"
+                    "nextSlug": "400c_10",
+                    "dialogue": "[To Olaf] Hey, let\u2019s not fly off the handle. I\u2019m sure one of us can accommodate your death wish."
                 }
             ],
             "dialogue": "AND YOU JUST DENIED ME THAT RIGHT!",
@@ -47444,15 +47793,18 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_s1_scene_490_responseA",
-                    "nextSlug": "500"
+                    "nextSlug": "500",
+                    "dialogue": "Fight! Gods, please, choose fight!"
                 },
                 {
                     "dialogueKey": "freljord_s1_scene_490_responseB",
-                    "nextSlug": "500"
+                    "nextSlug": "500",
+                    "dialogue": "Whatever happened to running? That\u2019s worked for me in the past."
                 },
                 {
                     "dialogueKey": "freljord_s1_scene_490_responseC",
-                    "nextSlug": "500"
+                    "nextSlug": "500",
+                    "dialogue": "Maybe he\u2019s got a point about honorable deaths. Let\u2019s let him have his way with us."
                 }
             ],
             "dialogue": "Okay, forget what I said about this guy. We\u2019ve got two choices: Fight him, or let him chop us to pieces.",
@@ -47833,15 +48185,18 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s2_scene_120_responseA",
-                    "nextSlug": "130"
+                    "nextSlug": "130",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_120_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s2_scene_120_responseB",
-                    "nextSlug": "130"
+                    "nextSlug": "130",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_120_responseB}"
                 },
                 {
                     "dialogueKey": "shurima_s2_scene_120_responseC",
-                    "nextSlug": "130"
+                    "nextSlug": "130",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_120_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_120_text}",
@@ -47973,11 +48328,13 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s2_scene_200_responseA",
-                    "nextSlug": "210a_10"
+                    "nextSlug": "210a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_200_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s2_scene_200_responseB",
-                    "nextSlug": "210b_10"
+                    "nextSlug": "210b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_200_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_200_text}",
@@ -48110,15 +48467,18 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s2_scene_290_responseA",
-                    "nextSlug": "300"
+                    "nextSlug": "300",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_290_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s2_scene_290_responseB",
-                    "nextSlug": "300"
+                    "nextSlug": "300",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_290_responseB}"
                 },
                 {
                     "dialogueKey": "shurima_s2_scene_290_responseC",
-                    "nextSlug": "300"
+                    "nextSlug": "300",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_290_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_290_text}",
@@ -48316,15 +48676,18 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s2_scene_410_responseA",
-                    "nextSlug": "420a_10"
+                    "nextSlug": "420a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_410_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s2_scene_410_responseB",
-                    "nextSlug": "420b_10"
+                    "nextSlug": "420b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_410_responseB}"
                 },
                 {
                     "dialogueKey": "shurima_s2_scene_410_responseC",
-                    "nextSlug": "420c_10"
+                    "nextSlug": "420c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_410_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_410_text}",
@@ -48462,11 +48825,13 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s2_scene_510_responseA",
-                    "nextSlug": "520a_10"
+                    "nextSlug": "520a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_510_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s2_scene_510_responseB",
-                    "nextSlug": "520b_10"
+                    "nextSlug": "520b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_510_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_510_text}",
@@ -48669,11 +49034,13 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s2_scene_520b_10_responseA",
-                    "nextSlug": "520b_20"
+                    "nextSlug": "520b_20",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_520b_10_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s2_scene_520b_10_responseB",
-                    "nextSlug": "520b_20"
+                    "nextSlug": "520b_20",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_520b_10_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s2_scene_520b_10_text}",
@@ -49062,15 +49429,18 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s7_scene_180_responseA",
-                    "nextSlug": "190a_10"
+                    "nextSlug": "190a_10",
+                    "dialogue": "Yes. I\u2019m with Senna. It would be wrong to kill her."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s7_scene_180_responseB",
-                    "nextSlug": "190b_10"
+                    "nextSlug": "190b_10",
+                    "dialogue": "Are you kidding? She tried to roast me alive! Fire away."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s7_scene_180_responseC",
-                    "nextSlug": "190c_10"
+                    "nextSlug": "190c_10",
+                    "dialogue": "Hmm. Maybe compromise and just wound her?"
                 }
             ],
             "dialogue": "What do you say, Rookie? You want to let this monster live?",
@@ -49411,15 +49781,18 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s7_scene_350_responseA",
-                    "nextSlug": "360a_10"
+                    "nextSlug": "360a_10",
+                    "dialogue": "That depends. Does she still want to slap me?"
                 },
                 {
                     "dialogueKey": "prologue_demacia_s7_scene_350_responseB",
-                    "nextSlug": "360b_10"
+                    "nextSlug": "360b_10",
+                    "dialogue": "I don\u2019t know. She seems\u2026 unhinged."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s7_scene_350_responseC",
-                    "nextSlug": "370"
+                    "nextSlug": "370",
+                    "dialogue": "Yeah. I think Vayne is exactly what we need in a sentinel."
                 }
             ],
             "dialogue": "We need all the help we can get. Don\u2019t you think so, Rookie?",
@@ -49545,11 +49918,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s7_scene_190a_10_responseA",
-                    "nextSlug": "190a_20"
+                    "nextSlug": "190a_20",
+                    "dialogue": "I take it you\u2019ve never owned a pet."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s7_scene_190a_10_responseB",
-                    "nextSlug": "190a_20"
+                    "nextSlug": "190a_20",
+                    "dialogue": "I\u2019m willing to take that risk."
                 }
             ],
             "dialogue": "Take it from me, kid. If you spare these beasts\u2014they always come back to bite you.",
@@ -50070,15 +50445,18 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_40_responseA",
-                    "nextSlug": "50a_10"
+                    "nextSlug": "50a_10",
+                    "dialogue": "It\u2019s pretty bare. I think I\u2019ve got some canned sturgeon and a hunting knife."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_40_responseB",
-                    "nextSlug": "50b_10"
+                    "nextSlug": "50b_10",
+                    "dialogue": "Are you kidding? I haven\u2019t seen a supply ship in weeks. I\u2019ve been eating sand snails."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_40_responseC",
-                    "nextSlug": "50c_10"
+                    "nextSlug": "50c_10",
+                    "dialogue": "We\u2019re loaded! Anything you could ever want is stocked in this crumbling shack."
                 }
             ],
             "dialogue": "It\u2019s seen better days, for sure. Rookie, how are you stocked on supplies?",
@@ -50205,15 +50583,18 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_130_responseA",
-                    "nextSlug": "140"
+                    "nextSlug": "140",
+                    "dialogue": "I don\u2019t know! This has never happened before!"
                 },
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_130_responseB",
-                    "nextSlug": "140"
+                    "nextSlug": "140",
+                    "dialogue": "I\u2019m not sure. I always thought these old stone tablets were for decoration. I never knew they did this."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_130_responseC",
-                    "nextSlug": "140"
+                    "nextSlug": "140",
+                    "dialogue": "H...how many hells do you think there are?"
                 }
             ],
             "dialogue": "What the many hells is that?!",
@@ -50502,15 +50883,18 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_300_responseA",
-                    "nextSlug": "310"
+                    "nextSlug": "310",
+                    "dialogue": "Of course I\u2019m ready. Anything to get me out of this place."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_300_responseB",
-                    "nextSlug": "310"
+                    "nextSlug": "310",
+                    "dialogue": "Actually, I\u2019m more of a homebody. Think I\u2019ll stay here with the sand snails and the dilapidated shack."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_300_responseC",
-                    "nextSlug": "310"
+                    "nextSlug": "310",
+                    "dialogue": "Sorry, I\u2019m still just kinda stunned that these old tablets can do all of this. I mean, how is any of this even possible?"
                 }
             ],
             "dialogue": "Hmm. Looks like we\u2019ve got our work cut out for us. What do you say, Rookie? You ready to see the world?",
@@ -50739,15 +51123,18 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_420_responseA",
-                    "nextSlug": "430"
+                    "nextSlug": "430",
+                    "dialogue": "Hey, that\u2019s me! I\u2019m the only one who can use the Wayfinder. Looks like you need me on this journey after all."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_420_responseB",
-                    "nextSlug": "430"
+                    "nextSlug": "430",
+                    "dialogue": "You know what? I think that might be me. Sorry. Guess I\u2019m the only one who can use the Wayfinder."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_420_responseC",
-                    "nextSlug": "430"
+                    "nextSlug": "430",
+                    "dialogue": "Yep. I\u2019m the only one who can use the Wayfinder. Now who\u2019s the \u201cgreenhorn\u201d? And what does that word mean?"
                 }
             ],
             "dialogue": "Oh, no. Let me guess\u2026",
@@ -50940,15 +51327,18 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_530_responseA",
-                    "nextSlug": "540a_10"
+                    "nextSlug": "540a_10",
+                    "dialogue": "I\u2019m sorry, Lucian. It must be hard for you to see Demacia like this."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_530_responseB",
-                    "nextSlug": "540b_10"
+                    "nextSlug": "540b_10",
+                    "dialogue": "So\u2026 what now?"
                 },
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_530_responseC",
-                    "nextSlug": "540c_10"
+                    "nextSlug": "540c_10",
+                    "dialogue": "What\u2019re we standing around for? Let\u2019s go unruin it!"
                 }
             ],
             "dialogue": "Sorry, babe. Not the homecoming you were hoping for.",
@@ -51102,11 +51492,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_50a_20_responseA",
-                    "nextSlug": "50a_30"
+                    "nextSlug": "50a_30",
+                    "dialogue": "Oh. Crackers. Is that a\u2026 type of bread?"
                 },
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_50a_20_responseB",
-                    "nextSlug": "50a_30"
+                    "nextSlug": "50a_30",
+                    "dialogue": "Crackers? Sure, I\u2019ll harvest some wheat and get it to the mill right away. Do you know how to build an oven by any chance?"
                 }
             ],
             "dialogue": "I\u2019ve had canned sturgeon. It\u2019s not bad on crackers.",
@@ -51165,11 +51557,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_50b_20_responseA",
-                    "nextSlug": "50b_30"
+                    "nextSlug": "50b_30",
+                    "dialogue": "They\u2019re pretty good, actually. Once you scrape off the slime sack."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_50b_20_responseB",
-                    "nextSlug": "50b_30"
+                    "nextSlug": "50b_30",
+                    "dialogue": "They\u2019re the worst thing you\u2019ve ever eaten. Especially the slime sack."
                 }
             ],
             "dialogue": "Hell, I\u2019d eat a sand snail. How bad could they be?",
@@ -51246,11 +51640,13 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_50c_30_responseA",
-                    "nextSlug": "60"
+                    "nextSlug": "60",
+                    "dialogue": "Sorry. I guess I need the jokes to keep my sanity. The truth is I\u2019m scraping to get by and never know where my next meal is coming from."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s2_scene_50c_30_responseB",
-                    "nextSlug": "60"
+                    "nextSlug": "60",
+                    "dialogue": "Sorry, sir. Just trying to lighten the mood. The truth is this place is a real dump."
                 }
             ],
             "dialogue": "The kid's having some fun at our expense.",
@@ -51666,11 +52062,13 @@
             "responses": [
                 {
                     "dialogueKey": "riven_induction_scene_160_responseA",
-                    "nextSlug": "170"
+                    "nextSlug": "170",
+                    "dialogue": "Sorry. He tricked me!"
                 },
                 {
                     "dialogueKey": "riven_induction_scene_160_responseB",
-                    "nextSlug": "170"
+                    "nextSlug": "170",
+                    "dialogue": "You try saying no to Lucian. He can be really scary."
                 }
             ],
             "dialogue": "Rookie! Why?!",
@@ -52032,15 +52430,18 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_n0_scene_100_responseA",
-                    "nextSlug": "110"
+                    "nextSlug": "110",
+                    "dialogue": "I would, but uh\u2026 I can\u2019t tell which way is up."
                 },
                 {
                     "dialogueKey": "freljord_n0_scene_100_responseB",
-                    "nextSlug": "110"
+                    "nextSlug": "110",
+                    "dialogue": "I would, but uh\u2026 I can\u2019t seem to feel my hands. They\u2019re completely frozen."
                 },
                 {
                     "dialogueKey": "freljord_n0_scene_100_responseC",
-                    "nextSlug": "110"
+                    "nextSlug": "110",
+                    "dialogue": "Got it. Wait, who\u2019s talking? Is that Senna?"
                 }
             ],
             "dialogue": "Rookie, are you with me? Try to dig out of this. Go up.",
@@ -52290,15 +52691,18 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_n0_scene_230_responseA",
-                    "nextSlug": "240"
+                    "nextSlug": "240",
+                    "dialogue": "I don\u2019t think it\u2019s a good idea to approach that guy. He looks dangerous."
                 },
                 {
                     "dialogueKey": "freljord_n0_scene_230_responseB",
-                    "nextSlug": "240"
+                    "nextSlug": "240",
+                    "dialogue": "Gwen, in my experience, it\u2019s best to stay away from furious people swinging axes."
                 },
                 {
                     "dialogueKey": "freljord_n0_scene_230_responseC",
-                    "nextSlug": "240"
+                    "nextSlug": "240",
+                    "dialogue": "Sure, why not. Let\u2019s go talk to the crazy, axe-wielding berserker."
                 }
             ],
             "dialogue": "He must possess a wealth of tailoring knowledge. Ooh, I must pick his brain.",
@@ -52495,11 +52899,13 @@
             "responses": [
                 {
                     "dialogueKey": "freljord_n0_scene_340_responseA",
-                    "nextSlug": "350a_10"
+                    "nextSlug": "350a_10",
+                    "dialogue": "[SARCASTIC] Yeah. This is going to end well."
                 },
                 {
                     "dialogueKey": "freljord_n0_scene_340_responseB",
-                    "nextSlug": "350b_10"
+                    "nextSlug": "350b_10",
+                    "dialogue": "[SINCERE] Yeah, okay. I can see this working out well for us."
                 }
             ],
             "dialogue": "Hello? Mr. Angry Animal Skins? Do wait for me!",
@@ -52653,15 +53059,18 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s1_scene_60_responseA",
-                    "nextSlug": "70a_10"
+                    "nextSlug": "70a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_60_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s1_scene_60_responseB",
-                    "nextSlug": "70b_10"
+                    "nextSlug": "70b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_60_responseB}"
                 },
                 {
                     "dialogueKey": "ixtal_s1_scene_60_responseC",
-                    "nextSlug": "80"
+                    "nextSlug": "80",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_60_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_60_text}",
@@ -52722,11 +53131,13 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s1_scene_110_responseA",
-                    "nextSlug": "120"
+                    "nextSlug": "120",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_110_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s1_scene_110_responseB",
-                    "nextSlug": "120"
+                    "nextSlug": "120",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_110_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_110_text}",
@@ -52773,11 +53184,13 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s1_scene_140_responseA",
-                    "nextSlug": "150"
+                    "nextSlug": "150",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_140_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s1_scene_140_responseB",
-                    "nextSlug": "150"
+                    "nextSlug": "150",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_140_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_140_text}",
@@ -52888,11 +53301,13 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s1_scene_210_responseA",
-                    "nextSlug": "220"
+                    "nextSlug": "220",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_210_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s1_scene_210_responseB",
-                    "nextSlug": "220"
+                    "nextSlug": "220",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_210_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_210_text}",
@@ -53284,11 +53699,13 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s1_scene_450_responseA",
-                    "nextSlug": "460a_10"
+                    "nextSlug": "460a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_450_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s1_scene_450_responseB",
-                    "nextSlug": "460b_10"
+                    "nextSlug": "460b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_450_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_450_text}",
@@ -53646,11 +54063,13 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s1_scene_460b_20_responseA",
-                    "nextSlug": "470"
+                    "nextSlug": "470",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_460b_20_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s1_scene_460b_20_responseB",
-                    "nextSlug": "470"
+                    "nextSlug": "470",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_460b_20_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s1_scene_460b_20_text}",
@@ -54034,15 +54453,18 @@
             "responses": [
                 {
                     "dialogueKey": "bilgewater_s1_scene_210_responseA",
-                    "nextSlug": "220"
+                    "nextSlug": "220",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s1_scene_210_responseA}"
                 },
                 {
                     "dialogueKey": "bilgewater_s1_scene_210_responseB",
-                    "nextSlug": "220"
+                    "nextSlug": "220",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s1_scene_210_responseB}"
                 },
                 {
                     "dialogueKey": "bilgewater_s1_scene_210_responseC",
-                    "nextSlug": "220"
+                    "nextSlug": "220",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s1_scene_210_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.bilgewater_s1_scene_210_text}",
@@ -54474,15 +54896,18 @@
             "responses": [
                 {
                     "dialogueKey": "bilgewater_s1_scene_450_responseA",
-                    "nextSlug": "460a_10"
+                    "nextSlug": "460a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s1_scene_450_responseA}"
                 },
                 {
                     "dialogueKey": "bilgewater_s1_scene_450_responseB",
-                    "nextSlug": "460b_10"
+                    "nextSlug": "460b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s1_scene_450_responseB}"
                 },
                 {
                     "dialogueKey": "bilgewater_s1_scene_450_responseC",
-                    "nextSlug": "460c_10"
+                    "nextSlug": "460c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s1_scene_450_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.bilgewater_s1_scene_450_text}",
@@ -55562,15 +55987,18 @@
             "responses": [
                 {
                     "dialogueKey": "bilgewater_n0_scene_480_responseA",
-                    "nextSlug": "490a_10"
+                    "nextSlug": "490a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_n0_scene_480_responseA}"
                 },
                 {
                     "dialogueKey": "bilgewater_n0_scene_480_responseB",
-                    "nextSlug": "490b_10"
+                    "nextSlug": "490b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_n0_scene_480_responseB}"
                 },
                 {
                     "dialogueKey": "bilgewater_n0_scene_480_responseC",
-                    "nextSlug": "500"
+                    "nextSlug": "500",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_n0_scene_480_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.bilgewater_n0_scene_480_text}",
@@ -56608,15 +57036,18 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s1_scene_140_responseA",
-                    "nextSlug": "150"
+                    "nextSlug": "150",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s1_scene_140_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s1_scene_140_responseB",
-                    "nextSlug": "150"
+                    "nextSlug": "150",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s1_scene_140_responseB}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s1_scene_140_responseC",
-                    "nextSlug": "150"
+                    "nextSlug": "150",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s1_scene_140_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s1_scene_140_text}",
@@ -57648,11 +58079,13 @@
             "responses": [
                 {
                     "dialogueKey": "shadow_isles_s1_scene_770_responseA",
-                    "nextSlug": "780a_10"
+                    "nextSlug": "780a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s1_scene_770_responseA}"
                 },
                 {
                     "dialogueKey": "shadow_isles_s1_scene_770_responseB",
-                    "nextSlug": "790"
+                    "nextSlug": "790",
+                    "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s1_scene_770_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shadow_isles_s1_scene_770_text}",
@@ -57887,15 +58320,18 @@
             "responses": [
                 {
                     "dialogueKey": "key_upgrade_b1_scene_30_responseA",
-                    "nextSlug": "40a_10"
+                    "nextSlug": "40a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b1_scene_30_responseA}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b1_scene_30_responseB",
-                    "nextSlug": "40b_10"
+                    "nextSlug": "40b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b1_scene_30_responseB}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b1_scene_30_responseC",
-                    "nextSlug": "40c_10"
+                    "nextSlug": "40c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b1_scene_30_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b1_scene_30_text}",
@@ -58299,15 +58735,18 @@
             "responses": [
                 {
                     "dialogueKey": "key_upgrade_b7_scene_50_responseA",
-                    "nextSlug": "60a_10"
+                    "nextSlug": "60a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b7_scene_50_responseA}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b7_scene_50_responseB",
-                    "nextSlug": "60b_10"
+                    "nextSlug": "60b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b7_scene_50_responseB}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b7_scene_50_responseC",
-                    "nextSlug": "60c_10"
+                    "nextSlug": "60c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b7_scene_50_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b7_scene_50_text}",
@@ -58776,11 +59215,13 @@
             "responses": [
                 {
                     "dialogueKey": "akshan_induction_scene_60_responseA",
-                    "nextSlug": "70a_10"
+                    "nextSlug": "70a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.akshan_induction_scene_60_responseA}"
                 },
                 {
                     "dialogueKey": "akshan_induction_scene_60_responseB",
-                    "nextSlug": "70b_10"
+                    "nextSlug": "70b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.akshan_induction_scene_60_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.akshan_induction_scene_60_text}",
@@ -59417,11 +59858,13 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s1_scene_100_responseA",
-                    "nextSlug": "110a_10"
+                    "nextSlug": "110a_10",
+                    "dialogue": "Listen, you psycho. See that black stuff coming off of you? That\u2019s Black Mist, and it\u2019s got hold of your mind."
                 },
                 {
                     "dialogueKey": "noxus_s1_scene_100_responseB",
-                    "nextSlug": "110b_10"
+                    "nextSlug": "110b_10",
+                    "dialogue": "Mr. Draven, sir\u2026 I would LOVE to be your arena star, but can we please fight this Harrowing first?"
                 }
             ],
             "dialogue": "The audience LOVES YOU! And therefore LOVES ME! I CAN\u2019T let you leave.",
@@ -59929,15 +60372,18 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s1_scene_390_responseA",
-                    "nextSlug": "400"
+                    "nextSlug": "400",
+                    "dialogue": "[SCREAM CRUDELY] Umm\u2026 okay. HEEEYYY, GUARRRD!!!"
                 },
                 {
                     "dialogueKey": "noxus_s1_scene_390_responseB",
-                    "nextSlug": "400"
+                    "nextSlug": "400",
+                    "dialogue": "[POLITELY REQUEST] Sure thing. Hello? Guard? Is anyone there?"
                 },
                 {
                     "dialogueKey": "noxus_s1_scene_390_responseC",
-                    "nextSlug": "400"
+                    "nextSlug": "400",
+                    "dialogue": "[ACT BADLY] Oh, no. Something dreadful has happened in my cell. Won\u2019t someone come to investigate?"
                 }
             ],
             "dialogue": "Listen, kid. Somehow, I need you to get the guard to come to your cell. I don\u2019t care how you do it.",
@@ -59957,15 +60403,18 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s1_scene_400_responseA",
-                    "nextSlug": "410"
+                    "nextSlug": "410",
+                    "dialogue": "Just wondering about dinner. What are the entree choices tonight?"
                 },
                 {
                     "dialogueKey": "noxus_s1_scene_400_responseB",
-                    "nextSlug": "410"
+                    "nextSlug": "410",
+                    "dialogue": "My shoe. It\u2026 fell in the filth bucket. Do you have a towel by any chance?"
                 },
                 {
                     "dialogueKey": "noxus_s1_scene_400_responseC",
-                    "nextSlug": "410"
+                    "nextSlug": "410",
+                    "dialogue": "Gosh, I wish I could just tell you, but it\u2019s probably better if you come in here and see it for yourself."
                 }
             ],
             "dialogue": "Yeah? What do you want?",
@@ -60013,15 +60462,18 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s1_scene_430_responseA",
-                    "nextSlug": "440a_10"
+                    "nextSlug": "440a_10",
+                    "dialogue": "I\u2019m sorry, what?"
                 },
                 {
                     "dialogueKey": "noxus_s1_scene_430_responseB",
-                    "nextSlug": "440b_10"
+                    "nextSlug": "440b_10",
+                    "dialogue": "I\u2019m on it."
                 },
                 {
                     "dialogueKey": "noxus_s1_scene_430_responseC",
-                    "nextSlug": "440c_10"
+                    "nextSlug": "440c_10",
+                    "dialogue": "Vayne, take him out!"
                 }
             ],
             "dialogue": "Now, take him out!",
@@ -60041,15 +60493,18 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s1_scene_450_responseA",
-                    "nextSlug": "460a_10"
+                    "nextSlug": "460a_10",
+                    "dialogue": "I\u2019m sorry, what?"
                 },
                 {
                     "dialogueKey": "noxus_s1_scene_450_responseB",
-                    "nextSlug": "460b_10"
+                    "nextSlug": "460b_10",
+                    "dialogue": "I\u2019m on it."
                 },
                 {
                     "dialogueKey": "noxus_s1_scene_450_responseC",
-                    "nextSlug": "460c_10"
+                    "nextSlug": "460c_10",
+                    "dialogue": "Olaf, take him out!"
                 }
             ],
             "dialogue": "Now, take him out!",
@@ -60339,11 +60794,13 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s1_scene_440c_10_responseA",
-                    "nextSlug": "440c_20"
+                    "nextSlug": "440c_20",
+                    "dialogue": "I\u2019m sorry. I didn\u2019t mean anything by it. It\u2019s just that you\u2019re the toughest person here, and\u2014hurry, he\u2019s coming!"
                 },
                 {
                     "dialogueKey": "noxus_s1_scene_440c_10_responseB",
-                    "nextSlug": "440c_20"
+                    "nextSlug": "440c_20",
+                    "dialogue": "Orders? No, that was a suggestion! And I suggest you hurry because he\u2019s about to club me."
                 }
             ],
             "dialogue": "You are giving orders to me?",
@@ -60465,11 +60922,13 @@
             "responses": [
                 {
                     "dialogueKey": "noxus_s1_scene_460c_10_responseA",
-                    "nextSlug": "460c_20"
+                    "nextSlug": "460c_20",
+                    "dialogue": "I guess you didn\u2019t hear him talking about your beard. He said it looked like it belongs on a yeti\u2019s bottom."
                 },
                 {
                     "dialogueKey": "noxus_s1_scene_460c_10_responseB",
-                    "nextSlug": "460c_20"
+                    "nextSlug": "460c_20",
+                    "dialogue": "Really? Could\u2019ve sworn I heard him making fun of your lice. I\u2019m surprised you would take that."
                 }
             ],
             "dialogue": "What? But this man\u2019s just a grunt. A decidedly unworthy foe.",
@@ -60606,15 +61065,18 @@
             "responses": [
                 {
                     "dialogueKey": "key_upgrade_b6_scene_50_responseA",
-                    "nextSlug": "60a_10"
+                    "nextSlug": "60a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b6_scene_50_responseA}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b6_scene_50_responseB",
-                    "nextSlug": "60b_10"
+                    "nextSlug": "60b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b6_scene_50_responseB}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b6_scene_50_responseC",
-                    "nextSlug": "60c_10"
+                    "nextSlug": "60c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b6_scene_50_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b6_scene_50_text}",
@@ -61145,11 +61607,13 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s1_scene_130_responseA",
-                    "nextSlug": "140"
+                    "nextSlug": "140",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s1_scene_130_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s1_scene_130_responseB",
-                    "nextSlug": "140"
+                    "nextSlug": "140",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s1_scene_130_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s1_scene_130_text}",
@@ -61202,11 +61666,13 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s1_scene_160_responseA",
-                    "nextSlug": "170"
+                    "nextSlug": "170",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s1_scene_160_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s1_scene_160_responseB",
-                    "nextSlug": "170"
+                    "nextSlug": "170",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s1_scene_160_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s1_scene_160_text}",
@@ -61292,11 +61758,13 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s1_scene_210_responseA",
-                    "nextSlug": "220"
+                    "nextSlug": "220",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s1_scene_210_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s1_scene_210_responseB",
-                    "nextSlug": "220"
+                    "nextSlug": "220",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s1_scene_210_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s1_scene_210_text}",
@@ -61439,11 +61907,13 @@
             "responses": [
                 {
                     "dialogueKey": "shurima_s1_scene_300_responseA",
-                    "nextSlug": "310"
+                    "nextSlug": "310",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s1_scene_300_responseA}"
                 },
                 {
                     "dialogueKey": "shurima_s1_scene_300_responseB",
-                    "nextSlug": "310"
+                    "nextSlug": "310",
+                    "dialogue": "{i18n sentinels_hub_2021.shurima_s1_scene_300_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.shurima_s1_scene_300_text}",
@@ -61573,15 +62043,18 @@
             "responses": [
                 {
                     "dialogueKey": "targon_s2_scene_70_responseA",
-                    "nextSlug": "80"
+                    "nextSlug": "80",
+                    "dialogue": "Because\u2026 the other Moon people! Remember them? That\u2019s why you\u2019re doing this."
                 },
                 {
                     "dialogueKey": "targon_s2_scene_70_responseB",
-                    "nextSlug": "80"
+                    "nextSlug": "80",
+                    "dialogue": "Because Targon can change. Sure, it sucks today, but you can lead it to a better future."
                 },
                 {
                     "dialogueKey": "targon_s2_scene_70_responseC",
-                    "nextSlug": "80"
+                    "nextSlug": "80",
+                    "dialogue": "Forget Targon then. Do it for all Runeterra."
                 }
             ],
             "dialogue": "Why bother to save something so intent on destroying itself?",
@@ -61971,15 +62444,18 @@
             "responses": [
                 {
                     "dialogueKey": "targon_s2_scene_310_responseA",
-                    "nextSlug": "320a_10"
+                    "nextSlug": "320a_10",
+                    "dialogue": "Wait, that\u2019s not an Aspect\u2014that\u2019s Viego! Who\u2019s the other guy? Is he on our side?"
                 },
                 {
                     "dialogueKey": "targon_s2_scene_310_responseB",
-                    "nextSlug": "320b_10"
+                    "nextSlug": "320b_10",
+                    "dialogue": "Are you talking about the guy with the spear? He seems pretty powerful. What are we going to do that he can\u2019t?"
                 },
                 {
                     "dialogueKey": "targon_s2_scene_310_responseC",
-                    "nextSlug": "320c_10"
+                    "nextSlug": "320c_10",
+                    "dialogue": "But they\u2019re at the peak! What if we go up there and the Aspects decide we aren\u2019t worthy?"
                 }
             ],
             "dialogue": "Hurry! We have to help him!",
@@ -62290,15 +62766,18 @@
             "responses": [
                 {
                     "dialogueKey": "targon_s2_scene_500_responseA",
-                    "nextSlug": "510a_10"
+                    "nextSlug": "510a_10",
+                    "dialogue": "Pantheon? Like, the Targonian war god Pantheon?"
                 },
                 {
                     "dialogueKey": "targon_s2_scene_500_responseB",
-                    "nextSlug": "510b_10"
+                    "nextSlug": "510b_10",
+                    "dialogue": "Gotta be honest\u2014I wasn\u2019t that close with Atreus anyway."
                 },
                 {
                     "dialogueKey": "targon_s2_scene_500_responseC",
-                    "nextSlug": "510c_10"
+                    "nextSlug": "510c_10",
+                    "dialogue": "Is that\u2026 bad?"
                 }
             ],
             "dialogue": "Atreus is no more. Pantheon\u2026 has returned.",
@@ -62518,15 +62997,18 @@
             "responses": [
                 {
                     "dialogueKey": "targon_s2_scene_320c_10_responseA",
-                    "nextSlug": "330"
+                    "nextSlug": "330",
+                    "dialogue": "Oh, is that all\u2014 WAIT, THAT\u2019S HORRIFYING!"
                 },
                 {
                     "dialogueKey": "targon_s2_scene_320c_10_responseB",
-                    "nextSlug": "330"
+                    "nextSlug": "330",
+                    "dialogue": "Stardust? You know, it almost doesn\u2019t sound so bad when you put it like that."
                 },
                 {
                     "dialogueKey": "targon_s2_scene_320c_10_responseC",
-                    "nextSlug": "330"
+                    "nextSlug": "330",
+                    "dialogue": "I guess that\u2019s a risk we\u2019ll have to take!"
                 }
             ],
             "dialogue": "Then you will be turned to stardust on the spot.",
@@ -62763,11 +63245,13 @@
             "responses": [
                 {
                     "dialogueKey": "targon_s3_scene_90_responseA",
-                    "nextSlug": "100a_10"
+                    "nextSlug": "100a_10",
+                    "dialogue": "We can still stop this. Let\u2019s clear those rocks out of the way and get up to the peak!"
                 },
                 {
                     "dialogueKey": "targon_s3_scene_90_responseB",
-                    "nextSlug": "100b_10"
+                    "nextSlug": "100b_10",
+                    "dialogue": "Yeah. And even if you did fix all that you\u2019d still have to deal with the Solari. Targon is screwed."
                 }
             ],
             "dialogue": "And we are forced to cower in this cave, while Targon succumbs to the Harrowing.",
@@ -62867,15 +63351,18 @@
             "responses": [
                 {
                     "dialogueKey": "targon_s3_scene_160_responseA",
-                    "nextSlug": "170"
+                    "nextSlug": "170",
+                    "dialogue": "Diana, come back to us! Don\u2019t listen to the Mist! Targon has a beautiful future, and you are integral to it!"
                 },
                 {
                     "dialogueKey": "targon_s3_scene_160_responseB",
-                    "nextSlug": "170"
+                    "nextSlug": "170",
+                    "dialogue": "That\u2019s the Mist talking. Diana, you have to realize that. Resist it with your\u2026 moon power or whatever."
                 },
                 {
                     "dialogueKey": "targon_s3_scene_160_responseC",
-                    "nextSlug": "170"
+                    "nextSlug": "170",
+                    "dialogue": "I\u2019ve already said all I can! My silver tongue is all out of words!"
                 }
             ],
             "dialogue": "She must\u2019ve taken in a big dose of that Mist out there. Rookie, talk her down!",
@@ -63050,15 +63537,18 @@
             "responses": [
                 {
                     "dialogueKey": "targon_s3_scene_270_responseA",
-                    "nextSlug": "280"
+                    "nextSlug": "280",
+                    "dialogue": "Aspect? Diana, were you planning on telling us you were a god?"
                 },
                 {
                     "dialogueKey": "targon_s3_scene_270_responseB",
-                    "nextSlug": "280"
+                    "nextSlug": "280",
+                    "dialogue": "Aspect? No! That\u2019s just Diana. She\u2019s our mountain guide."
                 },
                 {
                     "dialogueKey": "targon_s3_scene_270_responseC",
-                    "nextSlug": "280"
+                    "nextSlug": "280",
+                    "dialogue": "Aspect? Oh, right. I knew she was an Aspect. I figured it out pretty early on."
                 }
             ],
             "dialogue": "The Aspect of the Moon. She travels with you.",
@@ -63796,15 +64286,18 @@
             "responses": [
                 {
                     "dialogueKey": "key_upgrade_a3_scene_40_responseA",
-                    "nextSlug": "50a_10"
+                    "nextSlug": "50a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a3_scene_40_responseA}"
                 },
                 {
                     "dialogueKey": "key_upgrade_a3_scene_40_responseB",
-                    "nextSlug": "50b_10"
+                    "nextSlug": "50b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a3_scene_40_responseB}"
                 },
                 {
                     "dialogueKey": "key_upgrade_a3_scene_40_responseC",
-                    "nextSlug": "50c_10"
+                    "nextSlug": "50c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a3_scene_40_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a3_scene_40_text}",
@@ -64354,15 +64847,18 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s6_scene_150_responseA",
-                    "nextSlug": "160a_10"
+                    "nextSlug": "160a_10",
+                    "dialogue": "Don\u2019t look at me. I know better than to get involved in this."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s6_scene_150_responseB",
-                    "nextSlug": "160b_10"
+                    "nextSlug": "160b_10",
+                    "dialogue": "He\u2019s right, Senna. If Viego wants to pry something out of you, maybe it\u2019s best if you stay clear of him."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s6_scene_150_responseC",
-                    "nextSlug": "160c_10"
+                    "nextSlug": "160c_10",
+                    "dialogue": "Are you kidding? I\u2019m more scared of Senna than some dead king."
                 }
             ],
             "dialogue": "Rookie, back me up here.",
@@ -64948,15 +65444,18 @@
             "responses": [
                 {
                     "dialogueKey": "prologue_demacia_s6_scene_160c_20_responseA",
-                    "nextSlug": "170"
+                    "nextSlug": "170",
+                    "dialogue": "I, um\u2026 Oh, boy."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s6_scene_160c_20_responseB",
-                    "nextSlug": "170"
+                    "nextSlug": "170",
+                    "dialogue": "..."
                 },
                 {
                     "dialogueKey": "prologue_demacia_s6_scene_160c_20_responseC",
-                    "nextSlug": "170"
+                    "nextSlug": "170",
+                    "dialogue": "Sorry, sir. She\u2019s the boss."
                 }
             ],
             "dialogue": "Thanks, Rook. Remember this when she ends up dead.",
@@ -65028,15 +65527,18 @@
             "responses": [
                 {
                     "dialogueKey": "key_upgrade_a2_scene_40_responseA",
-                    "nextSlug": "50a_10"
+                    "nextSlug": "50a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a2_scene_40_responseA}"
                 },
                 {
                     "dialogueKey": "key_upgrade_a2_scene_40_responseB",
-                    "nextSlug": "50b_10"
+                    "nextSlug": "50b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a2_scene_40_responseB}"
                 },
                 {
                     "dialogueKey": "key_upgrade_a2_scene_40_responseC",
-                    "nextSlug": "50c_10"
+                    "nextSlug": "50c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a2_scene_40_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.key_upgrade_a2_scene_40_text}",
@@ -65540,15 +66042,18 @@
             "responses": [
                 {
                     "dialogueKey": "bilgewater_s4_scene_150_responseA",
-                    "nextSlug": "160a_10"
+                    "nextSlug": "160a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s4_scene_150_responseA}"
                 },
                 {
                     "dialogueKey": "bilgewater_s4_scene_150_responseB",
-                    "nextSlug": "160b_10"
+                    "nextSlug": "160b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s4_scene_150_responseB}"
                 },
                 {
                     "dialogueKey": "bilgewater_s4_scene_150_responseC",
-                    "nextSlug": "160c_10"
+                    "nextSlug": "160c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s4_scene_150_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.bilgewater_s4_scene_150_text}",
@@ -66193,11 +66698,13 @@
             "responses": [
                 {
                     "dialogueKey": "bilgewater_s4_scene_530_responseA",
-                    "nextSlug": "540"
+                    "nextSlug": "540",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s4_scene_530_responseA}"
                 },
                 {
                     "dialogueKey": "bilgewater_s4_scene_530_responseB",
-                    "nextSlug": "540"
+                    "nextSlug": "540",
+                    "dialogue": "{i18n sentinels_hub_2021.bilgewater_s4_scene_530_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.bilgewater_s4_scene_530_text}",
@@ -66654,15 +67161,18 @@
             "responses": [
                 {
                     "dialogueKey": "key_upgrade_b5_scene_60_responseA",
-                    "nextSlug": "70a_10"
+                    "nextSlug": "70a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b5_scene_60_responseA}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b5_scene_60_responseB",
-                    "nextSlug": "70b_10"
+                    "nextSlug": "70b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b5_scene_60_responseB}"
                 },
                 {
                     "dialogueKey": "key_upgrade_b5_scene_60_responseC",
-                    "nextSlug": "70c_10"
+                    "nextSlug": "70c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b5_scene_60_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.key_upgrade_b5_scene_60_text}",
@@ -67139,15 +67649,18 @@
             "responses": [
                 {
                     "dialogueKey": "targon_s1_scene_60_responseA",
-                    "nextSlug": "70a_10"
+                    "nextSlug": "70a_10",
+                    "dialogue": "Whoa, whoa! Aspects? You mean the gods?! I did NOT sign up for this."
                 },
                 {
                     "dialogueKey": "targon_s1_scene_60_responseB",
-                    "nextSlug": "70b_10"
+                    "nextSlug": "70b_10",
+                    "dialogue": "Hey, you never know. Maybe they\u2019ll like me. They liked you enough, right?"
                 },
                 {
                     "dialogueKey": "targon_s1_scene_60_responseC",
-                    "nextSlug": "70c_10"
+                    "nextSlug": "70c_10",
+                    "dialogue": "Aspects. Puhh. Who are they to judge? Think they\u2019re so high and mighty."
                 }
             ],
             "dialogue": "And if you reach the top, the Aspects themselves will judge you. Most likely, quite harshly.",
@@ -67438,15 +67951,18 @@
             "responses": [
                 {
                     "dialogueKey": "targon_s1_scene_220_responseA",
-                    "nextSlug": "230"
+                    "nextSlug": "230",
+                    "dialogue": "Yeah, how about the Moon? You like the Moon right? You don\u2019t want to see what the Ruined King will do to that thing."
                 },
                 {
                     "dialogueKey": "targon_s1_scene_220_responseB",
-                    "nextSlug": "230"
+                    "nextSlug": "230",
+                    "dialogue": "How about the people of Targon? Do you really want to see them lost to the Harrowing?"
                 },
                 {
                     "dialogueKey": "targon_s1_scene_220_responseC",
-                    "nextSlug": "230"
+                    "nextSlug": "230",
+                    "dialogue": "Like that crazy hair you\u2019ve got going on. It must\u2019ve taken you forever to get it to stay that way. It\u2019d be a shame to see it ruined."
                 }
             ],
             "dialogue": "Nothing? How can you just let your own home be destroyed?! Surely there must be something here worth saving to you?",
@@ -67950,11 +68466,13 @@
             "responses": [
                 {
                     "dialogueKey": "targon_s1_scene_70a_10_responseA",
-                    "nextSlug": "70a_20"
+                    "nextSlug": "70a_20",
+                    "dialogue": "That does not make me feel better!"
                 },
                 {
                     "dialogueKey": "targon_s1_scene_70a_10_responseB",
-                    "nextSlug": "70a_20"
+                    "nextSlug": "70a_20",
+                    "dialogue": "Riven! You\u2019re not helping!"
                 }
             ],
             "dialogue": "Settle down, kid. If it makes you feel better, the Aspects will probably kill us all. You won\u2019t be alone.",
@@ -68002,15 +68520,18 @@
             "responses": [
                 {
                     "dialogueKey": "targon_s1_scene_70b_10_responseA",
-                    "nextSlug": "70b_20"
+                    "nextSlug": "70b_20",
+                    "dialogue": "\u2026Uh-huh... Okay. Wow."
                 },
                 {
                     "dialogueKey": "targon_s1_scene_70b_10_responseB",
-                    "nextSlug": "70b_20"
+                    "nextSlug": "70b_20",
+                    "dialogue": "That... was an overshare."
                 },
                 {
                     "dialogueKey": "targon_s1_scene_70b_10_responseC",
-                    "nextSlug": "70b_20"
+                    "nextSlug": "70b_20",
+                    "dialogue": "\u2026So what you\u2019re saying is I\u2019VE GOT A CHANCE."
                 }
             ],
             "dialogue": "I endured much. The Full Moon showed me mercy, even though its truths tore my life apart, forcing me to live in unbearable solitude, with a trail of dead in my wake.",
@@ -68138,11 +68659,13 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s4_scene_20_responseA",
-                    "nextSlug": "30a_10"
+                    "nextSlug": "30a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_20_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s4_scene_20_responseB",
-                    "nextSlug": "30b_10"
+                    "nextSlug": "30b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_20_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_20_text}",
@@ -68724,15 +69247,18 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s4_scene_320_responseA",
-                    "nextSlug": "340"
+                    "nextSlug": "340",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_320_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s4_scene_320_responseB",
-                    "nextSlug": "330b_10"
+                    "nextSlug": "330b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_320_responseB}"
                 },
                 {
                     "dialogueKey": "ixtal_s4_scene_320_responseC",
-                    "nextSlug": "330c_10"
+                    "nextSlug": "330c_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_320_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_320_text}",
@@ -68916,11 +69442,13 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s4_scene_430_responseA",
-                    "nextSlug": "440a_10"
+                    "nextSlug": "440a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_430_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s4_scene_430_responseB",
-                    "nextSlug": "440b_10"
+                    "nextSlug": "440b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_430_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_430_text}",
@@ -69118,15 +69646,18 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s4_scene_560_responseA",
-                    "nextSlug": "570"
+                    "nextSlug": "570",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_560_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s4_scene_560_responseB",
-                    "nextSlug": "570"
+                    "nextSlug": "570",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_560_responseB}"
                 },
                 {
                     "dialogueKey": "ixtal_s4_scene_560_responseC",
-                    "nextSlug": "570"
+                    "nextSlug": "570",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_560_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_560_text}",
@@ -69148,15 +69679,18 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_s4_scene_570_responseA",
-                    "nextSlug": "580"
+                    "nextSlug": "580",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_570_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_s4_scene_570_responseB",
-                    "nextSlug": "580"
+                    "nextSlug": "580",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_570_responseB}"
                 },
                 {
                     "dialogueKey": "ixtal_s4_scene_570_responseC",
-                    "nextSlug": "580"
+                    "nextSlug": "580",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_570_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_s4_scene_570_text}",
@@ -70151,15 +70685,18 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_n0_scene_340_responseA",
-                    "nextSlug": "350a_10"
+                    "nextSlug": "350a_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_n0_scene_340_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_n0_scene_340_responseB",
-                    "nextSlug": "350b_10"
+                    "nextSlug": "350b_10",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_n0_scene_340_responseB}"
                 },
                 {
                     "dialogueKey": "ixtal_n0_scene_340_responseC",
-                    "nextSlug": "360"
+                    "nextSlug": "360",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_n0_scene_340_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_n0_scene_340_text}",
@@ -70205,11 +70742,13 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_n0_scene_350a_20_responseA",
-                    "nextSlug": "350a_30"
+                    "nextSlug": "350a_30",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_n0_scene_350a_20_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_n0_scene_350a_20_responseB",
-                    "nextSlug": "350a_30"
+                    "nextSlug": "350a_30",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_n0_scene_350a_20_responseB}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_n0_scene_350a_20_text}",
@@ -70256,15 +70795,18 @@
             "responses": [
                 {
                     "dialogueKey": "ixtal_n0_scene_350b_20_responseA",
-                    "nextSlug": "350b_30"
+                    "nextSlug": "350b_30",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_n0_scene_350b_20_responseA}"
                 },
                 {
                     "dialogueKey": "ixtal_n0_scene_350b_20_responseB",
-                    "nextSlug": "350b_30"
+                    "nextSlug": "350b_30",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_n0_scene_350b_20_responseB}"
                 },
                 {
                     "dialogueKey": "ixtal_n0_scene_350b_20_responseC",
-                    "nextSlug": "350b_30"
+                    "nextSlug": "350b_30",
+                    "dialogue": "{i18n sentinels_hub_2021.ixtal_n0_scene_350b_20_responseC}"
                 }
             ],
             "dialogue": "{i18n sentinels_hub_2021.ixtal_n0_scene_350b_20_text}",
@@ -70388,11 +70930,13 @@
             "responses": [
                 {
                     "dialogueKey": "ionia_s2_scene_60_responseA",
-                    "nextSlug": "70"
+                    "nextSlug": "70",
+                    "dialogue": "Did you say \u201ccenturies\u201d? How old are you exactly, Karma?"
                 },
                 {
                     "dialogueKey": "ionia_s2_scene_60_responseB",
-                    "nextSlug": "70"
+                    "nextSlug": "70",
+                    "dialogue": "Centuries? Wow, you look amazing for someone who\u2019s hundreds of years old!"
                 }
             ],
             "dialogue": "All have failed. Viego will as well.",
@@ -70650,15 +71194,18 @@
             "responses": [
                 {
                     "dialogueKey": "ionia_s2_scene_220_responseA",
-                    "nextSlug": "230a_10"
+                    "nextSlug": "230a_10",
+                    "dialogue": "I don\u2019t know. But I think it\u2019s good that you had principles\u2026 even if they didn\u2019t have the results you expected."
                 },
                 {
                     "dialogueKey": "ionia_s2_scene_220_responseB",
-                    "nextSlug": "230b_10"
+                    "nextSlug": "230b_10",
+                    "dialogue": "Are you kidding? I killed, like, five people just this morning. I am not to be messed with."
                 },
                 {
                     "dialogueKey": "ionia_s2_scene_220_responseC",
-                    "nextSlug": "230c_10"
+                    "nextSlug": "230c_10",
+                    "dialogue": "What\u2019s going on here? Shouldn\u2019t we get moving to that Ancient Grove place?"
                 }
             ],
             "dialogue": "What would you have done? Could you take life?",

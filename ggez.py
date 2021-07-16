@@ -25,6 +25,7 @@ def execute_selenium(driver_path='./chromedriver.exe', headless=True):
     # loop through the arrays
     for region in scenes:
         for scene in region:
+            
             # execute the dehashing function
             # log the output
             # credit u/LordredstoneNr1 for the idea to pin this function in the dist file and to then log the output
@@ -33,6 +34,18 @@ def execute_selenium(driver_path='./chromedriver.exe', headless=True):
             dialogue = driver.get_log('browser')[-1]
             # get the actuall log mesasage then strip out irrelevant shit
             scene['dialogue'] = " ".join(dialogue['message'].split(" ")[2::]).strip("\"")
+
+            responses = scene.get('responses')
+            if responses:
+                for response in responses:
+                    # execute the dehashing function
+                    # log the output
+                    # credit u/LordredstoneNr1 for the idea to pin this function in the dist file and to then log the output
+                    driver.execute_script("console.log(window.dehashFunction(\"{}\"));".format(response.get('dialogueKey')))
+                    # grab the last browser output which is our dialogue
+                    dialogue = driver.get_log('browser')[-1]
+                    # get the actuall log mesasage then strip out irrelevant shit
+                    response['dialogue'] = " ".join(dialogue['message'].split(" ")[2::]).strip("\"")
 
     driver.quit()
 
