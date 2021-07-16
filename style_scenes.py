@@ -5,7 +5,7 @@ def style_scenes():
     with open("scenes.json") as jsonfile:
         scenes = json.load(jsonfile)
 
-    host = "generalbloodsword.com/"
+    host = "http://generalbloodsword.com/"
     for region in scenes:
         for scene in region:
             chars = [("char{}".format(x), scene.get("char{}".format(x))) for x in range(1,5) if scene.get("char{}".format(x)) is not None]
