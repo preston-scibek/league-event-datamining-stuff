@@ -6781,7 +6781,7 @@
             "speaker": "Narrator",
             "dialogueKey": "piltover_zaun_s2_scene_210_text",
             "nextSlug": "220",
-            "dialogue": "[$rClientAudio] createGetAssetsPromise\" Error: Timed out: Assets category \"shq2021-audio\"\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:10427:50\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:26332:41"
+            "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s2_scene_210_text}"
         },
         {
             "slug": "220",
@@ -6828,7 +6828,7 @@
             "speaker": "Vex",
             "dialogueKey": "piltover_zaun_s2_scene_240_text",
             "nextSlug": "250",
-            "dialogue": "[$rClientAudio] createGetAssetsPromise\" Error: Timed out: Assets category \"shq2021-audio\"\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:10427:50\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:26332:41"
+            "dialogue": "{i18n sentinels_hub_2021.piltover_zaun_s2_scene_240_text}"
         },
         {
             "slug": "250",
