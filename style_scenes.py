@@ -14,7 +14,7 @@ def style_scenes():
             for char in chars:
                 scene["{}_image".format(char[0])] = 'assets/scenery/characters/{}.png'.format(char[1])
 
-            scene['bg_image'] = 'assets/scenery/backgrounds/{}.png'.format(bg)
+            scene['bg_image'] = 'assets/scenery/backgrounds/{}.jpg'.format(bg)
             scene['speaker_image'] = 'assets/scenery/speakers/{}.png'.format("_".join(speaker.split("_")[1::]))
 
     return scenes
