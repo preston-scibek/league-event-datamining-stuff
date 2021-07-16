@@ -20,7 +20,8 @@ powershell `python ./ggez.py`
 
 ### Requires
 dist-modified.js  
-scenes.json  
+scenes.json
+update_scenes_styled.json - added in image assets (credit to u/LordredstoneNr1 for these)  
 `pip install -r requirements.txt`  
 
 ## FILES
