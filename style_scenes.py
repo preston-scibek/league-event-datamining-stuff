@@ -5,6 +5,7 @@ def style_scenes():
     with open("scenes.json") as jsonfile:
         scenes = json.load(jsonfile)
 
+    host = "generalbloodsword.com/"
     for region in scenes:
         for scene in region:
             chars = [("char{}".format(x), scene.get("char{}".format(x))) for x in range(1,5) if scene.get("char{}".format(x)) is not None]
@@ -12,10 +13,10 @@ def style_scenes():
             bg = scene.get('bg', '')
 
             for char in chars:
-                scene["{}_image".format(char[0])] = 'assets/scenery/characters/{}.png'.format(char[1])
+                scene["{}_image".format(char[0])] = '{}assets/scenery/characters/{}.png'.format(host, char[1])
 
-            scene['bg_image'] = 'assets/scenery/backgrounds/{}.jpg'.format(bg)
-            scene['speaker_image'] = 'assets/scenery/speakers/{}.png'.format("_".join(speaker.split("_")[1::]))
+            scene['bg_image'] = '{}assets/scenery/backgrounds/{}.jpg'.format(host, bg)
+            scene['speaker_image'] = '{}assets/scenery/speakers/{}.png'.format(host, "_".join(speaker.split("_")[1::]))
 
     return scenes
 
