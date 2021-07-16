@@ -2,7 +2,7 @@ import json
 
 def style_scenes():
     # load out scenes file
-    with open("scenes.json") as jsonfile:
+    with open("updated_scenes.json") as jsonfile:
         scenes = json.load(jsonfile)
 
     host = "generalbloodsword.com/"
