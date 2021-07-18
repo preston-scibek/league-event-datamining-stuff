@@ -1,6 +1,7 @@
 [
     {
         "journal.week_1.date": "DAY 97",
+        "journal-poster": "generalbloodsword.com/assets/chapter-posters/journal-poster-week-1.png",
         "poster": "generalbloodsword.com/assets/chapter-posters/week-1.jpg",
         "journal.week_1.copy": "Wraiths and a worldwide harrowing. Life just got interesting.",
         "journal.week_1.unlock_note": "UNLOCKED",
@@ -14,6 +15,7 @@
     },
     {
         "journal.week_2.date": "DAY 111",
+        "journal-poster": "generalbloodsword.com/assets/chapter-posters/journal-poster-week-2.png",
         "poster": "generalbloodsword.com/assets/chapter-posters/week-2.jpg",
         "journal.week_2.copy": "Next stop, Ionia and Targon. When Senna and Lucian showed up, I didn't expect this...",
         "journal.week_2.unlock_note": "UNLOCKED",
@@ -27,6 +29,7 @@
     },
     {
         "journal.week_3.date": "{i18n sentinels_hub_2021.journal.week_3.date}",
+        "journal-poster": "generalbloodsword.com/assets/chapter-posters/journal-poster-week-3.png",
         "poster": "generalbloodsword.com/assets/chapter-posters/week-3.jpg",
         "journal.week_3.copy": "{i18n sentinels_hub_2021.journal.week_3.copy}",
         "journal.week_3.unlock_note": "{i18n sentinels_hub_2021.journal.week_3.unlock_note}",
@@ -40,6 +43,7 @@
     },
     {
         "journal.week_4.date": "{i18n sentinels_hub_2021.journal.week_4.date}",
+        "journal-poster": "generalbloodsword.com/assets/chapter-posters/journal-poster-week-4.png",
         "poster": "generalbloodsword.com/assets/chapter-posters/week-4.jpg",
         "journal.week_4.copy": "{i18n sentinels_hub_2021.journal.week_4.copy}",
         "journal.week_4.unlock_note": "{i18n sentinels_hub_2021.journal.week_4.unlock_note}",
