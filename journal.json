@@ -6,12 +6,7 @@
         "journal.week_1.copy": "Wraiths and a worldwide harrowing. Life just got interesting.",
         "journal.week_1.unlock_note": "UNLOCKED",
         "journal.week_1.upgrade_name": "Chapter I",
-        "journal.week_1.upgrade_description": "Click to view",
-        "journal.key_upgrade1.date": "{i18n sentinels_hub_2021.journal.key_upgrade1.date}",
-        "journal.key_upgrade1.copy": "{i18n sentinels_hub_2021.journal.key_upgrade1.copy}",
-        "journal.key_upgrade1.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade1.unlock_note}",
-        "journal.key_upgrade1.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade1.upgrade_name}",
-        "journal.key_upgrade1.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade1.upgrade_description}"
+        "journal.week_1.upgrade_description": "Click to view"
     },
     {
         "journal.week_2.date": "DAY 111",
@@ -20,12 +15,7 @@
         "journal.week_2.copy": "Next stop, Ionia and Targon. When Senna and Lucian showed up, I didn't expect this...",
         "journal.week_2.unlock_note": "UNLOCKED",
         "journal.week_2.upgrade_name": "Chapter II",
-        "journal.week_2.upgrade_description": "Click to view",
-        "journal.key_upgrade2.date": "{i18n sentinels_hub_2021.journal.key_upgrade2.date}",
-        "journal.key_upgrade2.copy": "{i18n sentinels_hub_2021.journal.key_upgrade2.copy}",
-        "journal.key_upgrade2.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade2.unlock_note}",
-        "journal.key_upgrade2.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade2.upgrade_name}",
-        "journal.key_upgrade2.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade2.upgrade_description}"
+        "journal.week_2.upgrade_description": "Click to view"
     },
     {
         "journal.week_3.date": "{i18n sentinels_hub_2021.journal.week_3.date}",
@@ -34,12 +24,7 @@
         "journal.week_3.copy": "{i18n sentinels_hub_2021.journal.week_3.copy}",
         "journal.week_3.unlock_note": "{i18n sentinels_hub_2021.journal.week_3.unlock_note}",
         "journal.week_3.upgrade_name": "{i18n sentinels_hub_2021.journal.week_3.upgrade_name}",
-        "journal.week_3.upgrade_description": "{i18n sentinels_hub_2021.journal.week_3.upgrade_description}",
-        "journal.key_upgrade3.date": "{i18n sentinels_hub_2021.journal.key_upgrade3.date}",
-        "journal.key_upgrade3.copy": "{i18n sentinels_hub_2021.journal.key_upgrade3.copy}",
-        "journal.key_upgrade3.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade3.unlock_note}",
-        "journal.key_upgrade3.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade3.upgrade_name}",
-        "journal.key_upgrade3.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade3.upgrade_description}"
+        "journal.week_3.upgrade_description": "{i18n sentinels_hub_2021.journal.week_3.upgrade_description}"
     },
     {
         "journal.week_4.date": "{i18n sentinels_hub_2021.journal.week_4.date}",
@@ -48,12 +33,7 @@
         "journal.week_4.copy": "{i18n sentinels_hub_2021.journal.week_4.copy}",
         "journal.week_4.unlock_note": "{i18n sentinels_hub_2021.journal.week_4.unlock_note}",
         "journal.week_4.upgrade_name": "{i18n sentinels_hub_2021.journal.week_4.upgrade_name}",
-        "journal.week_4.upgrade_description": "{i18n sentinels_hub_2021.journal.week_4.upgrade_description}",
-        "journal.key_upgrade4.date": "{i18n sentinels_hub_2021.journal.key_upgrade4.date}",
-        "journal.key_upgrade4.copy": "{i18n sentinels_hub_2021.journal.key_upgrade4.copy}",
-        "journal.key_upgrade4.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade4.unlock_note}",
-        "journal.key_upgrade4.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade4.upgrade_name}",
-        "journal.key_upgrade4.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade4.upgrade_description}"
+        "journal.week_4.upgrade_description": "{i18n sentinels_hub_2021.journal.week_4.upgrade_description}"
     },
     {
         "journal.demacia.copy": "Demacia is safe now. Or as safe as any place can be while a Harrowing's still happening. We cleared out a bunch of wraiths. I met a dragon. And Vayne. Not sure which one's scarier.",
@@ -121,5 +101,89 @@
     },
     {
         "journal.event_begin.copy": "After all this time... people! Two new sentinels. Lucian and Senna seemed preoccupied by this \\\"Harrowing\\\" they talked about. That doesn't sound good..."
+    },
+    {
+        "journal.key_upgrade.a1.date": "{i18n sentinels_hub_2021.journal.key_upgrade.a1.date}",
+        "journal.key_upgrade.a1.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.a1.copy}",
+        "journal.key_upgrade.a1.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.a1.unlock_note}",
+        "journal.key_upgrade.a1.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.a1.upgrade_name}",
+        "journal.key_upgrade.a1.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.a1.upgrade_description}"
+    },
+    {
+        "journal.key_upgrade.a2.date": "{i18n sentinels_hub_2021.journal.key_upgrade.a2.date}",
+        "journal.key_upgrade.a2.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.a2.copy}",
+        "journal.key_upgrade.a2.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.a2.unlock_note}",
+        "journal.key_upgrade.a2.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.a2.upgrade_name}",
+        "journal.key_upgrade.a2.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.a2.upgrade_description}"
+    },
+    {
+        "journal.key_upgrade.a3.date": "{i18n sentinels_hub_2021.journal.key_upgrade.a3.date}",
+        "journal.key_upgrade.a3.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.a3.copy}",
+        "journal.key_upgrade.a3.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.a3.unlock_note}",
+        "journal.key_upgrade.a3.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.a3.upgrade_name}",
+        "journal.key_upgrade.a3.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.a3.upgrade_description}"
+    },
+    {
+        "journal.key_upgrade.a4.date": "{i18n sentinels_hub_2021.journal.key_upgrade.a4.date}",
+        "journal.key_upgrade.a4.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.a4.copy}",
+        "journal.key_upgrade.a4.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.a4.unlock_note}",
+        "journal.key_upgrade.a4.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.a4.upgrade_name}",
+        "journal.key_upgrade.a4.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.a4.upgrade_description}"
+    },
+    {
+        "journal.key_upgrade.b1.date": "{i18n sentinels_hub_2021.journal.key_upgrade.b1.date}",
+        "journal.key_upgrade.b1.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.b1.copy}",
+        "journal.key_upgrade.b1.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.b1.unlock_note}",
+        "journal.key_upgrade.b1.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.b1.upgrade_name}",
+        "journal.key_upgrade.b1.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.b1.upgrade_description}"
+    },
+    {
+        "journal.key_upgrade.b2.date": "{i18n sentinels_hub_2021.journal.key_upgrade.b2.date}",
+        "journal.key_upgrade.b2.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.b2.copy}",
+        "journal.key_upgrade.b2.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.b2.unlock_note}",
+        "journal.key_upgrade.b2.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.b2.upgrade_name}",
+        "journal.key_upgrade.b2.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.b2.upgrade_description}"
+    },
+    {
+        "journal.key_upgrade.b3.date": "{i18n sentinels_hub_2021.journal.key_upgrade.b3.date}",
+        "journal.key_upgrade.b3.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.b3.copy}",
+        "journal.key_upgrade.b3.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.b3.unlock_note}",
+        "journal.key_upgrade.b3.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.b3.upgrade_name}",
+        "journal.key_upgrade.b3.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.b3.upgrade_description}"
+    },
+    {
+        "journal.key_upgrade.b4.date": "{i18n sentinels_hub_2021.journal.key_upgrade.b4.date}",
+        "journal.key_upgrade.b4.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.b4.copy}",
+        "journal.key_upgrade.b4.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.b4.unlock_note}",
+        "journal.key_upgrade.b4.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.b4.upgrade_name}",
+        "journal.key_upgrade.b4.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.b4.upgrade_description}"
+    },
+    {
+        "journal.key_upgrade.b5.date": "{i18n sentinels_hub_2021.journal.key_upgrade.b5.date}",
+        "journal.key_upgrade.b5.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.b5.copy}",
+        "journal.key_upgrade.b5.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.b5.unlock_note}",
+        "journal.key_upgrade.b5.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.b5.upgrade_name}",
+        "journal.key_upgrade.b5.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.b5.upgrade_description}"
+    },
+    {
+        "journal.key_upgrade.b6.date": "{i18n sentinels_hub_2021.journal.key_upgrade.b6.date}",
+        "journal.key_upgrade.b6.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.b6.copy}",
+        "journal.key_upgrade.b6.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.b6.unlock_note}",
+        "journal.key_upgrade.b6.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.b6.upgrade_name}",
+        "journal.key_upgrade.b6.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.b6.upgrade_description}"
+    },
+    {
+        "journal.key_upgrade.b7.date": "{i18n sentinels_hub_2021.journal.key_upgrade.b7.date}",
+        "journal.key_upgrade.b7.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.b7.copy}",
+        "journal.key_upgrade.b7.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.b7.unlock_note}",
+        "journal.key_upgrade.b7.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.b7.upgrade_name}",
+        "journal.key_upgrade.b7.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.b7.upgrade_description}"
+    },
+    {
+        "journal.key_upgrade.b8.date": "{i18n sentinels_hub_2021.journal.key_upgrade.b8.date}",
+        "journal.key_upgrade.b8.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.b8.copy}",
+        "journal.key_upgrade.b8.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.b8.unlock_note}",
+        "journal.key_upgrade.b8.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.b8.upgrade_name}",
+        "journal.key_upgrade.b8.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.b8.upgrade_description}"
     }
 ]

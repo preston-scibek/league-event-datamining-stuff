@@ -82,11 +82,6 @@ def execute_selenium(driver_path='./chromedriver.exe', headless=True):
         "journal.week_{}.unlock_note",
         "journal.week_{}.upgrade_name",
         "journal.week_{}.upgrade_description",
-        "journal.key_upgrade{}.date",
-        "journal.key_upgrade{}.copy",
-        "journal.key_upgrade{}.unlock_note",
-        "journal.key_upgrade{}.upgrade_name",
-        "journal.key_upgrade{}.upgrade_description"
     ]
     journal_entries = []
     for i in range(1, 5):
@@ -101,6 +96,38 @@ def execute_selenium(driver_path='./chromedriver.exe', headless=True):
             temp_dict['journal-poster'] = '{}assets/chapter-posters/journal-poster-week-{}.png'.format(HOST, i)
             temp_dict['poster'] = '{}assets/chapter-posters/week-{}.jpg'.format(HOST, i)
         journal_entries.append(temp_dict)
+
+
+    keys = [
+        "journal.key_upgrade.{}.date",
+        "journal.key_upgrade.{}.copy",
+        "journal.key_upgrade.{}.unlock_note",
+        "journal.key_upgrade.{}.upgrade_name",
+        "journal.key_upgrade.{}.upgrade_description",
+    ]
+    key_upgrade_entires = []
+    for i in range(1, 5):
+        temp_dict = {}
+        for item in keys:
+            copy = item.format("a{}".format(i))
+            driver.execute_script("console.log(window.dehashFunction(\"{}\"));".format(copy))
+            # grab the last browser output which is our dialogue
+            dialogue = driver.get_log('browser')[-1]
+            # get the actuall log mesasage then strip out irrelevant shit
+            temp_dict[copy] = " ".join(dialogue['message'].split(" ")[2::]).strip("\"")
+        key_upgrade_entires.append(temp_dict)
+
+    for i in range(1, 9):
+        temp_dict = {}
+        for item in keys:
+            copy = item.format("b{}".format(i))
+            driver.execute_script("console.log(window.dehashFunction(\"{}\"));".format(copy))
+            # grab the last browser output which is our dialogue
+            dialogue = driver.get_log('browser')[-1]
+            # get the actuall log mesasage then strip out irrelevant shit
+            temp_dict[copy] = " ".join(dialogue['message'].split(" ")[2::]).strip("\"")
+        key_upgrade_entires.append(temp_dict)
+
 
     # bbBi var f , for the rest of these, i cba to add all the cases right now
     champs = ['olaf', 'graves', 'gwen', 'lucian', 'senna', 'riven', 'irelia', 'akshan', 'pyke', 'vayne', 'diana']
@@ -119,7 +146,7 @@ def execute_selenium(driver_path='./chromedriver.exe', headless=True):
 
     driver.quit()
 
-    return scenes, journal_entries, champ_entries, region_entries, misc_entries
+    return scenes, journal_entries, champ_entries, region_entries, misc_entries, key_upgrade_entires
 
 def style_scenes(scenes):
     host = HOST
@@ -165,15 +192,15 @@ def hijack_page():
 
 if __name__ == "__main__":
     hijack_page()
-    new_scenes, journal_entries, champ_entries, region_entries, misc_entries = execute_selenium()
+    new_scenes, journal_entries, champ_entries, region_entries, misc_entries, key_upgrade_entires = execute_selenium()
     
     # write the output to the file
     new_scenes = style_scenes(new_scenes)
-    with open('update_scenes_styled.json', 'w') as jfile:
-    	json.dump(new_scenes, jfile, indent=4)
+    with open('updated_scenes_styled.json', 'w', encoding="utf-8") as jfile:
+    	json.dump(new_scenes, jfile, indent=4, ensure_ascii=False)
     # write the output to the file
-    with open('journal.json', 'w') as jfile:
-        json.dump(journal_entries + region_entries + [misc_entries], jfile, indent=4)
+    with open('journal.json', 'w', encoding="utf-8") as jfile:
+        json.dump(journal_entries + region_entries + [misc_entries] + key_upgrade_entires, jfile, indent=4, ensure_ascii=False)
     # write the output to the file
-    with open('champ_entries.json', 'w') as jfile:
-        json.dump(champ_entries, jfile, indent=4)
+    with open('champ_entries.json', 'w', encoding="utf-8") as jfile:
+        json.dump(champ_entries, jfile, indent=4, ensure_ascii=False)

@@ -18,5 +18,5 @@ def get_lines():
 
 if __name__ == "__main__":
 	res_json = get_lines()
-	with open('lines.json', 'w') as jfile:
-		json.dump(res_json, jfile, indent=4)
+	with open('lines.json', 'w', encoding='utf-8') as jfile:
+		json.dump(res_json, jfile, indent=4, ensure_ascii=False)
