@@ -116,8 +116,7 @@ def execute_selenium(driver_path='./chromedriver.exe', headless=True):
             # get the actuall log mesasage then strip out irrelevant shit
             temp_dict[copy] = " ".join(dialogue['message'].split(" ")[2::]).strip("\"")
         champ_entries.append(temp_dict)
-    while True:
-        pass
+
     driver.quit()
 
     return scenes, journal_entries, champ_entries, region_entries, misc_entries

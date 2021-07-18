@@ -7101,7 +7101,7 @@
             "speaker": "Lucian",
             "dialogueKey": "prologue_demacia_s1_scene_60_text",
             "nextSlug": "70",
-            "dialogue": "[$rClientAudio] createGetAssetsPromise\" Error: Timed out: Assets category \"shq2021-audio\"\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:10431:50\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:26336:41",
+            "dialogue": "Senna, what\u2019s wrong?",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/senna-sad.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/lucian-surprise.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelshq-exterior.jpg",
@@ -7173,7 +7173,7 @@
                 {
                     "dialogueKey": "prologue_demacia_s1_scene_100_responseB",
                     "nextSlug": "110b_10",
-                    "dialogue": "[$rClientAudio] createGetAssetsPromise\" Error: Timed out: Assets category \"shq2021-audio\"\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:10431:50\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:26336:41"
+                    "dialogue": "Sounds like quite a friend. I\u2019m sorry for your loss."
                 }
             ],
             "dialogue": "When I fired my gun, she wasn\u2019t calming my nerves.",
