@@ -98,7 +98,8 @@ def execute_selenium(driver_path='./chromedriver.exe', headless=True):
             dialogue = driver.get_log('browser')[-1]
             # get the actuall log mesasage then strip out irrelevant shit
             temp_dict[copy] = " ".join(dialogue['message'].split(" ")[2::]).strip("\"")
-            temp_dict['poster'] = '{}assets/chapter-posters/journal-poster-week{}'.format(HOST, i)
+            temp_dict['poster'] = '{}assets/chapter-posters/journal-poster-week-{}.png'.format(HOST, i)
+            temp_dict['poster'] = '{}assets/chapter-posters/week-{}.jpg'.format(HOST, i)
         journal_entries.append(temp_dict)
 
     # bbBi var f , for the rest of these, i cba to add all the cases right now
