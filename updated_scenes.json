@@ -5193,7 +5193,7 @@
             "uiMode": "sentinel",
             "dialogueKey": "ionia_s1_scene_360_text",
             "nextSlug": "370",
-            "dialogue": "[$rClientAudio] createGetAssetsPromise\" Error: Timed out: Assets category \"shq2021-audio\"\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:10427:50\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:26332:41"
+            "dialogue": "Is she always this spacey?"
         },
         {
             "slug": "370",
@@ -5381,7 +5381,7 @@
             "speaker": "Narrator",
             "dialogueKey": "ionia_s1_scene_500_text",
             "nextSlug": "510",
-            "dialogue": "[Karma pockets the silver flower as she prepares to flee.]"
+            "dialogue": "[$rClientAudio] createGetAssetsPromise\" Error: Timed out: Assets category \"shq2021-audio\"\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:10427:50\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:26332:41"
         },
         {
             "slug": "510",
@@ -5455,7 +5455,7 @@
             "speaker": "Gwen",
             "dialogueKey": "ionia_s1_scene_300b_10_text",
             "nextSlug": "310",
-            "dialogue": "I could, but\u2026 it won\u2019t hold forever. I\u2019m not strong enough yet!"
+            "dialogue": "[$rClientAudio] createGetAssetsPromise\" Error: Timed out: Assets category \"shq2021-audio\"\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:10427:50\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:26332:41"
         },
         {
             "slug": "300c_10",

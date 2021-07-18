@@ -1,0 +1,121 @@
+[
+    {
+        "journal.week_1.date": "DAY 97",
+        "poster": "generalbloodsword.com/assets/chapter-posters/journal-poster-week1",
+        "journal.week_1.copy": "Wraiths and a worldwide harrowing. Life just got interesting.",
+        "journal.week_1.unlock_note": "UNLOCKED",
+        "journal.week_1.upgrade_name": "Chapter I",
+        "journal.week_1.upgrade_description": "Click to view",
+        "journal.key_upgrade1.date": "{i18n sentinels_hub_2021.journal.key_upgrade1.date}",
+        "journal.key_upgrade1.copy": "{i18n sentinels_hub_2021.journal.key_upgrade1.copy}",
+        "journal.key_upgrade1.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade1.unlock_note}",
+        "journal.key_upgrade1.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade1.upgrade_name}",
+        "journal.key_upgrade1.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade1.upgrade_description}"
+    },
+    {
+        "journal.week_2.date": "DAY 111",
+        "poster": "generalbloodsword.com/assets/chapter-posters/journal-poster-week2",
+        "journal.week_2.copy": "Next stop, Ionia and Targon. When Senna and Lucian showed up, I didn't expect this...",
+        "journal.week_2.unlock_note": "UNLOCKED",
+        "journal.week_2.upgrade_name": "Chapter II",
+        "journal.week_2.upgrade_description": "Click to view",
+        "journal.key_upgrade2.date": "{i18n sentinels_hub_2021.journal.key_upgrade2.date}",
+        "journal.key_upgrade2.copy": "{i18n sentinels_hub_2021.journal.key_upgrade2.copy}",
+        "journal.key_upgrade2.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade2.unlock_note}",
+        "journal.key_upgrade2.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade2.upgrade_name}",
+        "journal.key_upgrade2.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade2.upgrade_description}"
+    },
+    {
+        "journal.week_3.date": "{i18n sentinels_hub_2021.journal.week_3.date}",
+        "poster": "generalbloodsword.com/assets/chapter-posters/journal-poster-week3",
+        "journal.week_3.copy": "{i18n sentinels_hub_2021.journal.week_3.copy}",
+        "journal.week_3.unlock_note": "{i18n sentinels_hub_2021.journal.week_3.unlock_note}",
+        "journal.week_3.upgrade_name": "{i18n sentinels_hub_2021.journal.week_3.upgrade_name}",
+        "journal.week_3.upgrade_description": "{i18n sentinels_hub_2021.journal.week_3.upgrade_description}",
+        "journal.key_upgrade3.date": "{i18n sentinels_hub_2021.journal.key_upgrade3.date}",
+        "journal.key_upgrade3.copy": "{i18n sentinels_hub_2021.journal.key_upgrade3.copy}",
+        "journal.key_upgrade3.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade3.unlock_note}",
+        "journal.key_upgrade3.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade3.upgrade_name}",
+        "journal.key_upgrade3.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade3.upgrade_description}"
+    },
+    {
+        "journal.week_4.date": "{i18n sentinels_hub_2021.journal.week_4.date}",
+        "poster": "generalbloodsword.com/assets/chapter-posters/journal-poster-week4",
+        "journal.week_4.copy": "{i18n sentinels_hub_2021.journal.week_4.copy}",
+        "journal.week_4.unlock_note": "{i18n sentinels_hub_2021.journal.week_4.unlock_note}",
+        "journal.week_4.upgrade_name": "{i18n sentinels_hub_2021.journal.week_4.upgrade_name}",
+        "journal.week_4.upgrade_description": "{i18n sentinels_hub_2021.journal.week_4.upgrade_description}",
+        "journal.key_upgrade4.date": "{i18n sentinels_hub_2021.journal.key_upgrade4.date}",
+        "journal.key_upgrade4.copy": "{i18n sentinels_hub_2021.journal.key_upgrade4.copy}",
+        "journal.key_upgrade4.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade4.unlock_note}",
+        "journal.key_upgrade4.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade4.upgrade_name}",
+        "journal.key_upgrade4.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade4.upgrade_description}"
+    },
+    {
+        "journal.demacia.copy": "Demacia is safe now. Or as safe as any place can be while a Harrowing's still happening. We cleared out a bunch of wraiths. I met a dragon. And Vayne. Not sure which one's scarier.",
+        "journal.demacia.date": "DAY 101"
+    },
+    {
+        "journal.noxus_a.copy": "Draven finally answers the question: What's worse than an egomaniac? An egomaniac surrounded by wraiths. Glad we met Riven, though. She sure was handy during the gladiator fight. Well, the second one.",
+        "journal.noxus_a.date": "DAY 105"
+    },
+    {
+        "journal.noxus_b.copy": "\\\"I hope the next sentinel's somewhere warmer than the Freljord,\\\" I said. Note to self: specify no arena combat for next time. And no fetter! Nice of Riven to help us out, though.",
+        "journal.noxus_b.date": "DAY 107"
+    },
+    {
+        "journal.freljord_a.copy": "Ran across a very strange man in the Freljord. Not sure what he smells like, but it's not great. And he's going to be a sentinel? I hope the next one we recruit's from somewhere warmer...",
+        "journal.freljord_a.date": "DAY 105"
+    },
+    {
+        "journal.freljord_b.copy": "We made it through the Freljord! Hope the next place we go is warmer. We got a new sentinel, too. Riven doesn't seem impressed by his smell.",
+        "journal.freljord_b.date": "DAY 107"
+    },
+    {
+        "journal.ionia_a.copy": "Wish I'd had a gun or something when facing down the all-powerful Spirit of Ionia. Anything besides this Wayfinder. Still, we understand a little more about how to stop this now. Well, Senna does. I just go where they tell me.",
+        "journal.ionia_a.date": "DAY 112"
+    },
+    {
+        "journal.ionia_b.copy": "I wonder if Diana ever expected to be this far from Mount Targon? I certainly didn't expect to be this far from headquarters... but Ionia needs me. Well, the sentinels. It sounds like Senna has a better idea of what we're facing now.",
+        "journal.ionia_b.date": "DAY 115"
+    },
+    {
+        "journal.targon_a.copy": "Starting to think they only keep me around for my Wayfinder. If Lucian wanted to trade it for one of his guns, I wouldn't complain. Would've been nice to have one of those when staring down the Aspect of War.",
+        "journal.targon_a.date": "DAY 112"
+    },
+    {
+        "journal.targon_b.copy": "Something tells me Irelia didn't expect another holy pilgrimage right after the last one. She probably could have done without the whole \\\"confronting the Aspect of War\\\" thing. I know I could have!",
+        "journal.targon_b.date": "DAY 115"
+    },
+    {
+        "journal.shurima.copy": "{i18n sentinels_hub_2021.journal.shurima.copy}",
+        "journal.shurima.date": "{i18n sentinels_hub_2021.journal.shurima.date}"
+    },
+    {
+        "journal.piltover_zaun.copy": "{i18n sentinels_hub_2021.journal.piltover_zaun.copy}",
+        "journal.piltover_zaun.date": "{i18n sentinels_hub_2021.journal.piltover_zaun.date}"
+    },
+    {
+        "journal.bilgewater_a.copy": "{i18n sentinels_hub_2021.journal.bilgewater_a.copy}",
+        "journal.bilgewater_a.date": "{i18n sentinels_hub_2021.journal.bilgewater_a.date}"
+    },
+    {
+        "journal.bilgewater_b.copy": "{i18n sentinels_hub_2021.journal.bilgewater_b.copy}",
+        "journal.bilgewater_b.date": "{i18n sentinels_hub_2021.journal.bilgewater_b.date}"
+    },
+    {
+        "journal.ixtal_a.copy": "{i18n sentinels_hub_2021.journal.ixtal_a.copy}",
+        "journal.ixtal_a.date": "{i18n sentinels_hub_2021.journal.ixtal_a.date}"
+    },
+    {
+        "journal.ixtal_b.copy": "{i18n sentinels_hub_2021.journal.ixtal_b.copy}",
+        "journal.ixtal_b.date": "{i18n sentinels_hub_2021.journal.ixtal_b.date}"
+    },
+    {
+        "journal.shadow_isles.copy": "{i18n sentinels_hub_2021.journal.shadow_isles.copy}",
+        "journal.shadow_isles.date": "{i18n sentinels_hub_2021.journal.shadow_isles.date}"
+    },
+    {
+        "journal.event_begin.copy": "After all this time... people! Two new sentinels. Lucian and Senna seemed preoccupied by this \\\"Harrowing\\\" they talked about. That doesn't sound good..."
+    }
+]

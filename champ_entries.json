@@ -1,0 +1,57 @@
+[
+    {
+        "sentinel_olaf.profile.subtitle": "The BERSERKER SENTINEL",
+        "sentinel_olaf.profile.v1.mechanics_summary": "Destroy Structures, As a Team",
+        "sentinel_olaf.profile.v1.mechanics_details": "Structures Destroyed, As a Team"
+    },
+    {
+        "sentinel_graves.profile.subtitle": "{i18n sentinels_hub_2021.sentinel_graves.profile.subtitle}",
+        "sentinel_graves.profile.v1.mechanics_summary": "{i18n sentinels_hub_2021.sentinel_graves.profile.v1.mechanics_summary}",
+        "sentinel_graves.profile.v1.mechanics_details": "{i18n sentinels_hub_2021.sentinel_graves.profile.v1.mechanics_details}"
+    },
+    {
+        "sentinel_gwen.profile.subtitle": "The HALLOWED SEAMSTRESS",
+        "sentinel_gwen.profile.v1.mechanics_summary": "Get Vision Score",
+        "sentinel_gwen.profile.v1.mechanics_details": "Vision Score"
+    },
+    {
+        "sentinel_lucian.profile.subtitle": "The PURIFIER SENTINEL",
+        "sentinel_lucian.profile.v1.mechanics_summary": "Get Kills",
+        "sentinel_lucian.profile.v1.mechanics_details": "Kills"
+    },
+    {
+        "sentinel_senna.profile.subtitle": "The REDEEMER SENTINEL",
+        "sentinel_senna.profile.v1.mechanics_summary": "Get Assists",
+        "sentinel_senna.profile.v1.mechanics_details": "Assists"
+    },
+    {
+        "sentinel_riven.profile.subtitle": "The EXILE SENTINEL",
+        "sentinel_riven.profile.v1.mechanics_summary": "Do Damage to Structures",
+        "sentinel_riven.profile.v1.mechanics_details": "Structure Damage Done"
+    },
+    {
+        "sentinel_irelia.profile.subtitle": "The BLADE DANCER SENTINEL",
+        "sentinel_irelia.profile.v1.mechanics_summary": "Avoid Dying",
+        "sentinel_irelia.profile.v1.mechanics_details": "Deaths"
+    },
+    {
+        "sentinel_akshan.profile.subtitle": "{i18n sentinels_hub_2021.sentinel_akshan.profile.subtitle}",
+        "sentinel_akshan.profile.v1.mechanics_summary": "{i18n sentinels_hub_2021.sentinel_akshan.profile.v1.mechanics_summary}",
+        "sentinel_akshan.profile.v1.mechanics_details": "{i18n sentinels_hub_2021.sentinel_akshan.profile.v1.mechanics_details}"
+    },
+    {
+        "sentinel_pyke.profile.subtitle": "{i18n sentinels_hub_2021.sentinel_pyke.profile.subtitle}",
+        "sentinel_pyke.profile.v1.mechanics_summary": "{i18n sentinels_hub_2021.sentinel_pyke.profile.v1.mechanics_summary}",
+        "sentinel_pyke.profile.v1.mechanics_details": "{i18n sentinels_hub_2021.sentinel_pyke.profile.v1.mechanics_details}"
+    },
+    {
+        "sentinel_vayne.profile.subtitle": "The NIGHT HUNTER SENTINEL",
+        "sentinel_vayne.profile.v1.mechanics_summary": "Kill Epic Monsters",
+        "sentinel_vayne.profile.v1.mechanics_details": "Epic Monsters Killed"
+    },
+    {
+        "sentinel_diana.profile.subtitle": "The MOON SENTINEL",
+        "sentinel_diana.profile.v1.mechanics_summary": "Get Crowd Control Score",
+        "sentinel_diana.profile.v1.mechanics_details": "Crowd Control Score"
+    }
+]

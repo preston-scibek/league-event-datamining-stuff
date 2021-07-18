@@ -8,6 +8,7 @@ from selenium.webdriver.firefox.options import Options
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
+HOST = "generalbloodsword.com/"
 
 def execute_selenium(driver_path='./chromedriver.exe', headless=True):
     # enable browser logging
@@ -21,7 +22,6 @@ def execute_selenium(driver_path='./chromedriver.exe', headless=True):
     # load out scenes file
     with open("scenes.json") as jsonfile:
         scenes = json.load(jsonfile)
-
     # loop through the arrays
     for region in scenes:
         for scene in region:
@@ -47,7 +47,94 @@ def execute_selenium(driver_path='./chromedriver.exe', headless=True):
                     # get the actuall log mesasage then strip out irrelevant shit
                     response['dialogue'] = " ".join(dialogue['message'].split(" ")[2::]).strip("\"")
 
+        
+    miscs = ['journal.event_begin.copy']
+    misc_entries = {}
+    for misc in miscs:
+        driver.execute_script("console.log(window.dehashFunction(\"{}\"));".format(misc))
+        # grab the last browser output which is our dialogue
+        dialogue = driver.get_log('browser')[-1]
+        # get the actuall log mesasage then strip out irrelevant shit
+        misc_entries[misc] = " ".join(dialogue['message'].split(" ")[2::]).strip("\"")
+
+
+    regions = ['demacia', 'noxus_a', 'noxus_b', 
+        'freljord_a', 'freljord_b', 'ionia_a', 'ionia_b', 'targon_a', 'targon_b', 
+        'shurima', 'piltover_zaun', 'bilgewater_a', 'bilgewater_b', 'ixtal_a', 'ixtal_b',
+        'shadow_isles']
+    things = ["journal.{}.copy", "journal.{}.date"]
+    region_entries = []
+    for region in regions:
+        temp_dict = {}
+        for item in things:
+            copy = item.format(region)
+            driver.execute_script("console.log(window.dehashFunction(\"{}\"));".format(copy))
+            # grab the last browser output which is our dialogue
+            dialogue = driver.get_log('browser')[-1]
+            # get the actuall log mesasage then strip out irrelevant shit
+            temp_dict[copy] = " ".join(dialogue['message'].split(" ")[2::]).strip("\"")
+        region_entries.append(temp_dict)
+
+
+    keys = [
+        "journal.week_{}.date",
+        "journal.week_{}.copy",
+        "journal.week_{}.unlock_note",
+        "journal.week_{}.upgrade_name",
+        "journal.week_{}.upgrade_description",
+        "journal.key_upgrade{}.date",
+        "journal.key_upgrade{}.copy",
+        "journal.key_upgrade{}.unlock_note",
+        "journal.key_upgrade{}.upgrade_name",
+        "journal.key_upgrade{}.upgrade_description"
+    ]
+    journal_entries = []
+    for i in range(1, 5):
+        temp_dict = {}
+        for item in keys:
+            copy = item.format(i)
+            driver.execute_script("console.log(window.dehashFunction(\"{}\"));".format(copy))
+            # grab the last browser output which is our dialogue
+            dialogue = driver.get_log('browser')[-1]
+            # get the actuall log mesasage then strip out irrelevant shit
+            temp_dict[copy] = " ".join(dialogue['message'].split(" ")[2::]).strip("\"")
+            temp_dict['poster'] = '{}assets/chapter-posters/journal-poster-week{}'.format(HOST, i)
+        journal_entries.append(temp_dict)
+
+    # bbBi var f , for the rest of these, i cba to add all the cases right now
+    champs = ['olaf', 'graves', 'gwen', 'lucian', 'senna', 'riven', 'irelia', 'akshan', 'pyke', 'vayne', 'diana']
+    sentinels = ['sentinel_{}.profile.subtitle', 'sentinel_{}.profile.v1.mechanics_summary', 'sentinel_{}.profile.v1.mechanics_details']
+    champ_entries = []
+    for champ in champs:
+        temp_dict = {}
+        for item in sentinels:
+            copy = item.format(champ)
+            driver.execute_script("console.log(window.dehashFunction(\"{}\"));".format(copy))
+            # grab the last browser output which is our dialogue
+            dialogue = driver.get_log('browser')[-1]
+            # get the actuall log mesasage then strip out irrelevant shit
+            temp_dict[copy] = " ".join(dialogue['message'].split(" ")[2::]).strip("\"")
+        champ_entries.append(temp_dict)
+    while True:
+        pass
     driver.quit()
+
+    return scenes, journal_entries, champ_entries, region_entries, misc_entries
+
+def style_scenes(scenes):
+    host = HOST
+    
+    for region in scenes:
+        for scene in region:
+            chars = [("char{}".format(x), scene.get("char{}".format(x))) for x in range(1,5) if scene.get("char{}".format(x)) is not None]
+            speaker = scene.get('speakerKey', '')
+            bg = scene.get('bg', '')
+
+            for char in chars:
+                scene["{}_image".format(char[0])] = '{}assets/scenery/characters/{}.png'.format(host, char[1])
+
+            scene['bg_image'] = '{}assets/scenery/backgrounds/{}.jpg'.format(host, bg)
+            scene['speaker_image'] = '{}assets/scenery/speakers/{}.png'.format(host, "_".join(speaker.split("_")[1::]))
 
     return scenes
 
@@ -78,8 +165,15 @@ def hijack_page():
 
 if __name__ == "__main__":
     hijack_page()
-    new_scenes = execute_selenium()
+    new_scenes, journal_entries, champ_entries, region_entries, misc_entries = execute_selenium()
     
     # write the output to the file
-    with open('updated_scenes.json', 'w') as jfile:
+    new_scenes = style_scenes(new_scenes)
+    with open('update_scenes_styled.json', 'w') as jfile:
     	json.dump(new_scenes, jfile, indent=4)
+    # write the output to the file
+    with open('journal.json', 'w') as jfile:
+        json.dump(journal_entries + region_entries + [misc_entries], jfile, indent=4)
+    # write the output to the file
+    with open('champ_entries.json', 'w') as jfile:
+        json.dump(champ_entries, jfile, indent=4)

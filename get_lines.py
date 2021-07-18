@@ -11,7 +11,7 @@ def get_lines():
 	scripts = soup.find_all('script', attrs={"type": "text/i18n"})
 	res_json = {}
 	for script in scripts:
-		text = script.text
+		text = script.string
 		_id = script.get('id')
 		res_json[_id] = text
 	return res_json

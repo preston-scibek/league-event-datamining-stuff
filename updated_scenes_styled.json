@@ -6616,7 +6616,7 @@
             "uiMode": "sentinel",
             "dialogueKey": "ionia_s1_scene_360_text",
             "nextSlug": "370",
-            "dialogue": "[$rClientAudio] createGetAssetsPromise\" Error: Timed out: Assets category \"shq2021-audio\"\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:10427:50\n    at file:///C:/Dev/ruination_event_stuff/injected_index.html:26332:41",
+            "dialogue": "Is she always this spacey?",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-vayne-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-ionia-altar.jpg",
             "speaker_image": "generalbloodsword.com/assets/scenery/speakers/vayne.png"
