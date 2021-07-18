@@ -165,7 +165,6 @@ def hijack_page():
 
 if __name__ == "__main__":
     hijack_page()
-    exit()
     new_scenes, journal_entries, champ_entries, region_entries, misc_entries = execute_selenium()
     
     # write the output to the file
