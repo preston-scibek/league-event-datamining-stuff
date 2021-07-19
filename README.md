@@ -20,8 +20,8 @@ powershell `python ./ggez.py`
 
 ### Requires
 dist-modified.js  
-scenes.json
-update_scenes_styled.json - added in image assets (credit to u/LordredstoneNr1 for these)  
+scenes.json  
+updated_scenes_styled.json - added in image assets (credit to u/LordredstoneNr1 for these)  
 `pip install -r requirements.txt`  
 
 ## FILES
@@ -32,6 +32,10 @@ scenes.json - json file storing the results
 speakers.json - json file storing the speakers  
 characters.json - json file storing the characters that show up  
 assets.json - json file with the asset mapping - https://lolstatic-a.akamaihd.net/frontpage/apps/prod/sentinels-hub-2021/en_US/08edf12f55c2dfb944d448da4a234b384321ec73  
+journal.json - rookie's jounral converted to json  
+partial_revhash.json - file containing a partial reverse hash table for the lines  
+lines_dehashed.json - file containing the lines for the above reverse hash table  
+champ_entries.json - file containing the json for the characters (incomplete)
 
 ### JS
 decode.js - base64 decode of the dialogue mapping  
@@ -42,6 +46,11 @@ dist-modified.js - our modified version of riots dist.js to utilize the hashing 
 
 get_lines.py - pulls the dialogue lines from riot  
 get_speakers.py - writes the lists of speakers/characters to json files  
+fix_hashes.py - loops through updated_scenes_styled.json and ensures the dehashed values are accurated  
+dehash_lines.py - takes a cmdline argument, appends the approrriate data, converts it to its md5 hash and returns the line associated with it  
+convert_hashed_to_dehashed.py - adhoc function to convert a set of strings to lines given their hashes  
+style_scenes.py - update scenes with assets  
+
 
 ### HTML
 decode.html - simple html file to run decode.js
