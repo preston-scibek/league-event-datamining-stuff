@@ -18,13 +18,13 @@
         "journal.week_2.upgrade_description": "Click to view"
     },
     {
-        "journal.week_3.date": "{i18n sentinels_hub_2021.journal.week_3.date}",
+        "journal.week_3.date": "DAY 117",
         "journal-poster": "generalbloodsword.com/assets/chapter-posters/journal-poster-week-3.png",
         "poster": "generalbloodsword.com/assets/chapter-posters/week-3.jpg",
-        "journal.week_3.copy": "{i18n sentinels_hub_2021.journal.week_3.copy}",
-        "journal.week_3.unlock_note": "{i18n sentinels_hub_2021.journal.week_3.unlock_note}",
-        "journal.week_3.upgrade_name": "{i18n sentinels_hub_2021.journal.week_3.upgrade_name}",
-        "journal.week_3.upgrade_description": "{i18n sentinels_hub_2021.journal.week_3.upgrade_description}"
+        "journal.week_3.copy": "We still haven't gotten any fetters before Viego. But there are more out there!",
+        "journal.week_3.unlock_note": "UNLOCKED",
+        "journal.week_3.upgrade_name": "Chapter III",
+        "journal.week_3.upgrade_description": "Click to view"
     },
     {
         "journal.week_4.date": "{i18n sentinels_hub_2021.journal.week_4.date}",
@@ -76,24 +76,24 @@
         "journal.shurima.date": "{i18n sentinels_hub_2021.journal.shurima.date}"
     },
     {
-        "journal.piltover_zaun.copy": "{i18n sentinels_hub_2021.journal.piltover_zaun.copy}",
-        "journal.piltover_zaun.date": "{i18n sentinels_hub_2021.journal.piltover_zaun.date}"
+        "journal.piltover_zaun.copy": "Now we have a sentinel who tried to shoot us. Well, I guess Vayne tried to shoot him, too. So, maybe that makes it even? Whew. I need a shower...",
+        "journal.piltover_zaun.date": "DAY 118"
     },
     {
-        "journal.bilgewater_a.copy": "{i18n sentinels_hub_2021.journal.bilgewater_a.copy}",
-        "journal.bilgewater_a.date": "{i18n sentinels_hub_2021.journal.bilgewater_a.date}"
+        "journal.bilgewater_a.copy": "The Sentinels were SO mad at me about the Wayfinder... I almost wish I never had it. Good thing I got out of that one... Thanks to, uh, the weird new guy.",
+        "journal.bilgewater_a.date": "DAY 121"
     },
     {
-        "journal.bilgewater_b.copy": "{i18n sentinels_hub_2021.journal.bilgewater_b.copy}",
-        "journal.bilgewater_b.date": "{i18n sentinels_hub_2021.journal.bilgewater_b.date}"
+        "journal.bilgewater_b.copy": "If this guy asks me if I cut his line one more time, I'm telling him it was Rengar. Still, he brought the Wayfinder back. Kinda wish I wasn't the one responsible for it...",
+        "journal.bilgewater_b.date": "DAY 125"
     },
     {
-        "journal.ixtal_a.copy": "{i18n sentinels_hub_2021.journal.ixtal_a.copy}",
-        "journal.ixtal_a.date": "{i18n sentinels_hub_2021.journal.ixtal_a.date}"
+        "journal.ixtal_a.copy": "Gotta say, I don't feel fantastic about what happened back in Ixtal. Deals with shadowy figures, keeping secrets from Senna... I wouldn't want to be Lucian right about now... or me.",
+        "journal.ixtal_a.date": "DAY 121"
     },
     {
-        "journal.ixtal_b.copy": "{i18n sentinels_hub_2021.journal.ixtal_b.copy}",
-        "journal.ixtal_b.date": "{i18n sentinels_hub_2021.journal.ixtal_b.date}"
+        "journal.ixtal_b.copy": "Keeping secrets from Senna isn't any more fun than nearly drowning at the Slaughter Docks. And this hunter... Rengar? I hope he doesn't bring me dead animals...",
+        "journal.ixtal_b.date": "DAY 125"
     },
     {
         "journal.shadow_isles.copy": "{i18n sentinels_hub_2021.journal.shadow_isles.copy}",
@@ -103,31 +103,31 @@
         "journal.event_begin.copy": "After all this time... people! Two new sentinels. Lucian and Senna seemed preoccupied by this \\\"Harrowing\\\" they talked about. That doesn't sound good..."
     },
     {
-        "journal.key_upgrade.a1.date": "{i18n sentinels_hub_2021.journal.key_upgrade.a1.date}",
-        "journal.key_upgrade.a1.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.a1.copy}",
-        "journal.key_upgrade.a1.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.a1.unlock_note}",
-        "journal.key_upgrade.a1.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.a1.upgrade_name}",
+        "journal.key_upgrade.a1.date": "DAY 117",
+        "journal.key_upgrade.a1.copy": "Never thought I'd see Riven and Irelia getting along! Even if it is because of my lousy combat ability... Hopefully, we all learned something from training together.",
+        "journal.key_upgrade.a1.unlock_note": "BONUS GAINED",
+        "journal.key_upgrade.a1.upgrade_name": "Merciful Warrior",
         "journal.key_upgrade.a1.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.a1.upgrade_description}"
     },
     {
-        "journal.key_upgrade.a2.date": "{i18n sentinels_hub_2021.journal.key_upgrade.a2.date}",
-        "journal.key_upgrade.a2.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.a2.copy}",
-        "journal.key_upgrade.a2.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.a2.unlock_note}",
-        "journal.key_upgrade.a2.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.a2.upgrade_name}",
+        "journal.key_upgrade.a2.date": "DAY 117",
+        "journal.key_upgrade.a2.copy": "Riven and Diana took me aside for some tough lessons about combat and pain. I think I can do this now. Or at least when the bruises heal...",
+        "journal.key_upgrade.a2.unlock_note": "BONUS GAINED",
+        "journal.key_upgrade.a2.upgrade_name": "Tormented Fighter",
         "journal.key_upgrade.a2.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.a2.upgrade_description}"
     },
     {
-        "journal.key_upgrade.a3.date": "{i18n sentinels_hub_2021.journal.key_upgrade.a3.date}",
-        "journal.key_upgrade.a3.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.a3.copy}",
-        "journal.key_upgrade.a3.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.a3.unlock_note}",
-        "journal.key_upgrade.a3.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.a3.upgrade_name}",
+        "journal.key_upgrade.a3.date": "DAY 117",
+        "journal.key_upgrade.a3.copy": "Ow. Olaf and Irelia's training was more like an all-out assault. But I think I'm tougher now.",
+        "journal.key_upgrade.a3.unlock_note": "BONUS GAINED",
+        "journal.key_upgrade.a3.upgrade_name": "Spiteful Vanguard",
         "journal.key_upgrade.a3.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.a3.upgrade_description}"
     },
     {
-        "journal.key_upgrade.a4.date": "{i18n sentinels_hub_2021.journal.key_upgrade.a4.date}",
-        "journal.key_upgrade.a4.copy": "{i18n sentinels_hub_2021.journal.key_upgrade.a4.copy}",
-        "journal.key_upgrade.a4.unlock_note": "{i18n sentinels_hub_2021.journal.key_upgrade.a4.unlock_note}",
-        "journal.key_upgrade.a4.upgrade_name": "{i18n sentinels_hub_2021.journal.key_upgrade.a4.upgrade_name}",
+        "journal.key_upgrade.a4.date": "DAY 117",
+        "journal.key_upgrade.a4.copy": "I can't believe Diana thought my battle spirit was weak. Olaf I understand, but... Well, at least they gave me the advice I need to toughen up for the fight ahead.",
+        "journal.key_upgrade.a4.unlock_note": "BONUS GAINED",
+        "journal.key_upgrade.a4.upgrade_name": "Cunning Berserker",
         "journal.key_upgrade.a4.upgrade_description": "{i18n sentinels_hub_2021.journal.key_upgrade.a4.upgrade_description}"
     },
     {

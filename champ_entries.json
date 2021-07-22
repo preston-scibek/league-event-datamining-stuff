@@ -5,9 +5,9 @@
         "sentinel_olaf.profile.v1.mechanics_details": "Structures Destroyed, As a Team"
     },
     {
-        "sentinel_graves.profile.subtitle": "{i18n sentinels_hub_2021.sentinel_graves.profile.subtitle}",
-        "sentinel_graves.profile.v1.mechanics_summary": "{i18n sentinels_hub_2021.sentinel_graves.profile.v1.mechanics_summary}",
-        "sentinel_graves.profile.v1.mechanics_details": "{i18n sentinels_hub_2021.sentinel_graves.profile.v1.mechanics_details}"
+        "sentinel_graves.profile.subtitle": "The OUTLAW SENTINEL",
+        "sentinel_graves.profile.v1.mechanics_summary": "Steal Epic Monsters",
+        "sentinel_graves.profile.v1.mechanics_details": "Epic Monsters Stolen"
     },
     {
         "sentinel_gwen.profile.subtitle": "The HALLOWED SEAMSTRESS",
@@ -40,9 +40,9 @@
         "sentinel_akshan.profile.v1.mechanics_details": "{i18n sentinels_hub_2021.sentinel_akshan.profile.v1.mechanics_details}"
     },
     {
-        "sentinel_pyke.profile.subtitle": "{i18n sentinels_hub_2021.sentinel_pyke.profile.subtitle}",
-        "sentinel_pyke.profile.v1.mechanics_summary": "{i18n sentinels_hub_2021.sentinel_pyke.profile.v1.mechanics_summary}",
-        "sentinel_pyke.profile.v1.mechanics_details": "{i18n sentinels_hub_2021.sentinel_pyke.profile.v1.mechanics_details}"
+        "sentinel_pyke.profile.subtitle": "The RIPPER SENTINEL",
+        "sentinel_pyke.profile.v1.mechanics_summary": "Earn Gold",
+        "sentinel_pyke.profile.v1.mechanics_details": "Gold Earned"
     },
     {
         "sentinel_vayne.profile.subtitle": "The NIGHT HUNTER SENTINEL",
