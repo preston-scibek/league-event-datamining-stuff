@@ -1183,7 +1183,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-riven-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/sentinel-irelia.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelhq-hub-lvl3.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/riven_and_irelia.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/riven-and-irelia.png"
         },
         {
             "slug": "160",
@@ -3603,7 +3603,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-docks.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/___.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/---.png"
         },
         {
             "slug": "190",
@@ -4789,7 +4789,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-docks.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "80",
@@ -5022,7 +5022,7 @@
             "dialogue": "Since no one else has the guts to do this, I guess it might as well be me.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "220",
@@ -5085,7 +5085,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/viego-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "250",
@@ -5129,7 +5129,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/viego-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "270",
@@ -5195,7 +5195,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/viego-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "300",
@@ -5217,7 +5217,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/viego-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "310",
@@ -5239,7 +5239,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/viego-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "320",
@@ -5311,7 +5311,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/viego-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "360",
@@ -5386,7 +5386,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-partially-ruined.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/viego-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "400",
@@ -5421,7 +5421,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-partially-ruined.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/viego-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "420",
@@ -5441,7 +5441,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-partially-ruined.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/viego-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "430",
@@ -5462,7 +5462,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/ruined-miss-fortune-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/viego-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "440",
@@ -5889,7 +5889,7 @@
             "dialogue": "I’ve got a better idea…",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "200b_10",
@@ -5903,7 +5903,7 @@
             "dialogue": "I like your spirit, kid.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "200b_20",
@@ -5917,7 +5917,7 @@
             "dialogue": "But spirit only gets you so far.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "200c_10",
@@ -5931,7 +5931,7 @@
             "dialogue": "The kid’s right.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "200c_20",
@@ -5945,7 +5945,7 @@
             "dialogue": "You’re all just going to sit here watching politely?",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-interior.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "510a_10",
@@ -6655,7 +6655,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-vayne-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/irelia-disbelief.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-ionia-altar.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/___.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/---.png"
         },
         {
             "slug": "390",
@@ -14016,7 +14016,7 @@
             "dialogue": null,
             "char1_image": "generalbloodsword.com/assets/scenery/characters/maiden-of-the-mist.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-camavor-meadow.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/maiden_of_the_mist.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/maiden-of-the-mist.png"
         },
         {
             "slug": "260",
@@ -14078,7 +14078,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/gwen-perplexed.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/senna-surprise.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-camavor-meadow.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/gwen_and_senna.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/gwen-and-senna.png"
         },
         {
             "slug": "300",
@@ -14157,7 +14157,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/gwen-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-camavor-meadow.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/___.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/---.png"
         },
         {
             "slug": "350",
@@ -14809,7 +14809,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/maiden-of-the-mist.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/yorick.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-court.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/maiden_of_the_mist.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/maiden-of-the-mist.png"
         },
         {
             "slug": "140",
@@ -14842,7 +14842,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/maiden-of-the-mist.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/yorick.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-court.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/maiden_of_the_mist.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/maiden-of-the-mist.png"
         },
         {
             "slug": "160",
@@ -14875,7 +14875,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/maiden-of-the-mist.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/yorick.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-court.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/maiden_of_the_mist.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/maiden-of-the-mist.png"
         },
         {
             "slug": "180",
@@ -15122,7 +15122,7 @@
             "dialogue": null,
             "char1_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-court.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "330",
@@ -17523,7 +17523,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/lucian-surprise.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/gwen-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelhq-hub-lvl3.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lucian_and_senna.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lucian-and-senna.png"
         },
         {
             "slug": "1710",
@@ -21011,7 +21011,7 @@
             "nextSlug": "550",
             "dialogue": "[SHRIEEEEK]",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-ionia-forest.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/___.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/---.png"
         },
         {
             "slug": "550",
@@ -22275,7 +22275,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-demacia-streets.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/___.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/---.png"
         },
         {
             "slug": "80",
@@ -22292,7 +22292,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-demacia-streets.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/___.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/---.png"
         },
         {
             "slug": "90",
@@ -25884,7 +25884,7 @@
             "dialogue": null,
             "char3_image": "generalbloodsword.com/assets/scenery/characters/old-veteran.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-coast.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old_veteran.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old-veteran.png"
         },
         {
             "slug": "160",
@@ -25916,7 +25916,7 @@
             "dialogue": null,
             "char3_image": "generalbloodsword.com/assets/scenery/characters/old-veteran.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-coast.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old_veteran.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old-veteran.png"
         },
         {
             "slug": "180",
@@ -25931,7 +25931,7 @@
             "dialogue": null,
             "char3_image": "generalbloodsword.com/assets/scenery/characters/old-veteran.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-coast.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old_veteran.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old-veteran.png"
         },
         {
             "slug": "190",
@@ -25961,7 +25961,7 @@
             "dialogue": null,
             "char3_image": "generalbloodsword.com/assets/scenery/characters/old-veteran.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-coast.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old_veteran.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old-veteran.png"
         },
         {
             "slug": "210",
@@ -25976,7 +25976,7 @@
             "dialogue": null,
             "char3_image": "generalbloodsword.com/assets/scenery/characters/old-veteran.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-coast.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old_veteran.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old-veteran.png"
         },
         {
             "slug": "220",
@@ -26005,7 +26005,7 @@
             "dialogue": null,
             "char3_image": "generalbloodsword.com/assets/scenery/characters/old-veteran.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-coast.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old_veteran.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old-veteran.png"
         },
         {
             "slug": "240",
@@ -26020,7 +26020,7 @@
             "dialogue": null,
             "char3_image": "generalbloodsword.com/assets/scenery/characters/old-veteran.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-coast.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old_veteran.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old-veteran.png"
         },
         {
             "slug": "250",
@@ -26050,7 +26050,7 @@
             "dialogue": null,
             "char3_image": "generalbloodsword.com/assets/scenery/characters/old-veteran.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-coast.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old_veteran.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old-veteran.png"
         },
         {
             "slug": "270",
@@ -26065,7 +26065,7 @@
             "dialogue": null,
             "char3_image": "generalbloodsword.com/assets/scenery/characters/old-veteran.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-coast.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old_veteran.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old-veteran.png"
         },
         {
             "slug": "280",
@@ -26080,7 +26080,7 @@
             "dialogue": null,
             "char3_image": "generalbloodsword.com/assets/scenery/characters/old-veteran.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-coast.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old_veteran.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old-veteran.png"
         },
         {
             "slug": "290",
@@ -26110,7 +26110,7 @@
             "dialogue": null,
             "char3_image": "generalbloodsword.com/assets/scenery/characters/old-veteran.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-coast.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old_veteran.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old-veteran.png"
         },
         {
             "slug": "310",
@@ -26214,7 +26214,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/old-veteran.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-building.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/___.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/---.png"
         },
         {
             "slug": "380",
@@ -26231,7 +26231,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/old-veteran.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-building.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old_veteran.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old-veteran.png"
         },
         {
             "slug": "390",
@@ -26329,7 +26329,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/yorick.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/maiden-of-the-mist.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-building.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/maiden_of_the_mist.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/maiden-of-the-mist.png"
         },
         {
             "slug": "450",
@@ -26503,7 +26503,7 @@
             "dialogue": null,
             "char2_image": "generalbloodsword.com/assets/scenery/characters/old-veteran.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-building.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old_veteran.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/old-veteran.png"
         },
         {
             "slug": "560",
@@ -26552,7 +26552,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/yorick.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/maiden-of-the-mist.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-building.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/maiden_of_the_mist.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/maiden-of-the-mist.png"
         },
         {
             "slug": "590",
@@ -30983,7 +30983,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/vayne-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/gwen-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-demacia-complex.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lucian_and_gwen.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lucian-and-gwen.png"
         },
         {
             "slug": "420",
@@ -32929,7 +32929,7 @@
             "nextSlug": "60",
             "dialogue": null,
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shurima-base.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/___.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/---.png"
         },
         {
             "slug": "60",
@@ -43760,7 +43760,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/irelia-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-ionia-forest-safespot.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/viego_s_voice.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/viego-s-voice.png"
         },
         {
             "slug": "280",
@@ -43780,7 +43780,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/irelia-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-ionia-forest-safespot.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/viego_s_voice.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/viego-s-voice.png"
         },
         {
             "slug": "290",
@@ -43839,7 +43839,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/irelia-disbelief.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-ionia-forest-safespot.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/viego_s_voice.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/viego-s-voice.png"
         },
         {
             "slug": "320",
@@ -50612,7 +50612,7 @@
             "dialogue": "Hello? Headquarters, this is the Serpent Isles base. Can you hear me?",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelhq-hub-lvl1.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "130",
@@ -50666,7 +50666,7 @@
             "dialogue": "This is the Serpent Isles sentinel base. I’ve activated your communications portal.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelhq-hub-lvl1.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "150",
@@ -50680,7 +50680,7 @@
             "dialogue": "The situation is most dire. The Black Mist...",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelhq-hub-lvl1.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "160",
@@ -50717,7 +50717,7 @@
             "dialogue": "Everywhere.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelhq-hub-lvl1.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "180",
@@ -50732,7 +50732,7 @@
             "dialogue": "We’ve been following its progress on the Worldstone...",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelhq-hub-lvl1.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "190",
@@ -50748,7 +50748,7 @@
             "dialogue": "In all my years, I’ve never seen a Harrowing like this. It moves quickly, with purpose, covering entire continents overnight.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelshq-worldmap.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "200",
@@ -50763,7 +50763,7 @@
             "dialogue": "We’re holding our ground in the Serpent Isles, but... I can’t say how much longer we’ll last.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelshq-worldmap.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "210",
@@ -50801,7 +50801,7 @@
             "dialogue": "I’m afraid it’s not that simple. Viego travels through the Mist in the blink of an eye, moving across the world at will.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelshq-worldmap.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "230",
@@ -50816,7 +50816,7 @@
             "dialogue": "You must leave immediately and take the fight to his Black Mist. Your nearest region is Demacia. It’s as good a place to start as any.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelshq-worldmap.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "240",
@@ -50853,7 +50853,7 @@
             "dialogue": "I see you know little of the secrets of our order. Touch Demacia on the Worldstone map.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelshq-worldmap.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "260",
@@ -50882,7 +50882,7 @@
             "dialogue": "This enchanted map can instantly transport you to any sentinel base in Runeterra.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelshq-worldmap.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "280",
@@ -50897,7 +50897,7 @@
             "dialogue": "You must visit every region, cleanse them of Viego’s influence…",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelshq-worldmap.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "290",
@@ -50912,7 +50912,7 @@
             "dialogue": "And if possible, recruit worthy soldiers to our cause.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelshq-worldmap.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "300",
@@ -51064,7 +51064,7 @@
             "dialogue": "There’s just one more thing you’ll need. Your headquarters should be equipped with a Wayfinder. It looks like this.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelshq-worldmap.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "370",
@@ -51093,7 +51093,7 @@
             "dialogue": "It’s your ticket back to headquarters. You can activate it anywhere in the world, and it will teleport you home.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelshq-worldmap.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "390",
@@ -51152,7 +51152,7 @@
             "dialogue": "I’m afraid that won’t work. The Wayfinder can only be used by the sentinel to whom it was bound.",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/buhru-sentinel.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-sentinelshq-worldmap.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru_sentinel.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/buhru-sentinel.png"
         },
         {
             "slug": "420",
@@ -53518,7 +53518,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/rengar-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-ixtal-jungle.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/___.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/---.png"
         },
         {
             "slug": "320",
@@ -54341,7 +54341,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "130",
@@ -54358,7 +54358,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "140",
@@ -54375,7 +54375,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "150",
@@ -54392,7 +54392,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "160",
@@ -54409,7 +54409,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "170",
@@ -54446,7 +54446,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "190",
@@ -54519,7 +54519,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "220",
@@ -54556,7 +54556,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "240",
@@ -54573,7 +54573,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "250",
@@ -54590,7 +54590,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "260",
@@ -54629,7 +54629,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "280",
@@ -54705,7 +54705,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "320",
@@ -54822,7 +54822,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "390",
@@ -54839,7 +54839,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "400",
@@ -54856,7 +54856,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "410",
@@ -54888,7 +54888,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "430",
@@ -54905,7 +54905,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "440",
@@ -55759,7 +55759,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "320",
@@ -55775,7 +55775,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-surprised.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "330",
@@ -55825,7 +55825,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "360",
@@ -55841,7 +55841,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "370",
@@ -55889,7 +55889,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "400",
@@ -55922,7 +55922,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "420",
@@ -55955,7 +55955,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "440",
@@ -55988,7 +55988,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "460",
@@ -56004,7 +56004,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "470",
@@ -56020,7 +56020,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "480",
@@ -56069,7 +56069,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "510",
@@ -56084,7 +56084,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "520",
@@ -56116,7 +56116,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "540",
@@ -56134,7 +56134,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "550",
@@ -56372,7 +56372,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "670",
@@ -56391,7 +56391,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "680",
@@ -56410,7 +56410,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "690",
@@ -56464,7 +56464,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "720",
@@ -56484,7 +56484,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "730",
@@ -56560,7 +56560,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "770",
@@ -56600,7 +56600,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "790",
@@ -56620,7 +56620,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "800",
@@ -56640,7 +56640,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "810",
@@ -56680,7 +56680,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "830",
@@ -56774,7 +56774,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "490a_20",
@@ -56790,7 +56790,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "490a_30",
@@ -56836,7 +56836,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "490b_20",
@@ -56852,7 +56852,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/sentinel-graves-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-ship.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "490b_30",
@@ -57000,7 +57000,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/gwen-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/maiden-of-the-mist.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-court.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/maiden_of_the_mist.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/maiden-of-the-mist.png"
         },
         {
             "slug": "90",
@@ -57834,7 +57834,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/ruined-shyvana-angry.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/ruined-draven-angry.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-shadowisles-court.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "600",
@@ -60194,7 +60194,7 @@
             "nextSlug": "270",
             "dialogue": "Sounds to me like you’re looking to break out.",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-noxus-captured-black.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/___.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/---.png"
         },
         {
             "slug": "270",
@@ -60473,7 +60473,7 @@
             "dialogue": "Yeah? What do you want?",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/noxian-soldier.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-noxus-captured-black.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/noxian_guard.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/noxian-guard.png"
         },
         {
             "slug": "410",
@@ -60487,7 +60487,7 @@
             "dialogue": "You’re awful mouthy for fresh meat. How ‘bout I shut yer gob for ya?",
             "char1_image": "generalbloodsword.com/assets/scenery/characters/noxian-soldier.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-noxus-captured-black.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/noxian_guard.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/noxian-guard.png"
         },
         {
             "slug": "420",
@@ -63470,7 +63470,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/senna-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-cave.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/___.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/---.png"
         },
         {
             "slug": "200",
@@ -63494,7 +63494,7 @@
             "nextSlug": "220",
             "dialogue": "I don’t know. Be careful.",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-cave.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/___.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/---.png"
         },
         {
             "slug": "220",
@@ -63542,7 +63542,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lunari-commoner-1.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-cave.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari_commoner_1.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari-commoner-1.png"
         },
         {
             "slug": "250",
@@ -63558,7 +63558,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lunari-commoner-1.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-cave.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari_commoner_2.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari-commoner-2.png"
         },
         {
             "slug": "260",
@@ -63608,7 +63608,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lunari-commoner-1.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/lucian-surprise.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-cave.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari_commoner_1.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari-commoner-1.png"
         },
         {
             "slug": "280",
@@ -63655,7 +63655,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lunari-commoner-1.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/diana-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-cave.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari_commoner_2.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari-commoner-2.png"
         },
         {
             "slug": "310",
@@ -63735,7 +63735,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lunari-commoner-1.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/diana-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-cave.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari_commoner_1.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari-commoner-1.png"
         },
         {
             "slug": "360",
@@ -63750,7 +63750,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lunari-commoner-1.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/diana-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-cave.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari_commoner_1.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari-commoner-1.png"
         },
         {
             "slug": "370",
@@ -63798,7 +63798,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lunari-commoner-1.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/diana-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-cave.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari_commoner_2.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari-commoner-2.png"
         },
         {
             "slug": "400",
@@ -63814,7 +63814,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lunari-commoner-1.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/diana-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-cave.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari_commoner_2.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari-commoner-2.png"
         },
         {
             "slug": "410",
@@ -63830,7 +63830,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lunari-commoner-1.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/diana-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-cave.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari_commoner_2.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari-commoner-2.png"
         },
         {
             "slug": "420",
@@ -63878,7 +63878,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lunari-commoner-1.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/diana-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-cave.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari_commoner_1.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari-commoner-1.png"
         },
         {
             "slug": "450",
@@ -63912,7 +63912,7 @@
             "char1_image": "generalbloodsword.com/assets/scenery/characters/lunari-commoner-1.png",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/diana-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-cave.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari_commoners_1___2.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/lunari-commoners-1---2.png"
         },
         {
             "slug": "470",
@@ -66216,7 +66216,7 @@
             "nextSlug": "230",
             "dialogue": "My little sentinel crew.",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/___.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/---.png"
         },
         {
             "slug": "230",
@@ -66263,7 +66263,7 @@
             "dialogue": "Before you think of reaching for your weapons… don’t.",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/ruined-miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "260",
@@ -66279,7 +66279,7 @@
             "dialogue": "My rather sizeable crew has you surrounded.",
             "char2_image": "generalbloodsword.com/assets/scenery/characters/ruined-miss-fortune-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "270",
@@ -66330,7 +66330,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/ruined-miss-fortune-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "300",
@@ -66366,7 +66366,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/ruined-miss-fortune-normal.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/lucian-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-bilgewater-outside.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss_fortune.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/miss-fortune.png"
         },
         {
             "slug": "320",
@@ -68237,7 +68237,7 @@
             "nextSlug": "350",
             "dialogue": "Hey! You there!",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-midhill.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/___.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/---.png"
         },
         {
             "slug": "350",
@@ -68299,7 +68299,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/solari-fanatic-2.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/diana-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-midhill.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/solari_fanatic_1.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/solari-fanatic-1.png"
         },
         {
             "slug": "380",
@@ -68318,7 +68318,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/solari-fanatic-2.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/diana-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-midhill.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/solari_fanatic_2.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/solari-fanatic-2.png"
         },
         {
             "slug": "390",
@@ -68337,7 +68337,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/solari-fanatic-2.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/diana-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-midhill.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/solari_fanatic_1.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/solari-fanatic-1.png"
         },
         {
             "slug": "400",
@@ -68356,7 +68356,7 @@
             "char2_image": "generalbloodsword.com/assets/scenery/characters/solari-fanatic-2.png",
             "char3_image": "generalbloodsword.com/assets/scenery/characters/diana-normal.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-midhill.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/solari_fanatic_2.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/solari-fanatic-2.png"
         },
         {
             "slug": "410",
@@ -68441,7 +68441,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/diana-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/senna-angry.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-midhill.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/solari_fanatic_2.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/solari-fanatic-2.png"
         },
         {
             "slug": "450",
@@ -68462,7 +68462,7 @@
             "char3_image": "generalbloodsword.com/assets/scenery/characters/diana-normal.png",
             "char4_image": "generalbloodsword.com/assets/scenery/characters/senna-angry.png",
             "bg_image": "generalbloodsword.com/assets/scenery/backgrounds/bg-targon-midhill.jpg",
-            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/solari_fanatic_2.png"
+            "speaker_image": "generalbloodsword.com/assets/scenery/speakers/solari-fanatic-2.png"
         },
         {
             "slug": "460",

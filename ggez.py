@@ -161,7 +161,7 @@ def style_scenes(scenes):
                 scene["{}_image".format(char[0])] = '{}assets/scenery/characters/{}.png'.format(host, char[1])
 
             scene['bg_image'] = '{}assets/scenery/backgrounds/{}.jpg'.format(host, bg)
-            scene['speaker_image'] = '{}assets/scenery/speakers/{}.png'.format(host, "_".join(speaker.split("_")[1::]))
+            scene['speaker_image'] = '{}assets/scenery/speakers/{}.png'.format(host, "-".join(speaker.split("_")[1::]))
 
     return scenes
 
