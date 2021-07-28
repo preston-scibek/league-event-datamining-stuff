@@ -1,6 +1,15 @@
 # ruination-event-stuff
 
 
+## datamine_single_file.py
+
+All this file requires is the python requirements to be installed and the scenes.json file that is in this repo.  
+This file will then construct a json record that contains the image assets links as well as the dialogue for the scenes.  
+
+
+
+
+
 ## ggez.py
 
 powershell `python ./ggez.py`

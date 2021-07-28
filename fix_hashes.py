@@ -1,5 +1,5 @@
 import json
-from dehash_lines import dehash, dehash_asset
+from dehash_lines import dehash, hash_asset
 
 def style_scenes(scenes=None, lines=None):
     if scenes is None:
@@ -31,10 +31,10 @@ def style_scenes_asset(scenes, host=None):
             bg = scene.get('bg', '')
 
             for char in chars:
-                scene["{}_image".format(char[0])] = '{}images/scenery/characters/{}.png'.format(host, dehash_asset(char[1]))
+                scene["{}_image".format(char[0])] = '{}images/scenery/characters/{}.png'.format(host, hash_asset(char[1]))
 
-            scene['bg_image'] = '{}images/scenery/backgrounds/{}.jpg'.format(host, dehash_asset(bg, n=0))
-            scene['speaker_image'] = '{}images/scenery/speakers/{}.png'.format(host, dehash_asset("-".join(speaker.split("_")[1::]), n=0))
+            scene['bg_image'] = '{}images/scenery/backgrounds/{}.jpg'.format(host, hash_asset(bg, n=0))
+            scene['speaker_image'] = '{}images/scenery/speakers/{}.png'.format(host, hash_asset("-".join(speaker.split("_")[1::]), n=0))
 
     return scenes
 

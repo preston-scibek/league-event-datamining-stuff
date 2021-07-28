@@ -6,22 +6,26 @@ import sys
 from bs4 import BeautifulSoup
 
 def dehash(inp, lines):
+    """Dehash inp and return the dialogue from lines that corresponds"""
 	s = "17sentinels_hub_2021.{}".format(inp)
 	s = s.encode()
 	r = hashlib.md5(s)
 	d = r.hexdigest()
 	return lines.get(d)
 
-def dehash_asset(inp, n=1):
+
+def hash_asset(inp, n=1):
+    """Hash inp n+1 times"""
 	s = "17{}".format(inp)
 	s = s.encode()
 	r = hashlib.md5(s)
 	d = r.hexdigest()
 	if n == 0:
 		return d
-	return dehash_asset(d, n=0)
+	return hash_asset(d, n=0)
 
 def style_scenes(scenes=None, lines=None):
+    """Append the dialogue options to each scene"""
     if scenes is None:
         # load out scenes file
         with open("updated_scenes_styled.json", 'r') as jsonfile:
@@ -43,6 +47,7 @@ def style_scenes(scenes=None, lines=None):
 
 
 def style_scenes_asset(scenes, host=None):
+    """Append the assets to each scene"""
     for region in scenes:
         for scene in region:
             chars = [("char{}".format(x), scene.get("char{}".format(x))) for x in range(1,5) if scene.get("char{}".format(x)) is not None]
@@ -50,14 +55,16 @@ def style_scenes_asset(scenes, host=None):
             bg = scene.get('bg', '')
 
             for char in chars:
-                scene["{}_image".format(char[0])] = '{}images/scenery/characters/{}.png'.format(host, dehash_asset(char[1]))
+                scene["{}_image".format(char[0])] = '{}images/scenery/characters/{}.png'.format(host, hash_asset(char[1]))
 
-            scene['bg_image'] = '{}images/scenery/backgrounds/{}.jpg'.format(host, dehash_asset(bg, n=0))
-            scene['speaker_image'] = '{}images/scenery/speakers/{}.png'.format(host, dehash_asset("-".join(speaker.split("_")[1::]), n=0))
+            scene['bg_image'] = '{}images/scenery/backgrounds/{}.jpg'.format(host, hash_asset(bg, n=0))
+            scene['speaker_image'] = '{}images/scenery/speakers/{}.png'.format(host, hash_asset("-".join(speaker.split("_")[1::]), n=0))
 
     return scenes
 
+
 def get_lines():
+    """Get the up to date lines"""
     res = requests.get("https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/sentinels-hub-2021#/")
 
     html = res.text
@@ -70,7 +77,9 @@ def get_lines():
         res_json[_id] = text
     return res_json
 
+
 def get_host():
+    """Get the up to date asset path"""
     res = requests.get("https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/sentinels-hub-2021#/")
     html = res.text
     soup = BeautifulSoup(html, "html.parser")
@@ -80,7 +89,6 @@ def get_host():
         if script.get('src') is not None and "dist.js" in script.get('src'):
             return script.get('src').split('dist.js')[0]
     return 'nothing found'
-
 
 
 if __name__ == "__main__":

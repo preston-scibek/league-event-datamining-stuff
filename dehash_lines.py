@@ -16,7 +16,7 @@ def dehash(inp, lines=None):
 	return lines.get(d)
 
 
-def dehash_asset(inp, n=1):
+def hash_asset(inp, n=1):
 	s = "17{}".format(inp)
 	s = s.encode()
 	r = hashlib.md5(s)
