@@ -58,7 +58,18 @@ def style_scenes_asset(scenes, host=None):
                 scene["{}_image".format(char[0])] = '{}images/scenery/characters/{}.png'.format(host, hash_asset(char[1]))
 
             scene['bg_image'] = '{}images/scenery/backgrounds/{}.jpg'.format(host, hash_asset(bg, n=0))
-            scene['speaker_image'] = '{}images/scenery/speakers/{}.png'.format(host, hash_asset("-".join(speaker.split("_")[1::]), n=0))
+
+            hardcodeds = {
+                    "solari-fanatic-1": "solari-soldier",
+                    "solari-fanatic-2": "solari-soldier",
+                    "viegos-voice": "viego",
+                    "viego-s-voice": "viego",
+                    "lunari-commoners-1-2": "lunari-commoner-1",
+                    "lunari-commoners-1---2": "lunari-commoner-1",
+            }
+
+            speaker = hardcodeds.get("-".join(speaker.split("_")[1::]), "-".join(speaker.split("_")[1::]))
+            scene['speaker_image'] = '{}images/scenery/speakers/{}.png'.format(host, hash_asset(speaker, n=0))
 
     return scenes
 
