@@ -1,0 +1,187 @@
+[
+    {
+        "journal.event_begin.copy": "After all this time... people! Two new sentinels. Lucian and Senna seemed preoccupied by this \"Harrowing\" they talked about. That doesn't sound good..."
+    },
+    [
+        {
+            "journal.demacia.copy": "Demacia is safe now. Or as safe as any place can be while a Harrowing's still happening. We cleared out a bunch of wraiths. I met a dragon. And Vayne. Not sure which one's scarier.",
+            "journal.demacia.date": "DAY 101"
+        },
+        {
+            "journal.noxus_a.copy": "Draven finally answers the question: What's worse than an egomaniac? An egomaniac surrounded by wraiths. Glad we met Riven, though. She sure was handy during the gladiator fight. Well, the second one.",
+            "journal.noxus_a.date": "DAY 105"
+        },
+        {
+            "journal.noxus_b.copy": "\"I hope the next sentinel's somewhere warmer than the Freljord,\" I said. Note to self: specify no arena combat for next time. And no fetter! Nice of Riven to help us out, though.",
+            "journal.noxus_b.date": "DAY 107"
+        },
+        {
+            "journal.freljord_a.copy": "Ran across a very strange man in the Freljord. Not sure what he smells like, but it's not great. And he's going to be a sentinel? I hope the next one we recruit's from somewhere warmer...",
+            "journal.freljord_a.date": "DAY 105"
+        },
+        {
+            "journal.freljord_b.copy": "We made it through the Freljord! Hope the next place we go is warmer. We got a new sentinel, too. Riven doesn't seem impressed by his smell.",
+            "journal.freljord_b.date": "DAY 107"
+        },
+        {
+            "journal.ionia_a.copy": "Wish I'd had a gun or something when facing down the all-powerful Spirit of Ionia. Anything besides this Wayfinder. Still, we understand a little more about how to stop this now. Well, Senna does. I just go where they tell me.",
+            "journal.ionia_a.date": "DAY 112"
+        },
+        {
+            "journal.ionia_b.copy": "I wonder if Diana ever expected to be this far from Mount Targon? I certainly didn't expect to be this far from headquarters... but Ionia needs me. Well, the sentinels. It sounds like Senna has a better idea of what we're facing now.",
+            "journal.ionia_b.date": "DAY 115"
+        },
+        {
+            "journal.targon_a.copy": "Starting to think they only keep me around for my Wayfinder. If Lucian wanted to trade it for one of his guns, I wouldn't complain. Would've been nice to have one of those when staring down the Aspect of War.",
+            "journal.targon_a.date": "DAY 112"
+        },
+        {
+            "journal.targon_b.copy": "Something tells me Irelia didn't expect another holy pilgrimage right after the last one. She probably could have done without the whole \"confronting the Aspect of War\" thing. I know I could have!",
+            "journal.targon_b.date": "DAY 115"
+        },
+        {
+            "journal.shurima.copy": null,
+            "journal.shurima.date": null
+        },
+        {
+            "journal.piltover_zaun.copy": "Now we have a sentinel who tried to shoot us. Well, I guess Vayne tried to shoot him, too. So, maybe that makes it even? Whew. I need a shower...",
+            "journal.piltover_zaun.date": "DAY 118"
+        },
+        {
+            "journal.bilgewater_a.copy": "The Sentinels were SO mad at me about the Wayfinder... I almost wish I never had it. Good thing I got out of that one... Thanks to, uh, the weird new guy.",
+            "journal.bilgewater_a.date": "DAY 121"
+        },
+        {
+            "journal.bilgewater_b.copy": "If this guy asks me if I cut his line one more time, I'm telling him it was Rengar. Still, he brought the Wayfinder back. Kinda wish I wasn't the one responsible for it...",
+            "journal.bilgewater_b.date": "DAY 125"
+        },
+        {
+            "journal.ixtal_a.copy": "Gotta say, I don't feel fantastic about what happened back in Ixtal. Deals with shadowy figures, keeping secrets from Senna... I wouldn't want to be Lucian right about now... or me.",
+            "journal.ixtal_a.date": "DAY 121"
+        },
+        {
+            "journal.ixtal_b.copy": "Keeping secrets from Senna isn't any more fun than nearly drowning at the Slaughter Docks. And this hunter... Rengar? I hope he doesn't bring me dead animals...",
+            "journal.ixtal_b.date": "DAY 125"
+        },
+        {
+            "journal.shadow_isles.copy": null,
+            "journal.shadow_isles.date": null
+        }
+    ],
+    [
+        {
+            "journal.week_1.date": "DAY 97",
+            "journal.week_1.copy": "Wraiths and a worldwide harrowing. Life just got interesting.",
+            "journal.week_1.unlock_note": "UNLOCKED",
+            "journal.week_1.upgrade_name": "Chapter I",
+            "journal.week_1.upgrade_description": "Click to view"
+        },
+        {
+            "journal.week_2.date": "DAY 111",
+            "journal.week_2.copy": "Next stop, Ionia and Targon. When Senna and Lucian showed up, I didn't expect this...",
+            "journal.week_2.unlock_note": "UNLOCKED",
+            "journal.week_2.upgrade_name": "Chapter II",
+            "journal.week_2.upgrade_description": "Click to view"
+        },
+        {
+            "journal.week_3.date": "DAY 117",
+            "journal.week_3.copy": "We still haven't gotten any fetters before Viego. But there are more out there!",
+            "journal.week_3.unlock_note": "UNLOCKED",
+            "journal.week_3.upgrade_name": "Chapter III",
+            "journal.week_3.upgrade_description": "Click to view"
+        },
+        {
+            "journal.week_4.date": null,
+            "journal.week_4.copy": null,
+            "journal.week_4.unlock_note": null,
+            "journal.week_4.upgrade_name": null,
+            "journal.week_4.upgrade_description": null
+        }
+    ],
+    [
+        {
+            "journal.key_upgrade.a1.date": "DAY 117",
+            "journal.key_upgrade.a1.copy": "Never thought I'd see Riven and Irelia getting along! Even if it is because of my lousy combat ability... Hopefully, we all learned something from training together.",
+            "journal.key_upgrade.a1.unlock_note": "BONUS GAINED",
+            "journal.key_upgrade.a1.upgrade_name": "Merciful Warrior",
+            "journal.key_upgrade.a1.upgrade_description": null
+        },
+        {
+            "journal.key_upgrade.a2.date": "DAY 117",
+            "journal.key_upgrade.a2.copy": "Riven and Diana took me aside for some tough lessons about combat and pain. I think I can do this now. Or at least when the bruises heal...",
+            "journal.key_upgrade.a2.unlock_note": "BONUS GAINED",
+            "journal.key_upgrade.a2.upgrade_name": "Tormented Fighter",
+            "journal.key_upgrade.a2.upgrade_description": null
+        },
+        {
+            "journal.key_upgrade.a3.date": "DAY 117",
+            "journal.key_upgrade.a3.copy": "Ow. Olaf and Irelia's training was more like an all-out assault. But I think I'm tougher now.",
+            "journal.key_upgrade.a3.unlock_note": "BONUS GAINED",
+            "journal.key_upgrade.a3.upgrade_name": "Spiteful Vanguard",
+            "journal.key_upgrade.a3.upgrade_description": null
+        },
+        {
+            "journal.key_upgrade.a4.date": "DAY 117",
+            "journal.key_upgrade.a4.copy": "I can't believe Diana thought my battle spirit was weak. Olaf I understand, but... Well, at least they gave me the advice I need to toughen up for the fight ahead.",
+            "journal.key_upgrade.a4.unlock_note": "BONUS GAINED",
+            "journal.key_upgrade.a4.upgrade_name": "Cunning Berserker",
+            "journal.key_upgrade.a4.upgrade_description": null
+        },
+        {
+            "journal.key_upgrade.b1.date": null,
+            "journal.key_upgrade.b1.copy": null,
+            "journal.key_upgrade.b1.unlock_note": null,
+            "journal.key_upgrade.b1.upgrade_name": null,
+            "journal.key_upgrade.b1.upgrade_description": null
+        },
+        {
+            "journal.key_upgrade.b2.date": null,
+            "journal.key_upgrade.b2.copy": null,
+            "journal.key_upgrade.b2.unlock_note": null,
+            "journal.key_upgrade.b2.upgrade_name": null,
+            "journal.key_upgrade.b2.upgrade_description": null
+        },
+        {
+            "journal.key_upgrade.b3.date": null,
+            "journal.key_upgrade.b3.copy": null,
+            "journal.key_upgrade.b3.unlock_note": null,
+            "journal.key_upgrade.b3.upgrade_name": null,
+            "journal.key_upgrade.b3.upgrade_description": null
+        },
+        {
+            "journal.key_upgrade.b4.date": null,
+            "journal.key_upgrade.b4.copy": null,
+            "journal.key_upgrade.b4.unlock_note": null,
+            "journal.key_upgrade.b4.upgrade_name": null,
+            "journal.key_upgrade.b4.upgrade_description": null
+        },
+        {
+            "journal.key_upgrade.b5.date": null,
+            "journal.key_upgrade.b5.copy": null,
+            "journal.key_upgrade.b5.unlock_note": null,
+            "journal.key_upgrade.b5.upgrade_name": null,
+            "journal.key_upgrade.b5.upgrade_description": null
+        },
+        {
+            "journal.key_upgrade.b6.date": null,
+            "journal.key_upgrade.b6.copy": null,
+            "journal.key_upgrade.b6.unlock_note": null,
+            "journal.key_upgrade.b6.upgrade_name": null,
+            "journal.key_upgrade.b6.upgrade_description": null
+        },
+        {
+            "journal.key_upgrade.b7.date": null,
+            "journal.key_upgrade.b7.copy": null,
+            "journal.key_upgrade.b7.unlock_note": null,
+            "journal.key_upgrade.b7.upgrade_name": null,
+            "journal.key_upgrade.b7.upgrade_description": null
+        },
+        {
+            "journal.key_upgrade.b8.date": null,
+            "journal.key_upgrade.b8.copy": null,
+            "journal.key_upgrade.b8.unlock_note": null,
+            "journal.key_upgrade.b8.upgrade_name": null,
+            "journal.key_upgrade.b8.upgrade_description": null
+        }
+    ]
+]
