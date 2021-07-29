@@ -23,7 +23,7 @@ def hash_asset(inp, n=1):
 	d = r.hexdigest()
 	if n == 0:
 		return d
-	return dehash_asset(d, n=0)
+	return hash_asset(d, n=0)
 
 if __name__ == "__main__":
 	item = sys.argv[1]

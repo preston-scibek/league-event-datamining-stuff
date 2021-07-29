@@ -7,22 +7,22 @@ from bs4 import BeautifulSoup
 
 def dehash(inp, lines):
     """Dehash inp and return the dialogue from lines that corresponds"""
-	s = "17sentinels_hub_2021.{}".format(inp)
-	s = s.encode()
-	r = hashlib.md5(s)
-	d = r.hexdigest()
-	return lines.get(d)
+    s = "17sentinels_hub_2021.{}".format(inp)
+    s = s.encode()
+    r = hashlib.md5(s)
+    d = r.hexdigest()
+    return lines.get(d)
 
 
 def hash_asset(inp, n=1):
     """Hash inp n+1 times"""
-	s = "17{}".format(inp)
-	s = s.encode()
-	r = hashlib.md5(s)
-	d = r.hexdigest()
-	if n == 0:
-		return d
-	return hash_asset(d, n=0)
+    s = "17{}".format(inp)
+    s = s.encode()
+    r = hashlib.md5(s)
+    d = r.hexdigest()
+    if n == 0:
+        return d
+    return hash_asset(d, n=0)
 
 def style_scenes(scenes=None, lines=None):
     """Append the dialogue options to each scene"""
