@@ -6,6 +6,7 @@ from get_lines import get_lines, get_host
 
 
 def journal(lines, host):
+    
     miscs = ['journal.event_begin.copy']
     misc_entries = {}
     for misc in miscs:
@@ -64,6 +65,7 @@ def journal(lines, host):
             temp_dict[copy] = dehash(copy)
         key_upgrade_entires.append(temp_dict)
     return [misc_entries, region_entries, journal_entries, key_upgrade_entires]
+
 if __name__ == "__main__":
     with open('journal_single.json', 'w', encoding="utf-8") as jfile:
         json.dump(journal(get_lines(), get_host), jfile, indent=4, ensure_ascii=False)

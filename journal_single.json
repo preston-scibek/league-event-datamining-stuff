@@ -40,8 +40,8 @@
             "journal.targon_b.date": "DAY 115"
         },
         {
-            "journal.shurima.copy": null,
-            "journal.shurima.date": null
+            "journal.shurima.copy": "Akshan, huh? Guess I owe him my life. And Lucian's, too. Still, I feel like we're playing with forces we don't understand...",
+            "journal.shurima.date": "DAY 128"
         },
         {
             "journal.piltover_zaun.copy": "Now we have a sentinel who tried to shoot us. Well, I guess Vayne tried to shoot him, too. So, maybe that makes it even? Whew. I need a shower...",
@@ -64,8 +64,8 @@
             "journal.ixtal_b.date": "DAY 125"
         },
         {
-            "journal.shadow_isles.copy": null,
-            "journal.shadow_isles.date": null
+            "journal.shadow_isles.copy": "I can't believe it! I've been complaining about the Wayfinder all this time, and it came through for me! The Rookie saves the day! Well... with help from Senna and Lucian and all the other sentinels too.",
+            "journal.shadow_isles.date": "DAY 132"
         }
     ],
     [
@@ -91,11 +91,11 @@
             "journal.week_3.upgrade_description": "Click to view"
         },
         {
-            "journal.week_4.date": null,
-            "journal.week_4.copy": null,
-            "journal.week_4.unlock_note": null,
-            "journal.week_4.upgrade_name": null,
-            "journal.week_4.upgrade_description": null
+            "journal.week_4.date": "DAY 127",
+            "journal.week_4.copy": "It's been a long road, but we can't give up now. Senna believes we can defeat Viego and banish the Mist. I hope she's right...",
+            "journal.week_4.unlock_note": "UNLOCKED",
+            "journal.week_4.upgrade_name": "Chapter IV",
+            "journal.week_4.upgrade_description": "Click to view"
         }
     ],
     [
@@ -128,59 +128,59 @@
             "journal.key_upgrade.a4.upgrade_description": null
         },
         {
-            "journal.key_upgrade.b1.date": null,
-            "journal.key_upgrade.b1.copy": null,
-            "journal.key_upgrade.b1.unlock_note": null,
-            "journal.key_upgrade.b1.upgrade_name": null,
+            "journal.key_upgrade.b1.date": "DAY 126",
+            "journal.key_upgrade.b1.copy": "Watching Rengar hunt, and Irelia and Riven working together to achieve our goal, has showed me what I need to do. I can't believe a giant talking cat was right.",
+            "journal.key_upgrade.b1.unlock_note": "BONUS GAINED",
+            "journal.key_upgrade.b1.upgrade_name": "Grim Hunt",
             "journal.key_upgrade.b1.upgrade_description": null
         },
         {
-            "journal.key_upgrade.b2.date": null,
-            "journal.key_upgrade.b2.copy": null,
-            "journal.key_upgrade.b2.unlock_note": null,
-            "journal.key_upgrade.b2.upgrade_name": null,
+            "journal.key_upgrade.b2.date": "DAY 126",
+            "journal.key_upgrade.b2.copy": "3 on 1 is just not fair: I can't believe Rengar got Diana and Riven to team up against me! But I do trust myself in combat much more now... No! No ellipses. I trust myself in combat much more now!",
+            "journal.key_upgrade.b2.unlock_note": "BONUS GAINED",
+            "journal.key_upgrade.b2.upgrade_name": "Decisive Assault",
             "journal.key_upgrade.b2.upgrade_description": null
         },
         {
-            "journal.key_upgrade.b3.date": null,
-            "journal.key_upgrade.b3.copy": null,
-            "journal.key_upgrade.b3.unlock_note": null,
-            "journal.key_upgrade.b3.upgrade_name": null,
+            "journal.key_upgrade.b3.date": "DAY 126",
+            "journal.key_upgrade.b3.copy": "That fight with Olaf and Pyke got me fired up and ready for combat! Good thing Irelia was there to stop them from pummeling me to bits. She's a good model for channeling my anger into action...",
+            "journal.key_upgrade.b3.unlock_note": "BONUS GAINED",
+            "journal.key_upgrade.b3.upgrade_name": "Depths of Rage",
             "journal.key_upgrade.b3.upgrade_description": null
         },
         {
-            "journal.key_upgrade.b4.date": null,
-            "journal.key_upgrade.b4.copy": null,
-            "journal.key_upgrade.b4.unlock_note": null,
-            "journal.key_upgrade.b4.upgrade_name": null,
+            "journal.key_upgrade.b4.date": "DAY 126",
+            "journal.key_upgrade.b4.copy": "Didn't think I lacked inner darkness, but that's what Pyke said. And after he teamed up with Olaf and Diana to test me... I get what he was talking about. Those wraiths won't know what hit 'em.",
+            "journal.key_upgrade.b4.unlock_note": "BONUS GAINED",
+            "journal.key_upgrade.b4.upgrade_name": "Inner Darkness",
             "journal.key_upgrade.b4.upgrade_description": null
         },
         {
-            "journal.key_upgrade.b5.date": null,
-            "journal.key_upgrade.b5.copy": null,
-            "journal.key_upgrade.b5.unlock_note": null,
-            "journal.key_upgrade.b5.upgrade_name": null,
+            "journal.key_upgrade.b5.date": "DAY 126",
+            "journal.key_upgrade.b5.copy": "Irelia serving as commander, directing Riven when to strike, and recruiting Pyke... incredible. I've never seen anything like it... or fought anything like those two. Enemies, watch out!",
+            "journal.key_upgrade.b5.unlock_note": "BONUS GAINED",
+            "journal.key_upgrade.b5.upgrade_name": "Deadly Presence",
             "journal.key_upgrade.b5.upgrade_description": null
         },
         {
-            "journal.key_upgrade.b6.date": null,
-            "journal.key_upgrade.b6.copy": null,
-            "journal.key_upgrade.b6.unlock_note": null,
-            "journal.key_upgrade.b6.upgrade_name": null,
+            "journal.key_upgrade.b6.date": "DAY 126",
+            "journal.key_upgrade.b6.copy": "I understand how to use the shadows to my advantage, now. Diana, Riven, and Pyke, all moving seamlessly. Maybe I can be an assassin after this... or slip out on a tavern bill, at least.",
+            "journal.key_upgrade.b6.unlock_note": "BONUS GAINED",
+            "journal.key_upgrade.b6.upgrade_name": "Ebbing Blade",
             "journal.key_upgrade.b6.upgrade_description": null
         },
         {
-            "journal.key_upgrade.b7.date": null,
-            "journal.key_upgrade.b7.copy": null,
-            "journal.key_upgrade.b7.unlock_note": null,
-            "journal.key_upgrade.b7.upgrade_name": null,
+            "journal.key_upgrade.b7.date": "DAY 126",
+            "journal.key_upgrade.b7.copy": "Rengar and Olaf taught me to take down creatures much bigger than I am! I think Irelia was concerned, but no one got hurt. I do still want to hear Rengar's story about the small yordle the size of a large yordle, though...",
+            "journal.key_upgrade.b7.unlock_note": "BONUS GAINED",
+            "journal.key_upgrade.b7.upgrade_name": "Brutal Bash",
             "journal.key_upgrade.b7.upgrade_description": null
         },
         {
-            "journal.key_upgrade.b8.date": null,
-            "journal.key_upgrade.b8.copy": null,
-            "journal.key_upgrade.b8.unlock_note": null,
-            "journal.key_upgrade.b8.upgrade_name": null,
+            "journal.key_upgrade.b8.date": "DAY 126",
+            "journal.key_upgrade.b8.copy": "Never thought I'd see Rengar and Olaf calm. But Diana was right: I learned a lot from their ambush techniques. I'd practice with Vayne, but if I tried to sneak up on her, I think she'd kill me.",
+            "journal.key_upgrade.b8.unlock_note": "BONUS GAINED",
+            "journal.key_upgrade.b8.upgrade_name": "Wild Ambush",
             "journal.key_upgrade.b8.upgrade_description": null
         }
     ]
