@@ -1414,12 +1414,23 @@ window.pizza = 5;
         "1IRd": function(e, t, o) {
             "use strict";
             o.r(t);
+            console.log(t);
+            console.log('eeeeee')
+            console.log(e);
+            console.log(e.$i18n)
+            console.log(this);
+            console.log(this.$i18n);
             var r = o("PAfu").a,
                 n = o("KHd+"),
                 i = Object(n.a)(r, (function() {
                     var e = this,
                         t = e.$createElement,
                         o = e._self._c || t;
+
+                     console.log('eeeedsfadfee')
+                    console.log(e);
+                    console.log(e.$i18n);
+
                     return o("div", {
                         staticClass: "absolute text-black-tooltip text-15 leading-medium span:black bg-cover bg-center z-1 font-beaufort",
                         staticStyle: {
@@ -16613,6 +16624,8 @@ window.pizza = 5;
         mPbk: function(e, t, o) {
             "use strict";
             o.r(t), o.d(t, "playerSettingsConfig", (function() {
+                console.log("J: ")
+                console.log(j);
                 return j
             })), o.d(t, "inject", (function() {
                 return S
@@ -19029,6 +19042,7 @@ window.pizza = 5;
             t.default = n.exports
         },
         srSZ: function(e, t, o) {
+            console.log(this);
             "use strict";
             o.r(t);
             o("SuFq");
@@ -19046,6 +19060,7 @@ window.pizza = 5;
                 h = o.n(u),
                 v = (o("5DmW"), o("52dk")),
                 g = o("YKMj");
+
 
             function y(e) {
                 var t = function() {
@@ -19082,6 +19097,7 @@ window.pizza = 5;
                     function o() {
                         return n()(this, o), t.apply(this, arguments)
                     }
+
                     return a()(o, [{
                         key: "mounted",
                         value: function() {
@@ -19094,6 +19110,9 @@ window.pizza = 5;
                     }, {
                         key: "title",
                         get: function() {
+                            console.log('spaghetti')
+                                                console.log(this.$i18n)
+
                             return "complete" == this.type ? this.$i18n("global.ui.archive.completion.title") : this.$i18n("global.ui.archive.welcome.title")
                         }
                     }, {
