@@ -44,7 +44,18 @@ def dehash(inp, lines=None):
 	return lines.get(d)
 
 
+import argparse
+
 if __name__ == "__main__":
+	parser = argparse.ArgumentParser(description='Search Lines')
+
+	parser.add_argument('-s', "--search", type=str, help='search keyword')
+
+	args = parser.parse_args()
+
+	search_str = args.search if args.search is not None else 'jayce_collection.artifact_1.text_1'
+
+
 	loaded_lines = load_lines()
-	print(dehash("global.ui.archive.completion.title", lines=loaded_lines))
+	print(dehash(search_str, lines=loaded_lines))
 
