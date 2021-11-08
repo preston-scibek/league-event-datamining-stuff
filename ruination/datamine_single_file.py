@@ -29,9 +29,9 @@ def order_scenes(scenes):
         new_scenes[key] = list(chain.from_iterable([x[1] for x in value]))
     return new_scenes
 
-def dehash(inp, lines):
+def dehash(inp, lines, prefix="17sentinels_hub_2021."):
     """Dehash inp and return the dialogue from lines that corresponds"""
-    s = "17sentinels_hub_2021.{}".format(inp)
+    s = "{}{}".format(prefix, inp)
     s = s.encode()
     r = hashlib.md5(s)
     d = r.hexdigest()
@@ -98,9 +98,9 @@ def style_scenes_asset(scenes, host=None):
     return scenes
 
 
-def get_lines():
+def get_lines(url="https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/sentinels-hub-2021#/"):
     """Get the up to date lines"""
-    res = requests.get("https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/sentinels-hub-2021#/")
+    res = requests.get(url)
 
     html = res.text
     soup = BeautifulSoup(html, "html.parser")
@@ -113,9 +113,9 @@ def get_lines():
     return res_json
 
 
-def get_host():
+def get_host(url="https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/sentinels-hub-2021#/"):
     """Get the up to date asset path"""
-    res = requests.get("https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/sentinels-hub-2021#/")
+    res = requests.get()
     html = res.text
     soup = BeautifulSoup(html, "html.parser")
     scripts = soup.find_all('script')

@@ -3,8 +3,8 @@ import json
 from bs4 import BeautifulSoup
 
 
-def get_lines():
-    res = requests.get("https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/sentinels-hub-2021#/")
+def get_lines(url=""):
+    res = requests.get(url)
 
     html = res.text
     soup = BeautifulSoup(html, "html.parser")
@@ -28,6 +28,6 @@ def get_host():
     return 'nothing found'
 
 if __name__ == "__main__":
-    res_json = get_lines()
+    res_json = get_lines(url="https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/sentinels-hub-2021#/")
     with open('lines.json', 'w', encoding='utf-8') as jfile:
         json.dump(res_json, jfile, indent=4, ensure_ascii=False)
