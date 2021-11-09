@@ -1,6 +1,6 @@
 hash_prefix_1 = "arcane-nlex-hub-2021"
 url = "https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-nlex-hub-2021"
-
+url2 = "https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-lexp-hub-2021"
 import requests
 import json
 from bs4 import BeautifulSoup
@@ -20,8 +20,8 @@ def get_lines(url=""):
     return res_json
 
 
-def save_lines():
-    res_json = get_lines(url="")
+def save_lines(file_name="lines_arcane.json"):
+    res_json = get_lines(url=url)
     with open('lines_arcane.json', 'w', encoding='utf-8') as jfile:
         json.dump(res_json, jfile, indent=4, ensure_ascii=False)
 
@@ -34,10 +34,10 @@ import json
 import sys
 
 
-def dehash(inp, lines=None):
+def dehash(inp, lines=None, hash_prefix=hash_prefix_1):
     if lines is None:
         lines = loaded_lines
-    s = "{}{}.{}".format(17, hash_prefix_1.replace("-", "_"), inp)
+    s = "{}{}.{}".format(17, hash_prefix.replace("-", "_"), inp)
     s = s.encode()
     r = hashlib.md5(s)
     d = r.hexdigest()
@@ -74,35 +74,35 @@ def do_shit(n=10):
                 xxx = dehash(strr, lines=loaded_lines)
                 if xxx:
                     res[strr] = xxx
-        strr = "global.ui.archive." + champ + "_collection_explore"
+
+        for k in range(1, n+1):
+            strr = "{}_collection.nav.artifact_{}.title".format(champ, k)
+            xxx = dehash(strr, lines=loaded_lines)
+            if xxx:
+                res[strr] = xxx
+        
+        suffixes = ["_collection_explore",  "_collection_unlocks_date", "_collection", "_collection_scroll", "_collection_unlocks"]
+        for suffix in suffixes:
+            strr = "global.ui.archive." + champ + suffix
+            xxx = dehash(strr, lines=loaded_lines)
+            if xxx:
+                res[strr] = xxx
+        strr = champ + "_collection.nav.top_title"
         xxx = dehash(strr, lines=loaded_lines)
         if xxx:
             res[strr] = xxx
 
-        strr = "global.ui.archive." + champ + "_collection_unlocks_date"
-        xxx = dehash(strr, lines=loaded_lines)
-        if xxx:
-            res[strr] = xxx
-
-        strr = "global.ui.archive." + champ + "_collection"
-        xxx = dehash(strr, lines=loaded_lines)
-        if xxx:
-            res[strr] = xxx
-
-        strr = "global.ui.archive." + champ + "_collection_scroll"
-        xxx = dehash(strr, lines=loaded_lines)
-        if xxx:
-            res[strr] = xxx
-
-                
-
-
+        for k in range(1, 4):
+            strr = "{}_collection.nav.record_{}.title".format(champ, k)
+            xxx = dehash(strr, lines=loaded_lines)
+            if xxx:
+                res[strr] = xxx
 
     t1 = ['welcome', 'completion']
     t2 = ['title', 'intro', 'cta']
     for t in t1:
         for tt in t2: 
-            strr = "global.ui.archive.{}.{}".format(t, tt)
+            strr = "global.ui.archive.{}.{}".format (t, tt)
             xxx = dehash(strr, lines=loaded_lines)
             if xxx:
                 res[strr] = xxx
@@ -114,8 +114,6 @@ def do_shit(n=10):
 
     globals_strs = [
         "global.ui.scroll_to_read",
-        #"global.ui." + e.hoveredRecord + "_of_",
-        
         "global.ui.record_",
         "global.ui.info_cta",
         "global.ui.back_to_archive",
@@ -127,17 +125,78 @@ def do_shit(n=10):
         "global.ui.move_left",
         "global.ui.archive.explore_archive",
         "global.ui.move_right",
+        
+        "global.ui.now_reading", 
+        
         "tooltip.client_audio_off",
         "tooltip.audio_on",
         "tooltip.motion_on",
         "tooltip.motion_off",
         "tooltip.audio_off",
+        
+        "ui.learn_more",
+        
+        "intro.cta",
+        
+        "tutorial.title",
+        "tutorial.text_1",
+        "tutorial.text_2",
+        "tutorial.footer",
+
+
+
     ]
     for strr in globals_strs:
         xxx = dehash(strr, lines=loaded_lines)
         if xxx:
             res[strr] = xxx
 
+
+    for i in range(1, 4):
+        for k in range(1, 4):
+            strr = "global.ui.{}_of_{}".format(i, k)
+            xxx = dehash(strr, lines=loaded_lines)
+            if xxx:
+                res[strr] = xxx
+        strr = "global.ui.record_{}".format(i, k)
+        xxx = dehash(strr, lines=loaded_lines)
+        if xxx:
+            res[strr] = xxx
+    
+    ll = get_lines(url=url2)
+
+
+    strss = [
+    "labels.owned",
+    "nav.side_button.avatar_creator",
+    "nav.side_button.event_website",
+    "nav.side_button.rxa_website",
+    "nav.side_button.watch_arcane",
+    "preseason.content_title_1",
+    "preseason.content_title_2",
+    "season_end.title",
+    "season_end.body",
+    "season_end.content_title_1",
+    "season_end.content_title_2",
+    "ui.learn_more",
+    "ui.learn_more",
+    "nav.archives_button",
+
+    ]
+    for strr in strss:
+        xxx = dehash(strr, lines=ll, hash_prefix="arcane-lexp-hub-2021")
+        if xxx:
+            res[strr] = xxx
+
+    for champ in champs:
+        strr = "collection." + champ + ".body"
+        xxx = dehash(strr, lines=ll, hash_prefix="arcane-lexp-hub-2021")
+        if xxx:
+            res[strr] = xxx
+        strr = "collection." + champ + ".cta"
+        xxx = dehash(strr, lines=ll, hash_prefix="arcane-lexp-hub-2021")
+        if xxx:
+            res[strr] = xxx
     return res
 
 
@@ -159,7 +218,7 @@ if __name__ == "__main__":
             json.dump(r, jfile, indent=4, ensure_ascii=False)
 
 
-    #comp()
+    comp()
         
 
 

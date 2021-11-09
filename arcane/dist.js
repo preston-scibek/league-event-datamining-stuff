@@ -1420,8 +1420,11 @@ window.pizza = 5;
             console.log(e.$i18n)
             console.log(this);
             console.log(this.$i18n);
-            var r = o("PAfu").a,
-                n = o("KHd+"),
+            var r = o("PAfu").a;
+            var zzzz = o("PAfu").j;
+            console.log(zzzz);
+            console.log('rrrrrrr');
+            var n = o("KHd+"),
                 i = Object(n.a)(r, (function() {
                     var e = this,
                         t = e.$createElement,
@@ -8178,6 +8181,7 @@ window.pizza = 5;
                     }, {
                         key: "locBaseString",
                         get: function() {
+
                             if (null !== this.sectionKey) {
                                 var e = H(this.sectionKey),
                                     t = c()(e, 2),
@@ -8757,6 +8761,8 @@ window.pizza = 5;
         },
         PAfu: function(e, t, o) {
             "use strict";
+            console.log('nnn')
+            console.log(o.n);
             (function(e) {
                 o("SuFq"), o("pNMO"), o("TeQF"), o("FZtP"), o("27RR");
                 var r = o("lSNA"),
@@ -8764,8 +8770,10 @@ window.pizza = 5;
                     i = o("lwsE"),
                     a = o.n(i),
                     s = o("W8MJ"),
-                    l = o.n(s),
-                    c = o("7W2i"),
+                    l = o.n(s);
+                    console.log('lll');
+                    console.log(l());
+                    var c = o("7W2i"),
                     f = o.n(c),
                     p = o("a1gu"),
                     d = o.n(p),
@@ -8890,6 +8898,9 @@ window.pizza = 5;
                         }, {
                             key: "indexToEntry",
                             value: function(e) {
+                                console.log("egg");
+                                console.log(e)
+                                console.log(this.locBaseString);
                                 var t, o = (null === (t = this.section.formatByText) || void 0 === t ? void 0 : t[e]) || {},
                                     r = "string" == typeof o || Array.isArray(o) ? {} : o,
                                     n = r.prepend,
@@ -12957,6 +12968,7 @@ window.pizza = 5;
             var r = o("aCH8"),
                 n = o.n(r);
             t.a = function(e) {
+                console.log(e)
                 return n()("".concat("17").concat(e))
             }
         },
@@ -17216,14 +17228,15 @@ window.pizza = 5;
             }));
             o("TWNs"), o("rB9j"), o("JfAA"), o("FZtP"), o("j+VE"), o("UxlC"), o("SYor"), o("ma9I");
             var r, n = o("mPbk"),
-                i = o("WdUP"),
-                a = (o("vqQr"), n.inject.i18nPrefix || n.inject.prefix),
+                i = o("WdUP");
+                console.log(n.inject.i18nPrefix || n.inject.prefix);
+                var a = (o("vqQr"), n.inject.i18nPrefix || n.inject.prefix),
                 s = {},
                 l = new RegExp("^".concat(a, "."));
             Array.apply(null, (null === (r = globalThis.document) || void 0 === r ? void 0 : r.querySelectorAll('script[type="text/i18n"]')) || []).forEach((function(e) {
                 if (e) {
 
-                    //console.log(`array : ${e.id} // l : ${l}`)
+                    console.log(`array : ${e.id} // l : ${l}`)
                     var t = e.id.replace(l, "");
                     s[t] = e.textContent.trim()
                 }
@@ -17232,12 +17245,12 @@ window.pizza = 5;
             var c = {},
                 f = function(e) {
                     window.revHash = c;
-                    //console.log(`c.f.e : ${e}`)
+                    console.log(`c.f.e : ${e}`)
                     return e in c || (c[e] = Object(i.a)("".concat(a, ".").concat(e.replace(l, "")))), c[e]
                 };
             t.default = function(e) {
 
-                //console.log(`t.default.e : ${e}`);
+                console.log(`t.default.e : ${e}`);
                 return s[f(e)] || "{i18n ".concat(a, ".").concat(e, "}")
             }
 
