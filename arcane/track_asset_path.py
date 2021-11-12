@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 
 def do_shit(url="https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-lexp-hub-2021#/"):
     # load the page we need to get shit from
-    res = requests.get("https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/sentinels-hub-2021#/")
+    res = requests.get(url)
 
     html = res.text
     soup = BeautifulSoup(html, "html.parser")
