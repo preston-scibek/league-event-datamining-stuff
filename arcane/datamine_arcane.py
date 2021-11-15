@@ -57,7 +57,7 @@ def comp():
 
 
 
-def do_shit(n=10):
+def do_shit(n=15):
     loaded_lines = load_lines()
     res = {}
     champs = ['jayce', 'caitlyn', 'vi', 'jinx']
@@ -70,18 +70,23 @@ def do_shit(n=10):
                         xxx = dehash(strr, lines=loaded_lines)
                         if xxx:
                             res[strr] = xxx
-        for artifact in range(1, n+1):
-            for text in range(1, n+1):
-                strr = "{}_collection.artifact_{}.text_{}".format(champ, artifact, text)
-                xxx = dehash(strr, lines=loaded_lines)
-                if xxx:
-                    res[strr] = xxx
 
         for k in range(1, n+1):
             strr = "{}_collection.nav.artifact_{}.title".format(champ, k)
             xxx = dehash(strr, lines=loaded_lines)
             if xxx:
                 res[strr] = xxx
+            
+            strr = "{}_collection.nav.record_{}.title".format(champ, k)
+            xxx = dehash(strr, lines=loaded_lines)
+            if xxx:
+                res[strr] = xxx
+
+            for text in range(1, n+1):
+                strr = "{}_collection.artifact_{}.text_{}".format(champ, k, text)
+                xxx = dehash(strr, lines=loaded_lines)
+                if xxx:
+                    res[strr] = xxx
         
         suffixes = ["_collection_explore",  "_collection_unlocks_date", "_collection", "_collection_scroll", "_collection_unlocks"]
         for suffix in suffixes:
@@ -94,11 +99,6 @@ def do_shit(n=10):
         if xxx:
             res[strr] = xxx
 
-        for k in range(1, 4):
-            strr = "{}_collection.nav.record_{}.title".format(champ, k)
-            xxx = dehash(strr, lines=loaded_lines)
-            if xxx:
-                res[strr] = xxx
 
     t1 = ['welcome', 'completion']
     t2 = ['title', 'intro', 'cta']
@@ -154,8 +154,8 @@ def do_shit(n=10):
             res[strr] = xxx
 
 
-    for i in range(1, 4):
-        for k in range(1, 4):
+    for i in range(1, n+1):
+        for k in range(1, n+1):
             strr = "global.ui.{}_of_{}".format(i, k)
             xxx = dehash(strr, lines=loaded_lines)
             if xxx:
@@ -224,6 +224,14 @@ if __name__ == "__main__":
         missing = comp()
         for index, val in enumerate(missing):
             r["?"*(index+1)] = val
+            print(val)
+        with open('attempted_bf.json', 'w', encoding="utf-8") as jfile:
+            json.dump(r, jfile, indent=4, ensure_ascii=False)
+
+        missing = comp()
+        for index, val in enumerate(missing):
+            r["?"*(index+1)] = val
+            print(val)
         with open('attempted_bf.json', 'w', encoding="utf-8") as jfile:
             json.dump(r, jfile, indent=4, ensure_ascii=False)
 
