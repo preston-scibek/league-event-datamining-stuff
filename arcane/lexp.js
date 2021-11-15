@@ -1051,6 +1051,7 @@
                 eventWebsiteUrl: "http://intothearcane.leagueoflegends.com/ru-ru",
                 riotxArcaneUrl: "https://riotxarcane.riotgames.com/ru-ru/",
                 jayceTrailerVideo: "TSjw3QORpXU",
+                viTrailerVideo: "v2MFd2k5WD8",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://ru.leagueoflegends.com/ru-ru/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/ru-ru"
@@ -2609,7 +2610,9 @@
                                     r = o.localeKey,
                                     i = a()(o, ["localeKey"]);
                                 return ("riot" === t.$publisher ? t.$localeVars[r] : t.$hubConfig[r]) && w(w({}, i), {}, {
-                                    onclick: function() {
+                                    onclick: "avatarCreator" === e ? function() {
+                                        return t.$rClient.switchTab(/arcane-lac-2021/)
+                                    } : function() {
                                         return t.$linkOut(t.$hubConfig[r] || t.$localeVars[r])
                                     }
                                 })
@@ -2676,7 +2679,7 @@
                             }
                         })])])], 1)
                     }))], 2)
-                }), [], !1, null, "e64422ee", null);
+                }), [], !1, null, "f5c3d0b4", null);
             e.default = B.exports
         },
         BLf9: function(t, e, o) {
@@ -6032,6 +6035,7 @@
                 eventWebsiteUrl: "http://intothearcane.leagueoflegends.com/pt-br",
                 riotxArcaneUrl: "https://riotxarcane.riotgames.com/pt-br/",
                 jayceTrailerVideo: "ryl93M9EA4I",
+                viTrailerVideo: "6wdU0i89XQk",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://br.leagueoflegends.com/pt-br/news/game-updates/recompensas-ranqueadas-de-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/pt-br"
@@ -7483,6 +7487,7 @@
                 eventWebsiteUrl: "http://intothearcane.leagueoflegends.com/ja-jp",
                 riotxArcaneUrl: "https://riotxarcane.riotgames.com/ja-jp/",
                 jayceTrailerVideo: "iciJAGCHjfM",
+                viTrailerVideo: "1hbQJakmqZk",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://jp.leagueoflegends.com/ja-jp/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/ja-jp"
@@ -8046,6 +8051,7 @@
                 eventWebsiteUrl: "http://intothearcane.leagueoflegends.com/es-ar",
                 riotxArcaneUrl: "https://riotxarcane.riotgames.com/es-mx/",
                 jayceTrailerVideo: "uUuCRSQuw5k",
+                viTrailerVideo: "eyECopS3JyI",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://las.leagueoflegends.com/es-ar/news/game-updates/recompensas-de-clasificatorias-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/es-ar"
@@ -10687,7 +10693,7 @@
             })), o.d(e, "itIs", (function() {
                 return K
             })), o.d(e, "keysStrong", (function() {
-                return X
+                return Q
             })), o.d(e, "setLogAndReturnIsNoOp", (function() {
                 return ot
             })), o.d(e, "logAndReturn", (function() {
@@ -11287,11 +11293,11 @@
                 return _()(t).some(e)
             }
 
-            function X(t) {
+            function Q(t) {
                 return Object.keys(t)
             }
-            var Q = o("BkRI"),
-                tt = o.n(Q),
+            var X = o("BkRI"),
+                tt = o.n(X),
                 et = !0;
 
             function ot(t) {
@@ -12143,7 +12149,7 @@
                         bgImage: "bg-undercity-nights"
                     },
                     "Featured Collection: Vi": {
-                        enabled: false,
+                        enabled: !0,
                         date: new Date("2021-11-15T16:00:00+00:00").valueOf(),
                         dateOverride: "dateFeaturedVi",
                         featuredCollection: "vi"

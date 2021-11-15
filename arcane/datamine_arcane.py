@@ -49,9 +49,11 @@ def comp():
     with open('attempted_bf.json', 'r', encoding='utf-8') as jfile:
         xxx2 = json.load(jfile)
 
+    missing = []
     for line in xxx1.values():
         if line not in xxx2.values():
-            print(line)
+            missing.append(line)
+    return missing
 
 
 
@@ -206,19 +208,26 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Search Lines')
 
     parser.add_argument('-s', "--search", type=str, help='search keyword')
+    parser.add_argument('-g', "--get_lines", type=bool, help='get_lines')
+
 
     args = parser.parse_args()
-    if args.search:
+    if args.get_lines:
+        save_lines()
+    elif args.search:
         search_str = args.search if args.search != 'default' else 'jayce_collection.artifact_1.text_1'
         loaded_lines = load_lines()
         print(dehash(search_str, lines=loaded_lines))
     else:
         r = do_shit()
+        
+        missing = comp()
+        for index, val in enumerate(missing):
+            r["?"*(index+1)] = val
         with open('attempted_bf.json', 'w', encoding="utf-8") as jfile:
             json.dump(r, jfile, indent=4, ensure_ascii=False)
 
 
-    comp()
         
 
 
