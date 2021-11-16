@@ -25,8 +25,8 @@
                 a = o.n(n),
                 s = o("7W2i"),
                 l = o.n(s),
-                p = o("a1gu"),
-                c = o.n(p),
+                c = o("a1gu"),
+                p = o.n(c),
                 f = o("Nsbk"),
                 d = o.n(f),
                 u = o("cDf5"),
@@ -50,7 +50,7 @@
                         var i = d()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
-                    return c()(this, o)
+                    return p()(this, o)
                 }
             }
             var m = function(t, e, o, r) {
@@ -553,8 +553,8 @@
                         a = o.n(n),
                         s = o("sXyB"),
                         l = o.n(s),
-                        p = o("lwsE"),
-                        c = o.n(p),
+                        c = o("lwsE"),
+                        p = o.n(c),
                         f = o("W8MJ"),
                         d = o.n(f),
                         u = o("7W2i"),
@@ -594,7 +594,7 @@
 
                             function o() {
                                 var t;
-                                if (c()(this, o), (t = e.call(this))._impressionLog = {}, t.eventOptions("init", {
+                                if (p()(this, o), (t = e.call(this))._impressionLog = {}, t.eventOptions("init", {
                                         includeLastTrigger: !0
                                     }), t.send("click", {
                                         "meta.interactionType": "tab"
@@ -629,12 +629,12 @@
                                             }
                                         }), n) {
                                         a();
-                                        var p = document.createElement("script");
-                                        p.type = "text/javascript", p.src = "https://lolstatic-a.akamaihd.net/ping/ping-0.1.663.min.js", p.onload = function() {
+                                        var c = document.createElement("script");
+                                        c.type = "text/javascript", c.src = "https://lolstatic-a.akamaihd.net/ping/ping-0.1.663.min.js", c.onload = function() {
                                             return setTimeout((function() {
                                                 t.trigger("init")
                                             }))
-                                        }, document.body.appendChild(p)
+                                        }, document.body.appendChild(c)
                                     }
                                 }));
                                 return t
@@ -676,7 +676,7 @@
                         }(y.CustomEvents),
                         A = function() {
                             function e() {
-                                c()(this, e);
+                                p()(this, e);
                                 for (var t = arguments.length, o = new Array(t), r = 0; r < t; r++) o[r] = arguments[r];
                                 this.params = Object.assign.apply(Object, [{}].concat(a()(o.map((function(t) {
                                     return t instanceof e ? t.toObject() : "string" == typeof t ? e.parseString(t) : t || {}
@@ -743,8 +743,8 @@
                 a = o.n(n),
                 s = o("a1gu"),
                 l = o.n(s),
-                p = o("Nsbk"),
-                c = o.n(p),
+                c = o("Nsbk"),
+                p = o.n(c),
                 f = o("cDf5"),
                 d = o.n(f),
                 u = (o("5DmW"), o("YKMj"));
@@ -761,9 +761,9 @@
                     }
                 }();
                 return function() {
-                    var o, r = c()(t);
+                    var o, r = p()(t);
                     if (e) {
-                        var i = c()(this).constructor;
+                        var i = p()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
                     return l()(this, o)
@@ -837,8 +837,8 @@
                 a = o.n(n),
                 s = o("a1gu"),
                 l = o.n(s),
-                p = o("Nsbk"),
-                c = o.n(p),
+                c = o("Nsbk"),
+                p = o.n(c),
                 f = o("cDf5"),
                 d = o.n(f),
                 u = (o("5DmW"), o("YKMj"));
@@ -855,9 +855,9 @@
                     }
                 }();
                 return function() {
-                    var o, r = c()(t);
+                    var o, r = p()(t);
                     if (e) {
-                        var i = c()(this).constructor;
+                        var i = p()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
                     return l()(this, o)
@@ -907,6 +907,9 @@
                 }), [], !1, null, "2d3d9c06", null);
             e.default = k.exports
         },
+        "1P0E": function(t, e) {
+            t.exports = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 949.59 1302.71"><path d="M0,1302.71c5.89-14.48,11.71-29,17.71-43.42,2.42-5.84,5.11-11.58,7.9-17.25.82-1.69,2.44-3,3.61-4.52.62-.82,1.67-2,1.48-2.66-1.1-4.06,1-6.4,3.58-9.12a10.85,10.85,0,0,0,2.55-7c-.15-10.66-.59-21.32-1.25-32-.66-10.82,3.72-19.46,11-26.88,4.18-4.26,8.8-8.1,13-12.36,1-1,1.78-3.28,1.34-4.49-7.51-20.8-1-37.67,13.82-52.67,5.25-5.29,9.62-11.48,14.11-17.48,1.19-1.59,2.2-4.11,1.86-5.94-4.12-22.2,9.7-36.1,23.5-49.43,6.17-6,9.23-11.82,8-20.08-2.81-18.55,5.85-32.17,19-43.69,4.75-4.15,9.9-7.86,15-11.63,3.1-2.3,5.36-4.56,4.37-9-.7-3.19.15-6.7-.41-10-1.51-8.7,3-14,9.8-17.87,3.33-1.87,4.5-4.25,5.09-7.81,2.25-13.7,4.87-27.34,7.19-41a22.26,22.26,0,0,0-1.69-12.85c-2-4.81-1.72-10.71-1.75-16.14-.07-12.27-1.2-24.66,3.77-36.49.9-2.14.2-4.93.29-7.41a347,347,0,0,0-5.8-75.53c-4.08-22.21-1.6-44.78.34-67.17.83-9.61,1.16-19.29,2.44-28.84a192.3,192.3,0,0,1,4.87-23.34c2.7-10.28,10.7-15.56,19.43-20.65,16.83-9.81,34.88-13.82,54.11-14.68,7.52-.33,14.6-3.18,21.12-7.82,10.53-7.52,21.74-14.11,32.71-21,2.5-1.57,5.19-2.83,8.43-4.58-9.57-7-9.87-15.83-6.59-25.61,2.59-7.69,4.72-15.54,7.36-23.22,1.2-3.52,1.54-6.5-1-9.59-2.1-2.55-3.54-5.64-5.65-8.18-4.32-5.22-3.84-10.65-1.24-16.3,1.3-2.85,2.64-5.67,4.18-9a11.34,11.34,0,0,0-2.89-.13c-15.86,4.1-25.75-4.69-33.93-16.23-9.06-12.76-17.55-25.92-26.3-38.9-1-1.44-2-2.81-3.07-4.21l-1.42.34c-.59,10.87-2.08,21.79-1.56,32.6a327.38,327.38,0,0,0,4.86,43.07c1.28,7,5.08,13.76,8.93,19.87,3.51,5.58,9.55,7.57,16.29,5.86,2.23-.56,4.43-1.26,6.65-1.9l.75,1.35-13.93,8.33c4,4.2,4,4.2,16.39-2l.95.91c-2.08,1.75-4.19,3.46-6.24,5.25-4.69,4.12-8.71,4.21-14,.67a71,71,0,0,1-25.3-28.87c-5.17-10.87-11.62-21.28-15.4-32.6-4.81-14.46-7.71-29.59-11-44.52-.76-3.52-2-5.31-5.93-5.82.18,3.19.08,6.3.56,9.32,2.5,15.94,4.21,32.1,8.12,47.69,2.16,8.61,8,16.28,12.34,24.34,1.6,3,3.43,5.92,4.39,9.53l-14.32-6.88c.42,2.24.68,4.1,1.11,5.92,3.38,14.49,9.13,27.81,19.62,38.66,6.3,6.51,13.33,11.5,23.39,8l.18,1.66c-2.62.52-5.23,1.15-7.87,1.53-2.86.42-5.76.59-9.81,1,8.29,6.27,16.36,6.81,24.91,5.13,9.4-1.84,13.79-9,17.69-17.34,1.68,5.65-1.1,13.86-5.87,18.88-7.54,7.94-19.15,9.31-29.7,5.83-18-5.93-31.31-17.82-42.1-32.27-9.77-13.07-18.48-27.06-24.83-42.35-4.18-10.06-8.64-20.18-20.34-26.37l26.29,64.4-.64.38c-.58-.74-1.2-1.45-1.71-2.22-14.36-21.75-23.87-45.65-31.42-70.44a14,14,0,0,0-3.17-5.48c-15.51-16.13-27.19-34.72-36.68-54.92a314.88,314.88,0,0,1-21-58.65c-1.46-6-2.45-12.06-3.64-18.1-1.75-8.84-3.48-17.32-7.81-25.77-7.61-14.81-13.68-30.69-14.27-47.81a143,143,0,0,1,8.95-54.7c4.91-13.37,8.65-27.18,13.74-40.48,3.51-9.19,4-18.46,4.15-28a71.71,71.71,0,0,1,2.44-15.75q4.5-18.37,9.67-36.6c1.77-6.24,3.92-12.56,9.43-16.64,2.38-1.76,5.38-3.38,8.22-3.63,4.06-.35,8.25.53,12.36,1,9.84,1.24,19.65,2.76,29.5,3.82,11.25,1.21,22.42,3.55,31.34,10.39,7.77,6,16.3,9.35,25.24,12.31,1.51.5,3.48-.31,5.22-.62.62-.11,1.19-.82,1.78-.82,13.72.06,23.83-9.41,35.92-13.66C288.18,16,303.23,9.75,318.66,4.6,337.26-1.6,356.34-.52,375.52,2c24,3.11,46.85,10,67.9,21.53,21.89,12,43.16,25.41,59.43,44.85,6.12,7.31,10.61,16,15.33,24.41,3.11,5.53,7,9.53,13.87,10.79-3,4.84-5.7,9.29-8.44,13.75l14.46,3.75c-5.05,6-9.24,10.64-12.91,15.63-1.11,1.51-.76,4.08-1.08,6.16-.94,6.15-1.71,12.32-2.88,18.42-1.4,7.25-3.14,14.43-4.9,22.43,4.32-2.2,5.91-7.56,11.5-5.69-2.87,5.51-5.39,10.94-8.46,16.05a9.32,9.32,0,0,0-.51,9.68,74.65,74.65,0,0,1,4.3,11.68c2.75,10.06,1.28,19.64-3,29.17-2.94,6.62-4.92,13.72-6.84,20.74-.79,2.89.6,6.55-.6,9.12a38.3,38.3,0,0,1-7.66,10.49c-3.35,3.38-7.53,5.92-11,9.15-.73.67-.25,2.82,0,4.25.06.46,1,.79,1.53,1.2,8.49,6.78,9,11.32,2.43,20-4.27,5.62-4.36,5.76,1.61,9.52a83.4,83.4,0,0,0,10.1,5c7.91,3.59,11.31,10.63,14.46,18.08,2.19,5.19.7,9.17-1.28,14.2-2.11,5.37-3,12.8-.91,17.87,2.79,6.74,9.63,11.68,13.59,18.09a243.8,243.8,0,0,1,14.62,27.75c3.51,7.82,2.07,16.12-1,23.86-1.35,3.42-.4,5.56,1.67,7.95,4.88,5.61,10.05,11,14.37,17.06,4.09,5.72,7.19,12.13,10.84,18.18a5.27,5.27,0,0,0,2.61,2.43c8.06,2,16.12,4.16,24.28,5.71,7.32,1.39,14.75,2.32,22.17,3.05,20.34,2,35.68,12.49,48.36,27.82,8.73,10.55,11.61,23.45,14.59,36.21C692.16,590,693.89,608,695,626.2c1.09,18.71,4.54,37.28,7,55.91,2.15,16.32,4.47,32.62,6.48,49,.51,4.21,1.6,7.3,5.45,9.9,2.31,1.56,3.13,5.37,4.5,8.23,1.29,2.69,1.68,6.56,3.77,7.95a82.87,82.87,0,0,0,17.65,9c6,2.17,12,1,17.22-3.59A114.28,114.28,0,0,1,770.36,753c1.55-1,4.33-2.09,5.45-1.39,2.62,1.64,4.54,4.13,3.27,8-3.79,11.53-7.34,23.14-10.93,34.74-5,16.19-18,24.89-31.24,33.37-1,.66-2.88.45-4.22.13-5.64-1.32-11.23-2.84-17-4.32-.38,1.1-.95,1.89-.86,2.61,1.23,10.19,1.93,20.52,4.21,30.48.75,3.28,2.34,8,7.47,9.53a15.44,15.44,0,0,1,8,6c7.43,11.68,18.94,14.39,30.43,6.29,4.17-2.94,7.84-6.58,12.75-10.75.78,2.28,2.17,4.62,2.32,7,1.36,20.78-5.86,38.77-18.37,54.95a1.34,1.34,0,0,0-.22.54c4.55,6.15,8.49,12.58,13.59,17.9,2.56,2.67,7.27,3.22,10.94,4.89s7.33,3.57,11,5.4c.43.22.7.85,1.13,1,9.44,2.26,9,9.6,9,16.95,0,7.13.43,14.26.92,21.38a9.76,9.76,0,0,0,5.38,8.62c7.07,4.16,13.35,9.65,19.95,14.6,2.9,2.18,4.34,4.94,3.5,8.68-.87,3.89-1.79,7.78-2.39,11.72-.54,3.57.21,6.59,4.45,7.64a5,5,0,0,1,2.61,2.35c3.53,6.17,7,12.36,10.34,18.67,1.45,2.77,2.24,5.87,3.53,8.73,4.88,10.88,9.75,21.73,12.06,33.55.38,1.94,1.84,3.67,2.89,5.45.33.54,1.39.93,1.37,1.35-.4,7.81,7.91,11.38,8.9,18.67,1,7.08,2.88,14,4.27,21,1.5,7.51,2.8,15.06,4.32,22.56.74,3.69,2.19,6.26,6.5,7.82,2.94,1.06,5.16,5.22,6.84,8.44a69.35,69.35,0,0,1,4.62,12.45c4.37,14.83,8.58,29.71,12.85,44.56a5.71,5.71,0,0,0,.59,1.9c1.07,1.41,2.29,2.71,3.45,4.06.37-1.88,1.38-3.9,1-5.61-1.36-6-3.68-11.8-4.74-17.83-1.32-7.58-1.82-15.32-2.5-23a3.74,3.74,0,0,1,1.32-3c5.94-3.18,4.27-12.54,12.53-14.24,9.92-2,19.58,6.47,17.8,16.71a3.1,3.1,0,0,1-.9,1.65c-3.68,3.22-7.34,6.49-11.19,9.51a5,5,0,0,1-3.63.42c-3-.67-3.12,1.36-2.74,3.09,2.62,12,7.18,23.63,7.52,36.22.15,5.56,2.3,11,2.94,16.62.81,7-5.42,15.21-12.16,17.57-2.28.79-4.16,2.7-6.22,4.1H892c-7.79-3.12-11.87-9.46-14.85-16.85a72.78,72.78,0,0,0-4.59-9.74c-1.86-3.13-4.66-5.75-6.3-9-2.9-5.7-3.33-12.54,1.27-13.58s5.22-5,7.06-8.11c.47-.77-.28-2.56-.91-3.62-1.43-2.41-3.9-4.45-4.58-7-2.33-8.76-3.6-17.63-1.67-26.8.45-2.13-1.37-4.87-2.48-7.18-1.54-3.23-4.09-6.12-5-9.48-3.36-12.87-6.11-25.9-9.34-38.81-1.31-5.24-2.67-10.62-5.12-15.36-1.42-2.76-2.89-4.78-3.41-8.28-.87-5.88-4.07-11.48-6.73-17-1.18-2.42-3.85-4.1-5.13-6.5Q822,1090,814.33,1074.32c-1-2.09-.78-4.8-1.78-6.91-.86-1.8-2.47-4.18-4.11-4.51a78,78,0,0,0-17.31-1.92c-5.51.17-8.27-2.33-10.2-6.8-1-2.44-1.91-5-3.12-7.34-2.19-4.25-4.72-8.32-6.82-12.61-1.86-3.8-3.9-7.66-4.79-11.73s-.2-8.3-.64-12.43c-.24-2.34-.72-5.19-2.2-6.76-5.66-6-11.72-11.6-17.76-17.22-.61-.58-2.05-.28-4.24-.5,2.2,5,3.23,9.88,6,13.28,6.46,7.91,10.32,16.13,8.7,26.65-.31,2,1.94,4.75,3.61,6.62,4.74,5.3,10.66,9.85,9.92,18.09-.23,2.64-.6,5.28-1,7.9-.72,4.47-1,8.32,4.47,10.61,1.84.78,2.87,4.34,3.56,6.83,2.3,8.34,4.6,16.7,6.25,25.19.7,3.62-.35,7.56-.29,11.35a6.8,6.8,0,0,0,1.65,3.52c1.8,2.42,4.78,4.44,5.5,7.11,2.19,8,3.62,16.28,5.17,24.47,1.43,7.55,2.67,15.13,3.9,22.71.91,5.62.5,11.82,2.82,16.75,3,6.44,1.12,11-3.12,14.79-3.82,3.43-4.78,7-4.56,11.86.55,12.55,1,25.12.9,37.67-.07,8.46-1.67,16.92-1.61,25.37,0,4.79,1.81,9.63,3.21,14.32,1.22,4.1,3,8,4.57,12H705c-2.12-7.5-4.19-15-6.37-22.49a113.81,113.81,0,0,1-5-33.27c.07-6.76-1-7.4-7.9-8.66-8.69-1.59-15.29-8-15.87-15.54-.45-6-.49-12-1-18-.95-12-3-23.93-9.54-34.24-4.56-7.14-5.32-16.77-.63-23.43a7.11,7.11,0,0,0,1.19-4.78c-1.93-11.95-4.07-23.88-6.18-35.8-.49-2.72-.26-6.12-1.82-8-5.72-6.88-5.51-15.51-7.75-23.39-.18-.64.61-1.6,1-2.36a37.52,37.52,0,0,0,2-3.58c3.38-8.5,3.77-18.23,10.49-25.38.45-.48.35-1.49.51-2.23-5.11-2.63-8.63-5.86-8-12,.67-6.75,1-13.53,1.4-20.31.07-1.28.13-3.06-.61-3.8-4.32-4.34-4.87-10.19-6.43-15.55-3-10.34-5.53-20.82-8.35-31.22-1.6-5.92-3.71-11.13-9.34-15.12-3.65-2.58-6.28-7.83-7.51-12.38-3.38-12.45-5.86-25.14-8.55-37.77-1.35-6.31-3.92-10.85-10.37-14-4.9-2.38-8.77-7.48-12.2-12-1.94-2.58-3.49-6.89-2.76-9.79,2.74-10.76,2-20.63-4.46-29.85a13.87,13.87,0,0,1-.88-2.64c-1.09,2.46-1.78,4.07-2.51,5.67-6,13.21-12,26.41-18,39.65-1.93,4.31-5.57,8.29-2.3,13.72.7,1.15-.28,3.59-1,5.22a66.64,66.64,0,0,1-4.18,7.93c-4.1,6.87-6.72,13.92-5.64,22.26.45,3.41-.65,7.29-2,10.55a9.37,9.37,0,0,1-5.4,4.59c-7.59,2.28-7.65,2.07-8.11,10.21-.09,1.66-.25,3.32-.49,5q-7.59,50.35-15.17,100.71c-1.19,8-1.61,16,1.74,23.56,4.76,10.8,9.63,21.56,14.8,32.16.71,1.47,3.36,2.51,5.25,2.79,5.43.79,10.95.9,16.37,1.69a13,13,0,0,1,6.17,2.7,52.62,52.62,0,0,1,5.75,6.15c4.55-1.24,8-1.54,10.73-3,13.56-7.28,37.47,1.81,42.59,14.71,2.56,6.46,7,11.14,14.3,12.66,2.45.51,4.59,1.62,5,5.19,1.16,9.29,3,18.49,4.7,27.72a10.22,10.22,0,0,0,1.24,2.64c1.82,3.44,4.2,6.69,5.36,10.33,2.73,8.56,4.39,17.47,7.4,25.92,3.8,10.65,1.89,20.26-3.47,29.63-1.71,3-3.64,5.74-8.06,2.24-.36,2.15-.75,3.7-.85,5.27-.29,4.47-.59,8.95-.66,13.44-.08,5.92-2.89,9.85-7.88,12.91-5.64,3.46-11.52,3-18.76,2.16,2.73,7.43,5.27,14.37,7.82,21.3H185c2.5-5.22,4.43-10.83,7.62-15.59,9.22-13.81,13.27-29.42,16.66-45.4q-10.82,19.15-20.53,38.84c-3.56,7.23-6.52,14.76-9.75,22.15H105q.06-7.49.11-15c0-7.11-.49-14.28.33-21.3.51-4.27,2.3-8.16-.36-12.4a6.09,6.09,0,0,1-.12-5.24c3-5.35,1.11-10.63.7-16a76.42,76.42,0,0,1,.57-12.63c.3-3.38,1.56-6.78,1.26-10.07-.7-7.86-2.16-15.65-3.13-23.5-.57-4.54-.64-9,3.92-12a4.54,4.54,0,0,0,1.54-3c2.06-18.86,4.09-37.72,6-56.6.18-1.89-.75-3.9-1.21-6a17.44,17.44,0,0,1-2.89,1.3c-5.52,1.11-5.83,4.36-5.28,9.46,1,9.24.68,18.61,1,27.92.18,5.52-2.82,9-7.18,11.68-2.14,1.3-4.61,2.15-6.48,3.74a28.19,28.19,0,0,0-5.72,6.56c-2.94,4.8-2.93,10-1.33,15.37,3.53,11.94.85,22.29-8.46,30.84-3.43,3.15-6.63,6.56-9.85,9.93-5,5.25-5.72,13.58-2.49,20,1.42,2.81,2.51,6.48,2,9.43a113.11,113.11,0,0,1-5.38,18.45c-3.6,9.8-7.63,19.45-11.48,29.16ZM511,456.43c-9-5.91-17.95-11.3-26.26-17.56-2.78-2.09-5.37-6.37-5.44-9.7-.11-5.27,1.87-10.61,3.16-15.87,1.38-5.63,3.16-11.16,4.34-16.82A5.61,5.61,0,0,0,485,392c-3.95-3.25-8.51-5.79-12.24-9.25a16.15,16.15,0,0,1-4.84-8.13c-1.7-8.93-2.3-18.07-4.15-27-.39-1.88-4.16-3.25-6.61-4.32-.42-.19-2.82,2.22-2.94,3.56-.58,6.15-.85,12.34-.89,18.52,0,7.29,1.11,14.67.28,21.84-1.76,15.14.87,29.34,6.63,43.24,4,9.62,8.58,19,16.84,25.5,9.19,7.24,19.16,13.51,29.28,20.54ZM242.92,1131c6.91-9.5,11.49-20.28,14.75-31.65.9-3.15,1.88-6.57,1.56-9.73q-3.39-33.3-7.41-66.51c-.66-5.45-2.16-10.81-3.28-16.2l-1.52.19q-2.31,13.71-4.63,27.41c-2.35,13.81-3.59,27.54-2.2,41.7C242,1094.34,242.08,1112.64,242.92,1131ZM147.59,345.61a14.82,14.82,0,0,0,.24-2c-1-14.1-2-28.2-3-42.29-.88-12.08-1.15-24.26-3-36.2-1.6-10.6-4.95-20.93-7.56-31.37,0-.13-.58-.13-.75-.16C126.31,272.17,135.09,308.78,147.59,345.61ZM90.66,166.53H89.39c-6.45,27.68-5.45,58.66,3,73.1C91.78,214.52,91.22,190.53,90.66,166.53Zm59.51,139.6-1.14,0c2.06,17.62,3.7,35.31,6.36,52.84,1.36,9,5.32,14.44,10,17.67Zm62.33,42.52,1.77-.51c2.7-16.45-3.25-32-4.74-48.05-.26,13-.48,25.89-.11,38.8C209.51,342.17,211.42,345.4,212.5,348.65Zm12.37,844.52-2.46-.48c-.81,2.3-2.19,4.57-2.31,6.91-.33,6.14-.12,12.32-.12,19.39,1.74-2.48,4.42-4.63,4.67-7C225.3,1205.76,224.87,1199.45,224.87,1193.17Z" fill="white" class="opacity-0 pointer-events-auto"></path></svg>'
+        },
         "1SGC": function(t, e, o) {
             "use strict";
             o.r(e);
@@ -917,8 +920,8 @@
                 a = o.n(n),
                 s = o("7W2i"),
                 l = o.n(s),
-                p = o("a1gu"),
-                c = o.n(p),
+                c = o("a1gu"),
+                p = o.n(c),
                 f = o("Nsbk"),
                 d = o.n(f),
                 u = o("cDf5"),
@@ -942,7 +945,7 @@
                         var i = d()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
-                    return c()(this, o)
+                    return p()(this, o)
                 }
             }
             var m = function(t, e, o, r) {
@@ -1054,7 +1057,8 @@
                 viTrailerVideo: "v2MFd2k5WD8",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://ru.leagueoflegends.com/ru-ru/news/game-updates/ranked-rewards-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/ru-ru"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/ru-ru",
+                preseasonSpotlightVideo: "APYU_1Hconw"
             }
         },
         "2//n": function(t, e, o) {
@@ -1067,8 +1071,8 @@
                 a = o.n(n),
                 s = o("a1gu"),
                 l = o.n(s),
-                p = o("Nsbk"),
-                c = o.n(p),
+                c = o("Nsbk"),
+                p = o.n(c),
                 f = o("cDf5"),
                 d = o.n(f),
                 u = (o("5DmW"), o("YKMj"));
@@ -1085,9 +1089,9 @@
                     }
                 }();
                 return function() {
-                    var o, r = c()(t);
+                    var o, r = p()(t);
                     if (e) {
-                        var i = c()(this).constructor;
+                        var i = p()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
                     return l()(this, o)
@@ -1147,8 +1151,8 @@
                 a = o.n(n),
                 s = o("a1gu"),
                 l = o.n(s),
-                p = o("Nsbk"),
-                c = o.n(p),
+                c = o("Nsbk"),
+                p = o.n(c),
                 f = o("cDf5"),
                 d = o.n(f),
                 u = (o("5DmW"), o("YKMj"));
@@ -1165,9 +1169,9 @@
                     }
                 }();
                 return function() {
-                    var o, r = c()(t);
+                    var o, r = p()(t);
                     if (e) {
-                        var i = c()(this).constructor;
+                        var i = p()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
                     return l()(this, o)
@@ -1248,6 +1252,10 @@
             "use strict";
             o.r(e), e.default = o.p + "images/logo-tft.png?84bde92d7d419988bf1f3616bdaf8d78"
         },
+        "2gQI": function(t, e, o) {
+            "use strict";
+            o.r(e), e.default = o.p + "videos/bg-collection-jinx.webm?f24e7daa2a12e2f01a4186cd569a729a"
+        },
         3: function(t, e) {},
         "3JuJ": function(t, e, o) {
             "use strict";
@@ -1264,8 +1272,8 @@
                 a = o.n(n),
                 s = o("N1om"),
                 l = o.n(s),
-                p = o("u6S6"),
-                c = o.n(p),
+                c = o("u6S6"),
+                p = o.n(c),
                 f = (o("D1y2"), o("ma9I"), o("FZtP"), o("Rm1S"), o("rB9j"), o("EnZy"), o("sMBO"), o("07d7"), o("4mDm"), o("3bBZ"), o("tkto"), o("Kw5r"));
 
             function d(t, e) {
@@ -1290,19 +1298,19 @@
                             var n = r.match(e),
                                 a = i()(n, 3),
                                 s = a[1],
-                                p = a[2],
+                                c = a[2],
                                 f = C(o, r);
-                            if ("plugin" === p) {
-                                var d = (f.name || c()(s)).split("/");
+                            if ("plugin" === c) {
+                                var d = (f.name || p()(s)).split("/");
                                 d = d[d.length - 1], t({
-                                    type: p,
+                                    type: c,
                                     parsedName: d,
                                     module: f
                                 })
                             } else if (f.default) {
-                                var u = (f.name || ("filter" == p ? c()(s) : l()(s))).split("/");
+                                var u = (f.name || ("filter" == c ? p()(s) : l()(s))).split("/");
                                 u = u[u.length - 1], t({
-                                    type: p,
+                                    type: c,
                                     parsedName: u,
                                     module: f.default
                                 })
@@ -1314,11 +1322,11 @@
                             var n = r.match(e),
                                 a = i()(n, 3),
                                 s = a[1],
-                                p = a[2],
-                                c = l()(s).split("/");
-                            c = c[c.length - 1], t({
-                                type: p,
-                                parsedName: c,
+                                c = a[2],
+                                p = l()(s).split("/");
+                            p = p[p.length - 1], t({
+                                type: c,
+                                parsedName: p,
                                 module: function(t) {
                                     return C(o, r).then((function(e) {
                                         return t(e.default)
@@ -1417,24 +1425,24 @@
                         n = o("hy4O"),
                         a = o("KtZj");
                     "document" in globalThis && ((r = document.createElement("div")).className = "fixed inset-0 z-behind invisible pointer-events-none", document.body.appendChild(r));
-                    var s, l, p = i.a.observable({
+                    var s, l, c = i.a.observable({
                             height: (null == r ? void 0 : r.offsetHeight) || +t.env.VIEWPORT_HEIGHT_DEFAULT || 667,
                             width: (null == r ? void 0 : r.offsetWidth) || +t.env.VIEWPORT_WIDTH_DEFAULT || 375,
                             modifier: ""
                         }),
-                        c = new n.CustomEvents;
+                        p = new n.CustomEvents;
 
                     function f(t) {
                         l && l.forEach((function(t) {
-                            return i.a.delete(p, t)
+                            return i.a.delete(c, t)
                         })), s = t, (l = Object.keys(s).sort((function(t, e) {
                             return s[e] - s[t]
                         }))).forEach((function(t) {
-                            return i.a.set(p, t, void 0)
+                            return i.a.set(c, t, void 0)
                         }))
                     }
-                    p.onResize = function(t) {
-                        return c.on("resize", t)
+                    c.onResize = function(t) {
+                        return p.on("resize", t)
                     }, f({
                         sm: 576,
                         md: 768,
@@ -1444,18 +1452,18 @@
                     }), r && a && new a(r, (function(t) {
                         var e = t.width,
                             o = t.height;
-                        p.width = e, p.height = o, Object.keys(s).forEach((function(t) {
-                            i.a.set(p, t, e >= s[t])
+                        c.width = e, c.height = o, Object.keys(s).forEach((function(t) {
+                            i.a.set(c, t, e >= s[t])
                         }));
                         var r = l.find((function(t) {
-                            return p[t]
+                            return c[t]
                         })) || "";
-                        p.modifier = r || r, c.trigger("resize", {
+                        c.modifier = r || r, p.trigger("resize", {
                             width: e,
                             height: o
                         })
                     }));
-                    var d = p
+                    var d = c
                 }.call(this, o("8oxB"))
         },
         "6NOm": function(t, e) {
@@ -1466,6 +1474,7 @@
                 "./collection-caitlyn-hotspot.svg": "dcDU",
                 "./collection-events.svg": "bMaa",
                 "./collection-jayce-hotspot.svg": "aX1y",
+                "./collection-jinx-hotspot.svg": "1P0E",
                 "./collection-vi-hotspot.svg": "niva",
                 "./frame-t1-pd.svg": "Cp+k",
                 "./frame-t1-ucn.svg": "43Hi",
@@ -1640,7 +1649,8 @@
                 jayceTrailerVideo: "hFPw6X7oAXw",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://eune.leagueoflegends.com/pl-pl/news/game-updates/ranked-rewards-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/pl-pl"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/pl-pl",
+                preseasonSpotlightVideo: "jvDEeYQgqRM"
             }
         },
         8: function(t, e) {},
@@ -1655,7 +1665,8 @@
                 viTrailerVideo: "PlyRjzERLvo",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://oce.leagueoflegends.com/en-au/news/game-updates/ranked-rewards-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-au"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-au",
+                preseasonSpotlightVideo: "kjmvi6pYGf0"
             }
         },
         "8g1I": function(t, e, o) {
@@ -1745,8 +1756,8 @@
                 a = o.n(n),
                 s = o("a1gu"),
                 l = o.n(s),
-                p = o("Nsbk"),
-                c = o.n(p),
+                c = o("Nsbk"),
+                p = o.n(c),
                 f = o("cDf5"),
                 d = o.n(f),
                 u = (o("5DmW"), o("YKMj"));
@@ -1763,9 +1774,9 @@
                     }
                 }();
                 return function() {
-                    var o, r = c()(t);
+                    var o, r = p()(t);
                     if (e) {
-                        var i = c()(this).constructor;
+                        var i = p()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
                     return l()(this, o)
@@ -1927,8 +1938,8 @@
                         a = o.n(n),
                         s = o("7W2i"),
                         l = o.n(s),
-                        p = o("a1gu"),
-                        c = o.n(p),
+                        c = o("a1gu"),
+                        p = o.n(c),
                         f = o("Nsbk"),
                         d = o.n(f),
                         u = o("cDf5"),
@@ -1957,7 +1968,7 @@
                                 var i = d()(this).constructor;
                                 o = Reflect.construct(r, arguments, i)
                             } else o = r.apply(this, arguments);
-                            return c()(this, o)
+                            return p()(this, o)
                         }
                     }
                     var w = function(t, e, o, r) {
@@ -2085,8 +2096,8 @@
                 a = o("W8MJ"),
                 s = o.n(a),
                 l = (o("5s+n"), o("07d7"), o("pNMO"), o("4Brf"), o("pDQq"), o("ma9I"), o("Kw5r")),
-                p = o("G4+A"),
-                c = o("0imi"),
+                c = o("G4+A"),
+                p = o("0imi"),
                 f = new(function() {
                     function t(e) {
                         var o = this;
@@ -2106,7 +2117,7 @@
                                 o.queue.push(a), o.log("[waiting] ".concat(t)), o.bootstrapping || o.log("[preload order violation] ".concat(t), "error"), i = function() {
                                     clearTimeout(n);
                                     var e = o.queue.indexOf(a); - 1 !== e ? (o.log("[resolved] ".concat(t)), o.queue.splice(e, 1), o.queue.length || setTimeout((function() {
-                                        o.state.ready || o.queue.length || (o.log("Hub Preloaded"), o.state.ready = !0, r(), p.inject.trigger("hubPreloaded"))
+                                        o.state.ready || o.queue.length || (o.log("Hub Preloaded"), o.state.ready = !0, r(), c.inject.trigger("hubPreloaded"))
                                     }))) : o.log("[double resolve] ".concat(t, " was already resolved!"), "warn")
                                 }, e && (n = setTimeout((function() {
                                     o.log("[timed out] ".concat(t), "error"), i()
@@ -2122,7 +2133,7 @@
                             this.andLog && console[e]("[Preload] ".concat(t, " at ").concat((new Date).valueOf() - this.createdAt.valueOf(), "ms"))
                         }
                     }]), t
-                }())(c.inject.qaEligible),
+                }())(p.inject.qaEligible),
                 d = f;
             e.default = function(t) {
                 var e = t.app;
@@ -2138,7 +2149,7 @@
             o.r(e),
                 function(t) {
                     o.d(e, "state", (function() {
-                        return c
+                        return p
                     })), o.d(e, "getters", (function() {
                         return C
                     })), o.d(e, "mutations", (function() {
@@ -2152,9 +2163,9 @@
                         a = o.n(n),
                         s = o("O7iK"),
                         l = o.n(s),
-                        p = (o("x0AG"), o("07d7"), o("JfAA"), o("TZCg"), o("B6y2"), o("oVuX"), o("2B1R"), o("pDQq"), o("fbCW"), o("Kw5r"));
+                        c = (o("x0AG"), o("07d7"), o("JfAA"), o("TZCg"), o("B6y2"), o("oVuX"), o("2B1R"), o("pDQq"), o("fbCW"), o("Kw5r"));
 
-                    function c() {
+                    function p() {
                         return {
                             logByType: {}
                         }
@@ -2174,7 +2185,7 @@
                     }
 
                     function u(t) {
-                        p.a.delete(t, "freshUntil")
+                        c.a.delete(t, "freshUntil")
                     }
                     var C = {
                             freshCountByType: function(t) {
@@ -2195,7 +2206,7 @@
                                 var r = o.type,
                                     i = o.data,
                                     n = o.nonce;
-                                e.logByType[r] || p.a.set(e.logByType, r, {
+                                e.logByType[r] || c.a.set(e.logByType, r, {
                                     items: [],
                                     options: {
                                         maxItems: 100,
@@ -2224,18 +2235,18 @@
                                         }
                                     })).join("\n"),
                                     l = new Date,
-                                    c = {
+                                    p = {
                                         id: ++h,
                                         data: s,
                                         nonce: n,
                                         time: d(l.getHours()) + ":" + d(l.getMinutes()) + ":" + d(l.getSeconds()) + "." + d(l.getMilliseconds(), 3),
                                         freshUntil: l.valueOf() + a.options.freshFor
                                     };
-                                a.items.unshift(c);
+                                a.items.unshift(p);
                                 var C = a.options,
                                     g = C.maxItems,
                                     m = C.maxFresh;
-                                return f(a) > m && u(a.items[m]), g && (a.items.length = Math.min(a.items.length, g)), c
+                                return f(a) > m && u(a.items[m]), g && (a.items.length = Math.min(a.items.length, g)), p
                             },
                             DE_FRESH: function(t, e) {
                                 u(e.item)
@@ -2290,9 +2301,9 @@
                     a = o("lSNA"),
                     s = o.n(a),
                     l = o("lwsE"),
-                    p = o.n(l),
-                    c = o("W8MJ"),
-                    f = o.n(c),
+                    c = o.n(l),
+                    p = o("W8MJ"),
+                    f = o.n(p),
                     d = o("7W2i"),
                     u = o.n(d),
                     C = o("a1gu"),
@@ -2391,11 +2402,14 @@
                         jinx: {
                             hoverClass: "bg-radial-jinx",
                             style: {
-                                left: "145px"
+                                left: "127px"
                             },
                             videoStyle: {
-                                width: "337px",
-                                marginLeft: "0px"
+                                width: "471px",
+                                marginLeft: "-24px"
+                            },
+                            hoverStyle: {
+                                marginLeft: "-70px"
                             }
                         }
                     },
@@ -2405,7 +2419,7 @@
 
                         function i() {
                             var e;
-                            return p()(this, i), (e = o.apply(this, arguments)).capCollectionHash = w.a.reduce((function(e, o) {
+                            return c()(this, i), (e = o.apply(this, arguments)).capCollectionHash = w.a.reduce((function(e, o) {
                                 return b(b({}, e), {}, s()({}, o, t(o)))
                             }), {}), e
                         }
@@ -2455,6 +2469,11 @@
                                 return M[this.currentCollectionSync].hoverClass
                             }
                         }, {
+                            key: "hoverStyle",
+                            get: function() {
+                                return M[this.currentCollectionSync].hoverStyle
+                            }
+                        }, {
                             key: "style",
                             get: function() {
                                 return M[this.currentCollectionSync].style
@@ -2479,7 +2498,8 @@
                 jayceTrailerVideo: "rEnwHCItLww",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://euw.leagueoflegends.com/es-es/news/game-updates/ranked-rewards-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/es-es"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/es-es",
+                preseasonSpotlightVideo: "kNculUihQSc"
             }
         },
         BKyh: function(t, e, o) {
@@ -2492,8 +2512,8 @@
                 a = o.n(n),
                 s = o("lwsE"),
                 l = o.n(s),
-                p = o("W8MJ"),
-                c = o.n(p),
+                c = o("W8MJ"),
+                p = o.n(c),
                 f = o("7W2i"),
                 d = o.n(f),
                 u = o("a1gu"),
@@ -2601,7 +2621,7 @@
                             }
                         }, t
                     }
-                    return c()(o, [{
+                    return p()(o, [{
                         key: "buttons",
                         get: function() {
                             var t = this;
@@ -2734,9 +2754,9 @@
                     a = o("J4zp"),
                     s = o.n(a),
                     l = o("lwsE"),
-                    p = o.n(l),
-                    c = o("W8MJ"),
-                    f = o.n(c),
+                    c = o.n(l),
+                    p = o("W8MJ"),
+                    f = o.n(p),
                     d = o("7W2i"),
                     u = o.n(d),
                     C = o("a1gu"),
@@ -2757,9 +2777,9 @@
                     O = o("0imi"),
                     L = o("S7WH"),
                     _ = o("hy4O"),
-                    Z = o("i9Bl");
+                    S = o("i9Bl");
 
-                function S(t) {
+                function Z(t) {
                     var e = function() {
                         if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                         if (Reflect.construct.sham) return !1;
@@ -2798,11 +2818,11 @@
                     }),
                     E = function(e) {
                         u()(i, e);
-                        var o = S(i);
+                        var o = Z(i);
 
                         function i() {
                             var e;
-                            return p()(this, i), (e = o.apply(this, arguments)).moveToLeft = !1, e.inventoryItems = Z.a.filter((function(t) {
+                            return c()(this, i), (e = o.apply(this, arguments)).moveToLeft = !1, e.inventoryItems = S.a.filter((function(t) {
                                 return "item" in t.inventory
                             })), e.viewType = null, e.labelByType = {
                                 log: "Console Logs",
@@ -2971,12 +2991,12 @@
                                         r.apply(console, a);
                                         try {
                                             var l = e[o],
-                                                p = n()(a.map((function(t) {
+                                                c = n()(a.map((function(t) {
                                                     return t instanceof Error ? t.toString() : t
                                                 })));
                                             t.LOG({
                                                 type: l,
-                                                data: p
+                                                data: c
                                             })
                                         } catch (t) {}
                                     }
@@ -3081,8 +3101,8 @@
                 a = o.n(n),
                 s = o("VJLA"),
                 l = o.n(s),
-                p = (o("07d7"), o("4mDm"), o("3bBZ"), o("2B1R"), o("p532"), o("5s+n"), o("6AcZ")),
-                c = o("PGn1"),
+                c = (o("07d7"), o("4mDm"), o("3bBZ"), o("2B1R"), o("p532"), o("5s+n"), o("6AcZ")),
+                p = o("PGn1"),
                 f = o("hy4O"),
                 d = o("VcB/");
 
@@ -3107,7 +3127,7 @@
                 data: function() {
                     return l()(m, [])
                 },
-                render: Object(c.a)({
+                render: Object(p.a)({
                     slotScope: function() {
                         return this.values
                     }
@@ -3152,7 +3172,7 @@
                         var r = new C(t.$el, o);
                         if (t.$once("hook:beforeDestroy", (function() {
                                 r.detach(o)
-                            })), t.$once("hook:beforeDestroy", p.inject.onResize((function() {
+                            })), t.$once("hook:beforeDestroy", c.inject.onResize((function() {
                                 (!t.lastChange || (new Date).valueOf() - t.lastChange > h) && o()
                             }))), t.$el instanceof HTMLElement) {
                             var i, n = t.$el;
@@ -3300,7 +3320,8 @@
                     }, "div", {
                         style: t.style
                     }, !1), [o("div", {
-                        staticClass: "absolute"
+                        staticClass: "absolute",
+                        style: t.hoverStyle
                     }, [o("div", {
                         staticClass: "size-champ-hover opacity-0 group-hover:opacity-80 transition",
                         class: t.hoverClass
@@ -3417,7 +3438,7 @@
                     }), t._v(" "), o("div", {
                         staticClass: "absolute tl sprite-button-linkout-hover opacity-0 group-hover:opacity-100 transition"
                     })])])])], 1)])], 1)
-                }), [], !1, null, "01cb6a88", null);
+                }), [], !1, null, "4431d9aa", null);
             e.default = n.exports
         },
         DyRW: function(t, e, o) {
@@ -3431,7 +3452,7 @@
         EAil: function(t, e, o) {
             "use strict";
             o.d(e, "a", (function() {
-                return c
+                return p
             }));
             o("tkto"), o("pNMO"), o("TeQF"), o("5DmW"), o("FZtP"), o("27RR");
             var r = o("lSNA"),
@@ -3652,7 +3673,7 @@
                         league: "lpl"
                     }
                 },
-                p = {
+                c = {
                     en_SG: {
                         publisher: "garena",
                         slug: "en-sg",
@@ -3690,7 +3711,7 @@
                         league: "pcs"
                     }
                 },
-                c = a(a(a({}, s), l), p);
+                p = a(a(a({}, s), l), c);
             e.b = s
         },
         ELuV: function(t, e, o) {
@@ -3732,8 +3753,8 @@
                 var i, n, a = window.riotPromoInterface,
                     s = a.region,
                     l = a.locale,
-                    p = window.riotLcuServer.host + "/fe/lol-typekit/fonts/fonts.css?locale=".concat(s, "-").concat(l, "&ref=").concat(r);
-                i = p, (n = document.createElement("link")).rel = "stylesheet", n.type = "text/css", n.href = i, document.getElementsByTagName("head")[0].appendChild(n)
+                    c = window.riotLcuServer.host + "/fe/lol-typekit/fonts/fonts.css?locale=".concat(s, "-").concat(l, "&ref=").concat(r);
+                i = c, (n = document.createElement("link")).rel = "stylesheet", n.type = "text/css", n.href = i, document.getElementsByTagName("head")[0].appendChild(n)
             }
         },
         EoAA: function(t, e, o) {
@@ -3888,8 +3909,8 @@
                         staticClass: "absolute h-toolbar w-full z-max"
                     })] : t._e()], 2)])
                 }), [], !1, null, null, null).exports,
-                p = o("yXPU"),
-                c = o.n(p),
+                c = o("yXPU"),
+                p = o.n(c),
                 f = o("u6S6"),
                 d = o.n(f),
                 u = o("o0o1"),
@@ -3917,7 +3938,7 @@
                         component: function() {
                             return o.e(2).then(o.bind(null, "NxM+"))
                         },
-                        beforeEnter: (F = c()(C.a.mark((function t() {
+                        beforeEnter: (F = p()(C.a.mark((function t() {
                             var e, o, r, i, n, a = arguments;
                             return C.a.wrap((function(t) {
                                 for (;;) switch (t.prev = t.next) {
@@ -3986,8 +4007,8 @@
                     }
                 }),
                 _ = o("3fX5"),
-                Z = o("RyrE"),
-                S = o("JAbF"),
+                S = o("RyrE"),
+                Z = o("JAbF"),
                 j = o("2270"),
                 U = o("Yrze"),
                 G = o("Z2MI"),
@@ -3995,7 +4016,7 @@
                 R = o("0imi"),
                 P = o("LR9N"),
                 V = o("vqQr");
-            window.riotPromoInterface.versionedAssetPath && (o.p = window.riotPromoInterface.versionedAssetPath), Object(g.setLogAndReturnIsNoOp)(R.inject.isProd), n.a.config.ignoredElements = ["lasso-embed"], n.a.config.productionTip = !1, n.a.config.performance = !1, Object(E.setDefaultMode)("2x"), Object(Z.setUpdate)((function(t, e, o) {
+            window.riotPromoInterface.versionedAssetPath && (o.p = window.riotPromoInterface.versionedAssetPath), Object(g.setLogAndReturnIsNoOp)(R.inject.isProd), n.a.config.ignoredElements = ["lasso-embed"], n.a.config.productionTip = !1, n.a.config.performance = !1, Object(E.setDefaultMode)("2x"), Object(S.setUpdate)((function(t, e, o) {
                 t.setAttribute("srcset", "".concat(o.$image(e), " 2x"))
             }));
             var I = new n.a({
@@ -4032,7 +4053,7 @@
                 "retina-src.directive": o("RyrE"),
                 "eager-loader.plugin": o("V77n"),
                 "viewport-size.plugin": o("6AcZ")
-            })(S)(j)(U)(G), Object(P.setLocale)(i()(V.a).split("-").map((function(t, e) {
+            })(Z)(j)(U)(G), Object(P.setLocale)(i()(V.a).split("-").map((function(t, e) {
                 return e ? t.toUpperCase() : t
             })).join("-")), I.$mount("#app")
         },
@@ -4073,9 +4094,9 @@
                         a = o("yXPU"),
                         s = o.n(a),
                         l = o("lwsE"),
-                        p = o.n(l),
-                        c = o("W8MJ"),
-                        f = o.n(c),
+                        c = o.n(l),
+                        p = o("W8MJ"),
+                        f = o.n(p),
                         d = o("7W2i"),
                         u = o.n(d),
                         C = o("a1gu"),
@@ -4142,7 +4163,7 @@
 
                         function n() {
                             var t;
-                            return p()(this, n), (t = i.call(this)).lastPlayerSettingsPromise = Promise.resolve(), t.lastChampionDataPromise = null, t._inventoryOwned = v.a.observable({}), t._inventoryRequests = {}, t.setupFocusListenerAlready = !1, t.hubToggleHash = v.a.observable({}), t.isHubToggleHashSetup = !1, t._listeningByMessageType = {}, t.on("_sendMessage", (function(t) {
+                            return c()(this, n), (t = i.call(this)).lastPlayerSettingsPromise = Promise.resolve(), t.lastChampionDataPromise = null, t._inventoryOwned = v.a.observable({}), t._inventoryRequests = {}, t.setupFocusListenerAlready = !1, t.hubToggleHash = v.a.observable({}), t.isHubToggleHashSetup = !1, t._listeningByMessageType = {}, t.on("_sendMessage", (function(t) {
                                 if (!window.RClientWindowMessenger) return console.warn("Can't sendMessage yet; RClientWindowMessenger not ready");
                                 t && window.RClientWindowMessenger.sendMessage(function(t) {
                                     if (x.b.enabled) {
@@ -4694,8 +4715,8 @@
                                     a = void 0 === n || n,
                                     s = i.maxTries,
                                     l = void 0 === s ? 3 : s,
-                                    p = i.timeout,
-                                    c = void 0 === p ? 3e4 : p,
+                                    c = i.timeout,
+                                    p = void 0 === c ? 3e4 : c,
                                     f = 0,
                                     d = [this._listenFor(e), this._listenFor(B(B({}, e), {}, {
                                         callback: function() {
@@ -4703,7 +4724,7 @@
                                         }
                                     }))],
                                     u = function e() {
-                                        ++f, r._sendMessage(t), f < l && (o = setTimeout(e, c))
+                                        ++f, r._sendMessage(t), f < l && (o = setTimeout(e, p))
                                     };
 
                                 function C() {
@@ -4792,6 +4813,8 @@
                 "./collection-caitlyn-champ.png": "7SmO",
                 "./collection-jayce-champ": "E9bS",
                 "./collection-jayce-champ.png": "E9bS",
+                "./collection-jinx-champ": "WI36",
+                "./collection-jinx-champ.png": "WI36",
                 "./collection-vi-champ": "sXls",
                 "./collection-vi-champ.png": "sXls",
                 "./logo-arcane-pd": "ccVW",
@@ -4978,8 +5001,8 @@
                 a = o.n(n),
                 s = o("a1gu"),
                 l = o.n(s),
-                p = o("Nsbk"),
-                c = o.n(p),
+                c = o("Nsbk"),
+                p = o.n(c),
                 f = o("cDf5"),
                 d = o.n(f),
                 u = (o("5DmW"), o("YKMj"));
@@ -4996,9 +5019,9 @@
                     }
                 }();
                 return function() {
-                    var o, r = c()(t);
+                    var o, r = p()(t);
                     if (e) {
-                        var i = c()(this).constructor;
+                        var i = p()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
                     return l()(this, o)
@@ -5056,8 +5079,8 @@
                 a = o.n(n),
                 s = o("7W2i"),
                 l = o.n(s),
-                p = o("a1gu"),
-                c = o.n(p),
+                c = o("a1gu"),
+                p = o.n(c),
                 f = o("Nsbk"),
                 d = o.n(f),
                 u = o("cDf5"),
@@ -5082,7 +5105,7 @@
                         var i = d()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
-                    return c()(this, o)
+                    return p()(this, o)
                 }
             }
             var D = function(t, e, o, r) {
@@ -5338,7 +5361,8 @@
                 jayceTrailerVideo: "OFYOaZXzEQ0",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://euw.leagueoflegends.com/it-it/news/game-updates/ranked-rewards-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/it-it"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/it-it",
+                preseasonSpotlightVideo: "jaDSFfsMEwk"
             }
         },
         IRVY: function(t, e, o) {
@@ -5353,8 +5377,8 @@
                 a = o.n(n),
                 s = o("W8MJ"),
                 l = o.n(s),
-                p = o("7W2i"),
-                c = o.n(p),
+                c = o("7W2i"),
+                p = o.n(c),
                 f = o("a1gu"),
                 d = o.n(f),
                 u = o("Nsbk"),
@@ -5399,7 +5423,7 @@
                     }
                 },
                 w = function(t) {
-                    c()(o, t);
+                    p()(o, t);
                     var e = D(o);
 
                     function o() {
@@ -5444,8 +5468,13 @@
                 jayceTrailerVideo: "cYVr7yMNyl4",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://euw.leagueoflegends.com/fr-fr/news/game-updates/ranked-rewards-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/fr-fr"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/fr-fr",
+                preseasonSpotlightVideo: "8mmODQ9LXXA"
             }
+        },
+        "IkF+": function(t, e, o) {
+            "use strict";
+            o.r(e), e.default = o.p + "videos/collection-jinx-champ.webm?057254a71c13b723ba62f95657cd6aaf"
         },
         Ildh: function(t, e, o) {
             "use strict";
@@ -5457,7 +5486,8 @@
                 jayceTrailerVideo: "xI910of8PQY",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://euw.leagueoflegends.com/de-de/news/game-updates/ranked-rewards-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/de-de"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/de-de",
+                preseasonSpotlightVideo: "LtzpCA3MGYA"
             }
         },
         In3i: function(t, e, o) {
@@ -5470,8 +5500,8 @@
                     a = o.n(n),
                     s = o("W8MJ"),
                     l = o.n(s),
-                    p = o("7W2i"),
-                    c = o.n(p),
+                    c = o("7W2i"),
+                    p = o.n(c),
                     f = o("a1gu"),
                     d = o.n(f),
                     u = o("Nsbk"),
@@ -5516,7 +5546,7 @@
                         return n > 3 && a && Object.defineProperty(e, o, a), a
                     },
                     M = function(e) {
-                        c()(n, e);
+                        p()(n, e);
                         var o, r = A(n);
 
                         function n() {
@@ -5667,8 +5697,8 @@
                 a = o.n(n),
                 s = o("lwsE"),
                 l = o.n(s),
-                p = o("W8MJ"),
-                c = o.n(p),
+                c = o("W8MJ"),
+                p = o.n(c),
                 f = o("7W2i"),
                 d = o.n(f),
                 u = o("a1gu"),
@@ -5755,7 +5785,7 @@
                     var t;
                     return l()(this, o), (t = e.apply(this, arguments)).children = [], t
                 }
-                return c()(o, [{
+                return p()(o, [{
                     key: "beforeCreate",
                     value: function() {
                         this.actualOrder = Symbol("actualOrder")
@@ -5871,8 +5901,8 @@
                         a = o.n(n),
                         s = (o("2B1R"), o("TeQF"), o("8AyJ"), o("qePV"), o("zKZe"), o("Kw5r")),
                         l = o("TxBs"),
-                        p = o("C+kW"),
-                        c = o("0imi"),
+                        c = o("C+kW"),
+                        p = o("0imi"),
                         f = o("hy4O");
 
                     function d(t, e) {
@@ -5898,13 +5928,13 @@
                         return t
                     }
                     for (var C = t.phases.filter(Boolean).filter((function(t) {
-                            return c.inject.qaEligible || !0 === t.enabled
+                            return p.inject.qaEligible || !0 === t.enabled
                         })).map((function(t) {
                             var e = t.dateOverride,
                                 o = t.date;
                             try {
-                                if (p.inject[e]) {
-                                    var r = p.inject[e].valueOf();
+                                if (c.inject[e]) {
+                                    var r = c.inject[e].valueOf();
                                     if (!Number.isFinite(r)) throw new Error("unexpected date format");
                                     o = r
                                 }
@@ -5961,7 +5991,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://na.leagueoflegends.com/en-us/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-us",
-                preseasonSpotlightVideo: "u9fFG4ZLp9Y",
+                preseasonSpotlightVideo: "kjmvi6pYGf0",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -5978,8 +6008,8 @@
                         var r = e.value,
                             n = e.arg,
                             l = e.modifiers.debug,
-                            p = o.context,
-                            c = n,
+                            c = o.context,
+                            p = n,
                             f = l ? s.logAndReturn : function(t) {
                                 return t
                             };
@@ -6001,10 +6031,10 @@
                                 e() ? t() : (u.style.fontSize = "", u.style.lineHeight = "", e() && t())
                             },
                             u = t,
-                            C = !c || "width" == c,
-                            h = !c || "height" == c;
-                        null == p || p.$watch((function() {
-                            return [p.$viewportSize.height, p.$viewportSize.width]
+                            C = !p || "width" == p,
+                            h = !p || "height" == p;
+                        null == c || c.$watch((function() {
+                            return [c.$viewportSize.height, c.$viewportSize.width]
                         }), d, {
                             immediate: !0
                         }), r && (l && console.log("fitted-font-size.directive font-family", r), new a.a(r).load().then(d, (function() {
@@ -6038,7 +6068,8 @@
                 viTrailerVideo: "6wdU0i89XQk",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://br.leagueoflegends.com/pt-br/news/game-updates/recompensas-ranqueadas-de-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/pt-br"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/pt-br",
+                preseasonSpotlightVideo: "yU0rMthI7L8"
             }
         },
         LR9N: function(t, e, o) {
@@ -6075,8 +6106,8 @@
                         a = o.n(n),
                         s = o("lwsE"),
                         l = o.n(s),
-                        p = o("W8MJ"),
-                        c = o.n(p),
+                        c = o("W8MJ"),
+                        p = o.n(c),
                         f = (o("U3f4"), o("FZtP"), o("2B1R"), o("T63A"), o("fbCW"), o("B6y2"), o("tkto"), o("pNMO"), o("TeQF"), o("5DmW"), o("27RR"), o("Kw5r")),
                         d = o("DoW7");
 
@@ -6095,12 +6126,12 @@
                             var e, o, r, i = this,
                                 n = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : {},
                                 s = n.flags,
-                                p = n.groups,
-                                c = n.prefix;
+                                c = n.groups,
+                                p = n.prefix;
                             l()(this, t), this._currentGroup = f.a.observable({
                                 groupId: void 0,
                                 groupNumber: void 0
-                            }), this.flags = s, this.groups = p, this.prefix = c, this.flags.forEach((function(t) {
+                            }), this.flags = s, this.groups = c, this.prefix = p, this.flags.forEach((function(t) {
                                 f.a.set(i._currentGroup, t, void 0)
                             }));
                             try {
@@ -6115,7 +6146,7 @@
                                 f.a.set(i._currentGroup, o, r)
                             }))
                         }
-                        return c()(t, [{
+                        return p()(t, [{
                             key: "testId",
                             get: function() {
                                 return this.prefix
@@ -6184,7 +6215,8 @@
                 jayceTrailerVideo: "2UF3Udlcxc4",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://eune.leagueoflegends.com/cs-cz/news/game-updates/ranked-rewards-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/cs-cz"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/cs-cz",
+                preseasonSpotlightVideo: "_CsU71XXyW8"
             }
         },
         Mio3: function(t, e, o) {
@@ -6232,7 +6264,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://na.leagueoflegends.com/en-us/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-us",
-                preseasonSpotlightVideo: "u9fFG4ZLp9Y",
+                preseasonSpotlightVideo: "kjmvi6pYGf0",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -6250,7 +6282,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://na.leagueoflegends.com/en-us/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-us",
-                preseasonSpotlightVideo: "u9fFG4ZLp9Y",
+                preseasonSpotlightVideo: "kjmvi6pYGf0",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -6264,7 +6296,8 @@
                 jayceTrailerVideo: "ncpfPOoHLnM",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://eune.leagueoflegends.com/ro-ro/news/game-updates/ranked-rewards-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/ro-ro"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/ro-ro",
+                preseasonSpotlightVideo: "gGsJnYi_5ao"
             }
         },
         OqbW: function(t, e, o) {
@@ -6278,7 +6311,8 @@
                 viTrailerVideo: "eyECopS3JyI",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://lan.leagueoflegends.com/es-mx/news/game-updates/recompensas-de-clasificatorias-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/es-mx"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/es-mx",
+                preseasonSpotlightVideo: "0zzokQ7zpDM"
             }
         },
         "P/Ks": function(t, e, o) {
@@ -6353,8 +6387,8 @@
                 a = o.n(n),
                 s = o("RIqP"),
                 l = o.n(s),
-                p = o("VJLA"),
-                c = o.n(p),
+                c = o("VJLA"),
+                p = o.n(c),
                 f = o("o0o1"),
                 d = o.n(f),
                 u = (o("ma9I"), o("07d7"), o("4mDm"), o("3bBZ"), o("2B1R"), o("ZS6p")),
@@ -6391,7 +6425,7 @@
                     scrollParent: u.scrollParent
                 },
                 data: function() {
-                    return c()([].concat(l()(v), ["resolvedScrollParent"]), [])
+                    return p()([].concat(l()(v), ["resolvedScrollParent"]), [])
                 },
                 render: Object(h.a)({
                     slotScope: function() {
@@ -6401,7 +6435,7 @@
                 computed: {
                     scrollValues: function() {
                         var t, e, o = this;
-                        return m(m({}, c()(k, k.map((function(t) {
+                        return m(m({}, p()(k, k.map((function(t) {
                             return o[t]
                         })))), {}, {
                             scrollParentWidth: Math.round(null === (t = this.resolvedScrollParent) || void 0 === t ? void 0 : t.size.width),
@@ -6410,7 +6444,7 @@
                     },
                     values: function() {
                         var t, e = (null === (t = this.$el) || void 0 === t ? void 0 : t.getBoundingClientRect()) || {};
-                        return m(m({}, this.scrollValues), c()(D, D.map((function(t) {
+                        return m(m({}, this.scrollValues), p()(D, D.map((function(t) {
                             return e[t]
                         }))))
                     }
@@ -6497,18 +6531,18 @@
                         }
                     }
                 }),
-                p = new WeakMap,
-                c = {
+                c = new WeakMap,
+                p = {
                     bind: function(t, e, o) {
                         var r = e.arg,
                             a = e.value,
                             s = o.context;
-                        l(a = i()(a)) ? (p.set(t, []), a.forEach((function(e) {
+                        l(a = i()(a)) ? (c.set(t, []), a.forEach((function(e) {
                             var o = e.keys,
                                 i = e.options,
                                 a = e.method,
                                 l = e.global,
-                                c = function(e, o) {
+                                p = function(e, o) {
                                     if (h(t) || l) {
                                         var i = d(r).children;
                                         a.call(s, {
@@ -6537,13 +6571,13 @@
                                     }
                                     var n
                                 };
-                            p.get(t).push((Object(n.a)(o, i, c), function() {
-                                n.a.unbind(o, c)
+                            c.get(t).push((Object(n.a)(o, i, p), function() {
+                                n.a.unbind(o, p)
                             }))
                         }))) : console.error("Invalid options passed to tabindex-parent", a, t)
                     },
                     unbind: function(t) {
-                        p.get(t).forEach((function(t) {
+                        c.get(t).forEach((function(t) {
                             return t()
                         }))
                     }
@@ -6594,7 +6628,7 @@
             function h(t) {
                 return 1 === t.nodeType && t.contains(document.activeElement)
             }
-            e.default = c
+            e.default = p
         },
         RYRB: function(t, e, o) {
             "use strict";
@@ -6707,7 +6741,7 @@
                     clientstore: _,
                     clientstorepaw: _,
                     clientstoredeeplink: function(t) {
-                        var e = S(t.urlRedirect),
+                        var e = Z(t.urlRedirect),
                             o = {};
                         e.get("page") && (o.page = e.get("page"));
                         if (e.get("items")) try {
@@ -6722,7 +6756,7 @@
                     },
                     clientqueue: function(t, e) {
                         if (e.data("disabled")) return;
-                        var o = S(t.urlRedirect).get("queueId");
+                        var o = Z(t.urlRedirect).get("queueId");
                         window.RClientWindowMessenger.sendMessage({
                             messageType: "rcp-fe-lol-home-create-lobby",
                             data: {
@@ -6735,16 +6769,16 @@
                             e.off("click"), t.tag = t.tag.replace(/clienthometab/, ""), w(e, t), e.click()
                         };
                         if (!t.urlRedirect) return void o();
-                        var r = S(t.urlRedirect).get("tabId");
-                        "pending" === Z.state() && (window.RClientWindowMessenger.addMessageListener({
+                        var r = Z(t.urlRedirect).get("tabId");
+                        "pending" === S.state() && (window.RClientWindowMessenger.addMessageListener({
                             messageType: "rcp-fe-lol-home-enabled-tabs-response",
                             handlers: function(t, e) {
-                                Z.resolve(e.tabIds)
+                                S.resolve(e.tabIds)
                             }
                         }), window.RClientWindowMessenger.sendMessage({
                             messageType: "rcp-fe-lol-home-enabled-tabs-request"
                         }));
-                        Z.then((function(t) {
+                        S.then((function(t) {
                             r && t.indexOf(r) >= 0 ? window.RClientWindowMessenger.sendMessage({
                                 messageType: "rcp-fe-lol-home-change-tab",
                                 data: {
@@ -6754,8 +6788,8 @@
                         }))
                     },
                     clientcdp: function(t) {
-                        var e, o = S(window.location.href),
-                            r = S(t.urlRedirect),
+                        var e, o = Z(window.location.href),
+                            r = Z(t.urlRedirect),
                             i = r.get("section");
                         if (r.has("championId")) e = r.get("championId");
                         else if (o.has("filters")) {
@@ -6781,12 +6815,12 @@
                 },
                 s = "/v2/" + window.oembedGlobals.region + "/" + window.oembedGlobals.language + "/",
                 l = ["riotgames.com", "lolesports.com", "leagueoflegends.com"],
-                p = ["_self", "_blank"],
-                c = function(t, e) {
+                c = ["_self", "_blank"],
+                p = function(t, e) {
                     if (t) {
                         if (e = $.extend({}, {
                                 target: "_self"
-                            }, e), p.indexOf(e.target) < 0) return console && console.log("client-utils[openUrl] The specified target is not valid: " + e.target), null;
+                            }, e), c.indexOf(e.target) < 0) return console && console.log("client-utils[openUrl] The specified target is not valid: " + e.target), null;
                         if ("_self" === e.target) $("body").trigger("modal-opened"), window.RClientWindowMessenger.sendMessage({
                             messageType: "rcp-fe-lol-home-open-full-page-modal",
                             data: {
@@ -6886,7 +6920,7 @@
                             return void 0 !== a[t]
                         }))
                     }(t).indexOf("clientqueue")) {
-                    var o = S(t.urlRedirect).get("queueId");
+                    var o = Z(t.urlRedirect).get("queueId");
                     window.RClientWindowMessenger.addMessageListener({
                         messageType: "play-enabled-response",
                         handlers: function(t, o) {
@@ -6936,19 +6970,19 @@
                 } catch (t) {
                     return void console.warn("Click handler for article not added: ", t.message)
                 } else o = i;
-                if (o && 0 !== o.trim().length || s) return y(e, t), t.on("click", p),
+                if (o && 0 !== o.trim().length || s) return y(e, t), t.on("click", c),
                     function() {
-                        t.off("click", p)
+                        t.off("click", c)
                     };
 
-                function p(r) {
+                function c(r) {
                     r.preventDefault(), s ? function(t, e) {
                         t.tag.split(" ").forEach((function(o) {
                             a[o] && a[o](t, e)
                         }))
-                    }(e, t) : (c(o, {
+                    }(e, t) : (p(o, {
                         target: n
-                    }), "_self" === n && c(o, {
+                    }), "_self" === n && p(o, {
                         target: n
                     }))
                 }
@@ -7012,7 +7046,7 @@
             }
 
             function _(t) {
-                var e = S(t.urlRedirect),
+                var e = Z(t.urlRedirect),
                     o = {
                         inventoryType: e.get("inventoryType"),
                         itemId: +e.get("itemId"),
@@ -7020,9 +7054,9 @@
                     };
                 e.get("source") && (o.source = e.get("source")), O(o)
             }
-            var Z = $.Deferred();
+            var S = $.Deferred();
 
-            function S(t) {
+            function Z(t) {
                 var e;
                 try {
                     var o = new URL(t);
@@ -7067,7 +7101,7 @@
                     loadImage: function(t, e) {
                         t && (e || (e = {}), t.setAttribute("src", t.getAttribute("data-src-original")))
                     },
-                    openUrl: c,
+                    openUrl: p,
                     getOembedUrl: function(t, e, o) {
                         if (t && e) {
                             if (o = $.extend({}, {
@@ -7219,8 +7253,8 @@
                 a = o.n(n),
                 s = o("a1gu"),
                 l = o.n(s),
-                p = o("Nsbk"),
-                c = o.n(p),
+                c = o("Nsbk"),
+                p = o.n(c),
                 f = o("cDf5"),
                 d = o.n(f),
                 u = (o("5DmW"), o("qePV"), o("YKMj")),
@@ -7238,9 +7272,9 @@
                     }
                 }();
                 return function() {
-                    var o, r = c()(t);
+                    var o, r = p()(t);
                     if (e) {
-                        var i = c()(this).constructor;
+                        var i = p()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
                     return l()(this, o)
@@ -7325,8 +7359,8 @@
                 a = o.n(n),
                 s = o("a1gu"),
                 l = o.n(s),
-                p = o("Nsbk"),
-                c = o.n(p),
+                c = o("Nsbk"),
+                p = o.n(c),
                 f = o("cDf5"),
                 d = o.n(f),
                 u = (o("5DmW"), o("qePV"), o("YKMj"));
@@ -7343,9 +7377,9 @@
                     }
                 }();
                 return function() {
-                    var o, r = c()(t);
+                    var o, r = p()(t);
                     if (e) {
-                        var i = c()(this).constructor;
+                        var i = p()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
                     return l()(this, o)
@@ -7408,8 +7442,8 @@
                 a = o.n(n),
                 s = o("W8MJ"),
                 l = o.n(s),
-                p = o("7W2i"),
-                c = o.n(p),
+                c = o("7W2i"),
+                p = o.n(c),
                 f = o("a1gu"),
                 d = o.n(f),
                 u = o("Nsbk"),
@@ -7455,7 +7489,7 @@
                     }
                 },
                 y = function(t) {
-                    c()(o, t);
+                    p()(o, t);
                     var e = D(o);
 
                     function o() {
@@ -7490,7 +7524,8 @@
                 viTrailerVideo: "1hbQJakmqZk",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://jp.leagueoflegends.com/ja-jp/news/game-updates/ranked-rewards-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/ja-jp"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/ja-jp",
+                preseasonSpotlightVideo: "ECtSoQnrHrc"
             }
         },
         "THg+": function(t, e, o) {
@@ -7609,7 +7644,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://na.leagueoflegends.com/en-us/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-us",
-                preseasonSpotlightVideo: "u9fFG4ZLp9Y",
+                preseasonSpotlightVideo: "kjmvi6pYGf0",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -7673,7 +7708,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://na.leagueoflegends.com/en-us/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-us",
-                preseasonSpotlightVideo: "u9fFG4ZLp9Y",
+                preseasonSpotlightVideo: "kjmvi6pYGf0",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -7799,7 +7834,7 @@
         Vw58: function(t, e, o) {
             "use strict";
             o.r(e), o.d(e, "inject", (function() {
-                return p
+                return c
             }));
             var r = o("Kw5r"),
                 i = o("Tj88"),
@@ -7814,7 +7849,7 @@
                     wantsAmbientAudio: !0,
                     wantsMotion: !0
                 }),
-                p = {
+                c = {
                     get ready() {
                         return l.ready
                     },
@@ -7862,16 +7897,16 @@
                     a = t.sfxVolume,
                     s = void 0 === a ? 100 : a,
                     l = t.ambientSfxEnabled,
-                    p = void 0 === l || l,
-                    c = t.musicEnabled,
-                    f = void 0 === c || c,
+                    c = void 0 === l || l,
+                    p = t.musicEnabled,
+                    f = void 0 === p || p,
                     d = t.musicVolume;
                 return {
                     masterSoundEnabled: e,
                     masterVolume: r,
                     sfxEnabled: n,
                     sfxVolume: s,
-                    ambientSfxEnabled: p,
+                    ambientSfxEnabled: c,
                     musicEnabled: f,
                     musicVolume: void 0 === d ? 100 : d
                 }
@@ -7906,8 +7941,8 @@
                 a = o.n(n),
                 s = o("W8MJ"),
                 l = o.n(s),
-                p = o("7W2i"),
-                c = o.n(p),
+                c = o("7W2i"),
+                p = o.n(c),
                 f = o("a1gu"),
                 d = o.n(f),
                 u = o("Nsbk"),
@@ -7976,7 +8011,7 @@
                 Object.assign(F, t)
             }
             var A = function(t) {
-                c()(o, t);
+                p()(o, t);
                 var e = y(o);
 
                 function o() {
@@ -8043,6 +8078,10 @@
                 }
             })], A.prototype, "direction", void 0), A = w([m.a], A), e.default = A
         },
+        WI36: function(t, e, o) {
+            "use strict";
+            o.r(e), e.default = o.p + "images/collection-jinx-champ.png?72eb1b5cbd085fcab90035a35372ac43"
+        },
         WYzp: function(t, e, o) {
             "use strict";
             o.r(e), e.default = {
@@ -8054,7 +8093,8 @@
                 viTrailerVideo: "eyECopS3JyI",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://las.leagueoflegends.com/es-ar/news/game-updates/recompensas-de-clasificatorias-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/es-ar"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/es-ar",
+                preseasonSpotlightVideo: "0zzokQ7zpDM"
             }
         },
         WdUP: function(t, e, o) {
@@ -8076,8 +8116,8 @@
                 a = o.n(n),
                 s = o("7W2i"),
                 l = o.n(s),
-                p = o("a1gu"),
-                c = o.n(p),
+                c = o("a1gu"),
+                p = o.n(c),
                 f = o("Nsbk"),
                 d = o.n(f),
                 u = o("cDf5"),
@@ -8101,7 +8141,7 @@
                         var i = d()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
-                    return c()(this, o)
+                    return p()(this, o)
                 }
             }
             var m = function(t, e, o, r) {
@@ -8220,7 +8260,8 @@
                 jayceTrailerVideo: "FrK4JrUoc7E",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://eune.leagueoflegends.com/hu-hu/news/game-updates/ranked-rewards-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/hu-hu"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/hu-hu",
+                preseasonSpotlightVideo: "ItHOHhY3DRk"
             }
         },
         "XK/d": function(t, e, o) {
@@ -8266,15 +8307,15 @@
                         }
                         return t
                     }
-                    var p, c = o("7Gh2"),
+                    var c, p = o("7Gh2"),
                         f = "./".concat(t(a.a));
                     try {
-                        p = null === (r = c(f)) || void 0 === r ? void 0 : r.default
+                        c = null === (r = p(f)) || void 0 === r ? void 0 : r.default
                     } catch (t) {
-                        p = void 0
+                        c = void 0
                     }
-                    var d = l(l({}, c("./".concat(t("en_US"))).default), p),
-                        u = l({}, p)
+                    var d = l(l({}, p("./".concat(t("en_US"))).default), c),
+                        u = l({}, c)
                 }.call(this, o("N1om"))
         },
         XTQv: function(t, e, o) {
@@ -8308,8 +8349,8 @@
                 a = o.n(n),
                 s = o("W8MJ"),
                 l = o.n(s),
-                p = o("7W2i"),
-                c = o.n(p),
+                c = o("7W2i"),
+                p = o.n(c),
                 f = o("a1gu"),
                 d = o.n(f),
                 u = o("Nsbk"),
@@ -8365,7 +8406,7 @@
                     }
                 },
                 F = function(t) {
-                    c()(o, t);
+                    p()(o, t);
                     var e = v(o);
 
                     function o() {
@@ -8558,8 +8599,8 @@
                         })
                     }
                 },
-                p = o("KHd+"),
-                c = Object(p.a)(l, (function() {
+                c = o("KHd+"),
+                p = Object(c.a)(l, (function() {
                     var t = this,
                         e = t.$createElement;
                     return (t._self._c || e)("with-size", {
@@ -8572,7 +8613,7 @@
                         }
                     }, [t._t("default")], 2)
                 }), [], !1, null, null, null);
-            e.default = c.exports
+            e.default = p.exports
         },
         ZXQo: function(t, e) {
             t.exports = '<svg viewBox="0 0 13 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M9.29289 2.64655H2.70711V0.646545H11.7071H12.7071V1.64655V10.6465H10.7071V4.06076L1.41421 13.3537L0 11.9394L9.29289 2.64655Z" fill="#C8AA6E" class="fill-current"></path></svg>'
@@ -8589,8 +8630,8 @@
                 a = o.n(n),
                 s = o("J4zp"),
                 l = o.n(s),
-                p = o("lwsE"),
-                c = o.n(p),
+                c = o("lwsE"),
+                p = o.n(c),
                 f = o("W8MJ"),
                 d = o.n(f),
                 u = o("7W2i"),
@@ -8613,7 +8654,7 @@
                 L = o("FZhB"),
                 _ = o("bq/t");
 
-            function Z(t, e) {
+            function S(t, e) {
                 var o = Object.keys(t);
                 if (Object.getOwnPropertySymbols) {
                     var r = Object.getOwnPropertySymbols(t);
@@ -8624,12 +8665,12 @@
                 return o
             }
 
-            function S(t) {
+            function Z(t) {
                 for (var e = 1; e < arguments.length; e++) {
                     var o = null != arguments[e] ? arguments[e] : {};
-                    e % 2 ? Z(Object(o), !0).forEach((function(e) {
+                    e % 2 ? S(Object(o), !0).forEach((function(e) {
                         a()(t, e, o[e])
-                    })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t, Object.getOwnPropertyDescriptors(o)) : Z(Object(o)).forEach((function(e) {
+                    })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t, Object.getOwnPropertyDescriptors(o)) : S(Object(o)).forEach((function(e) {
                         Object.defineProperty(t, e, Object.getOwnPropertyDescriptor(o, e))
                     }))
                 }
@@ -8679,7 +8720,7 @@
 
                 function o() {
                     var t;
-                    return c()(this, o), (t = e.apply(this, arguments)).timelinesByType = {}, t
+                    return p()(this, o), (t = e.apply(this, arguments)).timelinesByType = {}, t
                 }
                 return d()(o, [{
                     key: "do",
@@ -8715,16 +8756,16 @@
                                         n = i[0],
                                         a = i[1],
                                         s = i[2],
-                                        p = i[3];
-                                    t[n](e, a, S({
+                                        c = i[3];
+                                    t[n](e, a, Z({
                                         duration: this.duration
-                                    }, s), p)
+                                    }, s), c)
                                 } else {
-                                    var c = l()(o, 3),
-                                        f = c[0],
-                                        d = c[1],
-                                        u = c[2];
-                                    t[f](e, S({
+                                    var p = l()(o, 3),
+                                        f = p[0],
+                                        d = p[1],
+                                        u = p[2];
+                                    t[f](e, Z({
                                         duration: this.duration
                                     }, d), u)
                                 }
@@ -8771,15 +8812,15 @@
                             o = this.stylesDuringGoneTransition,
                             r = this.$slots.default || [];
                         return t(this.useGroup || (null == r ? void 0 : r.length) > 1 ? "transition-group" : "transition", {
-                            props: S({
+                            props: Z({
                                 appear: !0,
                                 css: !1
                             }, this.$attrs),
-                            on: S(S(S({}, this.$listeners), e ? {
-                                enter: this.do(["from", S({
+                            on: Z(Z(Z({}, this.$listeners), e ? {
+                                enter: this.do(["from", Z({
                                     clearProps: "all"
                                 }, e)], "gone", o),
-                                leave: this.do(["to", S({
+                                leave: this.do(["to", Z({
                                     clearProps: "all"
                                 }, e)], "gone", o)
                             } : {}), {}, {
@@ -8857,8 +8898,8 @@
                 a = o.n(n),
                 s = o("a1gu"),
                 l = o.n(s),
-                p = o("Nsbk"),
-                c = o.n(p),
+                c = o("Nsbk"),
+                p = o.n(c),
                 f = o("cDf5"),
                 d = o.n(f),
                 u = (o("5DmW"), o("YKMj")),
@@ -8881,9 +8922,9 @@
                     }
                 }();
                 return function() {
-                    var o, r = c()(t);
+                    var o, r = p()(t);
                     if (e) {
-                        var i = c()(this).constructor;
+                        var i = p()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
                     return l()(this, o)
@@ -9065,9 +9106,9 @@
                     }
                 }();
                 return function() {
-                    var o, r = c()(t);
+                    var o, r = p()(t);
                     if (e) {
-                        var i = c()(this).constructor;
+                        var i = p()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
                     return l()(this, o)
@@ -9093,8 +9134,8 @@
                 O = window.oembedGlobals,
                 L = O.newsOembedServiceHost,
                 _ = O.newsOembedServiceHostFiltered,
-                Z = O.filteredNewsSource,
-                S = O.region,
+                S = O.filteredNewsSource,
+                Z = O.region,
                 j = O.language,
                 U = function(t) {
                     a()(o, t);
@@ -9117,7 +9158,7 @@
                                     e = t.get("filters"),
                                     o = t.get("id_token"),
                                     r = t.get("puuid");
-                                return (_ + "/".concat(S, "/v1/").concat(j, "/").concat(this.embedList, "?").concat(Z) + "filters=:filters&id_token=:token&limit=".concat(this.embedIndex || "20", "#")).replace(":filters", e || "").replace(":token", o || "").replace(":puuid", r || "")
+                                return (_ + "/".concat(Z, "/v1/").concat(j, "/").concat(this.embedList, "?").concat(S) + "filters=:filters&id_token=:token&limit=".concat(this.embedIndex || "20", "#")).replace(":filters", e || "").replace(":token", o || "").replace(":puuid", r || "")
                             }
                         }
                     }, {
@@ -9128,7 +9169,7 @@
                     }, {
                         key: "embedUrl",
                         get: function() {
-                            var t = "".concat(L, "/v2/").concat(S, "/").concat(j, "/lists"),
+                            var t = "".concat(L, "/v2/").concat(Z, "/").concat(j, "/lists"),
                                 e = "contentTemplate=".concat(this.contentTemplate, "&styled=0&requirejs=2"),
                                 o = this.embedIndex ? "/".concat(this.embedIndex) : "";
                             return "".concat(t, "/").concat(this.embedList).concat(o, "?").concat(e)
@@ -9310,9 +9351,9 @@
                     }
                 }();
                 return function() {
-                    var o, r = c()(t);
+                    var o, r = p()(t);
                     if (e) {
-                        var i = c()(this).constructor;
+                        var i = p()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
                     return l()(this, o)
@@ -9478,15 +9519,15 @@
                     }
                 }();
                 return function() {
-                    var o, r = c()(t);
+                    var o, r = p()(t);
                     if (e) {
-                        var i = c()(this).constructor;
+                        var i = p()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
                     return l()(this, o)
                 }
             }
-            var N = function(t, e, o, r) {
+            var W = function(t, e, o, r) {
                     var i, n = arguments.length,
                         a = n < 3 ? e : null === r ? r = Object.getOwnPropertyDescriptor(e, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : d()(Reflect)) && "function" == typeof Reflect.decorate) a = Reflect.decorate(t, e, o, r);
@@ -9494,7 +9535,7 @@
                         for (var s = t.length - 1; s >= 0; s--)(i = t[s]) && (a = (n < 3 ? i(a) : n > 3 ? i(e, o, a) : i(e, o)) || a);
                     return n > 3 && a && Object.defineProperty(e, o, a), a
                 },
-                W = function(t) {
+                N = function(t) {
                     a()(o, t);
                     var e = H(o);
 
@@ -9504,13 +9545,13 @@
                     }
                     return o
                 }(u.h);
-            N([Object(u.f)("currentCollection")], W.prototype, "currentCollectionSync", void 0);
-            var q = W = N([Object(u.a)({
+            W([Object(u.f)("currentCollection")], N.prototype, "currentCollectionSync", void 0);
+            var q = N = W([Object(u.a)({
                     components: {
                         Lasso: E,
                         OverviewCard: T
                     }
-                })], W),
+                })], N),
                 z = Object(b.a)(q, (function() {
                     var t = this,
                         e = t.$createElement,
@@ -9766,8 +9807,8 @@
                 a = o.n(n),
                 s = o("7W2i"),
                 l = o.n(s),
-                p = o("a1gu"),
-                c = o.n(p),
+                c = o("a1gu"),
+                p = o.n(c),
                 f = o("Nsbk"),
                 d = o.n(f),
                 u = o("cDf5"),
@@ -9791,7 +9832,7 @@
                         var i = d()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
-                    return c()(this, o)
+                    return p()(this, o)
                 }
             }
             var m = function(t, e, o, r) {
@@ -9835,8 +9876,8 @@
                 a = o.n(n),
                 s = o("7W2i"),
                 l = o.n(s),
-                p = o("a1gu"),
-                c = o.n(p),
+                c = o("a1gu"),
+                p = o.n(c),
                 f = o("Nsbk"),
                 d = o.n(f),
                 u = o("cDf5"),
@@ -9863,7 +9904,7 @@
                         var i = d()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
-                    return c()(this, o)
+                    return p()(this, o)
                 }
             }
             var v = function(t, e, o, r) {
@@ -10011,10 +10052,10 @@
                     l = i(r.a);
                 try {
                     for (l.s(); !(a = l.n()).done;) {
-                        var p = a.value;
+                        var c = a.value;
                         try {
-                            if (null === (e = o("GIHI")("./".concat(t, "-").concat(p))) || void 0 === e ? void 0 : e.default) {
-                                s = "".concat(t, "-").concat(p);
+                            if (null === (e = o("GIHI")("./".concat(t, "-").concat(c))) || void 0 === e ? void 0 : e.default) {
+                                s = "".concat(t, "-").concat(c);
                                 break
                             }
                         } catch (t) {}
@@ -10058,20 +10099,20 @@
                 a = o.n(n),
                 s = o("o0o1"),
                 l = o.n(s),
-                p = (o("pNMO"), o("4Brf"), o("07d7"), o("pDQq"), o("ZS6p")),
-                c = Symbol("blockScroll"),
+                c = (o("pNMO"), o("4Brf"), o("07d7"), o("pDQq"), o("ZS6p")),
+                p = Symbol("blockScroll"),
                 f = {
-                    from: c,
+                    from: p,
                     default: function() {
                         return function() {}
                     }
                 };
             e.default = {
                 provide: function() {
-                    return a()({}, c, this.block.bind(this))
+                    return a()({}, p, this.block.bind(this))
                 },
                 inject: {
-                    scrollParent: p.scrollParent
+                    scrollParent: c.scrollParent
                 },
                 props: ["value"],
                 data: function() {
@@ -10164,8 +10205,8 @@
                 a = o.n(n),
                 s = o("7W2i"),
                 l = o.n(s),
-                p = o("a1gu"),
-                c = o.n(p),
+                c = o("a1gu"),
+                p = o.n(c),
                 f = o("Nsbk"),
                 d = o.n(f),
                 u = o("cDf5"),
@@ -10215,7 +10256,7 @@
                         var i = d()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
-                    return c()(this, o)
+                    return p()(this, o)
                 }
             }
             var y = function(t, e, o, r) {
@@ -10340,7 +10381,7 @@
                         var i = d()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
-                    return c()(this, o)
+                    return p()(this, o)
                 }
             }
             var M = function(t, e, o, r) {
@@ -10553,8 +10594,8 @@
                 a = o.n(n),
                 s = o("7W2i"),
                 l = o.n(s),
-                p = o("a1gu"),
-                c = o.n(p),
+                c = o("a1gu"),
+                p = o.n(c),
                 f = o("Nsbk"),
                 d = o.n(f),
                 u = o("cDf5"),
@@ -10578,7 +10619,7 @@
                         var i = d()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
-                    return c()(this, o)
+                    return p()(this, o)
                 }
             }
             var m = function(t, e, o, r) {
@@ -10679,7 +10720,7 @@
             })), o.d(e, "createEagerLoader", (function() {
                 return M
             })), o.d(e, "CustomEvents", (function() {
-                return Z
+                return S
             })), o.d(e, "differenceStrong", (function() {
                 return U
             })), o.d(e, "filterBoolean", (function() {
@@ -10707,7 +10748,7 @@
             })), o.d(e, "measureAsync", (function() {
                 return dt
             })), o.d(e, "measurements", (function() {
-                return ct
+                return pt
             })), o.d(e, "measure", (function() {
                 return ft
             })), o.d(e, "Queue", (function() {
@@ -10737,8 +10778,8 @@
                 a = o.n(n),
                 s = o("O7iK"),
                 l = o.n(s),
-                p = o("o0o1"),
-                c = o.n(p);
+                c = o("o0o1"),
+                p = o.n(c);
             o("5s+n"), o("07d7"), o("PKPk"), o("4mDm"), o("3bBZ");
 
             function f(t) {
@@ -10746,13 +10787,13 @@
             }
 
             function d() {
-                return (d = i()(c.a.mark((function t(e) {
-                    return c.a.wrap((function(t) {
+                return (d = i()(p.a.mark((function t(e) {
+                    return p.a.wrap((function(t) {
                         for (;;) switch (t.prev = t.next) {
                             case 0:
                                 return t.t0 = l.a, t.next = 3, Promise.all(a()(e, function() {
-                                    var t = i()(c.a.mark((function t(e, o) {
-                                        return c.a.wrap((function(t) {
+                                    var t = i()(p.a.mark((function t(e, o) {
+                                        return p.a.wrap((function(t) {
                                             for (;;) switch (t.prev = t.next) {
                                                 case 0:
                                                     return t.t0 = o, t.next = 3, e;
@@ -10790,8 +10831,8 @@
                     C()(this, t), this.innerGet = e, this.cache = {}, this.get = function() {
                         for (var t = arguments.length, e = new Array(t), r = 0; r < t; r++) e[r] = arguments[r];
                         var n = JSON.stringify(e);
-                        return o.cache || (o.cache = {}), o.cache[n] || (o.cache[n] = o.innerGet.apply(o, e), o.options.removeOnError && i()(c.a.mark((function t() {
-                            return c.a.wrap((function(t) {
+                        return o.cache || (o.cache = {}), o.cache[n] || (o.cache[n] = o.innerGet.apply(o, e), o.options.removeOnError && i()(p.a.mark((function t() {
+                            return p.a.wrap((function(t) {
                                 for (;;) switch (t.prev = t.next) {
                                     case 0:
                                         return t.prev = 0, t.next = 3, o.cache[n];
@@ -10828,13 +10869,13 @@
                             a = void 0 !== n && n,
                             s = e.autoProcess,
                             l = void 0 === s || s,
-                            p = e.callback,
-                            c = void 0 === p ? function(t) {
+                            c = e.callback,
+                            p = void 0 === c ? function(t) {
                                 return "function" == typeof t ? t() : t
-                            } : p,
+                            } : c,
                             f = e.on,
                             d = void 0 === f ? {} : f;
-                        C()(this, t), this.queue = [], this.processed = [], this.pending = [], this.processing = !1, this.concurrency = r, this.processDuplicates = a, this.autoProcess = l, this.callback = c, this.eventHandlers = d, i && this.append(i)
+                        C()(this, t), this.queue = [], this.processed = [], this.pending = [], this.processing = !1, this.concurrency = r, this.processDuplicates = a, this.autoProcess = l, this.callback = p, this.eventHandlers = d, i && this.append(i)
                     }
                     return v()(t, [{
                         key: "highestPriority",
@@ -10952,7 +10993,7 @@
                     a = e.autoProcess,
                     s = void 0 === a || a,
                     l = e.logging,
-                    p = void 0 !== l && l,
+                    c = void 0 !== l && l,
                     f = "eager-loader-container",
                     d = document.getElementById(f) || function() {
                         var t = document.createElement("div");
@@ -10962,8 +11003,8 @@
                     initialQueue: o,
                     concurrency: n,
                     autoProcess: s,
-                    callback: (t = i()(c.a.mark((function t(e) {
-                        return c.a.wrap((function(t) {
+                    callback: (t = i()(p.a.mark((function t(e) {
+                        return p.a.wrap((function(t) {
                             for (;;) switch (t.prev = t.next) {
                                 case 0:
                                     if (!/\.(gif|png|jpe?g|svg)(\?\w*)?$/i.test(e)) {
@@ -11000,9 +11041,9 @@
                 }
 
                 function C() {
-                    return (C = i()(c.a.mark((function t(e) {
+                    return (C = i()(p.a.mark((function t(e) {
                         var o;
-                        return c.a.wrap((function(t) {
+                        return p.a.wrap((function(t) {
                             for (;;) switch (t.prev = t.next) {
                                 case 0:
                                     return (o = document.createElement("img")).src = e, o.className = "absolute", d.append(o), t.prev = 4, t.next = 7, Promise.resolve(o.complete || new Promise((function(t) {
@@ -11028,9 +11069,9 @@
                 }
 
                 function g() {
-                    return (g = i()(c.a.mark((function t(e) {
+                    return (g = i()(p.a.mark((function t(e) {
                         var o;
-                        return c.a.wrap((function(t) {
+                        return p.a.wrap((function(t) {
                             for (;;) switch (t.prev = t.next) {
                                 case 0:
                                     return (o = document.createElement("video")).src = e, o.preload = "auto", o.className = "absolute", d.append(o), o.load(), t.prev = 6, t.next = 9, A((function() {
@@ -11057,14 +11098,14 @@
 
                 function m() {
                     for (var t, e = arguments.length, o = new Array(e), r = 0; r < e; r++) o[r] = arguments[r];
-                    p && (t = console).log.apply(t, ["EagerLoader :: "].concat(o))
+                    c && (t = console).log.apply(t, ["EagerLoader :: "].concat(o))
                 }
             }
             var B = o("RIqP"),
                 O = o.n(B),
                 L = o("j1EC"),
                 _ = o.n(L),
-                Z = (o("E9XD"), function t() {
+                S = (o("E9XD"), function t() {
                     var e = this;
                     C()(this, t), this.argsByEvent = {}, this.callbacksByEvent = {}, this.hooksByEvent = {}, this.optionsByEvent = {}, this.eventOptions = function(t, o) {
                         e.optionsByEvent[t] = o
@@ -11093,15 +11134,15 @@
                             }))
                         }))
                     }, this.trigger = function() {
-                        var t = i()(c.a.mark((function t(o) {
+                        var t = i()(p.a.mark((function t(o) {
                             var r, n, a, s, l = arguments;
-                            return c.a.wrap((function(t) {
+                            return p.a.wrap((function(t) {
                                 for (;;) switch (t.prev = t.next) {
                                     case 0:
                                         for (n = l.length, a = new Array(n > 1 ? n - 1 : 0), s = 1; s < n; s++) a[s - 1] = l[s];
                                         return t.t0 = _.a, t.next = 4, (e.hooksByEvent[o] || []).reduce(function() {
-                                            var t = i()(c.a.mark((function t(e, o) {
-                                                return c.a.wrap((function(t) {
+                                            var t = i()(p.a.mark((function t(e, o) {
+                                                return p.a.wrap((function(t) {
                                                     for (;;) switch (t.prev = t.next) {
                                                         case 0:
                                                             return t.t0 = o, t.t1 = void 0, t.t2 = O.a, t.t3 = _.a, t.next = 6, e;
@@ -11138,8 +11179,8 @@
                         }
                     }
                 }),
-                S = o("zqxM"),
-                j = o.n(S);
+                Z = o("zqxM"),
+                j = o.n(Z);
 
             function U(t, e) {
                 return j()(t, e)
@@ -11163,8 +11204,8 @@
                 T = o.n(I),
                 H = o("QILm"),
                 $ = o.n(H),
-                N = o("mwIZ"),
-                W = o.n(N),
+                W = o("mwIZ"),
+                N = o.n(W),
                 q = o("Jlc5"),
                 z = o.n(q);
             o("Rm1S"), o("rB9j"), o("JfAA"), o("oVuX"), o("tkto");
@@ -11182,16 +11223,16 @@
                 if (Array.isArray(e)) {
                     var s = Y(t),
                         l = s.context,
-                        p = s.failures;
+                        c = s.failures;
                     e.some((function(e) {
                         return K.bind(l)(t, e)
-                    })) || (p.forEach((function(t) {
+                    })) || (c.forEach((function(t) {
                         var e = t.reason,
                             o = t.input;
                         return a(e, o)
                     })), i = a("it failed all tests", t))
                 } else {
-                    var c = this && this.parent || t,
+                    var p = this && this.parent || t,
                         f = e.$and,
                         d = e.$or,
                         u = e.$arrayof,
@@ -11206,7 +11247,7 @@
                         w = e.$noAdditionalProperties,
                         F = $()(e, ["$and", "$or", "$arrayof", "$is", "$typeof", "$gt", "$lt", "$gte", "$lte", "$eq", "$test", "$noAdditionalProperties"]);
                     if (i && "$test" in e && (J(y, (function(e) {
-                            return e.bind(r)(t, c)
+                            return e.bind(r)(t, p)
                         })) || (i = a("the $test function".concat(Array.isArray(y) ? "s" : " (named ".concat(null === (o = y.toString().match(/^(?:function\s*)?([^\(]*)\(/)) || void 0 === o ? void 0 : o[1], ")"), " failed"), t))), i && "$is" in e && (("TRUTHY" === C ? t : !t) || (i = a("it isn't ".concat(C), t))), i && "$typeof" in e && (J(h, (function(e) {
                             return "array" == e ? Array.isArray(t) : T()(t) === e
                         })) || (i = a("its type isn't ".concat(Array.isArray(h) ? h.join(" or ") : h), t))), i && "$gt" in e && (t > g || (i = a("it isn't > ".concat(g), t))), i && "$lt" in e && (t < m || (i = a("it isn't < ".concat(m), t))), i && "$gte" in e && (t >= D || (i = a("it isn't >= ".concat(D), t))), i && "$lte" in e && (t <= k || (i = a("it isn't <= ".concat(k), t))), i && "$eq" in e && (J(v, (function(e) {
@@ -11216,7 +11257,7 @@
                             A = b.context,
                             x = b.failures;
                         if (z()(F, (function(e, o) {
-                                var r = W()(t, o);
+                                var r = N()(t, o);
                                 return !!K.bind(A)(r, e) || (x.forEach((function(t) {
                                     var e = t.reason,
                                         o = t.input;
@@ -11241,11 +11282,11 @@
                     }
                     if (i && "$or" in e) {
                         var _ = Y(t),
-                            Z = _.context,
-                            S = _.failures;
+                            S = _.context,
+                            Z = _.failures;
                         d.some((function(e) {
-                            return K.bind(Z)(t, e)
-                        })) || (S.forEach((function(t) {
+                            return K.bind(S)(t, e)
+                        })) || (Z.forEach((function(t) {
                             var e = t.reason,
                                 o = t.input;
                             return a(e, o)
@@ -11326,8 +11367,8 @@
             function lt(t, e) {
                 return st()(t, e)
             }
-            var pt = "performance" in globalThis && performance.mark,
-                ct = [];
+            var ct = "performance" in globalThis && performance.mark,
+                pt = [];
 
             function ft(t) {
                 var e = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : {},
@@ -11337,16 +11378,16 @@
                     n = "".concat(i, " - ").concat(t, " start"),
                     a = "".concat(i, " - ").concat(t, " end"),
                     s = (new Date).valueOf();
-                pt && performance.mark(n);
+                ct && performance.mark(n);
                 var l = !1;
                 return function() {
                     var e = arguments.length > 0 && void 0 !== arguments[0] && arguments[0],
                         o = (new Date).valueOf() - s;
-                    return l || (l = !0, e || (ct.push({
+                    return l || (l = !0, e || (pt.push({
                         id: i,
                         name: t,
                         ms: o
-                    }), r && console.log(t, E(o))), pt && (e || (performance.mark(a), performance.measure(t, n, a), performance.clearMarks(a)), performance.clearMarks(n))), o
+                    }), r && console.log(t, E(o))), ct && (e || (performance.mark(a), performance.measure(t, n, a), performance.clearMarks(a)), performance.clearMarks(n))), o
                 }
             }
 
@@ -11355,9 +11396,9 @@
             }
 
             function ut() {
-                return (ut = i()(c.a.mark((function t(e, o) {
+                return (ut = i()(p.a.mark((function t(e, o) {
                     var r, i, n, a, s, l = arguments;
-                    return c.a.wrap((function(t) {
+                    return p.a.wrap((function(t) {
                         for (;;) switch (t.prev = t.next) {
                             case 0:
                                 return r = l.length > 2 && void 0 !== l[2] ? l[2] : {}, i = r.discardOnError, n = void 0 === i || i, a = $()(r, ["discardOnError"]), s = ft(e, a), t.prev = 2, t.next = 5, o();
@@ -11394,8 +11435,8 @@
             function mt(t, e) {
                 var o, r;
                 return function n() {
-                        o = gt(i()(c.a.mark((function e() {
-                            return c.a.wrap((function(e) {
+                        o = gt(i()(p.a.mark((function e() {
+                            return p.a.wrap((function(e) {
                                 for (;;) switch (e.prev = e.next) {
                                     case 0:
                                         return e.prev = 0, e.next = 3, t();
@@ -11453,18 +11494,18 @@
                     a = void 0 === n ? 2 : n,
                     s = this || {},
                     l = s.depthLeft,
-                    p = void 0 === l ? 2 : l;
+                    c = void 0 === l ? 2 : l;
                 try {
                     e = JSON.stringify(t) || "undefined"
                 } catch (o) {
-                    e = "object" == T()(t) && Object.keys(t).length && p ? JSON.stringify(st()(t, vt.bind({
-                        depthLeft: p - 1
+                    e = "object" == T()(t) && Object.keys(t).length && c ? JSON.stringify(st()(t, vt.bind({
+                        depthLeft: c - 1
                     })), void 0, a) : " ...(circular reference) "
                 }
-                var c = Math.max(0, e.length - i);
-                if (c > 0) {
+                var p = Math.max(0, e.length - i);
+                if (p > 0) {
                     var f = e.split("");
-                    return f.splice.apply(f, [Math.floor(e.length / 2 - c / 2), c].concat(O()(" ...(".concat(c, " removed)... ").split("")))), f.join("")
+                    return f.splice.apply(f, [Math.floor(e.length / 2 - p / 2), p].concat(O()(" ...(".concat(p, " removed)... ").split("")))), f.join("")
                 }
                 return e
             }
@@ -11600,11 +11641,11 @@
                     a = o.n(n),
                     s = o("N1om"),
                     l = o.n(s),
-                    p = (o("ma9I"), o("hy4O")),
-                    c = o("RYRB"),
+                    c = (o("ma9I"), o("hy4O")),
+                    p = o("RYRB"),
                     f = o("5M4T"),
                     d = o("K12A"),
-                    u = Object(p.filterBoolean)(Object(p.mapStrong)(t.inventory, (function(t, e) {
+                    u = Object(c.filterBoolean)(Object(c.mapStrong)(t.inventory, (function(t, e) {
                         if ("item" in t && "CHAMPION" === t.item.inventoryType) return {
                             slug: e,
                             inventory: t,
@@ -11614,7 +11655,7 @@
                             priceBE: Object(f.inject)(d.inject.current.championPriceDrop ? "".concat(t.i18n, ".price_be") : "".concat(t.i18n, ".price_be.featured"))
                         }
                     }))),
-                    C = Object(p.filterBoolean)(Object(p.mapStrong)(t.inventory, (function(t, e) {
+                    C = Object(c.filterBoolean)(Object(c.mapStrong)(t.inventory, (function(t, e) {
                         if ("item" in t && "CHAMPION_SKIN" === t.item.inventoryType) return {
                             slug: e,
                             inventory: t,
@@ -11625,8 +11666,8 @@
                         }
                     }))),
                     h = (r(C, (function(t) {
-                        return Object(c.a)(t.inventory.item.itemId)
-                    })), Object(p.filterBoolean)(Object(p.mapStrong)(t.inventory, (function(t, e) {
+                        return Object(p.a)(t.inventory.item.itemId)
+                    })), Object(c.filterBoolean)(Object(c.mapStrong)(t.inventory, (function(t, e) {
                         if ("item" in t && "BUNDLES" === t.item.inventoryType || "items" in t) return {
                             slug: e,
                             inventory: t,
@@ -11634,7 +11675,7 @@
                             title: Object(f.inject)(t.i18n)
                         }
                     })))),
-                    g = i(Object(p.filterBoolean)(Object(p.mapStrong)(t.inventory, (function(t, e) {
+                    g = i(Object(c.filterBoolean)(Object(c.mapStrong)(t.inventory, (function(t, e) {
                         if ("item" in t && "EVENT_PASS" === t.item.inventoryType) return {
                             slug: e,
                             inventory: t,
@@ -11642,7 +11683,7 @@
                             title: Object(f.inject)(t.i18n)
                         }
                     })))),
-                    m = Object(p.filterBoolean)([].concat(a()(u), a()(C), a()(h), [g]));
+                    m = Object(c.filterBoolean)([].concat(a()(u), a()(C), a()(h), [g]));
                 e.a = m
             }).call(this, o("mPbk").inject, o("bt/X"), o("afOK"))
         },
@@ -11671,31 +11712,31 @@
                         var r = e.arg,
                             l = o.context;
                         if (t instanceof HTMLVideoElement) {
-                            var p = function() {
+                            var c = function() {
                                     s.forEach((function(t) {
-                                        f[t] = c[t]
+                                        f[t] = p[t]
                                     }))
                                 },
-                                c = t,
+                                p = t,
                                 f = n.a.observable(i()(s, []));
-                            p(), a.forEach((function(t) {
-                                c.addEventListener(t, p)
+                            c(), a.forEach((function(t) {
+                                p.addEventListener(t, c)
                             }));
                             var d = {
                                 seek: function(t) {
-                                    c.currentTime = t
+                                    p.currentTime = t
                                 },
                                 play: function() {
-                                    c.play()
+                                    p.play()
                                 },
                                 pause: function() {
-                                    c.pause()
+                                    p.pause()
                                 },
                                 get paused() {
                                     return f.paused
                                 },
                                 volume: function(t) {
-                                    c.volume = t
+                                    p.volume = t
                                 },
                                 get currentTime() {
                                     return f.currentTime
@@ -11721,8 +11762,8 @@
                 a = o.n(n),
                 s = o("7W2i"),
                 l = o.n(s),
-                p = o("a1gu"),
-                c = o.n(p),
+                c = o("a1gu"),
+                p = o.n(c),
                 f = o("Nsbk"),
                 d = o.n(f),
                 u = o("cDf5"),
@@ -11746,7 +11787,7 @@
                         var i = d()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
-                    return c()(this, o)
+                    return p()(this, o)
                 }
             }
             var m = function(t, e, o, r) {
@@ -11833,7 +11874,7 @@
         },
         "k+T/": function(t, e, o) {
             "use strict";
-            o.r(e), e.default = o.p + "images/bg-collection-jinx.jpg?f17ae43aaec58207b13574799dc959c9"
+            o.r(e), e.default = o.p + "images/bg-collection-jinx.jpg?1091fca889a959f568db0870dee741c4"
         },
         "k/NB": function(t, e, o) {
             "use strict";
@@ -11878,8 +11919,8 @@
                 a = o.n(n),
                 s = o("7W2i"),
                 l = o.n(s),
-                p = o("a1gu"),
-                c = o.n(p),
+                c = o("a1gu"),
+                p = o.n(c),
                 f = o("Nsbk"),
                 d = o.n(f),
                 u = o("cDf5"),
@@ -11903,7 +11944,7 @@
                         var i = d()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
-                    return c()(this, o)
+                    return p()(this, o)
                 }
             }
             var m = function(t, e, o, r) {
@@ -11992,9 +12033,9 @@
                 a = o.n(n),
                 s = o("79/T"),
                 l = o.n(s),
-                p = o("0imi");
+                c = o("0imi");
 
-            function c(t, e) {
+            function p(t, e) {
                 var o = Object.keys(t);
                 if (Object.getOwnPropertySymbols) {
                     var r = Object.getOwnPropertySymbols(t);
@@ -12163,7 +12204,7 @@
                         showArcaneLogo: !1
                     },
                     "Re-Featured Collection: Vi Again | Preseason State Enabled": {
-                        enabled: false,
+                        enabled: !0,
                         date: new Date("2021-11-16T20:00:00+00:00").valueOf(),
                         dateOverride: "datePreseasonState",
                         featuredCollection: "vi",
@@ -12171,20 +12212,20 @@
                         preseasonState: "preseason"
                     },
                     "Background Swap: E107-109": {
-                        enabled: !1,
+                        enabled: !0,
                         date: new Date("2021-11-20T16:00:00+00:00").valueOf(),
                         dateOverride: "dateBackgroundE107",
-                        bgImage: "bg-e107",
+                        bgImage: "bg-official-arcane",
                         featuredCollection: null
                     },
                     "Featured Collection: Caitlyn": {
-                        enabled: !1,
+                        enabled: false,
                         date: new Date("2021-11-22T16:00:00+00:00").valueOf(),
                         dateOverride: "dateFeaturedCaitlyn",
                         featuredCollection: "caitlyn"
                     },
                     "Featured Collection: Jinx": {
-                        enabled: !1,
+                        enabled: false,
                         date: new Date("2021-11-24T16:00:00+00:00").valueOf(),
                         dateOverride: "dateFeaturedJinx",
                         featuredCollection: "jinx"
@@ -12194,9 +12235,9 @@
                     return function(t) {
                         for (var e = 1; e < arguments.length; e++) {
                             var o = null != arguments[e] ? arguments[e] : {};
-                            e % 2 ? c(Object(o), !0).forEach((function(e) {
+                            e % 2 ? p(Object(o), !0).forEach((function(e) {
                                 i()(t, e, o[e])
-                            })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t, Object.getOwnPropertyDescriptors(o)) : c(Object(o)).forEach((function(e) {
+                            })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t, Object.getOwnPropertyDescriptors(o)) : p(Object(o)).forEach((function(e) {
                                 Object.defineProperty(t, e, Object.getOwnPropertyDescriptor(o, e))
                             }))
                         }
@@ -12211,7 +12252,7 @@
                         ambientAudioDisabled: !1,
                         motionDisabled: !1
                     }
-                }).enabled, u = void 0 === d || d, C = f.useFallback, h = void 0 === C ? "after-timeout" : C, g = f.timeout, m = void 0 === g ? p.inject.inBrowser ? 1e3 : 1e4 : g, D = f.data, {
+                }).enabled, u = void 0 === d || d, C = f.useFallback, h = void 0 === C ? "after-timeout" : C, g = f.timeout, m = void 0 === g ? c.inject.inBrowser ? 1e3 : 1e4 : g, D = f.data, {
                     enabled: u,
                     useFallback: h,
                     timeout: m,
@@ -12240,8 +12281,8 @@
                 a = o.n(n),
                 s = o("7W2i"),
                 l = o.n(s),
-                p = o("a1gu"),
-                c = o.n(p),
+                c = o("a1gu"),
+                p = o.n(c),
                 f = o("Nsbk"),
                 d = o.n(f),
                 u = o("cDf5"),
@@ -12265,7 +12306,7 @@
                         var i = d()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
-                    return c()(this, o)
+                    return p()(this, o)
                 }
             }
             var m = function(t, e, o, r) {
@@ -12400,7 +12441,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://na.leagueoflegends.com/en-us/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-us",
-                preseasonSpotlightVideo: "u9fFG4ZLp9Y",
+                preseasonSpotlightVideo: "kjmvi6pYGf0",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -12412,9 +12453,11 @@
                 eventWebsiteUrl: "http://intothearcane.leagueoflegends.com/tr-tr",
                 riotxArcaneUrl: "https://riotxarcane.riotgames.com/tr-tr/",
                 jayceTrailerVideo: "CPt-98I77iA",
+                viTrailerVideo: "bIo2aem46zo",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://www.leagueoflegends.com/tr-tr/news/game-updates/2021-dereceli-odulleri/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/tr-tr"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/tr-tr",
+                preseasonSpotlightVideo: "qtjLHga9QHs"
             }
         },
         mjxS: function(t, e, o) {
@@ -12439,8 +12482,8 @@
                 a = o.n(n),
                 s = o("O7iK"),
                 l = o.n(s),
-                p = o("VJLA"),
-                c = o.n(p),
+                c = o("VJLA"),
+                p = o.n(c),
                 f = o("7tbW"),
                 d = o.n(f),
                 u = o("zqxM"),
@@ -12498,7 +12541,7 @@
                         }
                     },
                     data: function() {
-                        return c()(v, [])
+                        return p()(v, [])
                     },
                     methods: {
                         onResize: function(t) {
@@ -12577,9 +12620,11 @@
                 eventWebsiteUrl: "http://intothearcane.leagueoflegends.com/ko-kr",
                 riotxArcaneUrl: "https://riotxarcane.riotgames.com/ko-kr/",
                 jayceTrailerVideo: "YxYpUc3drDI",
+                viTrailerVideo: "de6lmkiO6XE",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://kr.leagueoflegends.com/ko-kr/news/game-updates/ranked-rewards-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/ko-kr"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/ko-kr",
+                preseasonSpotlightVideo: "pxCtjbY1tTM"
             }
         },
         ndIA: function(t, e, o) {
@@ -12640,13 +12685,14 @@
                 viTrailerVideo: "PlyRjzERLvo",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://euw.leagueoflegends.com/en-gb/news/game-updates/ranked-rewards-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-gb"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-gb",
+                preseasonSpotlightVideo: "JMV-JzC7Wn8"
             }
         },
         oQCG: function(t, e, o) {
             "use strict";
             o.r(e), o.d(e, "getId", (function() {
-                return c
+                return p
             }));
             o("TWNs"), o("rB9j"), o("JfAA"), o("FZtP"), o("j+VE"), o("UxlC"), o("SYor"), o("ma9I");
             var r, i = o("mPbk"),
@@ -12660,12 +12706,12 @@
                     s[e] = t.textContent.trim()
                 }
             }));
-            var p = {},
-                c = function(t) {
-                    return t in p || (p[t] = Object(n.a)("".concat(a, ".").concat(t.replace(l, "")))), p[t]
+            var c = {},
+                p = function(t) {
+                    return t in c || (c[t] = Object(n.a)("".concat(a, ".").concat(t.replace(l, "")))), c[t]
                 };
             e.default = function(t) {
-                return s[c(t)] || "{i18n ".concat(a, ".").concat(t, "}")
+                return s[p(t)] || "{i18n ".concat(a, ".").concat(t, "}")
             }
         },
         oRVm: function(t, e, o) {
@@ -12678,13 +12724,13 @@
                     var a = o("yXPU"),
                         s = o.n(a),
                         l = o("o0o1"),
-                        p = o.n(l),
-                        c = (o("TeQF"), o("fbCW"), o("ma9I"), o("p532"), o("5s+n"), o("07d7"), o("hy4O")),
+                        c = o.n(l),
+                        p = (o("TeQF"), o("fbCW"), o("ma9I"), o("p532"), o("5s+n"), o("07d7"), o("hy4O")),
                         f = o("G4+A");
 
                     function d(e) {
-                        var o = new c.Cache((function() {
-                            var t, o = new c.CustomEvents;
+                        var o = new p.Cache((function() {
+                            var t, o = new p.CustomEvents;
                             return o.eventOptions("updated", {
                                 includeLastTrigger: !0
                             }), f.inject.requestResponse({
@@ -12692,7 +12738,7 @@
                             }, {
                                 messageType: "mission" == e ? "rcp-fe-lol-home-missions-changed" : "rcp-fe-lol-missions-series-changed",
                                 callback: function(r, i) {
-                                    o.trigger("updated", i || []), null == t || t(), (null == i ? void 0 : i.length) || (t = Object(c.rafTimeout)((function() {
+                                    o.trigger("updated", i || []), null == t || t(), (null == i ? void 0 : i.length) || (t = Object(p.rafTimeout)((function() {
                                         f.inject._sendMessage({
                                             messageType: "mission" == e ? "rcp-fe-lol-home-observe-missions" : "rcp-fe-lol-missions-observe-series"
                                         })
@@ -12703,11 +12749,11 @@
                             }), o
                         }));
                         return function(a, s, l) {
-                            var p, c = arguments.length > 3 && void 0 !== arguments[3] ? arguments[3] : {},
-                                f = c.onMissing,
-                                d = c.onEmpty,
-                                u = c.andLog,
-                                C = c.onError;
+                            var c, p = arguments.length > 3 && void 0 !== arguments[3] ? arguments[3] : {},
+                                f = p.onMissing,
+                                d = p.onEmpty,
+                                u = p.andLog,
+                                C = p.onError;
                             return o.get().on("updated", (function(o) {
                                 try {
                                     u && t(r(i(o, (function(t) {
@@ -12715,7 +12761,7 @@
                                     })), (function(t) {
                                         return t.length > 1 ? t : t[0]
                                     })), "[$rClientMission] all", e, "data");
-                                    var c = ("string" == typeof a ? "mission" === e ? function(t) {
+                                    var p = ("string" == typeof a ? "mission" === e ? function(t) {
                                         var e;
                                         return null === (e = n(t.filter((function(t) {
                                             return t.internalName === a
@@ -12727,10 +12773,10 @@
                                             return t.internalName === a
                                         }))
                                     } : a)(o);
-                                    if (c) {
-                                        var h = s(c),
+                                    if (p) {
+                                        var h = s(p),
                                             g = JSON.stringify(h) || "undefined";
-                                        g !== p && (p = g, l(h))
+                                        g !== c && (c = g, l(h))
                                     } else(null == o ? void 0 : o.length) ? null == f || f(o) : null == d || d()
                                 } catch (o) {
                                     C ? C(o) : t("[$rClientMission] Error processing ".concat(e, ":\n").concat(o))
@@ -12757,10 +12803,10 @@
                                     return t
                                 },
                                 D = [];
-                            return Object(c.withTimeout)((function() {
+                            return Object(p.withTimeout)((function() {
                                 return new Promise(function() {
-                                    var t = s()(p.a.mark((function t(e, o) {
-                                        return p.a.wrap((function(t) {
+                                    var t = s()(c.a.mark((function t(e, o) {
+                                        return c.a.wrap((function(t) {
                                             for (;;) switch (t.prev = t.next) {
                                                 case 0:
                                                     if (t.prev = 0, !n || !r) {
@@ -12911,8 +12957,8 @@
                 a = o.n(n),
                 s = o("lwsE"),
                 l = o.n(s),
-                p = o("W8MJ"),
-                c = o.n(p),
+                c = o("W8MJ"),
+                p = o.n(c),
                 f = o("7W2i"),
                 d = o.n(f),
                 u = o("a1gu"),
@@ -12981,7 +13027,7 @@
                     function o() {
                         return l()(this, o), e.apply(this, arguments)
                     }
-                    return c()(o, [{
+                    return p()(o, [{
                         key: "svg",
                         get: function() {
                             var t = this.image;
@@ -13050,8 +13096,8 @@
                 a = o.n(n),
                 s = o("7W2i"),
                 l = o.n(s),
-                p = o("a1gu"),
-                c = o.n(p),
+                c = o("a1gu"),
+                p = o.n(c),
                 f = o("Nsbk"),
                 d = o.n(f),
                 u = o("cDf5"),
@@ -13075,7 +13121,7 @@
                         var i = d()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
-                    return c()(this, o)
+                    return p()(this, o)
                 }
             }
             var m = function(t, e, o, r) {
@@ -13168,7 +13214,8 @@
                 viTrailerVideo: "PlyRjzERLvo",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://eune.leagueoflegends.com/en-pl/news/game-updates/ranked-rewards-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-pl"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-pl",
+                preseasonSpotlightVideo: "7ViRAkrvlX8"
             }
         },
         pYb9: function(t, e, o) {
@@ -13206,12 +13253,12 @@
                 }
                 return o
             }
-            var p = new WeakMap,
-                c = {
+            var c = new WeakMap,
+                p = {
                     bind: function(t, e) {
                         var o = e.arg,
                             r = e.value,
-                            c = e.modifiers.custom,
+                            p = e.modifiers.custom,
                             f = Object(a.typed)(r, Object(a.typeGuard)([{
                                 init: [{
                                     $test: function(t) {
@@ -13220,7 +13267,7 @@
                                 }, {
                                     $typeof: "undefined"
                                 }],
-                                $noAdditionalProperties: !c
+                                $noAdditionalProperties: !p
                             }, {
                                 $typeof: "undefined"
                             }]), "Invalid tabindex-child value; if you wish to add more properties to this child, add the `.custom` modifier to this instance of `v-tabindex-child`") || {};
@@ -13254,14 +13301,14 @@
                                     }
                                 }, f),
                                 C = Object(n.addChild)(o, u);
-                            p.set(t, C)
+                            c.set(t, C)
                         } else console.error("No arg passed to tabindex-child, cannot attach to parent", t)
                     },
                     unbind: function(t) {
-                        p.get(t)()
+                        c.get(t)()
                     }
                 };
-            e.default = c
+            e.default = p
         },
         ptP8: function(t, e, o) {
             "use strict";
@@ -13348,7 +13395,7 @@
                         s = o("mPbk"),
                         l = o("1EKS");
 
-                    function p(t, e) {
+                    function c(t, e) {
                         var o = Object.keys(t);
                         if (Object.getOwnPropertySymbols) {
                             var r = Object.getOwnPropertySymbols(t);
@@ -13359,12 +13406,12 @@
                         return o
                     }
 
-                    function c(t) {
+                    function p(t) {
                         for (var e = 1; e < arguments.length; e++) {
                             var o = null != arguments[e] ? arguments[e] : {};
-                            e % 2 ? p(Object(o), !0).forEach((function(e) {
+                            e % 2 ? c(Object(o), !0).forEach((function(e) {
                                 n()(t, e, o[e])
-                            })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t, Object.getOwnPropertyDescriptors(o)) : p(Object(o)).forEach((function(e) {
+                            })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(t, Object.getOwnPropertyDescriptors(o)) : c(Object(o)).forEach((function(e) {
                                 Object.defineProperty(t, e, Object.getOwnPropertyDescriptor(o, e))
                             }))
                         }
@@ -13382,7 +13429,7 @@
                         var e = Object(l.MD5)(t);
                         h != e && (h = e, Object.assign(g, r(t, m)))
                     }
-                    var k = c(c({}, t(C, (function(t, e) {
+                    var k = p(p({}, t(C, (function(t, e) {
                             return function() {
                                 return g[e]
                             }
@@ -13415,6 +13462,8 @@
                 "./bg-collection-caitlyn.webm": "+VtH",
                 "./bg-collection-jayce": "6oXE",
                 "./bg-collection-jayce.webm": "6oXE",
+                "./bg-collection-jinx": "2gQI",
+                "./bg-collection-jinx.webm": "2gQI",
                 "./bg-collection-vi": "dcED",
                 "./bg-collection-vi.webm": "dcED",
                 "./bg-preseason": "y6n9",
@@ -13423,6 +13472,8 @@
                 "./collection-caitlyn-champ.webm": "d578",
                 "./collection-jayce-champ": "LmMj",
                 "./collection-jayce-champ.webm": "LmMj",
+                "./collection-jinx-champ": "IkF+",
+                "./collection-jinx-champ.webm": "IkF+",
                 "./collection-vi-champ": "4mhC",
                 "./collection-vi-champ.webm": "4mhC"
             };
@@ -13464,8 +13515,8 @@
                         a = o.n(n),
                         s = o("o0o1"),
                         l = o.n(s),
-                        p = (o("5s+n"), o("07d7"), o("fbCW"), o("ma9I"), o("hy4O")),
-                        c = o("G4+A"),
+                        c = (o("5s+n"), o("07d7"), o("fbCW"), o("ma9I"), o("hy4O")),
+                        p = o("G4+A"),
                         f = o("0imi");
 
                     function d(t, e) {
@@ -13490,11 +13541,11 @@
                         }
                         return t
                     }
-                    var C = new p.Cache((function() {
-                        var t = new p.CustomEvents;
+                    var C = new c.Cache((function() {
+                        var t = new c.CustomEvents;
                         return t.eventOptions("audioSettingsUpdated", {
                             includeLastTrigger: !0
-                        }), c.inject.requestResponse({
+                        }), p.inject.requestResponse({
                             messageType: "rcp-fe-lol-home-settings-audio-observe"
                         }, {
                             messageType: "rcp-fe-lol-home-settings-audio-response",
@@ -13510,7 +13561,7 @@
                         var e = t.category,
                             o = t.otherAssetsHash,
                             r = void 0 === o ? {} : o;
-                        return (e ? c.inject.getAssets(e) : Promise.resolve({})).then((function(t) {
+                        return (e ? p.inject.getAssets(e) : Promise.resolve({})).then((function(t) {
                             return u(u({}, r), t)
                         }), (function(t) {
                             return console.error("[$rClientAudio] createGetAssetsPromise", t), r
@@ -13549,7 +13600,7 @@
                                                     t.next = 8;
                                                     break
                                                 }
-                                                if (!(m = Object(p.filterBoolean)([n, i]).find((function(t) {
+                                                if (!(m = Object(c.filterBoolean)([n, i]).find((function(t) {
                                                         return !(t in g)
                                                     })))) {
                                                     t.next = 8;
@@ -13557,7 +13608,7 @@
                                                 }
                                                 throw new Error('Missing: Asset ID="'.concat(m, '" not in AssetList ID="').concat(e, '"'));
                                             case 8:
-                                                c.inject._sendMessage({
+                                                p.inject._sendMessage({
                                                     messageType: d[o],
                                                     data: {
                                                         ambientUrl: g[i] || i,
@@ -13589,19 +13640,19 @@
                                 });
                             return function() {
                                 var t = i()(l.a.mark((function t(o) {
-                                    var r, i, n, p, c = arguments;
+                                    var r, i, n, c, p = arguments;
                                     return l.a.wrap((function(t) {
                                         for (;;) switch (t.prev = t.next) {
                                             case 0:
-                                                return r = c.length > 1 && void 0 !== c[1] ? c[1] : {}, i = r.requireAsset, n = void 0 === i ? a : i, t.next = 3, s;
+                                                return r = p.length > 1 && void 0 !== p[1] ? p[1] : {}, i = r.requireAsset, n = void 0 === i ? a : i, t.next = 3, s;
                                             case 3:
-                                                if (p = t.sent, !n || o in p) {
+                                                if (c = t.sent, !n || o in c) {
                                                     t.next = 6;
                                                     break
                                                 }
                                                 throw new Error('Missing: Asset ID="'.concat(o, '" not in AssetList ID="').concat(e, '"'));
                                             case 6:
-                                                m.playAudioUI(p[o] || o);
+                                                m.playAudioUI(c[o] || o);
                                             case 7:
                                             case "end":
                                                 return t.stop()
@@ -13624,7 +13675,7 @@
                             }))
                         },
                         openSoundSettings: function() {
-                            f.inject.inBrowser ? t("[$rClientAudio] Open Sound Settings") : c.inject._sendMessage({
+                            f.inject.inBrowser ? t("[$rClientAudio] Open Sound Settings") : p.inject._sendMessage({
                                 messageType: "rcp-fe-lol-home-settings-open",
                                 data: {
                                     settingsCategory: "lol-sound"
@@ -13632,7 +13683,7 @@
                             })
                         },
                         playAudioUI: function(t) {
-                            c.inject._sendMessage({
+                            p.inject._sendMessage({
                                 messageType: "rcp-fe-lol-home-audio-play-ui",
                                 data: {
                                     url: t
@@ -13645,7 +13696,7 @@
                                     primary: "rcp-fe-lol-home-audio-stop-primary-ambience",
                                     secondary: "rcp-fe-lol-home-audio-stop-secondary-ambience"
                                 } [t];
-                            c.inject._sendMessage({
+                            p.inject._sendMessage({
                                 messageType: o,
                                 data: e
                             })
@@ -13663,7 +13714,8 @@
                 jayceTrailerVideo: "I5MtKDNJyu0",
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://eune.leagueoflegends.com/el-gr/news/game-updates/ranked-rewards-2021/",
-                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/el-gr"
+                seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/el-gr",
+                preseasonSpotlightVideo: "C3RL-sJgd7k"
             }
         },
         sDsI: function(t, e, o) {
@@ -13778,8 +13830,8 @@
                 a = o.n(n),
                 s = o("lwsE"),
                 l = o.n(s),
-                p = o("W8MJ"),
-                c = o.n(p),
+                c = o("W8MJ"),
+                p = o.n(c),
                 f = o("7W2i"),
                 d = o.n(f),
                 u = o("a1gu"),
@@ -13825,7 +13877,7 @@
                     function o() {
                         return l()(this, o), e.apply(this, arguments)
                     }
-                    return c()(o, [{
+                    return p()(o, [{
                         key: "mounted",
                         value: function() {
                             null !== this.defaultWidth && null !== this.defaultHeight || console.error("scaling-svg.component: Missing defaultWidth and/or defaultHeight.")
@@ -13966,8 +14018,8 @@
                 a = o.n(n),
                 s = o("7W2i"),
                 l = o.n(s),
-                p = o("a1gu"),
-                c = o.n(p),
+                c = o("a1gu"),
+                p = o.n(c),
                 f = o("Nsbk"),
                 d = o.n(f),
                 u = o("cDf5"),
@@ -13991,7 +14043,7 @@
                         var i = d()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
-                    return c()(this, o)
+                    return p()(this, o)
                 }
             }
             var m = function(t, e, o, r) {
@@ -14215,8 +14267,8 @@
                 a = o.n(n),
                 s = o("W8MJ"),
                 l = o.n(s),
-                p = o("7W2i"),
-                c = o.n(p),
+                c = o("7W2i"),
+                p = o.n(c),
                 f = o("a1gu"),
                 d = o.n(f),
                 u = o("Nsbk"),
@@ -14283,7 +14335,7 @@
                     return n > 3 && a && Object.defineProperty(e, o, a), a
                 },
                 M = function(t) {
-                    c()(o, t);
+                    p()(o, t);
                     var e = A(o);
 
                     function o() {
@@ -14357,7 +14409,7 @@
             "use strict";
             (function(t) {
                 o.d(e, "a", (function() {
-                    return p
+                    return c
                 }));
                 var r = o("yXPU"),
                     i = o.n(r),
@@ -14367,12 +14419,12 @@
                     l = o.n(s);
                 o("TeQF"), o("5s+n"), o("07d7"), o("PKPk"), o("4mDm"), o("3bBZ"), o("2B1R");
 
-                function p(t) {
-                    return c.apply(this, arguments)
+                function c(t) {
+                    return p.apply(this, arguments)
                 }
 
-                function c() {
-                    return (c = i()(l.a.mark((function e(o) {
+                function p() {
+                    return (p = i()(l.a.mark((function e(o) {
                         var r;
                         return l.a.wrap((function(e) {
                             for (;;) switch (e.prev = e.next) {
@@ -14421,8 +14473,8 @@
                     a = o.n(n),
                     s = o("W8MJ"),
                     l = o.n(s),
-                    p = o("7W2i"),
-                    c = o.n(p),
+                    c = o("7W2i"),
+                    p = o.n(c),
                     f = o("a1gu"),
                     d = o.n(f),
                     u = o("Nsbk"),
@@ -14466,7 +14518,7 @@
                         }
                     },
                     y = function(e) {
-                        c()(r, e);
+                        p()(r, e);
                         var o = D(r);
 
                         function r() {
@@ -14516,8 +14568,8 @@
                 a = o.n(n),
                 s = o("7W2i"),
                 l = o.n(s),
-                p = o("a1gu"),
-                c = o.n(p),
+                c = o("a1gu"),
+                p = o.n(c),
                 f = o("Nsbk"),
                 d = o.n(f),
                 u = o("cDf5"),
@@ -14560,7 +14612,7 @@
                         var i = d()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
-                    return c()(this, o)
+                    return p()(this, o)
                 }
             }
             var b = function(t, e, o, r) {
@@ -14620,8 +14672,8 @@
                 a = o.n(n),
                 s = o("a1gu"),
                 l = o.n(s),
-                p = o("Nsbk"),
-                c = o.n(p),
+                c = o("Nsbk"),
+                p = o.n(c),
                 f = o("cDf5"),
                 d = o.n(f),
                 u = (o("5DmW"), o("qePV"), o("YKMj"));
@@ -14638,9 +14690,9 @@
                     }
                 }();
                 return function() {
-                    var o, r = c()(t);
+                    var o, r = p()(t);
                     if (e) {
-                        var i = c()(this).constructor;
+                        var i = p()(this).constructor;
                         o = Reflect.construct(r, arguments, i)
                     } else o = r.apply(this, arguments);
                     return l()(this, o)
@@ -14809,8 +14861,8 @@
                     for (s.s(); !(a = s.n()).done;) {
                         var l = a.value;
                         try {
-                            var p = null === (e = o("riEc")("./".concat(t, "-").concat(l))) || void 0 === e ? void 0 : e.default;
-                            if (p) return p
+                            var c = null === (e = o("riEc")("./".concat(t, "-").concat(l))) || void 0 === e ? void 0 : e.default;
+                            if (c) return c
                         } catch (t) {}
                     }
                 } catch (t) {

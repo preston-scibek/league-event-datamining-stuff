@@ -42,3 +42,22 @@ if __name__ == "__main__":
 
     with open("asset_path.json", "w") as jfile:
             json.dump({"asset_path": asset_path}, jfile)
+
+    asset_path = do_shit("https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-nlex-hub-2021#/intro")
+    print(f"Asset path = {asset_path}")
+    with open("asset_path_nlex.json", "r+") as jfile:
+        old_path = json.load(jfile)
+
+    if asset_path != old_path.get('asset_path'):
+        # do some shit
+
+        with open("../../DiscordBot/.env.json", "r") as envfile:
+             params = json.load(envfile)
+
+        DISCORD_WEBHOOK = params['explore']['DISCORD_WEBHOOK'][1]
+        data = {"content" :f"Asset path = {asset_path}"}
+        res_post = requests.post(DISCORD_WEBHOOK, data=data)
+        print(res_post.text)
+
+    with open("asset_path_nlex.json", "w") as jfile:
+            json.dump({"asset_path": asset_path}, jfile)
