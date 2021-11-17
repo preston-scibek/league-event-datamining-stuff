@@ -1058,7 +1058,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://ru.leagueoflegends.com/ru-ru/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/ru-ru",
-                preseasonSpotlightVideo: "APYU_1Hconw",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=APYU_1Hconw",
                 preseasonLearnMoreUrl: "https://ru.leagueoflegends.com/ru-ru/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -1651,7 +1651,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://eune.leagueoflegends.com/pl-pl/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/pl-pl",
-                preseasonSpotlightVideo: "jvDEeYQgqRM",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=jvDEeYQgqRM",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/pl-pl/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -1668,7 +1668,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://oce.leagueoflegends.com/en-au/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-au",
-                preseasonSpotlightVideo: "kjmvi6pYGf0",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=kjmvi6pYGf0",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/en-au/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -2502,7 +2502,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://euw.leagueoflegends.com/es-es/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/es-es",
-                preseasonSpotlightVideo: "kNculUihQSc",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=kNculUihQSc",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/es-es/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -5310,7 +5310,7 @@
                         },
                         on: {
                             click: function(e) {
-                                t.$linkOut(t.$hubConfig.preseasonSpotlightVideo) || t.$youtubeModal(t.$localeVars.preseasonSpotlightVideo)
+                                return t.$linkOut(t.$hubConfig.preseasonSpotlightVideo || t.$localeVars.preseasonSpotlightVideo)
                             }
                         }
                     })], 1), t._v(" "), o("ping-impression", {
@@ -5366,7 +5366,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://euw.leagueoflegends.com/it-it/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/it-it",
-                preseasonSpotlightVideo: "jaDSFfsMEwk",
+                preseasonSpotlightVideo: "https://youtu.be/jaDSFfsMEwk",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/it-it/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -5474,7 +5474,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://euw.leagueoflegends.com/fr-fr/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/fr-fr",
-                preseasonSpotlightVideo: "8mmODQ9LXXA",
+                preseasonSpotlightVideo: "https://youtu.be/8mmODQ9LXXA",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/fr-fr/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -5493,7 +5493,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://euw.leagueoflegends.com/de-de/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/de-de",
-                preseasonSpotlightVideo: "LtzpCA3MGYA",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=LtzpCA3MGYA",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/de-de/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -5998,7 +5998,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://na.leagueoflegends.com/en-us/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-us",
-                preseasonSpotlightVideo: "kjmvi6pYGf0",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=kjmvi6pYGf0",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -6076,7 +6076,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://br.leagueoflegends.com/pt-br/news/game-updates/recompensas-ranqueadas-de-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/pt-br",
-                preseasonSpotlightVideo: "yU0rMthI7L8",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=yU0rMthI7L8",
                 preseasonLearnMoreUrl: "https://br.leagueoflegends.com/pt-br/news/game-updates/notas-da-atualizacao-11-23/"
             }
         },
@@ -6224,7 +6224,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://eune.leagueoflegends.com/cs-cz/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/cs-cz",
-                preseasonSpotlightVideo: "_CsU71XXyW8",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=_CsU71XXyW8",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/cs-cz/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -6273,7 +6273,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://na.leagueoflegends.com/en-us/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-us",
-                preseasonSpotlightVideo: "kjmvi6pYGf0",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=kjmvi6pYGf0",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -6291,7 +6291,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://na.leagueoflegends.com/en-us/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-us",
-                preseasonSpotlightVideo: "kjmvi6pYGf0",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=kjmvi6pYGf0",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -6306,7 +6306,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://eune.leagueoflegends.com/ro-ro/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/ro-ro",
-                preseasonSpotlightVideo: "gGsJnYi_5ao",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=gGsJnYi_5ao",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/ro-ro/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -6322,7 +6322,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://lan.leagueoflegends.com/es-mx/news/game-updates/recompensas-de-clasificatorias-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/es-mx",
-                preseasonSpotlightVideo: "0zzokQ7zpDM",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=0zzokQ7zpDM",
                 preseasonLearnMoreUrl: "https://lan.leagueoflegends.com/es-mx/news/game-updates/notas-de-la-version-11-23/"
             }
         },
@@ -7536,7 +7536,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://jp.leagueoflegends.com/ja-jp/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/ja-jp",
-                preseasonSpotlightVideo: "ECtSoQnrHrc",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=ECtSoQnrHrc",
                 preseasonLearnMoreUrl: "https://jp.leagueoflegends.com/ja-jp/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -7656,7 +7656,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://na.leagueoflegends.com/en-us/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-us",
-                preseasonSpotlightVideo: "kjmvi6pYGf0",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=kjmvi6pYGf0",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -7720,7 +7720,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://na.leagueoflegends.com/en-us/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-us",
-                preseasonSpotlightVideo: "kjmvi6pYGf0",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=kjmvi6pYGf0",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -8106,7 +8106,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://las.leagueoflegends.com/es-ar/news/game-updates/recompensas-de-clasificatorias-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/es-ar",
-                preseasonSpotlightVideo: "0zzokQ7zpDM",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=0zzokQ7zpDM",
                 preseasonLearnMoreUrl: "https://lan.leagueoflegends.com/es-mx/news/game-updates/notas-de-la-version-11-23/"
             }
         },
@@ -8274,7 +8274,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://eune.leagueoflegends.com/hu-hu/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/hu-hu",
-                preseasonSpotlightVideo: "ItHOHhY3DRk",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=ItHOHhY3DRk",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/hu-hu/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -12280,8 +12280,8 @@
                     data: void 0 === D ? {} : D
                 }),
                 b = {
-                    tencentPreviousBuildVersion: 8,
-                    buildVersion: 9,
+                    tencentPreviousBuildVersion: 9,
+                    buildVersion: 10,
                     prefix: k,
                     i18nPrefix: k,
                     inventory: v,
@@ -12462,7 +12462,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://na.leagueoflegends.com/en-us/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-us",
-                preseasonSpotlightVideo: "kjmvi6pYGf0",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=kjmvi6pYGf0",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -12478,7 +12478,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://www.leagueoflegends.com/tr-tr/news/game-updates/2021-dereceli-odulleri/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/tr-tr",
-                preseasonSpotlightVideo: "qtjLHga9QHs",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=qtjLHga9QHs",
                 preseasonLearnMoreUrl: "https://tr.leagueoflegends.com/tr-tr/news/game-updates/11-23-yama-notlari/"
             }
         },
@@ -12646,7 +12646,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://kr.leagueoflegends.com/ko-kr/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/ko-kr",
-                preseasonSpotlightVideo: "pxCtjbY1tTM",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=pxCtjbY1tTM",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/ko-kr/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -12709,7 +12709,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://euw.leagueoflegends.com/en-gb/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-gb",
-                preseasonSpotlightVideo: "JMV-JzC7Wn8",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=JMV-JzC7Wn8",
                 preseasonLearnMoreUrl: "https://euw.leagueoflegends.com/en-gb/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -13239,7 +13239,7 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://eune.leagueoflegends.com/en-pl/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/en-pl",
-                preseasonSpotlightVideo: "7ViRAkrvlX8",
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=7ViRAkrvlX8",
                 preseasonLearnMoreUrl: "https://www.leagueoflegends.com/en-pl/news/game-updates/patch-11-23-notes/"
             }
         },
@@ -13742,7 +13742,8 @@
                 eventFaqUrl: "https://support-leagueoflegends.riotgames.com/hc/articles/4407919622931",
                 seasonRewardsArticleUrl: "https://eune.leagueoflegends.com/el-gr/news/game-updates/ranked-rewards-2021/",
                 seasonLearnMoreUrl: "http://intothearcane.leagueoflegends.com/el-gr",
-                preseasonSpotlightVideo: "C3RL-sJgd7k"
+                preseasonSpotlightVideo: "https://www.youtube.com/watch?v=C3RL-sJgd7k",
+                preseasonLearnMoreUrl: "https://eune.leagueoflegends.com/el-gr/news/game-updates/patch-11-23-notes/"
             }
         },
         sDsI: function(t, e, o) {
