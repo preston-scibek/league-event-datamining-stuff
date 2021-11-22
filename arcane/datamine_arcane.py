@@ -44,7 +44,7 @@ def dehash(inp, lines=None, hash_prefix=hash_prefix_1):
     return lines.get(d)
 
 
-def comp():
+def comp(p=False):
     xxx1 = load_lines()
     with open('attempted_bf.json', 'r', encoding='utf-8') as jfile:
         xxx2 = json.load(jfile)
@@ -57,7 +57,7 @@ def comp():
 
 
 
-def do_shit(n=15):
+def do_shit(n=40):
     loaded_lines = load_lines()
     res = {}
     champs = ['jayce', 'caitlyn', 'vi', 'jinx']
@@ -224,11 +224,10 @@ if __name__ == "__main__":
         missing = comp()
         for index, val in enumerate(missing):
             r["?"*(index+1)] = val
-            print(val)
         with open('attempted_bf.json', 'w', encoding="utf-8") as jfile:
             json.dump(r, jfile, indent=4, ensure_ascii=False)
 
-        missing = comp()
+        missing = comp(p=True)
         for index, val in enumerate(missing):
             r["?"*(index+1)] = val
             print(val)
