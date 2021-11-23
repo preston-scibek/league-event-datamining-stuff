@@ -10,8 +10,9 @@
         "+Bvt": function(e, t) {
             e.exports = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 2110 1440"><g class="caitlyn-record-3-page-5"><g class="section-1"><path fill="#fff" d="M1185 362l-291.624 44.668L806 464.009v72.814h233.92l185.69-72.814 97.39-31.864V383l-138-21z" class="section-1-clickable"></path><path fill="url(#caitlyn-record-3-page-5-paint0_linear_35:1844)" fill-opacity=".4" stroke="url(#caitlyn-record-3-page-5-paint1_linear_35:1844)" stroke-miterlimit="10" stroke-width="4" d="M806 464.009v72.814h233.92v-72.814h185.69v-31.864H1323V383h-140.17v23.668H893.376v58.251l-87.376-.91z" class="section-1-neutral"></path><g class="section-1-hover" filter="url(#caitlyn-record-3-page-5-filter0_ddd_35:1844)"><path fill="url(#caitlyn-record-3-page-5-paint2_linear_35:1844)" fill-opacity=".4" d="M806 464.009v72.814h233.92v-72.814h185.69v-31.864H1323V383h-140.17v23.668H893.376v58.251l-87.376-.91z" shape-rendering="crispEdges"></path><path stroke="url(#caitlyn-record-3-page-5-paint3_linear_35:1844)" stroke-miterlimit="10" stroke-width="4" d="M806 464.009v72.814h233.92v-72.814h185.69v-31.864H1323V383h-140.17v23.668H893.376v58.251l-87.376-.91z" shape-rendering="crispEdges"></path></g></g><g class="section-2"><path fill="#fff" d="M807 552l-.242.242L784 575l22 97.061h169.15l335.64-27.647v-32.268l-38.39-36.091-339.491-23.813L807 552z" class="section-2-clickable"></path><path fill="url(#caitlyn-record-3-page-5-paint4_linear_35:1844)" fill-opacity=".4" stroke="url(#caitlyn-record-3-page-5-paint5_linear_35:1844)" stroke-miterlimit="10" stroke-width="4" d="M806 552.242v119.819h169.15v-27.647h335.64v-32.267h-38.39v-36.092H932.909v-23.813H806z" class="section-2-neutral"></path><g class="section-2-hover" filter="url(#caitlyn-record-3-page-5-filter1_ddd_35:1844)"><path fill="url(#caitlyn-record-3-page-5-paint6_linear_35:1844)" fill-opacity=".4" d="M806 552.242v119.819h169.15v-27.647h335.64v-32.267h-38.39v-36.092H932.909v-23.813H806z" shape-rendering="crispEdges"></path><path stroke="url(#caitlyn-record-3-page-5-paint7_linear_35:1844)" stroke-miterlimit="10" stroke-width="4" d="M806 552.242v119.819h169.15v-27.647h335.64v-32.267h-38.39v-36.092H932.909v-23.813H806z" shape-rendering="crispEdges"></path></g></g><g class="section-3"><path fill="#fff" d="M806 678.979h126.909l333.911 23.037 43.97 34.944v41.094l-336.405 16.899H806L784 735l22-56.021z" class="section-3-clickable"></path><path fill="url(#caitlyn-record-3-page-5-paint8_linear_35:1844)" fill-opacity=".4" stroke="url(#caitlyn-record-3-page-5-paint9_linear_35:1844)" stroke-miterlimit="10" stroke-width="4" d="M806 678.979v115.974h168.385v-16.899h336.405V736.96h-43.97v-34.944H932.909v-23.037H806z" class="section-3-neutral"></path><g class="section-3-hover" filter="url(#caitlyn-record-3-page-5-filter2_ddd_35:1844)"><path fill="url(#caitlyn-record-3-page-5-paint10_linear_35:1844)" fill-opacity=".4" d="M806 678.979v115.974h168.385v-16.899h336.405V736.96h-43.97v-34.944H932.909v-23.037H806z" shape-rendering="crispEdges"></path><path stroke="url(#caitlyn-record-3-page-5-paint11_linear_35:1844)" stroke-miterlimit="10" stroke-width="4" d="M806 678.979v115.974h168.385v-16.899h336.405V736.96h-43.97v-34.944H932.909v-23.037H806z" shape-rendering="crispEdges"></path></g></g><g class="section-4"><path fill="#fff" d="M806 818.766h107.706l397.084 23.037v143.622l-200.45 15.365H806L786 842l20-23.234z" class="section-4-clickable"></path><path fill="url(#caitlyn-record-3-page-5-paint12_linear_35:1844)" fill-opacity=".4" stroke="url(#caitlyn-record-3-page-5-paint13_linear_35:1844)" stroke-miterlimit="10" stroke-width="4" d="M806 818.766v182.024h304.34v-15.365h200.45V841.803H913.706v-23.037H806z" class="section-4-neutral"></path><g class="section-4-hover" filter="url(#caitlyn-record-3-page-5-filter3_ddd_35:1844)"><path fill="url(#caitlyn-record-3-page-5-paint14_linear_35:1844)" fill-opacity=".4" d="M806 818.766v182.024h304.34v-15.365h200.45V841.803H913.706v-23.037H806z" shape-rendering="crispEdges"></path><path stroke="url(#caitlyn-record-3-page-5-paint15_linear_35:1844)" stroke-miterlimit="10" stroke-width="4" d="M806 818.766v182.024h304.34v-15.365h200.45V841.803H913.706v-23.037H806z" shape-rendering="crispEdges"></path></g></g><g class="section-5"><path fill="#fff" d="M933.684 1007.71h245.776v32.25L935 1054l-23-23 21.684-23.29z" class="section-5-clickable"></path><path fill="url(#caitlyn-record-3-page-5-paint16_linear_35:1844)" fill-opacity=".4" stroke="url(#caitlyn-record-3-page-5-paint17_linear_35:1844)" stroke-miterlimit="10" stroke-width="4" d="M1179.46 1007.71H933.684v32.25h245.776v-32.25z" class="section-5-neutral"></path><g class="section-5-hover" filter="url(#caitlyn-record-3-page-5-filter4_ddd_35:1844)"><path fill="url(#caitlyn-record-3-page-5-paint18_linear_35:1844)" fill-opacity=".4" d="M1179.46 1007.71H933.684v32.25h245.776v-32.25z" shape-rendering="crispEdges"></path><path stroke="url(#caitlyn-record-3-page-5-paint19_linear_35:1844)" stroke-miterlimit="10" stroke-width="4" d="M1179.46 1007.71H933.684v32.25h245.776v-32.25z" shape-rendering="crispEdges"></path></g></g></g><defs><linearGradient id="caitlyn-record-3-page-5-paint0_linear_35:1844" x1="1064.5" x2="1042.4" y1="383" y2="550.893" class="paint0_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint1_linear_35:1844" x1="1189.21" x2="1178.92" y1="345.448" y2="543.002" class="paint1_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint2_linear_35:1844" x1="1064.5" x2="1042.4" y1="383" y2="550.893" class="paint2_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint3_linear_35:1844" x1="1189.21" x2="1178.92" y1="345.448" y2="543.002" class="paint3_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint4_linear_35:1844" x1="1058.4" x2="1044.58" y1="552.242" y2="683.836" class="paint4_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint5_linear_35:1844" x1="1180.17" x2="1173.76" y1="522.992" y2="677.026" class="paint5_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint6_linear_35:1844" x1="1058.4" x2="1044.58" y1="552.242" y2="683.836" class="paint6_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint7_linear_35:1844" x1="1180.17" x2="1173.76" y1="522.992" y2="677.026" class="paint7_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint8_linear_35:1844" x1="1058.4" x2="1045.44" y1="678.979" y2="806.438" class="paint8_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint9_linear_35:1844" x1="1180.17" x2="1174.17" y1="650.667" y2="799.775" class="paint9_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint10_linear_35:1844" x1="1058.4" x2="1045.44" y1="678.979" y2="806.438" class="paint10_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint11_linear_35:1844" x1="1180.17" x2="1174.17" y1="650.667" y2="799.775" class="paint11_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint12_linear_35:1844" x1="1058.4" x2="1026.95" y1="818.766" y2="1015.87" class="paint12_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint13_linear_35:1844" x1="1180.17" x2="1165.42" y1="774.328" y2="1007.81" class="paint13_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint14_linear_35:1844" x1="1058.4" x2="1026.95" y1="818.766" y2="1015.87" class="paint14_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint15_linear_35:1844" x1="1180.17" x2="1165.42" y1="774.328" y2="1007.81" class="paint15_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint16_linear_35:1844" x1="1056.57" x2="1054.5" y1="1007.71" y2="1043.4" class="paint16_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint17_linear_35:1844" x1="1115.86" x2="1114.91" y1="999.832" y2="1041.35" class="paint17_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint18_linear_35:1844" x1="1056.57" x2="1054.5" y1="1007.71" y2="1043.4" class="paint18_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-3-page-5-paint19_linear_35:1844" x1="1115.86" x2="1114.91" y1="999.832" y2="1041.35" class="paint19_linear_35:1844" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><filter id="caitlyn-record-3-page-5-filter0_ddd_35:1844" width="561" height="197.822" x="784" y="361" class="filter0_ddd_35:1844" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_35:1844"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_35:1844" result="effect2_dropShadow_35:1844"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_35:1844" result="effect3_dropShadow_35:1844"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_35:1844" result="shape"></feBlend></filter><filter id="caitlyn-record-3-page-5-filter1_ddd_35:1844" width="548.794" height="163.819" x="784" y="530.242" class="filter1_ddd_35:1844" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_35:1844"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_35:1844" result="effect2_dropShadow_35:1844"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_35:1844" result="effect3_dropShadow_35:1844"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_35:1844" result="shape"></feBlend></filter><filter id="caitlyn-record-3-page-5-filter2_ddd_35:1844" width="548.794" height="159.975" x="784" y="656.979" class="filter2_ddd_35:1844" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_35:1844"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_35:1844" result="effect2_dropShadow_35:1844"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_35:1844" result="effect3_dropShadow_35:1844"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_35:1844" result="shape"></feBlend></filter><filter id="caitlyn-record-3-page-5-filter3_ddd_35:1844" width="548.794" height="226.028" x="784" y="796.766" class="filter3_ddd_35:1844" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_35:1844"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_35:1844" result="effect2_dropShadow_35:1844"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_35:1844" result="effect3_dropShadow_35:1844"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_35:1844" result="shape"></feBlend></filter><filter id="caitlyn-record-3-page-5-filter4_ddd_35:1844" width="289.777" height="76.257" x="911.684" y="985.707" class="filter4_ddd_35:1844" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_35:1844"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_35:1844" result="effect2_dropShadow_35:1844"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_35:1844" result="effect3_dropShadow_35:1844"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_35:1844" result="shape"></feBlend></filter></defs></svg>'
         },
-        "+JjU": function(e, t) {
-            throw new Error("Module parse failed: Unexpected character 'ï¿½' (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n(Source code omitted for this binary file)")
+        "+JjU": function(e, t, o) {
+            "use strict";
+            o.r(t), t.default = o.p + "images/collection-jinx-record-1-view-1.jpg?2b425ada9b018c941d0d11faf06c9b11"
         },
         "+nxg": function(e, t, o) {
             "use strict";
@@ -44,8 +45,8 @@
                 h = o.n(u),
                 v = (o("5DmW"), o("YKMj")),
                 g = (o("Kz25"), o("07d7"), o("PKPk"), o("4mDm"), o("3bBZ"), o("hByQ"), o("rB9j"), o("UxlC"), o("ma9I"), o("fbCW"), o("5s+n"), o("2B1R"), o("qePV"), o("3fX5")),
-                y = o("hy4O"),
-                x = o("F0XB");
+                x = o("hy4O"),
+                y = o("F0XB");
             o("SYor");
 
             function m(e) {
@@ -206,8 +207,8 @@
                 immediate: !0
             })], w.prototype, "readyChanged", null), B([Object(v.b)()], w.prototype, "loaded", null);
             var O = w = B([v.a], w),
-                b = o("KHd+"),
-                S = Object(b.a)(O, (function() {
+                S = o("KHd+"),
+                M = Object(S.a)(O, (function() {
                     var e = this,
                         t = e.$createElement,
                         o = e._self._c || t;
@@ -232,7 +233,7 @@
                     }, [e._t("play-button")], 2) : e._e()])], 1)
                 }), [], !1, null, null, null).exports;
 
-            function M(e) {
+            function b(e) {
                 var t = function() {
                     if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                     if (Reflect.construct.sham) return !1;
@@ -260,7 +261,7 @@
                     for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                 return a > 3 && n && Object.defineProperty(t, o, n), n
             };
-            Object(g.a)(x.context, x.inject)({
+            Object(g.a)(y.context, y.inject)({
                 "lasso-setup.plugin": o("URY+")
             });
             var E = {
@@ -277,7 +278,7 @@
                 F = k.language,
                 U = function(e) {
                     l()(o, e);
-                    var t = M(o);
+                    var t = b(o);
 
                     function o() {
                         var e;
@@ -354,7 +355,7 @@
                         key: "queueNextSlide",
                         value: function() {
                             var e = this;
-                            this.nextSlideCancel && this.nextSlideCancel(), this.playing && (this.nextSlideCancel = Object(y.rafTimeout)((function() {
+                            this.nextSlideCancel && this.nextSlideCancel(), this.playing && (this.nextSlideCancel = Object(x.rafTimeout)((function() {
                                 e.nextSlide()
                             }), 4e3))
                         }
@@ -396,12 +397,12 @@
                 type: String,
                 default: "lazy-default"
             })], U.prototype, "contentTemplate", void 0), G([Object(v.e)(Boolean)], U.prototype, "noInjectCtas", void 0), G([Object(v.e)(Number)], U.prototype, "maxSlides", void 0), G([Object(v.e)(Boolean)], U.prototype, "autoplay", void 0), G([Object(v.e)(Boolean)], U.prototype, "contentTargetting", void 0), G([Object(v.e)(Boolean)], U.prototype, "noPreload", void 0), G([Object(v.i)("playing")], U.prototype, "onPlayingChanged", null);
-            var R = U = G([Object(v.a)({
+            var A = U = G([Object(v.a)({
                     components: {
-                        LassoCard: S
+                        LassoCard: M
                     }
                 })], U),
-                H = Object(b.a)(R, (function() {
+                R = Object(S.a)(A, (function() {
                     var e, t = this,
                         o = t.$createElement,
                         r = t._self._c || o;
@@ -470,7 +471,7 @@
                 }), [], !1, null, null, null).exports;
             o("pNMO"), o("4Brf");
 
-            function A(e) {
+            function H(e) {
                 var t = function() {
                     if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                     if (Reflect.construct.sham) return !1;
@@ -500,7 +501,7 @@
             };
             var L = function(e) {
                 l()(o, e);
-                var t = A(o);
+                var t = H(o);
 
                 function o() {
                     return i()(this, o), t.apply(this, arguments)
@@ -579,7 +580,7 @@
                 default: ""
             })], L.prototype, "ctaClass", void 0), T([Object(v.e)(String)], L.prototype, "bgSprite", void 0), T([Object(v.e)(Boolean)], L.prototype, "noGradient", void 0);
             var I = L = T([v.a], L),
-                V = Object(b.a)(I, (function() {
+                V = Object(S.a)(I, (function() {
                     var e = this,
                         t = e.$createElement,
                         o = e._self._c || t;
@@ -687,11 +688,11 @@
                 }(v.h),
                 X = W = Z([Object(v.a)({
                     components: {
-                        Lasso: H,
+                        Lasso: R,
                         OverviewCard: V
                     }
                 })], W),
-                Y = Object(b.a)(X, (function() {
+                Y = Object(S.a)(X, (function() {
                     var e = this,
                         t = e.$createElement,
                         o = e._self._c || t;
@@ -737,7 +738,7 @@
             e.exports = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 58 58"><g filter="url(#page-node-filter0_d)"><path fill="url(#page-node-paint0_radial)" stroke="url(#page-node-paint1_linear)" stroke-width="2" d="M7.414 29L29 7.414 50.586 29 29 50.586 7.414 29z"></path><g filter="url(#page-node-filter1_ddd)"><path fill="url(#page-node-paint2_linear)" d="M29 18.177h15.307v15.307H29z" transform="rotate(45 29 18.177)"></path><path stroke="url(#page-node-paint3_linear)" stroke-width="2" d="M29 19.591h13.307v13.307H29z" transform="rotate(45 29 19.59)"></path></g></g><defs><linearGradient id="page-node-paint1_linear" x1="40.5" x2="17.5" y1="17.5" y2="40.5" gradientUnits="userSpaceOnUse"><stop stop-color="#ECD0BB"></stop><stop offset="1" stop-color="#D39D75"></stop></linearGradient><linearGradient id="page-node-paint2_linear" x1="61.997" x2="25.264" y1="33.739" y2="32.317" gradientUnits="userSpaceOnUse"><stop stop-color="#3C3434"></stop><stop offset=".172" stop-color="#A6857C"></stop><stop offset=".339" stop-color="#AD897F"></stop><stop offset=".573" stop-color="#E0B798"></stop><stop offset=".917" stop-color="#3C3434"></stop></linearGradient><linearGradient id="page-node-paint3_linear" x1="45.573" x2="45.573" y1="18.699" y2="33.483" gradientUnits="userSpaceOnUse"><stop stop-color="#B08E84"></stop><stop offset=".396" stop-color="#B08E84" stop-opacity="0"></stop><stop offset=".927" stop-color="#BD9B92" stop-opacity=".96"></stop></linearGradient><filter id="page-node-filter0_d" width="58" height="58" x="0" y="0" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="3"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.954167 0 0 0 0 0.75333 0 0 0 0 0.608281 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow"></feBlend><feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"></feBlend></filter><filter id="page-node-filter1_ddd" width="24.559" height="24.559" x="16.721" y="18.177" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset dy="1.456"></feOffset><feGaussianBlur stdDeviation=".728"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset dy="1.456"></feOffset><feGaussianBlur stdDeviation=".728"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix><feBlend in2="effect1_dropShadow" result="effect2_dropShadow"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset dy="1.456"></feOffset><feGaussianBlur stdDeviation=".728"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"></feColorMatrix><feBlend in2="effect2_dropShadow" result="effect3_dropShadow"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow" result="shape"></feBlend></filter><radialGradient id="page-node-paint0_radial" cx="0" cy="0" r="1" gradientTransform="rotate(-45 49.506 -20.506) scale(29.6569)" gradientUnits="userSpaceOnUse"><stop stop-color="#486884"></stop><stop offset="1" stop-color="#01010E"></stop></radialGradient></defs></svg>'
         },
         "/O3X": function(e, t) {
-            throw new Error('Module parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n> <svg\n| \txmlns="http://www.w3.org/2000/svg"\n| \twidth="2110"')
+            e.exports = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 2110 1440"><g class="jinx-closed"><g class="record-1"><path fill="#fff" d="M975 443l-83 160v13l46 23 180 46h44l133-142-17-42-67-58-85-37-95 5-56 32z" class="record-1-clickable"></path><g class="record-1-neutral" filter="url(#jinx-closed-filter0_ddd_37:2659)"><path fill="url(#jinx-closed-paint0_linear_37:2659)" d="M952 565l20.5-27.5c-1.333-2.667-4.5-9.1-6.5-13.5-2.5-5.5-.5-16 0-25s2.5-13 3.5-17 7-22.5 12.5-31 15-10 28.5-18.5 28-12.5 36-14 58.5-5 70-5 26 6 30 8 46 21 52 25 8.5 10 10 20c1.2 8 2.17 25.333 2.5 33 1.67.5 5.6 1.7 8 2.5 3 1 6 2 7.5 3.5 1.2 1.2 3.17.5 4 0 2-1.333 6.5-4.3 8.5-5.5 2.5-1.5 21.5-1 27-.5s9 8.5 9 10.5v12h2.5c2 0 5 4 8 7s3.5 8 2 11.5-7.5 5-15 7-20 9.5-28 16.5-43.5 44-49 53-6 18.5-6 22-19 31-25 34-9 6.5-13 5.5-20.5-2-25-2-5.5-.5-6.5-1.5-13.5-16-20.5-21-13.5-6-17-6.5-59.5-18-77-23-38-5.5-47-4.5c-7.2.8-15.333 6-18.5 8.5l-43-18 1-7.5 17.5-14c.333-1.5 1.2-5 2-7 1-2.5 12-10.5 19-13.5 5.6-2.4 12.667-3.333 15.5-3.5z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-closed-paint1_linear_37:2659)" stroke-miterlimit="10" stroke-width="4" d="M952 565l20.5-27.5c-1.333-2.667-4.5-9.1-6.5-13.5-2.5-5.5-.5-16 0-25s2.5-13 3.5-17 7-22.5 12.5-31 15-10 28.5-18.5 28-12.5 36-14 58.5-5 70-5 26 6 30 8 46 21 52 25 8.5 10 10 20c1.2 8 2.17 25.333 2.5 33 1.67.5 5.6 1.7 8 2.5 3 1 6 2 7.5 3.5 1.2 1.2 3.17.5 4 0 2-1.333 6.5-4.3 8.5-5.5 2.5-1.5 21.5-1 27-.5s9 8.5 9 10.5v12h2.5c2 0 5 4 8 7s3.5 8 2 11.5-7.5 5-15 7-20 9.5-28 16.5-43.5 44-49 53-6 18.5-6 22-19 31-25 34-9 6.5-13 5.5-20.5-2-25-2-5.5-.5-6.5-1.5-13.5-16-20.5-21-13.5-6-17-6.5-59.5-18-77-23-38-5.5-47-4.5c-7.2.8-15.333 6-18.5 8.5l-43-18 1-7.5 17.5-14c.333-1.5 1.2-5 2-7 1-2.5 12-10.5 19-13.5 5.6-2.4 12.667-3.333 15.5-3.5z" shape-rendering="crispEdges"></path></g><g class="record-1-hover" filter="url(#jinx-closed-filter1_ddd_37:2659)"><path fill="url(#jinx-closed-paint2_linear_37:2659)" fill-opacity=".4" d="M952 565l20.5-27.5c-1.333-2.667-4.5-9.1-6.5-13.5-2.5-5.5-.5-16 0-25s2.5-13 3.5-17 7-22.5 12.5-31 15-10 28.5-18.5 28-12.5 36-14 58.5-5 70-5 26 6 30 8 46 21 52 25 8.5 10 10 20c1.2 8 2.17 25.333 2.5 33 1.67.5 5.6 1.7 8 2.5 3 1 6 2 7.5 3.5 1.2 1.2 3.17.5 4 0 2-1.333 6.5-4.3 8.5-5.5 2.5-1.5 21.5-1 27-.5s9 8.5 9 10.5v12h2.5c2 0 5 4 8 7s3.5 8 2 11.5-7.5 5-15 7-20 9.5-28 16.5-43.5 44-49 53-6 18.5-6 22-19 31-25 34-9 6.5-13 5.5-20.5-2-25-2-5.5-.5-6.5-1.5-13.5-16-20.5-21-13.5-6-17-6.5-59.5-18-77-23-38-5.5-47-4.5c-7.2.8-15.333 6-18.5 8.5l-43-18 1-7.5 17.5-14c.333-1.5 1.2-5 2-7 1-2.5 12-10.5 19-13.5 5.6-2.4 12.667-3.333 15.5-3.5z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-closed-paint3_linear_37:2659)" stroke-miterlimit="10" stroke-width="4" d="M952 565l20.5-27.5c-1.333-2.667-4.5-9.1-6.5-13.5-2.5-5.5-.5-16 0-25s2.5-13 3.5-17 7-22.5 12.5-31 15-10 28.5-18.5 28-12.5 36-14 58.5-5 70-5 26 6 30 8 46 21 52 25 8.5 10 10 20c1.2 8 2.17 25.333 2.5 33 1.67.5 5.6 1.7 8 2.5 3 1 6 2 7.5 3.5 1.2 1.2 3.17.5 4 0 2-1.333 6.5-4.3 8.5-5.5 2.5-1.5 21.5-1 27-.5s9 8.5 9 10.5v12h2.5c2 0 5 4 8 7s3.5 8 2 11.5-7.5 5-15 7-20 9.5-28 16.5-43.5 44-49 53-6 18.5-6 22-19 31-25 34-9 6.5-13 5.5-20.5-2-25-2-5.5-.5-6.5-1.5-13.5-16-20.5-21-13.5-6-17-6.5-59.5-18-77-23-38-5.5-47-4.5c-7.2.8-15.333 6-18.5 8.5l-43-18 1-7.5 17.5-14c.333-1.5 1.2-5 2-7 1-2.5 12-10.5 19-13.5 5.6-2.4 12.667-3.333 15.5-3.5z" shape-rendering="crispEdges"></path></g></g></g><defs><linearGradient id="jinx-closed-paint0_linear_37:2659" x1="1092.66" x2="1092.66" y1="398.635" y2="749.643" class="paint0_linear_37:2659" gradientUnits="userSpaceOnUse"><stop stop-color="#C2F6F6" stop-opacity=".02"></stop><stop offset="1" stop-color="#C2F6F6"></stop></linearGradient><linearGradient id="jinx-closed-paint1_linear_37:2659" x1="1187.06" x2="1147.09" y1="348.765" y2="685.509" class="paint1_linear_37:2659" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-closed-paint2_linear_37:2659" x1="1218.5" x2="1063.53" y1="358.413" y2="551.564" class="paint2_linear_37:2659" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-closed-paint3_linear_37:2659" x1="1187.06" x2="1147.09" y1="348.765" y2="685.509" class="paint3_linear_37:2659" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><filter id="jinx-closed-filter0_ddd_37:2659" width="435.502" height="309.174" x="874.815" y="391.5" class="filter0_ddd_37:2659" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_37:2659"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_37:2659" result="effect2_dropShadow_37:2659"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_37:2659" result="effect3_dropShadow_37:2659"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_37:2659" result="shape"></feBlend></filter><filter id="jinx-closed-filter1_ddd_37:2659" width="435.502" height="309.174" x="874.815" y="391.5" class="filter1_ddd_37:2659" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_37:2659"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_37:2659" result="effect2_dropShadow_37:2659"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_37:2659" result="effect3_dropShadow_37:2659"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_37:2659" result="shape"></feBlend></filter></defs></svg>'
         },
         "/mxJ": function(e, t, o) {
             "use strict";
@@ -1202,8 +1203,9 @@
                 }), [], !1, null, "ce73a9c6", null);
             t.a = n.exports
         },
-        "0yo4": function(e, t) {
-            throw new Error("Module parse failed: Unexpected character '' (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n(Source code omitted for this binary file)")
+        "0yo4": function(e, t, o) {
+            "use strict";
+            o.r(t), t.default = o.p + "videos/collection-jinx-artifact-2.webm?20b31c1a14c95b7dce2d21a97c87c3df"
         },
         1: function(e, t) {},
         10: function(e, t) {},
@@ -1216,9 +1218,9 @@
             o.r(t),
                 function(e) {
                     o.d(t, "PingMeta", (function() {
-                        return S
-                    })), o.d(t, "inject", (function() {
                         return M
+                    })), o.d(t, "inject", (function() {
+                        return b
                     }));
                     o("SuFq");
                     var r = o("J4zp"),
@@ -1235,8 +1237,8 @@
                         h = o.n(u),
                         v = o("a1gu"),
                         g = o.n(v),
-                        y = o("Nsbk"),
-                        x = o.n(y),
+                        x = o("Nsbk"),
+                        y = o.n(x),
                         m = o("QkVN"),
                         B = o.n(m),
                         C = (o("5s+n"), o("07d7"), o("PKPk"), o("4mDm"), o("3bBZ"), o("ma9I"), o("zKZe"), o("2B1R"), o("E9XD"), o("tkto"), o("UxlC"), o("rB9j"), o("oVuX"), o("TeQF"), o("T63A"), o("EnZy"), o("hy4O")),
@@ -1254,15 +1256,15 @@
                             }
                         }();
                         return function() {
-                            var o, r = x()(e);
+                            var o, r = y()(e);
                             if (t) {
-                                var i = x()(this).constructor;
+                                var i = y()(this).constructor;
                                 o = Reflect.construct(r, arguments, i)
                             } else o = r.apply(this, arguments);
                             return g()(this, o)
                         }
                     }
-                    var b = function(e) {
+                    var S = function(e) {
                             h()(o, e);
                             var t = O(o);
 
@@ -1317,13 +1319,13 @@
                                 key: "meta",
                                 value: function() {
                                     for (var e = arguments.length, t = new Array(e), o = 0; o < e; o++) t[o] = arguments[o];
-                                    return l()(S, t)
+                                    return l()(M, t)
                                 }
                             }, {
                                 key: "stringify",
                                 value: function() {
                                     for (var e = arguments.length, t = new Array(e), o = 0; o < e; o++) t[o] = arguments[o];
-                                    return l()(S, t).stringify()
+                                    return l()(M, t).stringify()
                                 }
                             }, {
                                 key: "send",
@@ -1337,18 +1339,18 @@
                             }, {
                                 key: "trackImpression",
                                 value: function(e) {
-                                    for (var t = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : document.body, o = e instanceof S ? e : new S(e), r = [], i = t.parentElement; i && "HTML" !== i.tagName;) {
+                                    for (var t = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : document.body, o = e instanceof M ? e : new M(e), r = [], i = t.parentElement; i && "HTML" !== i.tagName;) {
                                         var a = i.dataset.pingMeta;
                                         a && r.push(a), i = i.parentElement
                                     }
-                                    var s = l()(S, n()(r.reverse()).concat([o])).stringify();
+                                    var s = l()(M, n()(r.reverse()).concat([o])).stringify();
                                     this._impressionLog[s] || (this._impressionLog[s] = !0, this.send("content_displayed", o.toObject({
                                         prefix: "meta."
                                     }), t))
                                 }
                             }]), o
                         }(C.CustomEvents),
-                        S = function() {
+                        M = function() {
                             function t() {
                                 p()(this, t);
                                 for (var e = arguments.length, o = new Array(e), r = 0; r < e; r++) o[r] = arguments[r];
@@ -1400,7 +1402,7 @@
                                 }
                             }]), t
                         }(),
-                        M = new b
+                        b = new S
                 }.call(this, o("O7iK"))
         },
         "1F39": function(e, t, o) {
@@ -2091,7 +2093,7 @@
                     return p()(this, o)
                 }
             }
-            var y = function(e, t, o, r) {
+            var x = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -2099,7 +2101,7 @@
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
-                x = function(e) {
+                y = function(e) {
                     l()(o, e);
                     var t = g(o);
 
@@ -2128,7 +2130,7 @@
                         }
                     }]), o
                 }(o("tcco").default),
-                m = x = y([v.a], x),
+                m = y = x([v.a], y),
                 B = o("KHd+"),
                 C = Object(B.a)(m, (function() {
                     var e = this,
@@ -2246,9 +2248,9 @@
                     }
                     return o
                 }(u.h),
-                y = g = v([u.a], g),
-                x = o("KHd+"),
-                m = Object(x.a)(y, (function() {
+                x = g = v([u.a], g),
+                y = o("KHd+"),
+                m = Object(y.a)(x, (function() {
                     var e = this,
                         t = e.$createElement,
                         o = e._self._c || t;
@@ -2329,9 +2331,9 @@
                 type: String,
                 default: "left"
             })], g.prototype, "caretPosition", void 0);
-            var y = g = v([u.a], g),
-                x = o("KHd+"),
-                m = Object(x.a)(y, (function() {
+            var x = g = v([u.a], g),
+                y = o("KHd+"),
+                m = Object(y.a)(x, (function() {
                     var e = this,
                         t = e.$createElement,
                         o = e._self._c || t;
@@ -3003,7 +3005,7 @@
         },
         3: function(e, t) {},
         "3Goo": function(e, t) {
-            throw new Error('Module parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n> <svg\n| \txmlns="http://www.w3.org/2000/svg"\n| \twidth="2112"')
+            e.exports = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 2112 1442"><g class="jinx-record-1-page-4"><g class="section-4"><path fill="#fff" d="M1243.7 1054.39l267.93 89.63 97.23-25.98 35.46-83.15-98.15-94.77L1370 852l-23-23-31.21-7.97-113.63-19.54L1056 849.13l-98.279 136.23 66.059 47.04 219.92 21.99z" class="section-4-clickable"></path><path fill="url(#jinx-record-1-page-4-paint0_linear_39:2736)" fill-opacity=".4" stroke="url(#jinx-record-1-page-4-paint1_linear_39:2736)" stroke-miterlimit="10" stroke-width="4" d="M1511.63 1144.02l-267.93-89.63-219.92-21.99-66.06-47.04L1056 849.13l146.16-47.64 113.63 19.54 84.3 67.2 2.24 23.12 143.84 28.77 98.15 94.77-35.46 83.15-97.23 25.98z" class="section-4-neutral"></path><g class="section-4-hover" filter="url(#jinx-record-1-page-4-filter0_ddd_39:2736)"><path fill="url(#jinx-record-1-page-4-paint2_linear_39:2736)" fill-opacity=".4" d="M1511.63 1144.02l-267.93-89.63-219.92-21.99-66.06-47.04L1056 849.13l146.16-47.64 113.63 19.54 84.3 67.2 2.24 23.12 143.84 28.77 98.15 94.77-35.46 83.15-97.23 25.98z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-4-paint3_linear_39:2736)" stroke-miterlimit="10" stroke-width="4" d="M1511.63 1144.02l-267.93-89.63-219.92-21.99-66.06-47.04L1056 849.13l146.16-47.64 113.63 19.54 84.3 67.2 2.24 23.12 143.84 28.77 98.15 94.77-35.46 83.15-97.23 25.98z" shape-rendering="crispEdges"></path></g></g><g class="section-3"><path fill="#fff" d="M1706.45 903.579l61.5-115.98-63.95-53.6-23-23-25.6-34.31-98.32-13.24-143.7 30.95-51.05 83.2 71.85 80.6 130.46 32.15 141.81 13.23z" class="section-3-clickable"></path><path fill="url(#jinx-record-1-page-4-paint4_linear_39:2736)" fill-opacity=".4" stroke="url(#jinx-record-1-page-4-paint5_linear_39:2736)" stroke-miterlimit="10" stroke-width="4" d="M1706.45 903.579l-83.2-26.47-58.61 13.24-130.46-32.15-37.82-73.74-34.03-6.86 51.05-83.2 79.41 8.76 64.29-39.71 98.32 13.24 20.79 54.83 91.76 56.08-61.5 115.98z" class="section-3-neutral"></path><g class="section-3-hover" filter="url(#jinx-record-1-page-4-filter1_ddd_39:2736)"><path fill="url(#jinx-record-1-page-4-paint6_linear_39:2736)" fill-opacity=".4" d="M1706.45 903.579l-83.2-26.47-58.61 13.24-130.46-32.15-37.82-73.74-34.03-6.86 51.05-83.2 79.41 8.76 64.29-39.71 98.32 13.24 20.79 54.83 91.76 56.08-61.5 115.98z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-4-paint7_linear_39:2736)" stroke-miterlimit="10" stroke-width="4" d="M1706.45 903.579l-83.2-26.47-58.61 13.24-130.46-32.15-37.82-73.74-34.03-6.86 51.05-83.2 79.41 8.76 64.29-39.71 98.32 13.24 20.79 54.83 91.76 56.08-61.5 115.98z" shape-rendering="crispEdges"></path></g></g><g class="section-2"><path fill="#fff" d="M1269.63 804.341l-79.45-13.07-96.17 19.34 79.36-148.55 34.63-33.06 23-23 49.51-14.53 85.71 8.83 46.64 57.98-81.93 127.31-61.3 18.75z" class="section-2-clickable"></path><path fill="url(#jinx-record-1-page-4-paint8_linear_39:2736)" fill-opacity=".4" stroke="url(#jinx-record-1-page-4-paint9_linear_39:2736)" stroke-miterlimit="10" stroke-width="4" d="M1190.18 791.271l79.45 13.07 17.18-27.58 44.12 8.83 81.93-127.31-46.64-57.98-85.71-8.83-107.14 70.59 2.52 28.99-81.88 119.56 96.17-19.34z" class="section-2-neutral"></path><g class="section-2-hover" filter="url(#jinx-record-1-page-4-filter2_ddd_39:2736)"><path fill="url(#jinx-record-1-page-4-paint10_linear_39:2736)" fill-opacity=".4" d="M1190.18 791.271l79.45 13.07 17.18-27.58 44.12 8.83 81.93-127.31-46.64-57.98-85.71-8.83-107.14 70.59 2.52 28.99-81.88 119.56 96.17-19.34z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-4-paint11_linear_39:2736)" stroke-miterlimit="10" stroke-width="4" d="M1190.18 791.271l79.45 13.07 17.18-27.58 44.12 8.83 81.93-127.31-46.64-57.98-85.71-8.83-107.14 70.59 2.52 28.99-81.88 119.56 96.17-19.34z" shape-rendering="crispEdges"></path></g></g><g class="section-1"><path fill="#fff" d="M1440 440l-138.37 58.86-69.38 96.85 57.06-22.82 161.4 40.76 345.64 68.47 76.62-149.99-60.32-22.83-37.5-11.41-195.64-42.39L1440 440z" class="section-1-clickable"></path><path fill="url(#jinx-record-1-page-4-paint12_linear_39:2736)" fill-opacity=".4" stroke="url(#jinx-record-1-page-4-paint13_linear_39:2736)" stroke-miterlimit="10" stroke-width="4" d="M1232.25 595.711l57.06-22.82 114.12 11.41 47.28 29.35 241.29 22.82 104.35 45.65 76.62-149.99-60.32-22.83-23.18 10.24-14.32-21.65-195.64-42.39-71.73 9.78-65.22-11.41-140.93 44.99-69.38 96.85z" class="section-1-neutral"></path><g class="section-1-hover" filter="url(#jinx-record-1-page-4-filter3_ddd_39:2736)"><path fill="url(#jinx-record-1-page-4-paint14_linear_39:2736)" fill-opacity=".4" d="M1232.25 595.711l57.06-22.82 114.12 11.41 47.28 29.35 241.29 22.82 104.35 45.65 76.62-149.99-60.32-22.83-23.18 10.24-14.32-21.65-195.64-42.39-71.73 9.78-65.22-11.41-140.93 44.99-69.38 96.85z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-4-paint15_linear_39:2736)" stroke-miterlimit="10" stroke-width="4" d="M1232.25 595.711l57.06-22.82 114.12 11.41 47.28 29.35 241.29 22.82 104.35 45.65 76.62-149.99-60.32-22.83-23.18 10.24-14.32-21.65-195.64-42.39-71.73 9.78-65.22-11.41-140.93 44.99-69.38 96.85z" shape-rendering="crispEdges"></path></g></g></g><defs><linearGradient id="jinx-record-1-page-4-paint0_linear_39:2736" x1="1301.02" x2="1220.96" y1="801.49" y2="1164.16" class="paint0_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-4-paint1_linear_39:2736" x1="1466.65" x2="1428.4" y1="717.871" y2="1155.63" class="paint1_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-4-paint2_linear_39:2736" x1="1301.02" x2="1220.96" y1="801.49" y2="1164.16" class="paint2_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-4-paint3_linear_39:2736" x1="1466.65" x2="1428.4" y1="717.871" y2="1155.63" class="paint3_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-4-paint4_linear_39:2736" x1="1565.14" x2="1499.78" y1="663.449" y2="912.964" class="paint4_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-4-paint5_linear_39:2736" x1="1662.99" x2="1631.27" y1="604.828" y2="910.774" class="paint5_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-4-paint6_linear_39:2736" x1="1565.14" x2="1499.78" y1="663.449" y2="912.964" class="paint6_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-4-paint7_linear_39:2736" x1="1662.99" x2="1631.27" y1="604.828" y2="910.774" class="paint7_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-4-paint8_linear_39:2736" x1="1253.43" x2="1185.7" y1="591.471" y2="814.201" class="paint8_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-4-paint9_linear_39:2736" x1="1330.35" x2="1296.87" y1="537.974" y2="816.148" class="paint9_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-4-paint10_linear_39:2736" x1="1253.43" x2="1185.7" y1="591.471" y2="814.201" class="paint10_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-4-paint11_linear_39:2736" x1="1330.35" x2="1296.87" y1="537.974" y2="816.148" class="paint11_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-4-paint12_linear_39:2736" x1="1552.61" x2="1513.63" y1="453.871" y2="701.173" class="paint12_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-4-paint13_linear_39:2736" x1="1707.17" x2="1688.9" y1="398.15" y2="690.946" class="paint13_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-4-paint14_linear_39:2736" x1="1552.61" x2="1513.63" y1="453.871" y2="701.173" class="paint14_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-4-paint15_linear_39:2736" x1="1707.17" x2="1688.9" y1="398.15" y2="690.946" class="paint15_linear_39:2736" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><filter id="jinx-record-1-page-4-filter0_ddd_39:2736" width="731.779" height="386.672" x="934.92" y="779.436" class="filter0_ddd_39:2736" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2736"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2736" result="effect2_dropShadow_39:2736"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2736" result="effect3_dropShadow_39:2736"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2736" result="shape"></feBlend></filter><filter id="jinx-record-1-page-4-filter1_ddd_39:2736" width="451.47" height="284.621" x="1339.13" y="641.371" class="filter1_ddd_39:2736" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2736"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2736" result="effect2_dropShadow_39:2736"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2736" result="effect3_dropShadow_39:2736"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2736" result="shape"></feBlend></filter><filter id="jinx-record-1-page-4-filter2_ddd_39:2736" width="365.744" height="264.133" x="1069.58" y="569.408" class="filter2_ddd_39:2736" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2736"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2736" result="effect2_dropShadow_39:2736"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2736" result="effect3_dropShadow_39:2736"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2736" result="shape"></feBlend></filter><filter id="jinx-record-1-page-4-filter3_ddd_39:2736" width="689.128" height="272.893" x="1206.64" y="431.816" class="filter3_ddd_39:2736" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2736"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2736" result="effect2_dropShadow_39:2736"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2736" result="effect3_dropShadow_39:2736"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2736" result="shape"></feBlend></filter></defs></svg>'
         },
         "3Q1b": function(e, t, o) {
             "use strict";
@@ -3179,8 +3181,8 @@
                     h = o.n(u),
                     v = o("cDf5"),
                     g = o.n(v),
-                    y = (o("5DmW"), o("zQFT")),
-                    x = o("Kw5r"),
+                    x = (o("5DmW"), o("zQFT")),
+                    y = o("Kw5r"),
                     m = o("L+H0");
 
                 function B(e) {
@@ -3234,7 +3236,7 @@
                                 var o = this,
                                     r = t[e].unhoverTimeout,
                                     i = void 0 === r ? 50 : r;
-                                !1 === i ? this.hoverHash[e] = !1 : this.hoverCancelHash[e] = Object(y.a)((function() {
+                                !1 === i ? this.hoverHash[e] = !1 : this.hoverCancelHash[e] = Object(x.a)((function() {
                                     o.hoverHash[e] = !1, o.hoverCancelHash[e] = void 0
                                 }), i)
                             }
@@ -3269,7 +3271,7 @@
                                 }))
                             }
                         }]), s
-                    }(x.a);
+                    }(y.a);
                     return o = C([m.b], o)
                 }
             }).call(this, o("noZS"), o("bNQv"), o("DzJC"))
@@ -3314,8 +3316,9 @@
         "5P0L": function(e, t) {
             e.exports = '<svg viewBox="0 0 13 14" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M9.29289 2.64655H2.70711V0.646545H11.7071H12.7071V1.64655V10.6465H10.7071V4.06076L1.41421 13.3537L0 11.9394L9.29289 2.64655Z" fill="#C8AA6E" class="fill-current"></path></svg>'
         },
-        "5eGR": function(e, t) {
-            throw new Error("Module parse failed: Unexpected character '' (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n(Source code omitted for this binary file)")
+        "5eGR": function(e, t, o) {
+            "use strict";
+            o.r(t), t.default = o.p + "videos/collection-jinx-artifact-3.webm?719d5863fd5f232f2d40131a8416224f"
         },
         "5ljW": function(e, t, o) {
             "use strict";
@@ -3380,8 +3383,9 @@
                     var d = c
                 }.call(this, o("8oxB"))
         },
-        "6JZj": function(e, t) {
-            throw new Error("Module parse failed: Unexpected character '' (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n(Source code omitted for this binary file)")
+        "6JZj": function(e, t, o) {
+            "use strict";
+            o.r(t), t.default = o.p + "videos/collection-jinx-opened.webm?6973f3ae3932e650ed2e3b109901b5a8"
         },
         "6Ull": function(e, t) {
             e.exports = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 154 154"><g filter="url(#filter0_d)"><path fill="url(#paint0_radial)" d="M76.563 33.414h61.021v61.021H76.563z" transform="rotate(45 76.563 33.414)"></path><path stroke="url(#paint1_radial)" stroke-width="2" d="M76.563 33.414h61.021v61.021H76.563z" transform="rotate(45 76.563 33.414)"></path><path stroke="url(#paint2_linear)" stroke-width="2" d="M76.563 33.414h61.021v61.021H76.563z" transform="rotate(45 76.563 33.414)"></path><g><path fill="url(#paint3_linear)" d="M76.254 90.137c-4.88-.18-8.954-1.893-12.589-4.713-2.742-2.13-4.866-4.75-6.277-7.922a1.992 1.992 0 01.026-1.793c1.288-2.701 3.17-4.945 5.425-6.89 3.12-2.69 6.613-4.68 10.708-5.528 3.298-.682 6.456-.11 9.499 1.141 5.355 2.206 9.415 5.798 11.89 11.057.334.715.31 1.343-.034 2.04-1.753 3.553-4.434 6.294-7.651 8.552-2.674 1.875-5.571 3.259-8.83 3.811-.782.135-1.578.177-2.167.245zm.1-2.206c.496-.057 1.278-.092 2.036-.244 3.208-.638 5.985-2.183 8.547-4.139 2.319-1.777 4.328-3.837 5.718-6.432.23-.428.254-.781.027-1.229-2.402-4.724-6.254-7.82-11.171-9.688-2.369-.899-4.824-1.287-7.353-.808-3.278.62-6.107 2.182-8.71 4.174-2.352 1.8-4.388 3.883-5.77 6.53-.2.384-.189.699 0 1.082 1.353 2.811 3.374 5.068 5.89 6.893 3.124 2.275 6.563 3.74 10.785 3.861z"></path><path fill="url(#paint4_linear)" d="M76.254 90.137c-4.88-.18-8.954-1.893-12.589-4.713-2.742-2.13-4.866-4.75-6.277-7.922a1.992 1.992 0 01.026-1.793c1.288-2.701 3.17-4.945 5.425-6.89 3.12-2.69 6.613-4.68 10.708-5.528 3.298-.682 6.456-.11 9.499 1.141 5.355 2.206 9.415 5.798 11.89 11.057.334.715.31 1.343-.034 2.04-1.753 3.553-4.434 6.294-7.651 8.552-2.674 1.875-5.571 3.259-8.83 3.811-.782.135-1.578.177-2.167.245zm.1-2.206c.496-.057 1.278-.092 2.036-.244 3.208-.638 5.985-2.183 8.547-4.139 2.319-1.777 4.328-3.837 5.718-6.432.23-.428.254-.781.027-1.229-2.402-4.724-6.254-7.82-11.171-9.688-2.369-.899-4.824-1.287-7.353-.808-3.278.62-6.107 2.182-8.71 4.174-2.352 1.8-4.388 3.883-5.77 6.53-.2.384-.189.699 0 1.082 1.353 2.811 3.374 5.068 5.89 6.893 3.124 2.275 6.563 3.74 10.785 3.861z"></path><g><path fill="url(#paint5_linear)" d="M84.981 76.621c0 4.895-3.974 8.84-8.884 8.825-4.86-.011-8.81-3.987-8.802-8.858.009-4.871 3.974-8.83 8.836-8.835 4.882-.009 8.854 3.973 8.85 8.868zm-2.228-.029c0-3.663-2.99-6.655-6.642-6.642-3.652.014-6.603 3.016-6.593 6.696.009 3.635 2.987 6.603 6.623 6.6 3.666.002 6.621-2.975 6.617-6.654h-.005z"></path><path fill="url(#paint6_linear)" d="M84.981 76.621c0 4.895-3.974 8.84-8.884 8.825-4.86-.011-8.81-3.987-8.802-8.858.009-4.871 3.974-8.83 8.836-8.835 4.882-.009 8.854 3.973 8.85 8.868zm-2.228-.029c0-3.663-2.99-6.655-6.642-6.642-3.652.014-6.603 3.016-6.593 6.696.009 3.635 2.987 6.603 6.623 6.6 3.666.002 6.621-2.975 6.617-6.654h-.005z"></path></g></g></g><defs><linearGradient id="paint2_linear" x1="123.275" x2="109.485" y1="16.615" y2="95.357" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"></stop><stop offset=".427" stop-color="#BFFFFD"></stop><stop offset="1" stop-color="#4BBDE1"></stop></linearGradient><linearGradient id="paint3_linear" x1="76.181" x2="76.181" y1="63" y2="90.137" gradientUnits="userSpaceOnUse"><stop stop-color="#D39D75"></stop><stop offset="1" stop-color="#ECD0BB"></stop></linearGradient><linearGradient id="paint4_linear" x1="85.344" x2="81.039" y1="56.375" y2="90.783" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"></stop><stop offset=".427" stop-color="#BFFFFD"></stop><stop offset="1" stop-color="#4BBDE1"></stop></linearGradient><linearGradient id="paint5_linear" x1="76.138" x2="76.138" y1="67.753" y2="85.446" gradientUnits="userSpaceOnUse"><stop stop-color="#D39D75"></stop><stop offset="1" stop-color="#ECD0BB"></stop></linearGradient><linearGradient id="paint6_linear" x1="80.405" x2="76.532" y1="63.434" y2="85.54" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"></stop><stop offset=".427" stop-color="#BFFFFD"></stop><stop offset="1" stop-color="#4BBDE1"></stop></linearGradient><radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientTransform="rotate(-135 89.5 18.357) scale(82)" gradientUnits="userSpaceOnUse"><stop stop-color="#136B7E"></stop><stop offset=".99" stop-color="#0C120F"></stop></radialGradient><radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientTransform="rotate(73.29 14.034 88.07) scale(47.7302)" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF3D2"></stop><stop offset="1" stop-color="#E5B465"></stop></radialGradient><filter id="filter0_d" width="153.125" height="153.125" x="0" y="0" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="16"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.729412 0 0 0 0 0.933333 0 0 0 0 0.913725 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow"></feBlend><feBlend in="SourceGraphic" in2="effect1_dropShadow" result="shape"></feBlend></filter></defs></svg>'
@@ -3683,7 +3687,7 @@
             o.r(t),
                 function(e) {
                     o.d(t, "inject", (function() {
-                        return S
+                        return M
                     }));
                     o("SuFq");
                     var r = o("lwsE"),
@@ -3700,8 +3704,8 @@
                         h = o.n(u),
                         v = (o("5DmW"), o("zKZe"), o("YKMj")),
                         g = o("hy4O"),
-                        y = o("Vw58"),
-                        x = o("kkwO"),
+                        x = o("Vw58"),
+                        y = o("kkwO"),
                         m = o("G4+A"),
                         B = o("ryxu");
 
@@ -3751,7 +3755,7 @@
                                         o = this.introOptions,
                                         r = this.ambientOptions,
                                         i = this.stopOptions;
-                                    if (y.inject.ready) return e || t ? {
+                                    if (x.inject.ready) return e || t ? {
                                         ambientAsset: e,
                                         introAsset: t,
                                         introOptions: o,
@@ -3768,7 +3772,7 @@
                                         return JSON.stringify(t.urls)
                                     }), (function() {
                                         var o = t.urls;
-                                        "stopOptions" in o ? B.inject.stopAmbientChannel(e, o.stopOptions) : Object(x.inject)(e, o)
+                                        "stopOptions" in o ? B.inject.stopAmbientChannel(e, o.stopOptions) : Object(y.inject)(e, o)
                                     }))
                                 }
                             }, {
@@ -3809,20 +3813,20 @@
                         }(v.h);
                         return (new(t = w([v.a], t))).$mount()
                     }
-                    var b = {
+                    var S = {
                             primary: O("primary"),
                             secondary: O("secondary")
                         },
-                        S = {
+                        M = {
                             set: function(e) {
                                 var t = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : {
                                     ambientAsset: void 0,
                                     introAsset: void 0
                                 };
-                                Object.assign(b[e], t)
+                                Object.assign(S[e], t)
                             },
                             clear: function() {
-                                e(b, (function(e) {
+                                e(S, (function(e) {
                                     return e.clear()
                                 }))
                             }
@@ -3919,7 +3923,7 @@
                     })), o.d(t, "mutations", (function() {
                         return g
                     })), o.d(t, "actions", (function() {
-                        return y
+                        return x
                     }));
                     var r = o("0YDr"),
                         i = o.n(r),
@@ -4009,8 +4013,8 @@
                                 n.items.unshift(p);
                                 var h = n.options,
                                     g = h.maxItems,
-                                    y = h.maxFresh;
-                                return f(n) > y && u(n.items[y]), g && (n.items.length = Math.min(n.items.length, g)), p
+                                    x = h.maxFresh;
+                                return f(n) > x && u(n.items[x]), g && (n.items.length = Math.min(n.items.length, g)), p
                             },
                             DE_FRESH: function(e, t) {
                                 u(t.item)
@@ -4022,7 +4026,7 @@
                                     a = i.indexOf(r); - 1 !== a && i.splice(a, 1)
                             }
                         },
-                        y = {
+                        x = {
                             LOG: function(e, t) {
                                 var o = e.state,
                                     r = e.commit,
@@ -4101,7 +4105,7 @@
                     return p()(this, o)
                 }
             }
-            var y = function(e, t, o, r) {
+            var x = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -4109,7 +4113,7 @@
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
-                x = function(e) {
+                y = function(e) {
                     l()(o, e);
                     var t = g(o);
 
@@ -4128,7 +4132,7 @@
                         }
                     }]), o
                 }(v.h),
-                m = x = y([v.a], x),
+                m = y = x([v.a], y),
                 B = o("KHd+"),
                 C = Object(B.a)(m, (function() {
                     var e = this,
@@ -4195,8 +4199,9 @@
                     var r = ("window" in e ? null === window || void 0 === window ? void 0 : window.hubConfig : void 0) || {}
                 }.call(this, o("yLpj"))
         },
-        C11s: function(e, t) {
-            throw new Error("Module parse failed: Unexpected character '' (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n(Source code omitted for this binary file)")
+        C11s: function(e, t, o) {
+            "use strict";
+            o.r(t), t.default = o.p + "videos/collection-jinx-artifact-1.webm?a1df68d44989c29eeea68a45bbbaed24"
         },
         C2x7: function(e, t, o) {
             "use strict";
@@ -4210,7 +4215,7 @@
             "use strict";
             (function(e, r) {
                 o.d(t, "b", (function() {
-                    return H
+                    return R
                 }));
                 o("SuFq");
                 var i = o("RIqP"),
@@ -4226,16 +4231,16 @@
                     h = o("a1gu"),
                     v = o.n(h),
                     g = o("Nsbk"),
-                    y = o.n(g),
-                    x = o("cDf5"),
-                    m = o.n(x),
+                    x = o.n(g),
+                    y = o("cDf5"),
+                    m = o.n(y),
                     B = (o("5DmW"), o("TeQF"), o("2B1R"), o("ma9I"), o("EnZy"), o("rB9j"), o("UxlC"), o("oVuX"), o("B6y2"), o("tkto"), o("8AyJ"), o("qePV"), o("zKZe"), o("fbCW"), o("TWNs"), o("JfAA"), o("FZtP"), o("07d7"), o("E9XD"), o("Rm1S"), o("YKMj")),
                     C = o("YK/G"),
                     w = o.n(C),
                     O = o("+QRC"),
-                    b = o.n(O),
-                    S = o("EAil"),
-                    M = o("TxBs"),
+                    S = o.n(O),
+                    M = o("EAil"),
+                    b = o("TxBs"),
                     G = o("DoW7"),
                     E = o("K12A"),
                     k = o("0imi"),
@@ -4256,9 +4261,9 @@
                         }
                     }();
                     return function() {
-                        var o, r = y()(e);
+                        var o, r = x()(e);
                         if (t) {
-                            var i = y()(this).constructor;
+                            var i = x()(this).constructor;
                             o = Reflect.construct(r, arguments, i)
                         } else o = r.apply(this, arguments);
                         return v()(this, o)
@@ -4272,16 +4277,16 @@
                             for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                         return a > 3 && n && Object.defineProperty(t, o, n), n
                     },
-                    R = Object(j.a)("qa-mode");
+                    A = Object(j.a)("qa-mode");
                 document.body.addEventListener("click", (function(e) {
                     e.target.closest("[data-qa-mode-event-blocker]") && (e.stopImmediatePropagation(), e.target.dispatchEvent(new Event("qa-click", {
                         bubbles: !0
                     })))
                 }), !0);
-                var H = B.h.observable({
+                var R = B.h.observable({
                         enabled: !1
                     }),
-                    A = function(t) {
+                    H = function(t) {
                         u()(i, t);
                         var o = F(i);
 
@@ -4296,7 +4301,7 @@
                                 ping: "Ping Meta Data",
                                 youtubeId: "YouTube IDs",
                                 storeItem: "Store IDs"
-                            }, t.now = (new Date).valueOf(), t.selectedLocale = window.riotPromoInterface.locale || null, t.canSwitchLocales = location.href.indexOf(t.selectedLocale) >= 0, t.noMatchedGroup = !1, t.viewCurrentPhase = !1, t.nowOverride = (null === M.a || void 0 === M.a ? void 0 : M.a.valueOf()) || null, t.overrideByLabel = e(E.phases.map((function(e) {
+                            }, t.now = (new Date).valueOf(), t.selectedLocale = window.riotPromoInterface.locale || null, t.canSwitchLocales = location.href.indexOf(t.selectedLocale) >= 0, t.noMatchedGroup = !1, t.viewCurrentPhase = !1, t.nowOverride = (null === b.a || void 0 === b.a ? void 0 : b.a.valueOf()) || null, t.overrideByLabel = e(E.phases.map((function(e) {
                                 var t = e.enabled,
                                     o = e.label,
                                     r = void 0 === o ? "[unlabeled]" : o,
@@ -4314,10 +4319,10 @@
                         return f()(i, [{
                             key: "enabled",
                             get: function() {
-                                return H.enabled
+                                return R.enabled
                             },
                             set: function(e) {
-                                H.enabled = e
+                                R.enabled = e
                             }
                         }, {
                             key: "mounted",
@@ -4350,12 +4355,12 @@
                         }, {
                             key: "copy",
                             value: function(e) {
-                                b()(e)
+                                S()(e)
                             }
                         }, {
                             key: "copyAll",
                             value: function(e) {
-                                b()("PUUID: ".concat(this.$homeData.puuid, " - ").concat(e, " items (").concat(this.logByType[e].items.length, " total)\n\n") + this.logByType[e].items.map((function(e) {
+                                S()("PUUID: ".concat(this.$homeData.puuid, " - ").concat(e, " items (").concat(this.logByType[e].items.length, " total)\n\n") + this.logByType[e].items.map((function(e) {
                                     return "".concat(e.time, "\n").concat(e.data, "\n")
                                 })).join("\n"))
                             }
@@ -4370,7 +4375,7 @@
                         }, {
                             key: "supportedLocales",
                             get: function() {
-                                return this.canSwitchLocales ? Object.values(S.b).sort((function(e, t) {
+                                return this.canSwitchLocales ? Object.values(M.a).sort((function(e, t) {
                                     return e.locale.localeCompare(t.locale)
                                 })) : []
                             }
@@ -4544,7 +4549,7 @@
                             }
                         }]), i
                     }(B.h);
-                U([R.Getter("freshCount")], A.prototype, "freshCount", void 0), U([R.Getter("freshCountByType")], A.prototype, "freshCountByType", void 0), U([R.State("logByType")], A.prototype, "logByType", void 0), U([R.Mutation("CLEAR")], A.prototype, "CLEAR", void 0), U([Object(B.i)("selectedLocale")], A.prototype, "selectedLocaleChanged", null), U([Object(B.i)("nowOverride")], A.prototype, "nowOverrideChanged", null), U([R.Action("LOG")], A.prototype, "LOG", void 0), A = U([B.a], A), t.a = A
+                U([A.Getter("freshCount")], H.prototype, "freshCount", void 0), U([A.Getter("freshCountByType")], H.prototype, "freshCountByType", void 0), U([A.State("logByType")], H.prototype, "logByType", void 0), U([A.Mutation("CLEAR")], H.prototype, "CLEAR", void 0), U([Object(B.i)("selectedLocale")], H.prototype, "selectedLocaleChanged", null), U([Object(B.i)("nowOverride")], H.prototype, "nowOverrideChanged", null), U([A.Action("LOG")], H.prototype, "LOG", void 0), H = U([B.a], H), t.a = H
             }).call(this, o("O7iK"), o("C0l4"))
         },
         CPcy: function(e, t, o) {
@@ -4569,8 +4574,8 @@
                 h = o.n(u),
                 v = (o("5DmW"), o("YKMj")),
                 g = o("z/o8"),
-                y = o("RlWF"),
-                x = o("52dk");
+                x = o("RlWF"),
+                y = o("52dk");
 
             function m(e) {
                 var t = function() {
@@ -4600,7 +4605,7 @@
                     for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                 return a > 3 && n && Object.defineProperty(t, o, n), n
             };
-            g.b.registerPlugin(y.a), y.a.create("introHover", ".2,0,.2,1"), y.a.create("introPan", ".8,0,.2,1");
+            g.b.registerPlugin(x.a), x.a.create("introHover", ".2,0,.2,1"), x.a.create("introPan", ".8,0,.2,1");
             var C = function(e) {
                 l()(o, e);
                 var t = m(o);
@@ -4622,7 +4627,7 @@
                         this.active = !0, this.$playAudioAsset("trans-hexgate-click"), this.$router.push(this.$phase.current.defaultRoute)
                     }
                 }]), o
-            }(Object(v.d)(Object(x.a)({
+            }(Object(v.d)(Object(y.a)({
                 cta: {
                     hoverAsset: "ui-hexgate-hover"
                 }
@@ -4690,7 +4695,7 @@
             B([Object(v.g)()], C.prototype, "bgSolid", void 0), B([Object(v.g)()], C.prototype, "bgHexgate", void 0), B([Object(v.g)()], C.prototype, "bgPiltover", void 0), B([Object(v.g)()], C.prototype, "ctaContainer", void 0);
             var w = C = B([v.a], C),
                 O = o("KHd+"),
-                b = Object(O.a)(w, (function() {
+                S = Object(O.a)(w, (function() {
                     var e = this,
                         t = e.$createElement,
                         o = e._self._c || t;
@@ -4763,7 +4768,7 @@
                         }
                     }) : e._e()], 1)
                 }), [], !1, null, "335608ac", null);
-            t.default = b.exports
+            t.default = S.exports
         },
         CXaQ: function(e, t, o) {
             "use strict";
@@ -5002,8 +5007,9 @@
                 t("cachedPreload", a), t("cachedEagerLoad", n)
             }
         },
-        DmSP: function(e, t) {
-            throw new Error("Module parse failed: Unexpected character 'ï¿½' (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n(Source code omitted for this binary file)")
+        DmSP: function(e, t, o) {
+            "use strict";
+            o.r(t), t.default = o.p + "images/collection-jinx-record-1-view-2.jpg?9980961c545b8af5487fa5ed05c0efe0"
         },
         DoW7: function(e, t, o) {
             "use strict";
@@ -5285,8 +5291,7 @@
                         league: "pcs"
                     }
                 },
-                p = n(n(n({}, s), l), c);
-            t.b = s
+                p = n(n(n({}, s), l), c)
         },
         ELuV: function(e, t, o) {
             "use strict";
@@ -5376,7 +5381,7 @@
                     return p()(this, o)
                 }
             }
-            var y = function(e, t, o, r) {
+            var x = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -5384,7 +5389,7 @@
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
-                x = function(e) {
+                y = function(e) {
                     l()(o, e);
                     var t = g(o);
 
@@ -5432,8 +5437,8 @@
                         "video-api": o("ihAp").default
                     }
                 }));
-            y([Object(v.e)()], x.prototype, "src", void 0), y([Object(v.g)()], x.prototype, "video", void 0);
-            var m = x = y([v.a], x),
+            x([Object(v.e)()], y.prototype, "src", void 0), x([Object(v.g)()], y.prototype, "video", void 0);
+            var m = y = x([v.a], y),
                 B = o("KHd+"),
                 C = Object(B.a)(m, (function() {
                     var e = this,
@@ -5546,8 +5551,8 @@
                 h = o.n(u),
                 v = (o("TeQF"), o("5s+n"), o("07d7"), o("PKPk"), o("4mDm"), o("3bBZ"), o("jE9Z")),
                 g = o("hy4O"),
-                y = o("K12A"),
-                x = o("rbtD"),
+                x = o("K12A"),
+                y = o("rbtD"),
                 m = o("AnY5"),
                 B = o("G4+A"),
                 C = o("q2iy");
@@ -5555,9 +5560,9 @@
             var w = !0;
 
             function O() {
-                return y.inject.current.defaultRoute
+                return x.inject.current.defaultRoute
             }
-            var b, S = new v.a({
+            var S, M = new v.a({
                 routes: Object(g.filterBoolean)([{
                     path: "/",
                     component: o("Nuz8").default,
@@ -5572,7 +5577,7 @@
                             name: "archive",
                             path: "",
                             component: o("s+MS").default,
-                            beforeEnter: (b = p()(h.a.mark((function e() {
+                            beforeEnter: (S = p()(h.a.mark((function e() {
                                 var t, o, r, i, a, n = arguments;
                                 return h.a.wrap((function(e) {
                                     for (;;) switch (e.prev = e.next) {
@@ -5584,7 +5589,7 @@
                                             }
                                             return a = m.inject.wait("Player Settings"), e.next = 6, Promise.all([B.inject.promise("playerSettingsChanged").then(a)]);
                                         case 6:
-                                            x.inject.watchedIntro ? i() : i("/intro"), e.next = 10;
+                                            y.inject.watchedIntro ? i() : i("/intro"), e.next = 10;
                                             break;
                                         case 9:
                                             i();
@@ -5594,7 +5599,7 @@
                                     }
                                 }), e)
                             }))), function() {
-                                return b.apply(this, arguments)
+                                return S.apply(this, arguments)
                             })
                         }, {
                             name: "collection",
@@ -5620,12 +5625,12 @@
                     redirect: O
                 }])
             });
-            S.beforeEach((function(e, t, o) {
-                Boolean(y.inject.current["".concat(d()(e.path), "Locked")]) ? o(O()) : o()
-            })), S.onReady((function() {
+            M.beforeEach((function(e, t, o) {
+                Boolean(x.inject.current["".concat(d()(e.path), "Locked")]) ? o(O()) : o()
+            })), M.onReady((function() {
                 w = !1
             }));
-            var M = S,
+            var b = M,
                 G = (o("tkto"), o("pNMO"), o("5DmW"), o("FZtP"), o("27RR"), o("lSNA")),
                 E = o.n(G),
                 k = o("L2JU");
@@ -5665,9 +5670,9 @@
                 z = o("RyrE"),
                 F = o("JAbF"),
                 U = o("2270"),
-                R = o("Yrze"),
-                H = o("Z2MI"),
-                A = (o("v32O"), o("769+"), o("6pFg"), o("ioAZ")),
+                A = o("Yrze"),
+                R = o("Z2MI"),
+                H = (o("v32O"), o("769+"), o("6pFg"), o("ioAZ")),
                 T = o("4ywI"),
                 L = (o("nisf"), o("cU3T")),
                 I = o("0imi"),
@@ -5677,7 +5682,7 @@
                 e.setAttribute("srcset", "".concat(o.$image(t), " 2x"))
             }));
             var Z = new a.a({
-                    router: M,
+                    router: b,
                     store: D,
                     render: function(e) {
                         return e(l)
@@ -5710,7 +5715,7 @@
                 "retina-src.directive": o("RyrE"),
                 "eager-loader.plugin": o("V77n"),
                 "viewport-size.plugin": o("6AcZ")
-            })(F)(U)(R)(H)(A)(T), Object(V.setLocale)(i()(N.a).split("-").map((function(e, t) {
+            })(F)(U)(A)(R)(H)(T), Object(V.setLocale)(i()(N.a).split("-").map((function(e, t) {
                 return t ? e.toUpperCase() : e
             })).join("-")), Z.$mount("#app")
         },
@@ -5768,9 +5773,9 @@
                     return o
                 }(u.h);
             v([Object(u.e)(Boolean)], g.prototype, "hovered", void 0), v([Object(u.e)(Boolean)], g.prototype, "locked", void 0);
-            var y = g = v([u.a], g),
-                x = o("KHd+"),
-                m = Object(x.a)(y, (function() {
+            var x = g = v([u.a], g),
+                y = o("KHd+"),
+                m = Object(y.a)(x, (function() {
                     var e = this,
                         t = e.$createElement,
                         o = e._self._c || t;
@@ -5856,7 +5861,7 @@
                     return p()(this, o)
                 }
             }
-            var y = function(e, t, o, r) {
+            var x = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -5864,7 +5869,7 @@
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
-                x = {
+                y = {
                     "arrow-left": {
                         default: "sprite-button-icon-arrow-left",
                         disabled: "sprite-button-icon-arrow-left-disabled"
@@ -5892,15 +5897,15 @@
                     return n()(o, [{
                         key: "spriteHash",
                         get: function() {
-                            return x[this.icon]
+                            return y[this.icon]
                         }
                     }]), o
                 }(v.h);
-            y([Object(v.e)({
+            x([Object(v.e)({
                 type: String,
                 required: !0
-            })], m.prototype, "icon", void 0), y([Object(v.e)(String)], m.prototype, "label", void 0), y([Object(v.e)(Boolean)], m.prototype, "moveLabelLeft", void 0), y([Object(v.e)(Boolean)], m.prototype, "disabled", void 0);
-            var B = m = y([v.a], m),
+            })], m.prototype, "icon", void 0), x([Object(v.e)(String)], m.prototype, "label", void 0), x([Object(v.e)(Boolean)], m.prototype, "moveLabelLeft", void 0), x([Object(v.e)(Boolean)], m.prototype, "disabled", void 0);
+            var B = m = x([v.a], m),
                 C = o("KHd+"),
                 w = Object(C.a)(B, (function() {
                     var e = this,
@@ -5994,16 +5999,16 @@
                         h = o("a1gu"),
                         v = o.n(h),
                         g = o("Nsbk"),
-                        y = o.n(g),
-                        x = o("o0o1"),
-                        m = o.n(x),
+                        x = o.n(g),
+                        y = o("o0o1"),
+                        m = o.n(y),
                         B = (o("ma9I"), o("5s+n"), o("07d7"), o("FZtP"), o("TeQF"), o("PKPk"), o("4mDm"), o("3bBZ"), o("2B1R"), o("p532"), o("fbCW"), o("oVuX"), o("tkto"), o("Kw5r")),
                         C = o("hy4O"),
                         w = o("0imi"),
                         O = o("Tj88"),
-                        b = o("rbtD"),
-                        S = o("/mxJ"),
-                        M = o("0tC1");
+                        S = o("rbtD"),
+                        M = o("/mxJ"),
+                        b = o("0tC1");
 
                     function G(e, t) {
                         var o = Object.keys(e);
@@ -6040,9 +6045,9 @@
                             }
                         }();
                         return function() {
-                            var o, r = y()(e);
+                            var o, r = x()(e);
                             if (t) {
-                                var i = y()(this).constructor;
+                                var i = x()(this).constructor;
                                 o = Reflect.construct(r, arguments, i)
                             } else o = r.apply(this, arguments);
                             return v()(this, o)
@@ -6058,23 +6063,23 @@
                             return c()(this, a), (e = i.call(this)).lastPlayerSettingsPromise = Promise.resolve(), e.lastChampionDataPromise = null, e._inventoryOwned = B.a.observable({}), e._inventoryRequests = {}, e.setupFocusListenerAlready = !1, e.hubToggleHash = B.a.observable({}), e.isHubToggleHashSetup = !1, e._listeningByMessageType = {}, e.on("_sendMessage", (function(e) {
                                 if (!window.RClientWindowMessenger) return console.warn("Can't sendMessage yet; RClientWindowMessenger not ready");
                                 e && window.RClientWindowMessenger.sendMessage(function(e) {
-                                    if (M.b.enabled) {
+                                    if (b.b.enabled) {
                                         for (var t, o = arguments.length, r = new Array(o > 1 ? o - 1 : 0), i = 1; i < o; i++) r[i - 1] = arguments[i];
                                         (t = console).log.apply(t, r.concat([e]))
                                     }
                                     return e
                                 }(e, "_sendMessage"))
-                            })), ["hubPreloaded", "hubReady", "homeData", "sectionShow", "settingsChanged", b.inject.enabled && "playerSettingsChanged"].filter(Boolean).forEach((function(t) {
+                            })), ["hubPreloaded", "hubReady", "homeData", "sectionShow", "settingsChanged", S.inject.enabled && "playerSettingsChanged"].filter(Boolean).forEach((function(t) {
                                 return e.eventOptions(t, {
                                     includeLastTrigger: !0
                                 })
-                            })), Promise.all(["hubPreloaded", "homeData", b.inject.enabled && "playerSettingsChanged"].filter(Boolean).map((function(t) {
+                            })), Promise.all(["hubPreloaded", "homeData", S.inject.enabled && "playerSettingsChanged"].filter(Boolean).map((function(t) {
                                 return e.promise(t)
                             }))).then((function() {
                                 e._sendMessage({
                                     messageType: "rcp-fe-lol-home-loaded"
                                 }), (localStorage.getItem("qaRefreshOverride") || w.inject.modalFormat || w.inject.inBrowser) && (localStorage.removeItem("qaRefreshOverride"), e.trigger("sectionShow"))
-                            })), e.setupFocusListener(), e.setupSettingsListener(), e.setupClientDataListener(), e.setupHubReadyListener(), b.inject.enabled && e.setupPlayerSettingsListener(j), e
+                            })), e.setupFocusListener(), e.setupSettingsListener(), e.setupClientDataListener(), e.setupHubReadyListener(), S.inject.enabled && e.setupPlayerSettingsListener(j), e
                         }
                         return f()(a, [{
                             key: "refreshPlayerSettings",
@@ -6095,8 +6100,8 @@
                                         case 0:
                                             return e.abrupt("return", this.lastPlayerSettingsPromise = this.lastPlayerSettingsPromise.finally((function() {
                                                 return new Promise((function(e, r) {
-                                                    if (!b.inject.enabled) return r("Player Settings are not enabled in Project Config");
-                                                    var i = E(E({}, b.inject.allData), t);
+                                                    if (!S.inject.enabled) return r("Player Settings are not enabled in Project Config");
+                                                    var i = E(E({}, S.inject.allData), t);
                                                     w.inject.inBrowser ? Object(C.rafTimeout)((function() {
                                                         e(), o.trigger("playerSettingsChanged", i)
                                                     }), 750) : o.requestResponse({
@@ -6384,7 +6389,7 @@
                                     }, {
                                         messageType: "rcp-fe-lol-home-assets-game-data-response",
                                         callback: function(o, r) {
-                                            r[e] ? (t ? Object(S.a)(t, r[e]) : t = B.a.observable(r[e]), n(), i(t)) : a(new Error('Missing: Assets category "'.concat(e, '"; available AssetList IDs are:\n').concat(Object.keys(r).join("\n"))))
+                                            r[e] ? (t ? Object(M.a)(t, r[e]) : t = B.a.observable(r[e]), n(), i(t)) : a(new Error('Missing: Assets category "'.concat(e, '"; available AssetList IDs are:\n').concat(Object.keys(r).join("\n"))))
                                         }
                                     })
                                 }))
@@ -6465,7 +6470,7 @@
                                         render: function() {}
                                     }))).$mount();
                                     o.$watch("shown", (function(e) {
-                                        e ? (b.inject.enabled && t.refreshPlayerSettings(j), t.trigger("sectionShow")) : t.trigger("sectionHide")
+                                        e ? (S.inject.enabled && t.refreshPlayerSettings(j), t.trigger("sectionShow")) : t.trigger("sectionHide")
                                     })), this._listenFor({
                                         messageType: "rcp-fe-lol-home-section-show",
                                         callback: function() {
@@ -6553,10 +6558,10 @@
                             value: function(e) {
                                 var t = this;
                                 if (this.on("playerSettingsChanged", (function(e) {
-                                        Object(b.updatePlayerSettings)(e)
-                                    })), "immediately" == b.inject.useFallback ? this.trigger("playerSettingsChanged", b.inject.fallbackData) : "after-timeout" == b.inject.useFallback && this.once("playerSettingsChanged", Object(C.rafTimeout)((function() {
-                                        t.trigger("playerSettingsChanged", b.inject.fallbackData)
-                                    }), b.inject.timeout)), w.inject.inBrowser) b.inject.useFallback || this.trigger("playerSettingsChanged", {});
+                                        Object(S.updatePlayerSettings)(e)
+                                    })), "immediately" == S.inject.useFallback ? this.trigger("playerSettingsChanged", S.inject.fallbackData) : "after-timeout" == S.inject.useFallback && this.once("playerSettingsChanged", Object(C.rafTimeout)((function() {
+                                        t.trigger("playerSettingsChanged", S.inject.fallbackData)
+                                    }), S.inject.timeout)), w.inject.inBrowser) S.inject.useFallback || this.trigger("playerSettingsChanged", {});
                                 else {
                                     var o = r((function(e) {
                                         t.trigger("playerSettingsChanged", e)
@@ -6885,9 +6890,9 @@
                     return o
                 }(u.h);
             v([Object(u.e)(Boolean)], g.prototype, "border", void 0);
-            var y = g = v([u.a], g),
-                x = o("KHd+"),
-                m = Object(x.a)(y, (function() {
+            var x = g = v([u.a], g),
+                y = o("KHd+"),
+                m = Object(y.a)(x, (function() {
                     var e = this,
                         t = e.$createElement,
                         o = e._self._c || t;
@@ -7017,11 +7022,13 @@
                 return t[t.length - 1] = '<span class="inline-block" style="white-space: nowrap;">' + t[t.length - 1], t.join(" ") + '<span class="sprite-external-arrow-tan ml-5"></span></span>'
             }
         },
-        HWWw: function(e, t) {
-            throw new Error("Module parse failed: Unexpected character '' (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n(Source code omitted for this binary file)")
+        HWWw: function(e, t, o) {
+            "use strict";
+            o.r(t), t.default = o.p + "videos/collection-jinx-closed.webm?45162fab9482403f415c7fede9744e88"
         },
-        HxIQ: function(e, t) {
-            throw new Error("Module parse failed: Unexpected character 'ï¿½' (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n(Source code omitted for this binary file)")
+        HxIQ: function(e, t, o) {
+            "use strict";
+            o.r(t), t.default = o.p + "images/collection-jinx-opened.jpg?c3951b3ab65b177ade88f364347c6484"
         },
         I5Ox: function(e, t, o) {
             "use strict";
@@ -7047,9 +7054,9 @@
                 h = o.n(u),
                 v = o("cDf5"),
                 g = o.n(v),
-                y = (o("5DmW"), o("pNMO"), o("4Brf"), o("07d7"), o("yq1k"), o("YKMj"));
+                x = (o("5DmW"), o("pNMO"), o("4Brf"), o("07d7"), o("yq1k"), o("YKMj"));
 
-            function x(e) {
+            function y(e) {
                 var t = function() {
                     if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                     if (Reflect.construct.sham) return !1;
@@ -7086,7 +7093,7 @@
                 },
                 w = function(e) {
                     p()(o, e);
-                    var t = x(o);
+                    var t = y(o);
 
                     function o() {
                         return n()(this, o), t.apply(this, arguments)
@@ -7097,20 +7104,20 @@
                             if (this.theme) return "theme-".concat(this.theme)
                         }
                     }]), o
-                }(y.h.extend({
+                }(x.h.extend({
                     provide: function() {
                         return i()({}, C.from, this)
                     }
                 }));
-            m([Object(y.e)({
+            m([Object(x.e)({
                 type: String,
                 validator: function(e) {
                     return B.includes(e)
                 }
             })], w.prototype, "theme", void 0);
-            var O = w = m([y.a], w),
-                b = o("KHd+"),
-                S = Object(b.a)(O, (function() {
+            var O = w = m([x.a], w),
+                S = o("KHd+"),
+                M = Object(S.a)(O, (function() {
                     var e = this,
                         t = e.$createElement;
                     return (e._self._c || t)("div", {
@@ -7118,7 +7125,7 @@
                         class: e.themeClass
                     }, [e._t("default")], 2)
                 }), [], !1, null, null, null);
-            t.default = S.exports
+            t.default = M.exports
         },
         Ik2S: function(e, t, o) {
             "use strict";
@@ -7146,16 +7153,16 @@
                     h = o.n(u),
                     v = o("cDf5"),
                     g = o.n(v),
-                    y = o("o0o1"),
-                    x = o.n(y),
+                    x = o("o0o1"),
+                    y = o.n(x),
                     m = (o("5DmW"), o("5s+n"), o("07d7"), o("p532"), o("PKPk"), o("4mDm"), o("3bBZ"), o("hByQ"), o("rB9j"), o("YKMj")),
                     B = o("vqQr"),
                     C = o("EUUh"),
                     w = o("0tC1"),
                     O = o("hy4O"),
-                    b = o("i9Bl");
+                    S = o("i9Bl");
 
-                function S(e) {
+                function M(e) {
                     var t = function() {
                         if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                         if (Reflect.construct.sham) return !1;
@@ -7175,7 +7182,7 @@
                         return d()(this, o)
                     }
                 }
-                var M = function(e, t, o, r) {
+                var b = function(e, t, o, r) {
                         var i, a = arguments.length,
                             n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                         if ("object" === ("undefined" == typeof Reflect ? "undefined" : g()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -7185,7 +7192,7 @@
                     },
                     G = function(t) {
                         p()(a, t);
-                        var o, r = S(a);
+                        var o, r = M(a);
 
                         function a() {
                             return n()(this, a), r.apply(this, arguments)
@@ -7216,15 +7223,15 @@
                             }
                         }, {
                             key: "fetchInventoryOwnedData",
-                            value: (o = i()(x.a.mark((function t() {
+                            value: (o = i()(y.a.mark((function t() {
                                 var o = this;
-                                return x.a.wrap((function(t) {
+                                return y.a.wrap((function(t) {
                                     for (;;) switch (t.prev = t.next) {
                                         case 0:
-                                            return t.next = 2, Promise.all(e(b.a, function() {
-                                                var e = i()(x.a.mark((function e(t) {
+                                            return t.next = 2, Promise.all(e(S.a, function() {
+                                                var e = i()(y.a.mark((function e(t) {
                                                     var r;
-                                                    return x.a.wrap((function(e) {
+                                                    return y.a.wrap((function(e) {
                                                         for (;;) switch (e.prev = e.next) {
                                                             case 0:
                                                                 return r = t.inventory, e.abrupt("return", "item" in r && o.$rClient.inventoryOwnedPromise(r.item));
@@ -7273,7 +7280,7 @@
                             }
                         }
                     }));
-                G = M([m.a], G), t.a = G
+                G = b([m.a], G), t.a = G
             }).call(this, o("3WF5"))
         },
         J2Gd: function(e, t, o) {
@@ -7378,8 +7385,8 @@
                 h = o.n(u),
                 v = o("Nsbk"),
                 g = o.n(v),
-                y = o("cDf5"),
-                x = o.n(y),
+                x = o("cDf5"),
+                y = o.n(x),
                 m = o("O7iK"),
                 B = o.n(m),
                 C = (o("5DmW"), o("pNMO"), o("4Brf"), o("07d7"), o("zKZe"), o("FZtP"), o("8AyJ"), o("qePV"), o("pDQq"), o("ma9I"), o("tkto"), o("2B1R"), o("TeQF"), o("YKMj")),
@@ -7396,7 +7403,7 @@
                 return o
             }
 
-            function b(e) {
+            function S(e) {
                 for (var t = 1; t < arguments.length; t++) {
                     var o = null != arguments[t] ? arguments[t] : {};
                     t % 2 ? O(Object(o), !0).forEach((function(t) {
@@ -7408,7 +7415,7 @@
                 return e
             }
 
-            function S(e) {
+            function M(e) {
                 var t = function() {
                     if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                     if (Reflect.construct.sham) return !1;
@@ -7428,10 +7435,10 @@
                     return h()(this, o)
                 }
             }
-            var M = function(e, t, o, r) {
+            var b = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
-                    if ("object" === ("undefined" == typeof Reflect ? "undefined" : x()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
+                    if ("object" === ("undefined" == typeof Reflect ? "undefined" : y()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
                     else
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
@@ -7452,7 +7459,7 @@
             }
             var j = function(e) {
                 d()(o, e);
-                var t = S(o);
+                var t = M(o);
 
                 function o() {
                     var e;
@@ -7566,7 +7573,7 @@
                     },
                     a = [].concat(i()(Object.keys(r)), i()(Object.keys(o || {})));
                 return {
-                    props: b(b({}, r), o || {}),
+                    props: S(S({}, r), o || {}),
                     computed: {
                         options: function() {
                             var e = this;
@@ -7579,7 +7586,7 @@
                     }
                 }
             }
-            M([Object(C.i)("shouldApply")], j.prototype, "shouldApplyChanged", null), M([Object(C.i)("value")], j.prototype, "onValueChange", null), M([Object(C.f)("finish")], j.prototype, "finishSync", void 0), j = M([C.a], j), t.default = j
+            b([Object(C.i)("shouldApply")], j.prototype, "shouldApplyChanged", null), b([Object(C.i)("value")], j.prototype, "onValueChange", null), b([Object(C.f)("finish")], j.prototype, "finishSync", void 0), j = b([C.a], j), t.default = j
         },
         K12A: function(e, t, o) {
             "use strict";
@@ -7646,29 +7653,29 @@
                             return u(u({}, e), {}, {
                                 index: t
                             })
-                        })), v = [], g = h[0], y = 0, x = 0; x < h.length; x++) {
-                        var m = Object.assign({}, v[x - 1] || {}, h[x]);
-                        v.push(m), M() >= (m.date || 0) && (g = m, y = x)
+                        })), v = [], g = h[0], x = 0, y = 0; y < h.length; y++) {
+                        var m = Object.assign({}, v[y - 1] || {}, h[y]);
+                        v.push(m), b() >= (m.date || 0) && (g = m, x = y)
                     }
-                    var B = b(),
+                    var B = S(),
                         C = s.a.observable({
-                            current: S(g)
+                            current: M(g)
                         }),
                         w = C,
                         O = Object(f.rafInterval)((function() {
-                            B ? M() > B && (C.current = S(v[++y]), B = b()) : O()
+                            B ? b() > B && (C.current = M(v[++x]), B = S()) : O()
                         }), 3e4);
 
-                    function b() {
-                        return y === v.length - 1 ? null : v[y + 1].date
+                    function S() {
+                        return x === v.length - 1 ? null : v[x + 1].date
                     }
 
-                    function S(e) {
+                    function M(e) {
                         e.date, e.dateOverride, e.label, e.index;
                         return i()(e, ["date", "dateOverride", "label", "index"])
                     }
 
-                    function M() {
+                    function b() {
                         return (l.a || new Date).valueOf()
                     }
                 }.call(this, o("mPbk").inject)
@@ -7896,17 +7903,17 @@
                     h = o("lwsE"),
                     v = o.n(h),
                     g = o("W8MJ"),
-                    y = o.n(g),
-                    x = o("7W2i"),
-                    m = o.n(x),
+                    x = o.n(g),
+                    y = o("7W2i"),
+                    m = o.n(y),
                     B = o("a1gu"),
                     C = o.n(B),
                     w = o("Nsbk"),
                     O = o.n(w),
-                    b = o("cDf5"),
-                    S = o.n(b),
-                    M = o("o0o1"),
-                    G = o.n(M),
+                    S = o("cDf5"),
+                    M = o.n(S),
+                    b = o("o0o1"),
+                    G = o.n(b),
                     E = (o("5DmW"), o("2B1R"), o("EnZy"), o("rB9j"), o("XbcX"), o("c9m3"), o("ma9I"), o("5s+n"), o("07d7"), o("TeQF"), o("FZtP"), o("fbCW"), o("BIHw"), o("yq1k"), o("JTJg"), o("Rm1S"), o("UxlC"), o("YKMj")),
                     k = o("a/xa"),
                     j = o("q2iy"),
@@ -7935,21 +7942,21 @@
                         return C()(this, o)
                     }
                 }
-                var R = function(e, t, o, r) {
+                var A = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
-                    if ("object" === ("undefined" == typeof Reflect ? "undefined" : S()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
+                    if ("object" === ("undefined" == typeof Reflect ? "undefined" : M()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
                     else
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 };
 
-                function H(e) {
+                function R(e) {
                     return e.split("-").map((function(e) {
                         return +e
                     }))
                 }
-                var A = function(t) {
+                var H = function(t) {
                     m()(n, t);
                     var o, i = U(n);
 
@@ -7957,7 +7964,7 @@
                         var e;
                         return v()(this, n), (e = i.apply(this, arguments)).artifactGlint1 = null, e.artifactGlint2 = null, e.artifactGlint3 = null, e.recordGlint1 = null, e.recordGlint2 = null, e.recordGlint3 = null, e.collectionViewed = !1, e.collectionStartedViewed = e.viewed, e.recordIndex = 0, e.viewIndex = 0, e.sectionKey = null, e.artifactIndex = -1, e.hoveredElement = null, e.artifactGlintPlay = !1, e.recordGlintPlay = !1, e.stateClass = "", e.removePageHoverListeners = null, e.direction = "next", e
                     }
-                    return y()(n, [{
+                    return x()(n, [{
                         key: "generateViewListenerObject",
                         value: function(e) {
                             return r(this.view.pages.flatMap((function(t) {
@@ -8058,7 +8065,7 @@
                     }, {
                         key: "pageNumber",
                         get: function() {
-                            return this.sectionKey ? H(this.sectionKey)[0] : null
+                            return this.sectionKey ? R(this.sectionKey)[0] : null
                         }
                     }, {
                         key: "viewImageSrc",
@@ -8158,7 +8165,7 @@
                         get: function() {
                             var e;
                             if (null !== this.sectionKey) {
-                                var t = H(this.sectionKey),
+                                var t = R(this.sectionKey),
                                     o = c()(t, 2),
                                     r = o[0],
                                     i = o[1];
@@ -8171,7 +8178,7 @@
                         key: "locBaseString",
                         get: function() {
                             if (null !== this.sectionKey) {
-                                var e = H(this.sectionKey),
+                                var e = R(this.sectionKey),
                                     t = c()(e, 2),
                                     o = t[0],
                                     r = t[1],
@@ -8277,7 +8284,7 @@
                             })).flat(), (function(t, o) {
                                 if (o.stopPropagation(), e.sectionKey == t) e.closeSectionTooltip();
                                 else {
-                                    var r = H(t),
+                                    var r = R(t),
                                         i = c()(r, 2),
                                         a = i[0],
                                         n = i[1];
@@ -8682,9 +8689,9 @@
                         throttle: 200
                     }
                 })));
-                R([Object(E.c)(F.injectIndex)], A.prototype, "indexParent", void 0), R([Object(E.i)("state", {
+                A([Object(E.c)(F.injectIndex)], H.prototype, "indexParent", void 0), A([Object(E.i)("state", {
                     immediate: !0
-                })], A.prototype, "onStateChange", null), A = R([E.a], A), t.a = A
+                })], H.prototype, "onStateChange", null), H = A([E.a], H), t.a = H
             }).call(this, o("D0BC"), o("O7iK"))
         },
         MFWh: function(e, t) {
@@ -8768,8 +8775,8 @@
                     h = o.n(u),
                     v = o("cDf5"),
                     g = o.n(v),
-                    y = (o("5DmW"), o("tkto"), o("2B1R"), o("pjDv"), o("PKPk"), o("07d7"), o("4mDm"), o("3bBZ"), o("ma9I"), o("YKMj")),
-                    x = o("ClQq");
+                    x = (o("5DmW"), o("tkto"), o("2B1R"), o("pjDv"), o("PKPk"), o("07d7"), o("4mDm"), o("3bBZ"), o("ma9I"), o("YKMj")),
+                    y = o("ClQq");
 
                 function m(e, t) {
                     var o = Object.keys(e);
@@ -8852,7 +8859,7 @@
                         }, {
                             key: "component",
                             get: function() {
-                                return x.b[this.template]
+                                return y.b[this.template]
                             }
                         }, {
                             key: "containerAttrs",
@@ -8924,8 +8931,8 @@
                                 return this.scrollValues.scrollHeight > this.scrollValues.scrollParentHeight
                             }
                         }]), r
-                    }(y.h);
-                w([Object(y.e)(Object)], O.prototype, "section", void 0), w([Object(y.e)(String)], O.prototype, "locBaseString", void 0), w([Object(y.e)(String)], O.prototype, "collectionSlug", void 0), O = w([y.a], O), t.a = O
+                    }(x.h);
+                w([Object(x.e)(Object)], O.prototype, "section", void 0), w([Object(x.e)(String)], O.prototype, "locBaseString", void 0), w([Object(x.e)(String)], O.prototype, "collectionSlug", void 0), O = w([x.a], O), t.a = O
             }).call(this, o("noZS"))
         },
         PGn1: function(e, t, o) {
@@ -9162,7 +9169,7 @@
                     return p()(this, o)
                 }
             }
-            var y = function(e, t, o, r) {
+            var x = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -9170,7 +9177,7 @@
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
-                x = function(e) {
+                y = function(e) {
                     l()(o, e);
                     var t = g(o);
 
@@ -9187,18 +9194,18 @@
                         }
                     }]), o
                 }(v.h);
-            y([Object(v.e)()], x.prototype, "entries", void 0), y([Object(v.e)({
+            x([Object(v.e)()], y.prototype, "entries", void 0), x([Object(v.e)({
                 type: [String, Array],
                 default: function() {
                     return ""
                 }
-            })], x.prototype, "classes", void 0), y([Object(v.e)({
+            })], y.prototype, "classes", void 0), x([Object(v.e)({
                 type: [String, Array],
                 default: function() {
                     return ""
                 }
-            })], x.prototype, "stackingClasses", void 0);
-            var m = x = y([v.a], x),
+            })], y.prototype, "stackingClasses", void 0);
+            var m = y = x([v.a], y),
                 B = o("KHd+"),
                 C = Object(B.a)(m, (function() {
                     var e = this,
@@ -9295,8 +9302,8 @@
                 h = o.n(u),
                 v = o("Nsbk"),
                 g = o.n(v),
-                y = o("cDf5"),
-                x = o.n(y),
+                x = o("cDf5"),
+                y = o.n(x),
                 m = o("o0o1"),
                 B = o.n(m),
                 C = (o("5DmW"), o("5s+n"), o("07d7"), o("FZtP"), o("YKMj")),
@@ -9313,7 +9320,7 @@
                 return o
             }
 
-            function b(e) {
+            function S(e) {
                 for (var t = 1; t < arguments.length; t++) {
                     var o = null != arguments[t] ? arguments[t] : {};
                     t % 2 ? O(Object(o), !0).forEach((function(t) {
@@ -9325,7 +9332,7 @@
                 return e
             }
 
-            function S(e) {
+            function M(e) {
                 var t = function() {
                     if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                     if (Reflect.construct.sham) return !1;
@@ -9345,17 +9352,17 @@
                     return h()(this, o)
                 }
             }
-            var M = function(e, t, o, r) {
+            var b = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
-                    if ("object" === ("undefined" == typeof Reflect ? "undefined" : x()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
+                    if ("object" === ("undefined" == typeof Reflect ? "undefined" : y()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
                     else
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
                 G = function(e) {
                     d()(r, e);
-                    var t, o = S(r);
+                    var t, o = M(r);
 
                     function r() {
                         var e;
@@ -9407,10 +9414,10 @@
                         })
                     }]), r
                 }(C.h);
-            G = M([C.a], G);
+            G = b([C.a], G);
             var E = function(e) {
                 d()(i, e);
-                var t, o, r = S(i);
+                var t, o, r = M(i);
 
                 function i() {
                     var e;
@@ -9481,10 +9488,10 @@
                     })
                 }]), i
             }(C.h);
-            E = M([C.a], E);
+            E = b([C.a], E);
             var k = function(e) {
                 d()(i, e);
-                var t, o, r = S(i);
+                var t, o, r = M(i);
 
                 function i() {
                     var e;
@@ -9555,10 +9562,10 @@
                     })
                 }]), i
             }(C.h);
-            k = M([C.a], k);
+            k = b([C.a], k);
             var j, D = function(e) {
                 d()(o, e);
-                var t = S(o);
+                var t = M(o);
 
                 function o() {
                     return l()(this, o), t.apply(this, arguments)
@@ -9572,7 +9579,7 @@
                             r = this.cameraSupported,
                             i = this.motion,
                             a = this.motionSupported;
-                        return b(b(b({}, t ? {
+                        return S(S(S({}, t ? {
                             mic: e
                         } : {}), r ? {
                             camera: o
@@ -9660,9 +9667,9 @@
                     }), e)
                 })))).apply(this, arguments)
             }
-            M([Object(C.i)("grantedByFeature", {
+            b([Object(C.i)("grantedByFeature", {
                 immediate: !0
-            })], D.prototype, "grantedByFeatureChanged", null), D = M([C.a], D), t.default = D
+            })], D.prototype, "grantedByFeatureChanged", null), D = b([C.a], D), t.default = D
         },
         R9zJ: function(e, t, o) {
             "use strict";
@@ -9683,7 +9690,7 @@
                 v = (o("5DmW"), o("yq1k"), o("JTJg"), o("YKMj")),
                 g = o("ClQq");
 
-            function y(e) {
+            function x(e) {
                 var t = function() {
                     if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                     if (Reflect.construct.sham) return !1;
@@ -9703,7 +9710,7 @@
                     return p()(this, o)
                 }
             }
-            var x = function(e, t, o, r) {
+            var y = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -9713,7 +9720,7 @@
                 },
                 m = function(e) {
                     l()(o, e);
-                    var t = y(o);
+                    var t = x(o);
 
                     function o() {
                         return i()(this, o), t.apply(this, arguments)
@@ -9731,14 +9738,14 @@
                         }
                     }]), o
                 }(v.h);
-            x([Object(v.e)({
+            y([Object(v.e)({
                 type: String,
                 required: !0,
                 validator: function(e) {
                     return g.a.includes(e)
                 }
-            })], m.prototype, "slug", void 0), x([Object(v.e)(Boolean)], m.prototype, "unlocked", void 0);
-            var B = m = x([v.a], m),
+            })], m.prototype, "slug", void 0), y([Object(v.e)(Boolean)], m.prototype, "unlocked", void 0);
+            var B = m = y([v.a], m),
                 C = o("KHd+"),
                 w = Object(C.a)(B, (function() {
                     var e = this,
@@ -9852,7 +9859,7 @@
                 return o
             }
 
-            function y(e) {
+            function x(e) {
                 for (var t = 1; t < arguments.length; t++) {
                     var o = null != arguments[t] ? arguments[t] : {};
                     t % 2 ? g(Object(o), !0).forEach((function(t) {
@@ -9863,9 +9870,9 @@
                 }
                 return e
             }
-            var x = ["top", "left"],
+            var y = ["top", "left"],
                 m = ["scrollTop", "scrollLeft", "scrollHeight", "scrollWidth"],
-                B = [].concat(x, m, ["scrollParentWidth", "scrollParentHeight"]);
+                B = [].concat(y, m, ["scrollParentWidth", "scrollParentHeight"]);
             t.default = {
                 inject: {
                     scrollParent: u.scrollParent
@@ -9881,7 +9888,7 @@
                 computed: {
                     scrollValues: function() {
                         var e, t, o = this;
-                        return y(y({}, p()(m, m.map((function(e) {
+                        return x(x({}, p()(m, m.map((function(e) {
                             return o[e]
                         })))), {}, {
                             scrollParentWidth: Math.round(null === (e = this.resolvedScrollParent) || void 0 === e ? void 0 : e.size.width),
@@ -9890,7 +9897,7 @@
                     },
                     values: function() {
                         var e, t = (null === (e = this.$el) || void 0 === e ? void 0 : e.getBoundingClientRect()) || {};
-                        return y(y({}, this.scrollValues), p()(x, x.map((function(e) {
+                        return x(x({}, this.scrollValues), p()(y, y.map((function(e) {
                             return t[e]
                         }))))
                     }
@@ -10198,7 +10205,7 @@
             o.r(t), o.d(t, "name", (function() {
                 return U
             })), o.d(t, "inject", (function() {
-                return R
+                return A
             }));
             o("rB9j"), o("zKZe"), o("EnZy"), o("oVuX"), o("fbCW"), o("UxlC"), o("Kz25"), o("07d7"), o("PKPk"), o("4mDm"), o("3bBZ"), o("inlA"), o("+2oP"), o("hByQ"), o("JfAA"), o("SYor"), o("FZtP"), o("TeQF"), o("yq1k"), o("JTJg"), o("2B1R"), o("tkto"), o("YGK4");
             var r, i, a, n = {
@@ -10215,7 +10222,7 @@
                             }
                         })
                     },
-                    clientfreechamprotation: M,
+                    clientfreechamprotation: b,
                     clientmissions: G,
                     clientpersonalizedoffers: E,
                     clientstore: D,
@@ -10358,7 +10365,7 @@
                     })(e), g(e, "click"), window.setTimeout((function() {
                         h(e), g(e, "idle")
                     }), t)
-                }(e), x()), "hover" === t && y()
+                }(e), y()), "hover" === t && x()
             }
 
             function g(e, t) {
@@ -10367,7 +10374,7 @@
                 })), t && e.addClass(t)
             }
 
-            function y() {
+            function x() {
                 window.RClientWindowMessenger.sendMessage({
                     messageType: "rcp-fe-lol-home-play-sound",
                     data: {
@@ -10376,7 +10383,7 @@
                 })
             }
 
-            function x() {
+            function y() {
                 window.RClientWindowMessenger.sendMessage({
                     messageType: "rcp-fe-lol-home-play-sound",
                     data: {
@@ -10387,11 +10394,11 @@
 
             function m(e) {
                 var t = "standard";
-                return S(e.tag, ["client_update_article", "client_update_dev_blog"]) ? t = "alpha-dev-blog" : b(e.tag, "client_update_changelog") ? t = "alpha-changelog" : b(e.tag, "patch_notes") && (t = "patch-notes"), window.location.origin + "/" + window.oembedGlobals.locale + "/article/" + t + "/" + e.uuid
+                return M(e.tag, ["client_update_article", "client_update_dev_blog"]) ? t = "alpha-dev-blog" : S(e.tag, "client_update_changelog") ? t = "alpha-changelog" : S(e.tag, "patch_notes") && (t = "patch-notes"), window.location.origin + "/" + window.oembedGlobals.locale + "/article/" + t + "/" + e.uuid
             }
 
             function B(e) {
-                return S(e.tag, ["client_update_article", "client_update_dev_blog", "client_update_changelog"])
+                return M(e.tag, ["client_update_article", "client_update_dev_blog", "client_update_changelog"])
             }
 
             function C(e, t) {
@@ -10472,17 +10479,17 @@
                 e.data("disabled", !t), e.children(".lol-uikit-flat-button").toggleClass("disabled", !t)
             }
 
-            function b(e, t) {
+            function S(e, t) {
                 return e.split(" ").includes(t)
             }
 
-            function S(e, t) {
+            function M(e, t) {
                 return t.some((function(t) {
-                    return b(e, t)
+                    return S(e, t)
                 }))
             }
 
-            function M() {
+            function b() {
                 window.RClientWindowMessenger.sendMessage({
                     messageType: "rcp-fe-lol-home-free-champ-rotation-open"
                 })
@@ -10577,7 +10584,7 @@
                 }
             });
             var U = "cu",
-                R = {
+                A = {
                     loadImage: function(e, t) {
                         e && (t || (t = {}), e.setAttribute("src", e.getAttribute("data-src-original")))
                     },
@@ -10623,8 +10630,8 @@
                             r = $(".lol-uikit-flat-button", o);
                         return t && r.addClass(t), h(r), o
                     },
-                    playHoverSound: y,
-                    playClickSound: x,
+                    playHoverSound: x,
+                    playClickSound: y,
                     playSocialLinkClick: function() {
                         window.RClientWindowMessenger.sendMessage({
                             messageType: "rcp-fe-lol-home-play-sound",
@@ -10658,14 +10665,14 @@
                     getArticleFullModePath: m,
                     getArticleWebUrl: function(e) {
                         if (B(e)) {
-                            var t = b(e.tag, "client_update_changelog") ? "changelog" : "article";
+                            var t = S(e.tag, "client_update_changelog") ? "changelog" : "article";
                             return window.i18nEmbed["links.clientUpdateWebsiteUrl"] + "/client-update/{type}/{uuid}".replace("{type}", t).replace("{uuid}", e.uuid)
                         }
                         return e.url
                     },
                     isAlphaArticle: B,
                     linkElementToFullArticle: w,
-                    openFreeChampRotation: M,
+                    openFreeChampRotation: b,
                     openMissions: G,
                     openPersonalizedOffers: E,
                     openStore: k,
@@ -10775,7 +10782,7 @@
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
-                y = function(e) {
+                x = function(e) {
                     n()(o, e);
                     var t = v(o);
 
@@ -10796,15 +10803,15 @@
                         }
                     }
                 }))));
-            g([Object(u.e)(Boolean)], y.prototype, "disabled", void 0), g([Object(u.e)({
+            g([Object(u.e)(Boolean)], x.prototype, "disabled", void 0), g([Object(u.e)({
                 type: Object,
                 default: function() {
                     return {}
                 }
-            })], y.prototype, "inView", void 0);
-            var x = y = g([u.a], y),
+            })], x.prototype, "inView", void 0);
+            var y = x = g([u.a], x),
                 m = o("KHd+"),
-                B = Object(m.a)(x, (function() {
+                B = Object(m.a)(y, (function() {
                     var e = this,
                         t = e.$createElement,
                         o = e._self._c || t;
@@ -10890,9 +10897,9 @@
                     return o
                 }(u.h);
             v([Object(u.e)(Number)], g.prototype, "minWidth", void 0), v([Object(u.e)(Boolean)], g.prototype, "hideDropShadows", void 0);
-            var y = g = v([u.a], g),
-                x = o("KHd+"),
-                m = Object(x.a)(y, (function() {
+            var x = g = v([u.a], g),
+                y = o("KHd+"),
+                m = Object(y.a)(x, (function() {
                     var e = this,
                         t = e.$createElement,
                         o = e._self._c || t;
@@ -10962,7 +10969,7 @@
                     return p()(this, o)
                 }
             }
-            var y = function(e, t, o, r) {
+            var x = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -10970,7 +10977,7 @@
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
-                x = function(e) {
+                y = function(e) {
                     l()(o, e);
                     var t = g(o);
 
@@ -10986,7 +10993,7 @@
                         }
                     }]), o
                 }(v.h),
-                m = x = y([v.a], x),
+                m = y = x([v.a], y),
                 B = o("KHd+"),
                 C = Object(B.a)(m, (function() {
                     var e = this,
@@ -11055,9 +11062,9 @@
                 h = o.n(u),
                 v = o("cDf5"),
                 g = o.n(v),
-                y = (o("5DmW"), o("pNMO"), o("4Brf"), o("07d7"), o("SuFq"), o("YKMj"));
+                x = (o("5DmW"), o("pNMO"), o("4Brf"), o("07d7"), o("SuFq"), o("YKMj"));
 
-            function x(e) {
+            function y(e) {
                 var t = function() {
                     if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                     if (Reflect.construct.sham) return !1;
@@ -11095,7 +11102,7 @@
                 },
                 C = function(e) {
                     p()(o, e);
-                    var t = x(o);
+                    var t = y(o);
 
                     function o() {
                         return n()(this, o), t.apply(this, arguments)
@@ -11111,12 +11118,12 @@
                             return this.$slots.default
                         }
                     }]), o
-                }(y.h.extend({
+                }(x.h.extend({
                     provide: function() {
                         return i()({}, B.from, this)
                     }
                 }));
-            m([Object(y.c)(B)], C.prototype, "parentPingImpressions", void 0), m([Object(y.e)(Boolean)], C.prototype, "disabled", void 0), C = m([y.a], C), t.default = C
+            m([Object(x.c)(B)], C.prototype, "parentPingImpressions", void 0), m([Object(x.e)(Boolean)], C.prototype, "disabled", void 0), C = m([x.a], C), t.default = C
         },
         TENY: function(e, t, o) {
             "use strict";
@@ -11176,8 +11183,9 @@
             }
             t.a = r
         },
-        "U+oM": function(e, t) {
-            throw new Error("Module parse failed: Unexpected character 'ï¿½' (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n(Source code omitted for this binary file)")
+        "U+oM": function(e, t, o) {
+            "use strict";
+            o.r(t), t.default = o.p + "images/collection-jinx-closed.jpg?7024e6e9c055a8ae3a167a78aa176f07"
         },
         "U7S+": function(e, t, o) {
             "use strict";
@@ -11286,9 +11294,9 @@
                     return o
                 }(u.h);
             v([Object(u.e)(Boolean)], g.prototype, "disabled", void 0), v([Object(u.e)(Boolean)], g.prototype, "forceHoverBorder", void 0);
-            var y = g = v([u.a], g),
-                x = o("KHd+"),
-                m = Object(x.a)(y, (function() {
+            var x = g = v([u.a], g),
+                y = o("KHd+"),
+                m = Object(y.a)(x, (function() {
                     var e = this,
                         t = e.$createElement,
                         o = e._self._c || t;
@@ -11427,7 +11435,7 @@
                     return p()(this, o)
                 }
             }
-            var y = function(e, t, o, r) {
+            var x = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -11435,7 +11443,7 @@
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
-                x = {
+                y = {
                     "client-audio-off": "sprite-icon-client-audio-off",
                     "sfx-off": "sprite-icon-sfx-off",
                     "sfx-on": "sprite-icon-sfx-on",
@@ -11452,15 +11460,15 @@
                     return n()(o, [{
                         key: "sprite",
                         get: function() {
-                            return x[this.icon]
+                            return y[this.icon]
                         }
                     }]), o
                 }(v.h);
-            y([Object(v.e)({
+            x([Object(v.e)({
                 type: String,
                 required: !0
-            })], m.prototype, "icon", void 0), y([Object(v.e)(String)], m.prototype, "label", void 0);
-            var B = m = y([v.a], m),
+            })], m.prototype, "icon", void 0), x([Object(v.e)(String)], m.prototype, "label", void 0);
+            var B = m = x([v.a], m),
                 C = o("KHd+"),
                 w = Object(C.a)(B, (function() {
                     var e = this,
@@ -11613,8 +11621,8 @@
                 h = o.n(u),
                 v = o("cDf5"),
                 g = o.n(v),
-                y = o("QkVN"),
-                x = o.n(y),
+                x = o("QkVN"),
+                y = o.n(x),
                 m = o("o0o1"),
                 B = o.n(m),
                 C = (o("5DmW"), o("FZtP"), o("YKMj"));
@@ -11647,7 +11655,7 @@
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
-                b = {
+                S = {
                     video: {
                         width: 4096,
                         height: 2160,
@@ -11655,7 +11663,7 @@
                     },
                     audio: !1
                 },
-                S = function(e) {
+                M = function(e) {
                     p()(r, e);
                     var t, o = w(r);
 
@@ -11669,7 +11677,7 @@
                             return B.a.wrap((function(e) {
                                 for (;;) switch (e.prev = e.next) {
                                     case 0:
-                                        return e.prev = 0, e.next = 3, navigator.mediaDevices.getUserMedia(x()({}, b, this.constraints));
+                                        return e.prev = 0, e.next = 3, navigator.mediaDevices.getUserMedia(y()({}, S, this.constraints));
                                     case 3:
                                         this.stream = e.sent, e.next = 9;
                                         break;
@@ -11702,12 +11710,12 @@
             O([Object(C.e)({
                 type: Object,
                 default: function() {
-                    return b
+                    return S
                 }
-            })], S.prototype, "constraints", void 0);
-            var M = S = O([C.a], S),
+            })], M.prototype, "constraints", void 0);
+            var b = M = O([C.a], M),
                 G = o("KHd+"),
-                E = Object(G.a)(M, (function() {
+                E = Object(G.a)(b, (function() {
                     var e = this,
                         t = e.$createElement;
                     return (e._self._c || t)("video-cover", e._g({
@@ -11827,7 +11835,7 @@
         WGdq: function(e, t, o) {
             "use strict";
             o.r(t), o.d(t, "setDefaults", (function() {
-                return b
+                return S
             }));
             o("SuFq"), o("tkto"), o("pNMO"), o("TeQF"), o("FZtP"), o("27RR");
             var r = o("lSNA"),
@@ -11844,8 +11852,8 @@
                 h = o.n(u),
                 v = o("cDf5"),
                 g = o.n(v),
-                y = (o("5DmW"), o("zKZe"), o("qePV"), o("YKMj")),
-                x = o("Ztpt");
+                x = (o("5DmW"), o("zKZe"), o("qePV"), o("YKMj")),
+                y = o("Ztpt");
 
             function m(e, t) {
                 var o = Object.keys(e);
@@ -11902,10 +11910,10 @@
                     duration: 250
                 };
 
-            function b(e) {
+            function S(e) {
                 Object.assign(O, e)
             }
-            var S = function(e) {
+            var M = function(e) {
                 p()(o, e);
                 var t = C(o);
 
@@ -11952,26 +11960,26 @@
                 }, {
                     key: "render",
                     value: function(e) {
-                        return e(x.default, {
+                        return e(y.default, {
                             props: B(B({}, this.$attrs), this.gsapProps),
                             on: this.$listeners
                         }, this.$slots.default)
                     }
                 }]), o
-            }(y.h);
-            w([Object(y.e)({
+            }(x.h);
+            w([Object(x.e)({
                 type: Number,
                 default: O.duration
-            })], S.prototype, "duration", void 0), w([Object(y.e)({
+            })], M.prototype, "duration", void 0), w([Object(x.e)({
                 type: Boolean,
                 default: !0
-            })], S.prototype, "noOverflow", void 0), w([Object(y.e)(Boolean)], S.prototype, "noFade", void 0), w([Object(y.e)(Boolean)], S.prototype, "onlySize", void 0), w([Object(y.e)({
+            })], M.prototype, "noOverflow", void 0), w([Object(x.e)(Boolean)], M.prototype, "noFade", void 0), w([Object(x.e)(Boolean)], M.prototype, "onlySize", void 0), w([Object(x.e)({
                 type: String,
                 default: "v",
                 validator: function(e) {
                     return /^v|h|vh$/i.test(e)
                 }
-            })], S.prototype, "direction", void 0), S = w([y.a], S), t.default = S
+            })], M.prototype, "direction", void 0), M = w([x.a], M), t.default = M
         },
         WGwh: function(e, t, o) {
             "use strict";
@@ -13150,8 +13158,8 @@
                 h = o.n(u),
                 v = o("cDf5"),
                 g = o.n(v),
-                y = (o("5DmW"), o("pNMO"), o("4Brf"), o("07d7"), o("sMBO"), o("YKMj")),
-                x = o("PGn1");
+                x = (o("5DmW"), o("pNMO"), o("4Brf"), o("07d7"), o("sMBO"), o("YKMj")),
+                y = o("PGn1");
 
             function m(e, t) {
                 var o = Object.keys(e);
@@ -13221,18 +13229,18 @@
                             }(i()({}, this.name, this), this.parentGroup.groupsByName)
                         }
                     }]), o
-                }(y.h.extend({
+                }(x.h.extend({
                     provide: function() {
                         return i()({}, w.from, this)
                     },
-                    render: Object(x.a)({
+                    render: Object(y.a)({
                         slotScope: null
                     })
                 }));
-            C([Object(y.c)(w)], O.prototype, "parentGroup", void 0), C([Object(y.e)({
+            C([Object(x.c)(w)], O.prototype, "parentGroup", void 0), C([Object(x.e)({
                 type: String,
                 default: "default"
-            })], O.prototype, "name", void 0), O = C([y.a], O), t.default = O
+            })], O.prototype, "name", void 0), O = C([x.a], O), t.default = O
         },
         "Y//E": function(e, t, o) {
             "use strict";
@@ -13296,9 +13304,9 @@
                         } else if (/from|to/i.test(o[0])) {
                     var u = p()(o, 3),
                         g = u[0],
-                        y = u[1],
-                        x = u[2];
-                    e[g](t, h(h({}, r), y), x)
+                        x = u[1],
+                        y = u[2];
+                    e[g](t, h(h({}, r), x), y)
                 } else {
                     var m = n()(o),
                         B = m[0],
@@ -13485,7 +13493,7 @@
         Ztpt: function(e, t, o) {
             "use strict";
             o.r(t), o.d(t, "blur", (function() {
-                return A
+                return H
             }));
             o("SuFq"), o("pNMO"), o("TeQF"), o("27RR");
             var r = o("yXPU"),
@@ -13502,16 +13510,16 @@
                 h = o.n(u),
                 v = o("Nsbk"),
                 g = o.n(v),
-                y = o("cDf5"),
-                x = o.n(y),
+                x = o("cDf5"),
+                y = o.n(x),
                 m = o("3WF5"),
                 B = o.n(m),
                 C = o("0YDr"),
                 w = o.n(C),
                 O = o("o0o1"),
-                b = o.n(O),
-                S = (o("5DmW"), o("8AyJ"), o("qePV"), o("p532"), o("5s+n"), o("07d7"), o("pDQq"), o("FZtP"), o("tkto"), o("YKMj")),
-                M = o("z/o8"),
+                S = o.n(O),
+                M = (o("5DmW"), o("8AyJ"), o("qePV"), o("p532"), o("5s+n"), o("07d7"), o("pDQq"), o("FZtP"), o("tkto"), o("YKMj")),
+                b = o("z/o8"),
                 G = o("nOaX"),
                 E = o("FZhB"),
                 k = o("bq/t"),
@@ -13543,7 +13551,7 @@
                 return e
             }
 
-            function R(e) {
+            function A(e) {
                 var t = function() {
                     if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                     if (Reflect.construct.sham) return !1;
@@ -13563,26 +13571,26 @@
                     return h()(this, o)
                 }
             }
-            var H = function(e, t, o, r) {
+            var R = function(e, t, o, r) {
                 var i, a = arguments.length,
                     n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
-                if ("object" === ("undefined" == typeof Reflect ? "undefined" : x()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
+                if ("object" === ("undefined" == typeof Reflect ? "undefined" : y()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
                 else
                     for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                 return a > 3 && n && Object.defineProperty(t, o, n), n
             };
 
-            function A(e) {
+            function H(e) {
                 var t = Number.isFinite(e);
                 return {
                     filter: t ? "blur(".concat(e, "px)") : e,
                     "-webkit-filter": t ? "blur(".concat(e, "px)") : e
                 }
             }
-            M.c.registerPlugin(G.b);
+            b.c.registerPlugin(G.b);
             var T = function(e) {
                 d()(o, e);
-                var t = R(o);
+                var t = A(o);
 
                 function o() {
                     var e;
@@ -13602,7 +13610,7 @@
                                         var e = p.indexOf(c); - 1 != e && (p.splice(e, 1), c.parent && c.kill())
                                     },
                                     l = !1,
-                                    c = new M.a({
+                                    c = new b.a({
                                         paused: !!i
                                     });
                                 r && c.set(a, r), Object(j.a)(c, a, e, {
@@ -13611,7 +13619,7 @@
                                     return z()((function() {
                                         l || c.play()
                                     }))
-                                })), o.timelinesByType[t] || S.h.set(o.timelinesByType, t, []);
+                                })), o.timelinesByType[t] || M.h.set(o.timelinesByType, t, []);
                                 var p = o.timelinesByType[t];
                                 c.eventCallback("onComplete", function() {
                                     a === this.$el && r && Object(E.a)(a, r, {
@@ -13701,8 +13709,8 @@
                         var e = this;
                         if (!this.transitionsDisabled.value) {
                             var t = this.goneStyles && (!("appear" in this.$attrs) || !!this.$attrs.appear);
-                            this.$el.tagName && (t || this.activeStyles) && (this.finishSync = i()(b.a.mark((function t() {
-                                return b.a.wrap((function(t) {
+                            this.$el.tagName && (t || this.activeStyles) && (this.finishSync = i()(S.a.mark((function t() {
+                                return S.a.wrap((function(t) {
                                     for (;;) switch (t.prev = t.next) {
                                         case 0:
                                             return t.next = 2, new Promise((function(t) {
@@ -13723,8 +13731,8 @@
                         }
                     }
                 }]), o
-            }(S.h);
-            H([Object(S.c)(k.b)], T.prototype, "transitionsDisabled", void 0), H([Object(S.e)(Number)], T.prototype, "duration", void 0), H([Object(S.e)(Object)], T.prototype, "goneStyles", void 0), H([Object(S.e)(Object)], T.prototype, "stylesDuringGoneTransition", void 0), H([Object(S.e)([Object, Array])], T.prototype, "activeStyles", void 0), H([Object(S.e)(Boolean)], T.prototype, "preload", void 0), H([Object(S.e)(Boolean)], T.prototype, "useGroup", void 0), H([Object(S.f)("finish")], T.prototype, "finishSync", void 0), H([Object(S.i)("canFinish")], T.prototype, "canFinishChanged", null), T = H([S.a], T), t.default = T
+            }(M.h);
+            R([Object(M.c)(k.b)], T.prototype, "transitionsDisabled", void 0), R([Object(M.e)(Number)], T.prototype, "duration", void 0), R([Object(M.e)(Object)], T.prototype, "goneStyles", void 0), R([Object(M.e)(Object)], T.prototype, "stylesDuringGoneTransition", void 0), R([Object(M.e)([Object, Array])], T.prototype, "activeStyles", void 0), R([Object(M.e)(Boolean)], T.prototype, "preload", void 0), R([Object(M.e)(Boolean)], T.prototype, "useGroup", void 0), R([Object(M.f)("finish")], T.prototype, "finishSync", void 0), R([Object(M.i)("canFinish")], T.prototype, "canFinishChanged", null), T = R([M.a], T), t.default = T
         },
         "a/xa": function(e, t, o) {
             "use strict";
@@ -13822,9 +13830,9 @@
                 type: String,
                 required: !0
             })], g.prototype, "copy", void 0);
-            var y = g = v([u.a], g),
-                x = o("KHd+"),
-                m = Object(x.a)(y, (function() {
+            var x = g = v([u.a], g),
+                y = o("KHd+"),
+                m = Object(y.a)(x, (function() {
                     var e = this,
                         t = e.$createElement;
                     return (e._self._c || t)("div", {
@@ -13899,7 +13907,7 @@
         "bq/t": function(e, t, o) {
             "use strict";
             o.d(t, "b", (function() {
-                return x
+                return y
             }));
             var r = o("lSNA"),
                 i = o.n(r),
@@ -13935,7 +13943,7 @@
                     return p()(this, o)
                 }
             }
-            var y = function(e, t, o, r) {
+            var x = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -13943,7 +13951,7 @@
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
-                x = {
+                y = {
                     from: Symbol("transitionsDisabled"),
                     default: function() {
                         return {
@@ -13961,10 +13969,10 @@
                     return o
                 }(v.h.extend({
                     provide: function() {
-                        return i()({}, x.from, this)
+                        return i()({}, y.from, this)
                     }
                 }));
-            y([Object(v.e)(Boolean)], m.prototype, "value", void 0), m = y([v.a], m), t.a = m
+            x([Object(v.e)(Boolean)], m.prototype, "value", void 0), m = x([v.a], m), t.a = m
         },
         bq8e: function(e, t, o) {
             "use strict";
@@ -13985,7 +13993,7 @@
                 v = (o("5DmW"), o("YKMj")),
                 g = o("tcco");
 
-            function y(e) {
+            function x(e) {
                 var t = function() {
                     if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                     if (Reflect.construct.sham) return !1;
@@ -14005,7 +14013,7 @@
                     return p()(this, o)
                 }
             }
-            var x = function(e, t, o, r) {
+            var y = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -14016,7 +14024,7 @@
                 m = 0,
                 B = function(e) {
                     l()(o, e);
-                    var t = y(o);
+                    var t = x(o);
 
                     function o() {
                         var e;
@@ -14044,7 +14052,7 @@
                         }
                     }]), o
                 }(g.default),
-                C = B = x([v.a], B),
+                C = B = y([v.a], B),
                 w = o("KHd+"),
                 O = Object(w.a)(C, (function() {
                     var e = this,
@@ -14162,8 +14170,8 @@
                 h = o.n(u),
                 v = (o("5DmW"), o("YKMj")),
                 g = o("PGn1"),
-                y = o("17T+"),
-                x = o("T4MM");
+                x = o("17T+"),
+                y = o("T4MM");
 
             function m(e) {
                 var t = function() {
@@ -14232,7 +14240,7 @@
                             var e = this.element || this.$el;
                             if (e && e instanceof HTMLElement) {
                                 null === this.ogMeta && (this.ogMeta = e.dataset.pingMeta);
-                                var t = new y.PingMeta(this.ogMeta, this.meta),
+                                var t = new x.PingMeta(this.ogMeta, this.meta),
                                     o = t.stringify();
                                 "" !== o && (e.dataset.pingMeta = o, this.$ping.trackImpression(t, e))
                             }
@@ -14245,7 +14253,7 @@
                         }
                     }]), o
                 }(v.h);
-            B([Object(v.c)(x.inject)], w.prototype, "pingImpressions", void 0), B([Object(v.e)(Object)], w.prototype, "meta", void 0), B([Object(v.e)(Boolean)], w.prototype, "disabled", void 0), B([Object(v.e)(HTMLElement)], w.prototype, "element", void 0), w = B([v.a], w), t.default = w
+            B([Object(v.c)(y.inject)], w.prototype, "pingImpressions", void 0), B([Object(v.e)(Object)], w.prototype, "meta", void 0), B([Object(v.e)(Boolean)], w.prototype, "disabled", void 0), B([Object(v.e)(HTMLElement)], w.prototype, "element", void 0), w = B([v.a], w), t.default = w
         },
         cBBH: function(e, t, o) {
             "use strict";
@@ -14472,16 +14480,16 @@
                     h = o.n(u),
                     v = o("W8MJ"),
                     g = o.n(v),
-                    y = o("PJYZ"),
-                    x = o.n(y),
+                    x = o("PJYZ"),
+                    y = o.n(x),
                     m = o("7W2i"),
                     B = o.n(m),
                     C = o("a1gu"),
                     w = o.n(C),
                     O = o("Nsbk"),
-                    b = o.n(O),
-                    S = o("cDf5"),
-                    M = o.n(S),
+                    S = o.n(O),
+                    M = o("cDf5"),
+                    b = o.n(M),
                     G = (o("5DmW"), o("E9XD"), o("2B1R"), o("T63A"), o("FZtP"), o("ma9I"), o("yq1k"), o("JTJg"), o("tkto"), o("B6y2"), o("YKMj")),
                     E = o("hy4O"),
                     k = o("ClQq"),
@@ -14513,7 +14521,7 @@
                     return e
                 }
 
-                function R(e) {
+                function A(e) {
                     var t = function() {
                         if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                         if (Reflect.construct.sham) return !1;
@@ -14525,37 +14533,37 @@
                         }
                     }();
                     return function() {
-                        var o, r = b()(e);
+                        var o, r = S()(e);
                         if (t) {
-                            var i = b()(this).constructor;
+                            var i = S()(this).constructor;
                             o = Reflect.construct(r, arguments, i)
                         } else o = r.apply(this, arguments);
                         return w()(this, o)
                     }
                 }
-                var H = function(e, t, o, r) {
+                var R = function(e, t, o, r) {
                         var i, a = arguments.length,
                             n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
-                        if ("object" === ("undefined" == typeof Reflect ? "undefined" : M()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
+                        if ("object" === ("undefined" == typeof Reflect ? "undefined" : b()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
                         else
                             for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                         return a > 3 && n && Object.defineProperty(t, o, n), n
                     },
-                    A = ["bg2", "bg1", "mg3", "mg2", "mg1", "fg"],
+                    H = ["bg2", "bg1", "mg3", "mg2", "mg1", "fg"],
                     T = function(t) {
                         B()(s, t);
-                        var o = R(s);
+                        var o = A(s);
 
                         function s() {
                             var e;
-                            return h()(this, s), (e = o.apply(this, arguments)).hoveredCollectionSlug = null, e.hoveredNavatarSlug = null, e.parallaxSvgLayer = "mg1", e.parallaxWidthByLayer = A.reduce((function(e, t) {
+                            return h()(this, s), (e = o.apply(this, arguments)).hoveredCollectionSlug = null, e.hoveredNavatarSlug = null, e.parallaxSvgLayer = "mg1", e.parallaxWidthByLayer = H.reduce((function(e, t) {
                                 return U(U({}, e), {}, d()({}, t, 0))
                             }), {}), e.parallaxEnabled = !1, e.parallaxOffset = e.collectionConfigHash[(e.$phase.current.jinxUnlocked ? "jinx" : e.$phase.current.caitlynUnlocked && "caitlyn") || e.$phase.current.viUnlocked && "vi" || "jayce"].offset, e.mousePositionX = 0, e.startingParallaxOffset = null, e.startingMousePositionX = null, e.showGameInfo = !e.$playerSettings.gameInfoViewed, e.showGameComplete = !1, e.showTutorial = !e.$playerSettings.tutorialViewed, e.handleSvgClick = Object(D.a)(k.a.map((function(t) {
                                 return {
                                     selector: e.collectionElementSelectorHash[t],
                                     value: t
                                 }
-                            })), e.handleCollectionClick).bind(x()(e)), e
+                            })), e.handleCollectionClick).bind(y()(e)), e
                         }
                         return g()(s, [{
                             key: "collectionElementSelectorHash",
@@ -14799,7 +14807,7 @@
                             }
                         }]), s
                     }(G.h);
-                H([Object(G.g)()], T.prototype, "parallaxContainer", void 0), H([Object(G.i)("mousePositionX")], T.prototype, "mousePositionXChanged", null), T = H([G.a], T), t.a = T
+                R([Object(G.g)()], T.prototype, "parallaxContainer", void 0), R([Object(G.i)("mousePositionX")], T.prototype, "mousePositionXChanged", null), T = R([G.a], T), t.a = T
             }).call(this, o("P/G1"), o("afOK"), o("RBan"), o("mVx/"), o("J2m7"))
         },
         d2n4: function(e, t) {
@@ -14831,9 +14839,9 @@
                 v = (o("5DmW"), o("qePV"), o("YKMj"));
             o("tkto"), o("pNMO"), o("TeQF"), o("FZtP"), o("27RR");
             var g = o("lSNA"),
-                y = o.n(g);
+                x = o.n(g);
 
-            function x(e, t) {
+            function y(e, t) {
                 var o = Object.keys(e);
                 if (Object.getOwnPropertySymbols) {
                     var r = Object.getOwnPropertySymbols(e);
@@ -14847,9 +14855,9 @@
             function m(e) {
                 for (var t = 1; t < arguments.length; t++) {
                     var o = null != arguments[t] ? arguments[t] : {};
-                    t % 2 ? x(Object(o), !0).forEach((function(t) {
-                        y()(e, t, o[t])
-                    })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(o)) : x(Object(o)).forEach((function(t) {
+                    t % 2 ? y(Object(o), !0).forEach((function(t) {
+                        x()(e, t, o[t])
+                    })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(o)) : y(Object(o)).forEach((function(t) {
                         Object.defineProperty(e, t, Object.getOwnPropertyDescriptor(o, t))
                     }))
                 }
@@ -14978,10 +14986,10 @@
                 type: [String, Number],
                 default: "640"
             })], O.prototype, "width", void 0), C([Object(v.e)(Object)], O.prototype, "playerVars", void 0), C([Object(v.i)("videoId")], O.prototype, "videoIdChanged", null), C([Object(v.i)("height")], O.prototype, "heightChanged", null), C([Object(v.i)("width")], O.prototype, "widthChanged", null);
-            var b = O = C([v.a], O),
-                S = o("17T+");
+            var S = O = C([v.a], O),
+                M = o("17T+");
 
-            function M(e) {
+            function b(e) {
                 var t = function() {
                     if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                     if (Reflect.construct.sham) return !1;
@@ -15011,7 +15019,7 @@
                 },
                 E = function(e) {
                     l()(o, e);
-                    var t = M(o);
+                    var t = b(o);
 
                     function o() {
                         var e;
@@ -15047,14 +15055,14 @@
                     }]), o
                 }(v.h.extend({
                     components: {
-                        YoutubeVideo: b
+                        YoutubeVideo: S
                     }
                 }));
             G([Object(v.e)(String)], E.prototype, "videoId", void 0), G([Object(v.e)([Boolean, String])], E.prototype, "poster", void 0), G([Object(v.e)(Boolean)], E.prototype, "external", void 0), G([Object(v.e)({
                 type: Object,
                 required: !0,
                 validator: function(e) {
-                    return e instanceof S.PingMeta
+                    return e instanceof M.PingMeta
                 }
             })], E.prototype, "pingMeta", void 0), G([Object(v.e)(String)], E.prototype, "linkOverride", void 0), G([Object(v.e)(String)], E.prototype, "playButtonSpriteClass", void 0), G([Object(v.e)(Boolean)], E.prototype, "playButtonHover", void 0), G([Object(v.e)(Number)], E.prototype, "width", void 0), G([Object(v.e)(String)], E.prototype, "title", void 0);
             var k = E = G([v.a], E),
@@ -15157,8 +15165,556 @@
             "use strict";
             o.r(t), t.default = o.p + "videos/collection-vi-artifact-3.webm?6f4346ff015372d924ff1f420463cb65"
         },
-        ercK: function(e, t) {
-            throw new Error("Module parse failed: Unexpected token (4:20)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n| import { Collection } from 'types'\n| \n> const jinxCollection: Collection = {\n| \tslug: 'jinx',\n| \tartifacts: [")
+        ercK: function(e, t, o) {
+            "use strict";
+            o.r(t);
+            o("tkto"), o("pNMO"), o("TeQF"), o("5DmW"), o("FZtP"), o("27RR");
+            var r = o("lSNA"),
+                i = o.n(r),
+                a = o("Q6mN");
+
+            function n(e, t) {
+                var o = Object.keys(e);
+                if (Object.getOwnPropertySymbols) {
+                    var r = Object.getOwnPropertySymbols(e);
+                    t && (r = r.filter((function(t) {
+                        return Object.getOwnPropertyDescriptor(e, t).enumerable
+                    }))), o.push.apply(o, r)
+                }
+                return o
+            }
+
+            function s(e) {
+                for (var t = 1; t < arguments.length; t++) {
+                    var o = null != arguments[t] ? arguments[t] : {};
+                    t % 2 ? n(Object(o), !0).forEach((function(t) {
+                        i()(e, t, o[t])
+                    })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(o)) : n(Object(o)).forEach((function(t) {
+                        Object.defineProperty(e, t, Object.getOwnPropertyDescriptor(o, t))
+                    }))
+                }
+                return e
+            }
+            var l = {
+                slug: "jinx",
+                artifacts: [{
+                    hotspotPosition: {
+                        top: "".concat(182, "px"),
+                        left: "".concat(848, "px")
+                    },
+                    tooltipPosition: {
+                        top: "90px",
+                        left: "350px"
+                    },
+                    glintStyle: {
+                        width: "250px",
+                        height: "250px",
+                        top: "60px",
+                        left: "792px"
+                    }
+                }, {
+                    hotspotPosition: {
+                        top: "".concat(143, "px"),
+                        left: "".concat(323, "px")
+                    },
+                    tooltipPosition: {
+                        top: "90px",
+                        left: "350px"
+                    },
+                    glintStyle: {
+                        width: "250px",
+                        height: "250px",
+                        top: "53px",
+                        left: "149px"
+                    }
+                }, {
+                    hotspotPosition: {
+                        top: "".concat(471, "px"),
+                        left: "".concat(317, "px")
+                    },
+                    tooltipPosition: {
+                        top: "90px",
+                        left: "350px"
+                    },
+                    glintStyle: {
+                        width: "250px",
+                        height: "250px",
+                        top: "404px",
+                        left: "141px"
+                    }
+                }],
+                records: [{
+                    hotspotPosition: {
+                        top: "".concat(208, "px"),
+                        left: "".concat(521, "px")
+                    },
+                    glintStyle: {
+                        width: "250px",
+                        height: "250px",
+                        top: "142px",
+                        left: "422px"
+                    },
+                    views: [{
+                        pages: [{
+                            number: 1,
+                            sections: [{
+                                tooltipPosition: {
+                                    top: "197px",
+                                    left: "605px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(201, "px"),
+                                    left: "".concat(442, "px")
+                                },
+                                pageNumberOverride: 2,
+                                textCount: 1
+                            }, {
+                                tooltipPosition: {
+                                    top: "134px",
+                                    left: "603px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(310, "px"),
+                                    left: "".concat(492, "px")
+                                },
+                                pageNumberOverride: 2,
+                                textCount: 2,
+                                formatByText: {
+                                    1: {
+                                        bullet: !0
+                                    },
+                                    2: {
+                                        bullet: !0,
+                                        classes: "line-through"
+                                    }
+                                }
+                            }, s({
+                                tooltipPosition: {
+                                    top: "143px",
+                                    right: "115px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(241, "px"),
+                                    left: "".concat(347, "px")
+                                },
+                                pageNumberOverride: 2
+                            }, Object(a.a)(4, {
+                                bullet: !0
+                            })), {
+                                tooltipPosition: {
+                                    top: "141px",
+                                    left: "147px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(232, "px"),
+                                    left: "".concat(688, "px")
+                                },
+                                pageNumberOverride: 2,
+                                textCount: 1
+                            }, s({
+                                tooltipPosition: {
+                                    top: "203px",
+                                    left: "360px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(284, "px"),
+                                    left: "".concat(258, "px")
+                                },
+                                pageNumberOverride: 2
+                            }, Object(a.a)(1, {
+                                bullet: !0
+                            }))]
+                        }]
+                    }, {
+                        pages: [{
+                            number: 3,
+                            sections: [s({
+                                tooltipPosition: {
+                                    top: "178px",
+                                    left: "472px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(246, "px"),
+                                    left: "".concat(246, "px")
+                                }
+                            }, Object(a.a)(2, {
+                                bullet: !0
+                            })), s({
+                                tooltipPosition: {
+                                    top: "160px",
+                                    left: "590px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(109, "px"),
+                                    left: "".concat(322, "px")
+                                }
+                            }, Object(a.a)(2, {
+                                bullet: !0
+                            })), s({
+                                tooltipPosition: {
+                                    top: "237px",
+                                    left: "74px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(201, "px"),
+                                    left: "".concat(513, "px")
+                                }
+                            }, Object(a.a)(1, {
+                                bullet: !0
+                            })), s({
+                                tooltipPosition: {
+                                    top: "134px",
+                                    left: "535px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(329, "px"),
+                                    left: "".concat(211, "px")
+                                }
+                            }, Object(a.a)(4, {
+                                bullet: !0
+                            }))]
+                        }, {
+                            number: 4,
+                            sections: [s({
+                                tooltipPosition: {
+                                    top: "156px",
+                                    left: "230px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(135, "px"),
+                                    left: "".concat(705, "px")
+                                }
+                            }, Object(a.a)(7, {
+                                bullet: !0
+                            })), s({
+                                tooltipPosition: {
+                                    top: "130px",
+                                    left: "188px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(218, "px"),
+                                    left: "".concat(601, "px")
+                                }
+                            }, Object(a.a)(8, {
+                                bullet: !0,
+                                classes: "span:line-through"
+                            })), {
+                                tooltipPosition: {
+                                    top: "160px",
+                                    left: "311px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(270, "px"),
+                                    left: "".concat(826, "px")
+                                },
+                                textCount: 4,
+                                formatByText: {
+                                    1: {
+                                        bullet: !0,
+                                        classes: "span:line-through"
+                                    },
+                                    2: {
+                                        bullet: !0
+                                    },
+                                    3: {
+                                        bullet: !0
+                                    },
+                                    4: {
+                                        bullet: !0
+                                    }
+                                }
+                            }, s({
+                                tooltipPosition: {
+                                    top: "127px",
+                                    left: "80px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(329, "px"),
+                                    left: "".concat(659, "px")
+                                }
+                            }, Object(a.a)(4, {
+                                bullet: !0
+                            }))]
+                        }]
+                    }, {
+                        pages: [{
+                            number: 5,
+                            sections: [{
+                                tooltipPosition: {
+                                    top: "50%",
+                                    left: "606px",
+                                    transform: "translateY(-50%)"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(82, "px"),
+                                    left: "".concat(360, "px")
+                                },
+                                textCount: 7,
+                                formatByText: {
+                                    1: {
+                                        bullet: !0
+                                    },
+                                    2: {
+                                        bullet: !0,
+                                        classes: "ml-20"
+                                    },
+                                    3: {
+                                        bullet: !0,
+                                        classes: "ml-40"
+                                    },
+                                    4: {
+                                        bullet: !0,
+                                        classes: "ml-40"
+                                    },
+                                    5: {
+                                        bullet: !0,
+                                        classes: "ml-40"
+                                    },
+                                    6: {
+                                        bullet: !0,
+                                        classes: "ml-40"
+                                    },
+                                    7: {
+                                        bullet: !0,
+                                        classes: "ml-40"
+                                    }
+                                }
+                            }, s({
+                                tooltipPosition: {
+                                    top: "155px",
+                                    left: "465px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(173, "px"),
+                                    left: "".concat(497, "px")
+                                }
+                            }, Object(a.a)(1, {
+                                bullet: !0
+                            })), {
+                                tooltipPosition: {
+                                    top: "111px",
+                                    left: "512px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(178, "px"),
+                                    left: "".concat(283, "px"),
+                                    display: "none"
+                                },
+                                textCount: 5,
+                                formatByText: {
+                                    1: {
+                                        bullet: !0
+                                    },
+                                    2: {
+                                        bullet: !0,
+                                        classes: "ml-20"
+                                    },
+                                    3: {
+                                        bullet: !0,
+                                        classes: "ml-40"
+                                    },
+                                    4: {
+                                        bullet: !0,
+                                        classes: "ml-20"
+                                    },
+                                    5: {
+                                        bullet: !0,
+                                        classes: "ml-20"
+                                    }
+                                }
+                            }, {
+                                tooltipPosition: {
+                                    top: "158px",
+                                    left: "622px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(269, "px"),
+                                    left: "".concat(377, "px")
+                                },
+                                textCount: 4,
+                                formatByText: {
+                                    1: {
+                                        bullet: !0
+                                    },
+                                    2: {
+                                        bullet: !0,
+                                        classes: "ml-20"
+                                    },
+                                    3: {
+                                        bullet: !0,
+                                        classes: "ml-20"
+                                    },
+                                    4: {
+                                        bullet: !0,
+                                        classes: "ml-20"
+                                    }
+                                }
+                            }, {
+                                tooltipPosition: {
+                                    top: "198px",
+                                    left: "535px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(275, "px"),
+                                    left: "".concat(186, "px")
+                                },
+                                textCount: 5,
+                                formatByText: {
+                                    1: {
+                                        bullet: !0
+                                    },
+                                    2: {
+                                        bullet: !0,
+                                        classes: "ml-20"
+                                    },
+                                    3: {
+                                        bullet: !0,
+                                        classes: "ml-20"
+                                    },
+                                    4: {
+                                        bullet: !0,
+                                        classes: "ml-40"
+                                    },
+                                    5: {
+                                        bullet: !0,
+                                        classes: "ml-40"
+                                    }
+                                }
+                            }]
+                        }, {
+                            number: 6,
+                            sections: [s({
+                                tooltipPosition: {
+                                    top: "100px",
+                                    left: "256px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(130, "px"),
+                                    left: "".concat(706, "px")
+                                }
+                            }, Object(a.a)(2, {
+                                bullet: !0
+                            })), s({
+                                tooltipPosition: {
+                                    top: "127px",
+                                    left: "308px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(169, "px"),
+                                    left: "".concat(882, "px")
+                                }
+                            }, Object(a.a)(3, {
+                                bullet: !0
+                            })), {
+                                tooltipPosition: {
+                                    left: "190px",
+                                    bottom: "125px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(169, "px"),
+                                    left: "".concat(620, "px")
+                                },
+                                containerAttrs: {
+                                    class: "text-body"
+                                },
+                                textGroups: [1, 2, 5, 3, 6, 4, 7],
+                                formatByText: {
+                                    1: {
+                                        bullet: !0
+                                    },
+                                    2: {
+                                        bullet: !0
+                                    },
+                                    3: {
+                                        bullet: !0
+                                    },
+                                    4: {
+                                        bullet: !0
+                                    },
+                                    5: {
+                                        bullet: !0,
+                                        classes: "justify-end"
+                                    },
+                                    6: {
+                                        bullet: !0,
+                                        classes: "justify-end"
+                                    },
+                                    7: {
+                                        bullet: !0,
+                                        classes: "justify-end"
+                                    }
+                                }
+                            }, {
+                                tooltipPosition: {
+                                    top: "154px",
+                                    left: "297px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(261, "px"),
+                                    left: "".concat(870, "px")
+                                },
+                                textCount: 4,
+                                formatByText: {
+                                    1: {
+                                        bullet: !0
+                                    },
+                                    2: {
+                                        bullet: !0,
+                                        classes: "ml-20"
+                                    },
+                                    3: {
+                                        bullet: !0,
+                                        classes: "ml-20"
+                                    },
+                                    4: {
+                                        bullet: !0,
+                                        classes: "ml-20"
+                                    }
+                                }
+                            }, s({
+                                tooltipPosition: {
+                                    top: "90px",
+                                    left: "102px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(255, "px"),
+                                    left: "".concat(603, "px")
+                                }
+                            }, Object(a.a)(4, {
+                                bullet: !0
+                            })), {
+                                tooltipPosition: {
+                                    top: "164px",
+                                    left: "190px"
+                                },
+                                hotspotPosition: {
+                                    top: "".concat(410, "px"),
+                                    left: "".concat(813, "px")
+                                },
+                                textCount: 4,
+                                formatByText: {
+                                    1: {
+                                        bullet: !0
+                                    },
+                                    2: {
+                                        bullet: !0,
+                                        classes: "ml-20"
+                                    },
+                                    3: {
+                                        bullet: !0,
+                                        classes: "ml-20"
+                                    },
+                                    4: {
+                                        bullet: !0,
+                                        classes: "ml-20"
+                                    }
+                                }
+                            }]
+                        }]
+                    }]
+                }]
+            };
+            t.default = l
         },
         erpx: function(e, t) {
             e.exports = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 2112 1442"><g class="vi-record-2-page-4"><g class="section-1"><path fill="#fff" fill-rule="evenodd" d="M983.826 504.826L965 486l-23 23 11.5 11.5 27.475 30.791 19.845 50.149s186.58-45.65 313.61-84.03 260.02-91.3 260.02-91.3l-43.67-87.33s-142.25 61.53-280.53 98.58c-108.15 28.976-221.96 56.741-266.424 67.466z" class="section-1-clickable" clip-rule="evenodd"></path><path fill="url(#vi-record-2-page-4-paint0_linear_36:2177)" fill-opacity=".4" stroke="url(#vi-record-2-page-4-paint1_linear_36:2177)" stroke-miterlimit="10" stroke-width="4" d="M964.43 509.48l36.39 91.96s186.58-45.65 313.61-84.03 260.02-91.3 260.02-91.3l-43.67-87.33s-142.25 61.53-280.53 98.58c-138.28 37.05-285.82 72.12-285.82 72.12z" class="section-1-neutral"></path><g class="section-1-hover" filter="url(#vi-record-2-page-4-filter0_ddd_36:2177)"><path fill="url(#vi-record-2-page-4-paint2_linear_36:2177)" fill-opacity=".4" d="M964.43 509.48l36.39 91.96s186.58-45.65 313.61-84.03 260.02-91.3 260.02-91.3l-43.67-87.33s-142.25 61.53-280.53 98.58c-138.28 37.05-285.82 72.12-285.82 72.12z" shape-rendering="crispEdges"></path><path stroke="url(#vi-record-2-page-4-paint3_linear_36:2177)" stroke-miterlimit="10" stroke-width="4" d="M964.43 509.48l36.39 91.96s186.58-45.65 313.61-84.03 260.02-91.3 260.02-91.3l-43.67-87.33s-142.25 61.53-280.53 98.58c-138.28 37.05-285.82 72.12-285.82 72.12z" shape-rendering="crispEdges"></path></g></g><g class="section-2"><path fill="#fff" fill-rule="evenodd" d="M1617.48 1029.28l-465.4 80.49-175-481.2 432.76-119.75 49.23 21.878L1498 528l19.92 19.924 146.63 2.416s121.81 215.93 171.64 408.34l-218.71 70.6z" class="section-2-clickable" clip-rule="evenodd"></path><path fill="url(#vi-record-2-page-4-paint4_linear_36:2177)" fill-opacity=".4" stroke="url(#vi-record-2-page-4-paint5_linear_36:2177)" stroke-miterlimit="10" stroke-width="4" d="M1152.08 1109.77l447.69-121.36 17.71 40.87 218.71-70.6c-49.83-192.41-171.64-408.34-171.64-408.34L1519.2 598.8l-22.15-51.22-62.29 20.76-24.92-59.52-432.76 119.75 175 481.2z" class="section-2-neutral"></path><g class="section-2-hover" filter="url(#vi-record-2-page-4-filter1_ddd_36:2177)"><path fill="url(#vi-record-2-page-4-paint6_linear_36:2177)" fill-opacity=".4" d="M1152.08 1109.77l447.69-121.36 17.71 40.87 218.71-70.6c-49.83-192.41-171.64-408.34-171.64-408.34L1519.2 598.8l-22.15-51.22-62.29 20.76-24.92-59.52-432.76 119.75 175 481.2z" shape-rendering="crispEdges"></path><path stroke="url(#vi-record-2-page-4-paint7_linear_36:2177)" stroke-miterlimit="10" stroke-width="4" d="M1152.08 1109.77l447.69-121.36 17.71 40.87 218.71-70.6c-49.83-192.41-171.64-408.34-171.64-408.34L1519.2 598.8l-22.15-51.22-62.29 20.76-24.92-59.52-432.76 119.75 175 481.2z" shape-rendering="crispEdges"></path></g></g></g><defs><linearGradient id="vi-record-2-page-4-paint0_linear_36:2177" x1="1269.44" x2="1215.82" y1="338.78" y2="620.219" class="paint0_linear_36:2177" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="vi-record-2-page-4-paint1_linear_36:2177" x1="1416.59" x2="1391.23" y1="274.659" y2="610.995" class="paint1_linear_36:2177" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="vi-record-2-page-4-paint2_linear_36:2177" x1="1269.44" x2="1215.82" y1="338.78" y2="620.219" class="paint2_linear_36:2177" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="vi-record-2-page-4-paint3_linear_36:2177" x1="1416.59" x2="1391.23" y1="274.659" y2="610.995" class="paint3_linear_36:2177" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="vi-record-2-page-4-paint4_linear_36:2177" x1="1406.64" x2="1218.15" y1="508.82" y2="1117.77" class="paint4_linear_36:2177" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="vi-record-2-page-4-paint5_linear_36:2177" x1="1613.88" x2="1520.47" y1="362.115" y2="1124.56" class="paint5_linear_36:2177" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="vi-record-2-page-4-paint6_linear_36:2177" x1="1406.64" x2="1218.15" y1="508.82" y2="1117.77" class="paint6_linear_36:2177" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="vi-record-2-page-4-paint7_linear_36:2177" x1="1613.88" x2="1520.47" y1="362.115" y2="1124.56" class="paint7_linear_36:2177" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><filter id="vi-record-2-page-4-filter0_ddd_36:2177" width="655.492" height="307.604" x="941.72" y="316.193" class="filter0_ddd_36:2177" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_36:2177"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_36:2177" result="effect2_dropShadow_36:2177"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_36:2177" result="effect3_dropShadow_36:2177"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_36:2177" result="shape"></feBlend></filter><filter id="vi-record-2-page-4-filter1_ddd_36:2177" width="904.138" height="645.759" x="954.461" y="486.423" class="filter1_ddd_36:2177" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_36:2177"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_36:2177" result="effect2_dropShadow_36:2177"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_36:2177" result="effect3_dropShadow_36:2177"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_36:2177" result="shape"></feBlend></filter></defs></svg>'
@@ -15214,10 +15770,10 @@
             o.r(t), t.default = o.p + "images/collection-jayce-record-1-view-3.jpg?70323fffe2e01c49e3d0e6f881ba2da9"
         },
         gCxL: function(e, t) {
-            throw new Error('Module parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n> <svg\n| \txmlns="http://www.w3.org/2000/svg"\n| \twidth="2112"')
+            e.exports = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 2112 1442"><g class="jinx-record-1-page-6"><g class="section-6"><path fill="#fff" d="M1361.05 917.561l-203.23 40.65 15.8 85.809 155.82 74.52 259.69 51.94L1678 1014l-23-23-77.5-6.5-108.05-30.809-108.4-36.13z" class="section-6-clickable"></path><path fill="url(#jinx-record-1-page-6-paint0_linear_39:2787)" fill-opacity=".4" stroke="url(#jinx-record-1-page-6-paint1_linear_39:2787)" stroke-miterlimit="10" stroke-width="4" d="M1157.82 958.211l203.23-40.65 108.4 36.13 9.03 31.61 180.66 29.359-70.01 155.82-259.69-51.94-47.42-40.65-108.4-33.87-15.8-85.809z" class="section-6-neutral"></path><g class="section-6-hover" filter="url(#jinx-record-1-page-6-filter0_ddd_39:2787)"><path fill="url(#jinx-record-1-page-6-paint2_linear_39:2787)" fill-opacity=".4" d="M1157.82 958.211l203.23-40.65 108.4 36.13 9.03 31.61 180.66 29.359-70.01 155.82-259.69-51.94-47.42-40.65-108.4-33.87-15.8-85.809z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-6-paint3_linear_39:2787)" stroke-miterlimit="10" stroke-width="4" d="M1157.82 958.211l203.23-40.65 108.4 36.13 9.03 31.61 180.66 29.359-70.01 155.82-259.69-51.94-47.42-40.65-108.4-33.87-15.8-85.809z" shape-rendering="crispEdges"></path></g></g><g class="section-5"><path fill="#fff" d="M1258 704l-23-23-275.899 116.87-33.88 29.36 58.72 135.49 368.079-67.74 214.53 79.03 108.39-60.97-36.13-85.81-284.53-70-81.78-31.73L1258 704z" class="section-5-clickable"></path><path fill="url(#jinx-record-1-page-6-paint4_linear_39:2787)" fill-opacity=".4" stroke="url(#jinx-record-1-page-6-paint5_linear_39:2787)" stroke-miterlimit="10" stroke-width="4" d="M983.941 962.719l368.079-67.74 214.53 79.03 108.39-60.97-36.13-85.81-284.53-70h-97.1l-22.58-49.68-207.76 117.42-67.739-27.1-33.88 29.36 58.72 135.49z" class="section-5-neutral"></path><g class="section-5-hover" filter="url(#jinx-record-1-page-6-filter1_ddd_39:2787)"><path fill="url(#jinx-record-1-page-6-paint6_linear_39:2787)" fill-opacity=".4" d="M983.941 962.719l368.079-67.74 214.53 79.03 108.39-60.97-36.13-85.81-284.53-70h-97.1l-22.58-49.68-207.76 117.42-67.739-27.1-33.88 29.36 58.72 135.49z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-6-paint7_linear_39:2787)" stroke-miterlimit="10" stroke-width="4" d="M983.941 962.719l368.079-67.74 214.53 79.03 108.39-60.97-36.13-85.81-284.53-70h-97.1l-22.58-49.68-207.76 117.42-67.739-27.1-33.88 29.36 58.72 135.49z" shape-rendering="crispEdges"></path></g></g><g class="section-4"><path fill="#fff" d="M1408.48 761.739l-29.36-49.68 72.26-33.87 121.95 51.94 97.1-40.65L1770 692l23 23-52.57 85.129-74.52 22.58-257.43-60.97z" class="section-4-clickable"></path><path fill="url(#jinx-record-1-page-6-paint8_linear_39:2787)" fill-opacity=".4" stroke="url(#jinx-record-1-page-6-paint9_linear_39:2787)" stroke-miterlimit="10" stroke-width="4" d="M1379.12 712.059l29.36 49.68 257.43 60.97 74.52-22.58 31.62-83.55-101.62-27.1-97.1 40.65-121.95-51.94-72.26 33.87z" class="section-4-neutral"></path><g class="section-4-hover" filter="url(#jinx-record-1-page-6-filter2_ddd_39:2787)"><path fill="url(#jinx-record-1-page-6-paint10_linear_39:2787)" fill-opacity=".4" d="M1379.12 712.059l29.36 49.68 257.43 60.97 74.52-22.58 31.62-83.55-101.62-27.1-97.1 40.65-121.95-51.94-72.26 33.87z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-6-paint11_linear_39:2787)" stroke-miterlimit="10" stroke-width="4" d="M1379.12 712.059l29.36 49.68 257.43 60.97 74.52-22.58 31.62-83.55-101.62-27.1-97.1 40.65-121.95-51.94-72.26 33.87z" shape-rendering="crispEdges"></path></g></g><g class="section-3"><path fill="#fff" d="M1269 508l-23 23-30.12 100.52 84.42 97.86 161.18-71 107.45 53.73 86.34-26.86 26.86-105.54-331.94-69.07L1269 508z" class="section-3-clickable"></path><path fill="url(#jinx-record-1-page-6-paint12_linear_39:2787)" fill-opacity=".4" stroke="url(#jinx-record-1-page-6-paint13_linear_39:2787)" stroke-miterlimit="10" stroke-width="4" d="M1350.19 510.641l-82.51 23.02-51.8 97.86 46.05 11.51 38.37 86.35 161.18-71 107.45 53.73 86.34-26.86 26.86-105.54-331.94-69.07z" class="section-3-neutral"></path><g class="section-3-hover" filter="url(#jinx-record-1-page-6-filter3_ddd_39:2787)"><path fill="url(#jinx-record-1-page-6-paint14_linear_39:2787)" fill-opacity=".4" d="M1350.19 510.641l-82.51 23.02-51.8 97.86 46.05 11.51 38.37 86.35 161.18-71 107.45 53.73 86.34-26.86 26.86-105.54-331.94-69.07z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-6-paint15_linear_39:2787)" stroke-miterlimit="10" stroke-width="4" d="M1350.19 510.641l-82.51 23.02-51.8 97.86 46.05 11.51 38.37 86.35 161.18-71 107.45 53.73 86.34-26.86 26.86-105.54-331.94-69.07z" shape-rendering="crispEdges"></path></g></g><g class="section-2"><path fill="#fff" d="M1529.21 492.971l17.33-20 246.46 35.03 23 23-38.77 61.98-168.01-37.34-80.01-62.67z" class="section-2-clickable"></path><path fill="url(#jinx-record-1-page-6-paint16_linear_39:2787)" fill-opacity=".4" stroke="url(#jinx-record-1-page-6-paint17_linear_39:2787)" stroke-miterlimit="10" stroke-width="4" d="M1546.54 472.971l-17.33 20 80.01 62.67 168.01 37.34 18.67-61.34-249.36-58.67z" class="section-2-neutral"></path><g class="section-2-hover" filter="url(#jinx-record-1-page-6-filter4_ddd_39:2787)"><path fill="url(#jinx-record-1-page-6-paint18_linear_39:2787)" fill-opacity=".4" d="M1546.54 472.971l-17.33 20 80.01 62.67 168.01 37.34 18.67-61.34-249.36-58.67z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-6-paint19_linear_39:2787)" stroke-miterlimit="10" stroke-width="4" d="M1546.54 472.971l-17.33 20 80.01 62.67 168.01 37.34 18.67-61.34-249.36-58.67z" shape-rendering="crispEdges"></path></g></g><g class="section-1"><path fill="#fff" d="M1442 430l-23 23-36.19 34.61 50.78 32.89 129.62 17.88-52.52-43.58 23.46-24.58L1442 430z" class="section-1-clickable"></path><path fill="url(#jinx-record-1-page-6-paint20_linear_39:2787)" fill-opacity=".4" stroke="url(#jinx-record-1-page-6-paint21_linear_39:2787)" stroke-miterlimit="10" stroke-width="4" d="M1382.81 487.611l50.78 32.89 129.62 17.88-52.52-43.58 23.46-24.58-90.51-16.76-60.83 34.15z" class="section-1-neutral"></path><g class="section-1-hover" filter="url(#jinx-record-1-page-6-filter5_ddd_39:2787)"><path fill="url(#jinx-record-1-page-6-paint22_linear_39:2787)" fill-opacity=".4" d="M1382.81 487.611l50.78 32.89 129.62 17.88-52.52-43.58 23.46-24.58-90.51-16.76-60.83 34.15z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-6-paint23_linear_39:2787)" stroke-miterlimit="10" stroke-width="4" d="M1382.81 487.611l50.78 32.89 129.62 17.88-52.52-43.58 23.46-24.58-90.51-16.76-60.83 34.15z" shape-rendering="crispEdges"></path></g></g></g><defs><linearGradient id="jinx-record-1-page-6-paint0_linear_39:2787" x1="1408.48" x2="1348.76" y1="917.561" y2="1185.07" class="paint0_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint1_linear_39:2787" x1="1529.41" x2="1500.86" y1="855.817" y2="1179" class="paint1_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint2_linear_39:2787" x1="1408.48" x2="1348.76" y1="917.561" y2="1185.07" class="paint2_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint3_linear_39:2787" x1="1529.41" x2="1500.86" y1="855.817" y2="1179" class="paint3_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint4_linear_39:2787" x1="1300.08" x2="1254.67" y1="707.549" y2="996.282" class="paint4_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint5_linear_39:2787" x1="1480.93" x2="1459.66" y1="642.5" y2="984.318" class="paint5_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint6_linear_39:2787" x1="1300.08" x2="1254.67" y1="707.549" y2="996.282" class="paint6_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint7_linear_39:2787" x1="1480.93" x2="1459.66" y1="642.5" y2="984.318" class="paint7_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint8_linear_39:2787" x1="1575.58" x2="1550.14" y1="678.189" y2="834.522" class="paint8_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint9_linear_39:2787" x1="1670.37" x2="1658.43" y1="642.909" y2="828.25" class="paint9_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint10_linear_39:2787" x1="1575.58" x2="1550.14" y1="678.189" y2="834.522" class="paint10_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint11_linear_39:2787" x1="1670.37" x2="1658.43" y1="642.909" y2="828.25" class="paint11_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint12_linear_39:2787" x1="1449.01" x2="1400.67" y1="510.641" y2="743.492" class="paint12_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint13_linear_39:2787" x1="1561.48" x2="1538.49" y1="457.241" y2="737.042" class="paint13_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint14_linear_39:2787" x1="1449.01" x2="1400.67" y1="510.641" y2="743.492" class="paint14_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint15_linear_39:2787" x1="1561.48" x2="1538.49" y1="457.241" y2="737.042" class="paint15_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint16_linear_39:2787" x1="1662.56" x2="1637.03" y1="472.971" y2="601.146" class="paint16_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint17_linear_39:2787" x1="1726.89" x2="1714.78" y1="443.674" y2="597.266" class="paint17_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint18_linear_39:2787" x1="1662.56" x2="1637.03" y1="472.971" y2="601.146" class="paint18_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint19_linear_39:2787" x1="1726.89" x2="1714.78" y1="443.674" y2="597.266" class="paint19_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint20_linear_39:2787" x1="1473.01" x2="1454.19" y1="453.461" y2="543.834" class="paint20_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint21_linear_39:2787" x1="1516.53" x2="1507.57" y1="432.73" y2="541.35" class="paint21_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint22_linear_39:2787" x1="1473.01" x2="1454.19" y1="453.461" y2="543.834" class="paint22_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-6-paint23_linear_39:2787" x1="1516.53" x2="1507.57" y1="432.73" y2="541.35" class="paint23_linear_39:2787" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><filter id="jinx-record-1-page-6-filter0_ddd_39:2787" width="546.536" height="297.258" x="1135.5" y="895.496" class="filter0_ddd_39:2787" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2787"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2787" result="effect2_dropShadow_39:2787"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2787" result="effect3_dropShadow_39:2787"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2787" result="shape"></feBlend></filter><filter id="jinx-record-1-page-6-filter1_ddd_39:2787" width="794.674" height="311.473" x="902.802" y="684.732" class="filter1_ddd_39:2787" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2787"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2787" result="effect2_dropShadow_39:2787"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2787" result="effect3_dropShadow_39:2787"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2787" result="shape"></feBlend></filter><filter id="jinx-record-1-page-6-filter2_ddd_39:2787" width="438.425" height="188.781" x="1356.28" y="655.998" class="filter2_ddd_39:2787" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2787"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2787" result="effect2_dropShadow_39:2787"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2787" result="effect3_dropShadow_39:2787"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2787" result="shape"></feBlend></filter><filter id="jinx-record-1-page-6-filter3_ddd_39:2787" width="511.666" height="263.43" x="1192.92" y="488.584" class="filter3_ddd_39:2787" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2787"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2787" result="effect2_dropShadow_39:2787"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2787" result="effect3_dropShadow_39:2787"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2787" result="shape"></feBlend></filter><filter id="jinx-record-1-page-6-filter4_ddd_39:2787" width="312.112" height="164.588" x="1506.32" y="450.746" class="filter4_ddd_39:2787" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2787"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2787" result="effect2_dropShadow_39:2787"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2787" result="effect3_dropShadow_39:2787"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2787" result="shape"></feBlend></filter><filter id="jinx-record-1-page-6-filter5_ddd_39:2787" width="230.942" height="129.957" x="1358.94" y="431.363" class="filter5_ddd_39:2787" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2787"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2787" result="effect2_dropShadow_39:2787"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2787" result="effect3_dropShadow_39:2787"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2787" result="shape"></feBlend></filter></defs></svg>'
         },
         gIik: function(e, t) {
-            throw new Error('Module parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n> <svg\n| \txmlns="http://www.w3.org/2000/svg"\n| \twidth="2112"')
+            e.exports = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 2112 1442"><g class="jinx-record-1-page-3"><g class="section-4"><path fill="#fff" d="M696.57 918.799l-233.68 19.84-32.89-86.64 23-23 168.79-30.3 90.64 54.38-15.86 65.72z" class="section-4-clickable"></path><path fill="url(#jinx-record-1-page-3-paint0_linear_39:2719)" fill-opacity=".4" stroke="url(#jinx-record-1-page-3-paint1_linear_39:2719)" stroke-miterlimit="10" stroke-width="4" d="M696.57 918.799l-24.92-49.86 40.78-15.86-90.64-54.38-174.48 49.85 15.58 90.09 233.68-19.84z" class="section-4-neutral"></path><g class="section-4-hover" filter="url(#jinx-record-1-page-3-filter0_ddd_39:2719)"><path fill="url(#jinx-record-1-page-3-paint2_linear_39:2719)" fill-opacity=".4" d="M696.57 918.799l-24.92-49.86 40.78-15.86-90.64-54.38-174.48 49.85 15.58 90.09 233.68-19.84z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-3-paint3_linear_39:2719)" stroke-miterlimit="10" stroke-width="4" d="M696.57 918.799l-24.92-49.86 40.78-15.86-90.64-54.38-174.48 49.85 15.58 90.09 233.68-19.84z" shape-rendering="crispEdges"></path></g></g><g class="section-3"><path fill="#fff" d="M1065.94 644.611h95.17l111.03-169.96-40.78-33.99-138.23-49.85-213.01 142.76 185.82 111.04z" class="section-3-clickable"></path><path fill="url(#jinx-record-1-page-3-paint4_linear_39:2719)" fill-opacity=".4" stroke="url(#jinx-record-1-page-3-paint5_linear_39:2719)" stroke-miterlimit="10" stroke-width="4" d="M1061.4 597.021l4.54 47.59h95.17l111.03-169.96-40.78-33.99-138.23-49.85-213.01 142.76 181.28 63.45z" class="section-3-neutral"></path><g class="section-3-hover" filter="url(#jinx-record-1-page-3-filter1_ddd_39:2719)"><path fill="url(#jinx-record-1-page-3-paint6_linear_39:2719)" fill-opacity=".4" d="M1061.4 597.021l4.54 47.59h95.17l111.03-169.96-40.78-33.99-138.23-49.85-213.01 142.76 181.28 63.45z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-3-paint7_linear_39:2719)" stroke-miterlimit="10" stroke-width="4" d="M1061.4 597.021l4.54 47.59h95.17l111.03-169.96-40.78-33.99-138.23-49.85-213.01 142.76 181.28 63.45z" shape-rendering="crispEdges"></path></g></g><g class="section-2"><path fill="#fff" d="M674 388l-23 23 16.11 104.44 224.34-4.53 138.23-90.64L674 388z" class="section-2-clickable"></path><path fill="url(#jinx-record-1-page-3-paint8_linear_39:2719)" fill-opacity=".4" stroke="url(#jinx-record-1-page-3-paint9_linear_39:2719)" stroke-miterlimit="10" stroke-width="4" d="M667.11 515.439l224.34-4.53 138.23-90.64-362.57-6.8v101.97z" class="section-2-neutral"></path><g class="section-2-hover" filter="url(#jinx-record-1-page-3-filter2_ddd_39:2719)"><path fill="url(#jinx-record-1-page-3-paint10_linear_39:2719)" fill-opacity=".4" d="M667.11 515.439l224.34-4.53 138.23-90.64-362.57-6.8v101.97z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-3-paint11_linear_39:2719)" stroke-miterlimit="10" stroke-width="4" d="M667.11 515.439l224.34-4.53 138.23-90.64-362.57-6.8v101.97z" shape-rendering="crispEdges"></path></g></g><g class="section-1"><path fill="#fff" d="M639.92 773.769l-115.57-24.93L500 685l23-23 96.53-6.061 90.64 67.98-70.25 49.85z" class="section-1-clickable"></path><path fill="url(#jinx-record-1-page-3-paint12_linear_39:2719)" fill-opacity=".4" stroke="url(#jinx-record-1-page-3-paint13_linear_39:2719)" stroke-miterlimit="10" stroke-width="4" d="M524.35 748.839l115.57 24.93 70.25-49.85-90.64-67.98-101.98 24.92 6.8 67.98z" class="section-1-neutral"></path><g class="section-1-hover" filter="url(#jinx-record-1-page-3-filter3_ddd_39:2719)"><path fill="url(#jinx-record-1-page-3-paint14_linear_39:2719)" fill-opacity=".4" d="M524.35 748.839l115.57 24.93 70.25-49.85-90.64-67.98-101.98 24.92 6.8 67.98z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-3-paint15_linear_39:2719)" stroke-miterlimit="10" stroke-width="4" d="M524.35 748.839l115.57 24.93 70.25-49.85-90.64-67.98-101.98 24.92 6.8 67.98z" shape-rendering="crispEdges"></path></g></g></g><defs><linearGradient id="jinx-record-1-page-3-paint0_linear_39:2719" x1="579.87" x2="545.454" y1="798.699" y2="946.049" class="paint0_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-3-paint1_linear_39:2719" x1="643.824" x2="627.306" y1="764.537" y2="943.222" class="paint1_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-3-paint2_linear_39:2719" x1="579.87" x2="545.454" y1="798.699" y2="946.049" class="paint2_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-3-paint3_linear_39:2719" x1="643.824" x2="627.306" y1="764.537" y2="943.222" class="paint3_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-3-paint4_linear_39:2719" x1="1076.13" x2="1001.52" y1="390.811" y2="651.253" class="paint4_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-3-paint5_linear_39:2719" x1="1170.7" x2="1134.11" y1="328.852" y2="651.543" class="paint5_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-3-paint6_linear_39:2719" x1="1076.13" x2="1001.52" y1="390.811" y2="651.253" class="paint6_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-3-paint7_linear_39:2719" x1="1170.7" x2="1134.11" y1="328.852" y2="651.543" class="paint7_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-3-paint8_linear_39:2719" x1="848.395" x2="834.519" y1="413.469" y2="524.968" class="paint8_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-3-paint9_linear_39:2719" x1="935.857" x2="929.405" y1="388.576" y2="519.573" class="paint9_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-3-paint10_linear_39:2719" x1="848.395" x2="834.519" y1="413.469" y2="524.968" class="paint10_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-3-paint11_linear_39:2719" x1="935.857" x2="929.405" y1="388.576" y2="519.573" class="paint11_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-3-paint12_linear_39:2719" x1="613.86" x2="580.862" y1="655.939" y2="777.845" class="paint12_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-3-paint13_linear_39:2719" x1="660.325" x2="644.253" y1="627.174" y2="777.192" class="paint13_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-3-paint14_linear_39:2719" x1="613.86" x2="580.862" y1="655.939" y2="777.845" class="paint14_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-3-paint15_linear_39:2719" x1="660.325" x2="644.253" y1="627.174" y2="777.192" class="paint15_linear_39:2719" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><filter id="jinx-record-1-page-3-filter0_ddd_39:2719" width="311.926" height="184.25" x="425.033" y="776.537" class="filter0_ddd_39:2719" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2719"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2719" result="effect2_dropShadow_39:2719"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2719" result="effect3_dropShadow_39:2719"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2719" result="shape"></feBlend></filter><filter id="jinx-record-1-page-3-filter1_ddd_39:2719" width="439.105" height="298.025" x="855.683" y="368.586" class="filter1_ddd_39:2719" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2719"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2719" result="effect2_dropShadow_39:2719"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2719" result="effect3_dropShadow_39:2719"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2719" result="shape"></feBlend></filter><filter id="jinx-record-1-page-3-filter2_ddd_39:2719" width="411.082" height="146.049" x="645.11" y="391.432" class="filter2_ddd_39:2719" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2719"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2719" result="effect2_dropShadow_39:2719"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2719" result="effect3_dropShadow_39:2719"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2719" result="shape"></feBlend></filter><filter id="jinx-record-1-page-3-filter3_ddd_39:2719" width="238.176" height="162.139" x="495.387" y="633.771" class="filter3_ddd_39:2719" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2719"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2719" result="effect2_dropShadow_39:2719"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2719" result="effect3_dropShadow_39:2719"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2719" result="shape"></feBlend></filter></defs></svg>'
         },
         gaXl: function(e, t, o) {
             "use strict";
@@ -15238,7 +15794,7 @@
                 v = (o("5DmW"), o("52dk")),
                 g = o("YKMj");
 
-            function y(e) {
+            function x(e) {
                 var t = function() {
                     if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                     if (Reflect.construct.sham) return !1;
@@ -15258,7 +15814,7 @@
                     return p()(this, o)
                 }
             }
-            var x = function(e, t, o, r) {
+            var y = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -15268,7 +15824,7 @@
                 },
                 m = function(e) {
                     l()(o, e);
-                    var t = y(o);
+                    var t = x(o);
 
                     function o() {
                         return i()(this, o), t.apply(this, arguments)
@@ -15294,7 +15850,7 @@
                         hoverAsset: "ui-arcane-hover"
                     }
                 }))),
-                B = m = x([g.a], m),
+                B = m = y([g.a], m),
                 C = o("KHd+"),
                 w = Object(C.a)(B, (function() {
                     var e = this,
@@ -15352,15 +15908,15 @@
             })), o.d(t, "cached", (function() {
                 return u.a
             })), o.d(t, "createEagerLoader", (function() {
-                return M
+                return b
             })), o.d(t, "createStorageControls", (function() {
                 return k
             })), o.d(t, "CustomEvents", (function() {
                 return F
             })), o.d(t, "differenceStrong", (function() {
-                return H
+                return R
             })), o.d(t, "filterBoolean", (function() {
-                return A
+                return H
             })), o.d(t, "formatSec", (function() {
                 return T
             })), o.d(t, "hashContent", (function() {
@@ -15392,7 +15948,7 @@
             })), o.d(t, "measure", (function() {
                 return ce
             })), o.d(t, "Queue", (function() {
-                return b
+                return S
             })), o.d(t, "rafInterval", (function() {
                 return ue
             })), o.d(t, "rafThrottle", (function() {
@@ -15400,17 +15956,17 @@
             })), o.d(t, "rafTimeout", (function() {
                 return de.a
             })), o.d(t, "stepIndex", (function() {
-                return ye
-            })), o.d(t, "stringify", (function() {
                 return xe
+            })), o.d(t, "stringify", (function() {
+                return ye
             })), o.d(t, "toHash", (function() {
                 return Oe
             })), o.d(t, "typeGuard", (function() {
-                return be
-            })), o.d(t, "typed", (function() {
                 return Se
-            })), o.d(t, "withTimeout", (function() {
+            })), o.d(t, "typed", (function() {
                 return Me
+            })), o.d(t, "withTimeout", (function() {
+                return be
             }));
             var r = o("yXPU"),
                 i = o.n(r),
@@ -15469,8 +16025,8 @@
                     return v.a.apply(void 0, [e].concat(t, r))
                 }
             }
-            var y = o("W8MJ"),
-                x = o.n(y),
+            var x = o("W8MJ"),
+                y = o.n(x),
                 m = o("lwsE"),
                 B = o.n(m),
                 C = o("Y+p1"),
@@ -15480,7 +16036,7 @@
                         r = t.value;
                     B()(this, e), this.priority = o, this.value = r
                 }),
-                b = function() {
+                S = function() {
                     function e(t) {
                         var o = t.concurrency,
                             r = void 0 === o ? 1 / 0 : o,
@@ -15497,7 +16053,7 @@
                             d = void 0 === f ? {} : f;
                         B()(this, e), this.queue = [], this.processed = [], this.pending = [], this.processing = !1, this.concurrency = r, this.processDuplicates = n, this.autoProcess = l, this.callback = p, this.eventHandlers = d, i && this.append(i)
                     }
-                    return x()(e, [{
+                    return y()(e, [{
                         key: "highestPriority",
                         get: function() {
                             var e;
@@ -15588,9 +16144,9 @@
                         }
                     }]), e
                 }(),
-                S = g("EagerLoader :: ");
+                M = g("EagerLoader :: ");
 
-            function M() {
+            function b() {
                 var e = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : {},
                     t = e.initialQueue,
                     o = e.concurrency,
@@ -15599,15 +16155,15 @@
                     a = void 0 === i || i,
                     n = e.logging,
                     s = void 0 !== n && n;
-                return new b({
+                return new S({
                     initialQueue: t,
                     concurrency: r,
                     autoProcess: a,
                     callback: function(e) {
                         return Object(h.a)(e).then((function() {
-                            return s ? S(e, "Loaded") : e
+                            return s ? M(e, "Loaded") : e
                         }), (function(t) {
-                            throw S(t, "Error loading", e)
+                            throw M(t, "Error loading", e)
                         }))
                     }
                 })
@@ -15770,13 +16326,13 @@
                     }
                 }),
                 U = o("zqxM"),
-                R = o.n(U);
+                A = o.n(U);
 
-            function H(e, t) {
-                return R()(e, t)
+            function R(e, t) {
+                return A()(e, t)
             }
 
-            function A(e) {
+            function H(e) {
                 return e.filter(Boolean)
             }
 
@@ -15828,8 +16384,8 @@
                         h = t.$is,
                         v = t.$typeof,
                         g = t.$gt,
-                        y = t.$lt,
-                        x = t.$gte,
+                        x = t.$lt,
+                        y = t.$gte,
                         m = t.$lte,
                         B = t.$eq,
                         C = t.$test,
@@ -15839,21 +16395,21 @@
                             return t.bind(r)(e, p)
                         })) || (i = n("the $test function".concat(Array.isArray(C) ? "s" : " (named ".concat(null === (o = C.toString().match(/^(?:function\s*)?([^\(]*)\(/)) || void 0 === o ? void 0 : o[1], ")"), " failed"), e))), i && "$is" in t && (("TRUTHY" === h ? e : !e) || (i = n("it isn't ".concat(h), e))), i && "$typeof" in t && ($(v, (function(t) {
                             return "array" == t ? Array.isArray(e) : Z()(e) === t
-                        })) || (i = n("its type isn't ".concat(Array.isArray(v) ? v.join(" or ") : v), e))), i && "$gt" in t && (e > g || (i = n("it isn't > ".concat(g), e))), i && "$lt" in t && (e < y || (i = n("it isn't < ".concat(y), e))), i && "$gte" in t && (e >= x || (i = n("it isn't >= ".concat(x), e))), i && "$lte" in t && (e <= m || (i = n("it isn't <= ".concat(m), e))), i && "$eq" in t && ($(B, (function(t) {
+                        })) || (i = n("its type isn't ".concat(Array.isArray(v) ? v.join(" or ") : v), e))), i && "$gt" in t && (e > g || (i = n("it isn't > ".concat(g), e))), i && "$lt" in t && (e < x || (i = n("it isn't < ".concat(x), e))), i && "$gte" in t && (e >= y || (i = n("it isn't >= ".concat(y), e))), i && "$lte" in t && (e <= m || (i = n("it isn't <= ".concat(m), e))), i && "$eq" in t && ($(B, (function(t) {
                             return e === t
                         })) || (i = n("it isn't === ".concat(Array.isArray(B) ? B.join(" or ") : B), e))), i && Object.keys(O).length) {
-                        var b = _(e),
-                            S = b.context,
-                            M = b.failures;
+                        var S = _(e),
+                            M = S.context,
+                            b = S.failures;
                         if (K()(O, (function(t, o) {
                                 var r = J()(e, o);
-                                return !!Q.bind(S)(r, t) || (M.forEach((function(e) {
+                                return !!Q.bind(M)(r, t) || (b.forEach((function(e) {
                                     var t = e.reason,
                                         o = e.input;
                                     return n(t, o)
                                 })), n("its path '".concat(o, "' failed"), e), !1)
                             })) || (i = !1), i && w) {
-                            var G = R()(Object.keys(e), Object.keys(O));
+                            var G = A()(Object.keys(e), Object.keys(O));
                             G.length && (i = n("it failed $noAdditionalProperties with these additional properties: [".concat(G.join(", "), "]"), e))
                         }
                     }
@@ -15884,9 +16440,9 @@
                     if (i && "$arrayof" in t) {
                         var F = _(e),
                             U = F.context,
-                            H = F.failures;
+                            R = F.failures;
                         (Array.isArray(e) || n("it's not an $arrayof anything", e)) && e.every((function(e, t) {
-                            return !!Q.bind(U)(e, u) || (H.forEach((function(e) {
+                            return !!Q.bind(U)(e, u) || (R.forEach((function(e) {
                                 var t = e.reason,
                                     o = e.input;
                                 return n(t, o)
@@ -16064,11 +16620,11 @@
                 }
             }
 
-            function ye(e, t, o) {
+            function xe(e, t, o) {
                 return (e + t + ("+" == o ? 1 : -1)) % t
             }
 
-            function xe(e) {
+            function ye(e) {
                 var t, o = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : {},
                     r = o.maxLength,
                     i = void 0 === r ? 100 : r,
@@ -16080,7 +16636,7 @@
                 try {
                     t = JSON.stringify(e) || "undefined"
                 } catch (o) {
-                    t = "object" == Z()(e) && Object.keys(e).length && c ? JSON.stringify(ae()(e, xe.bind({
+                    t = "object" == Z()(e) && Object.keys(e).length && c ? JSON.stringify(ae()(e, ye.bind({
                         depthLeft: c - 1
                     })), void 0, n) : " ...(circular reference) "
                 }
@@ -16112,13 +16668,13 @@
                 }
             }
 
-            function be(e) {
+            function Se(e) {
                 return function(t) {
                     return Q.bind(this)(t, e)
                 }
             }
 
-            function Se(e, t, o) {
+            function Me(e, t, o) {
                 var r;
                 o && ("object" == Z()(o) ? r = o : "string" == typeof o && (r = {
                     andThrow: o
@@ -16130,13 +16686,13 @@
                     l = [];
                 if (t.bind({
                         onInvalid: function(e, t) {
-                            l.push("".concat(e, ": ").concat(xe(t, s)))
+                            l.push("".concat(e, ": ").concat(ye(t, s)))
                         }
                     })(e)) return e;
                 if (n) throw new Error([n].concat(D()(l || [])).join("\n"))
             }
 
-            function Me(e, t) {
+            function be(e, t) {
                 var o = arguments.length > 2 && void 0 !== arguments[2] ? arguments[2] : "Timed out";
                 return function() {
                     for (var r = arguments.length, i = new Array(r), a = 0; a < r; a++) i[a] = arguments[a];
@@ -16280,8 +16836,8 @@
                             title: Object(f.inject)(e.i18n)
                         }
                     })))),
-                    y = Object(c.filterBoolean)([].concat(n()(u), n()(h), n()(v), [g]));
-                t.a = y
+                    x = Object(c.filterBoolean)([].concat(n()(u), n()(h), n()(v), [g]));
+                t.a = x
             }).call(this, o("mPbk").inject, o("bt/X"), o("afOK"))
         },
         "iLI+": function(e, t) {
@@ -16476,8 +17032,9 @@
         jzv5: function(e, t) {
             e.exports = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 2110 1440"><g class="jayce-record-2-page-2"><g class="section-1"><path fill="#fff" fill-rule="evenodd" d="M381.51 664.389l-9.92-37.04 287.83-151.04.041.087L697 512l23 23-23 23-75.689 17.467-179.161 97.682-60.64-8.76z" class="section-1-clickable" clip-rule="evenodd"></path><path fill="url(#jayce-record-2-page-2-paint0_linear_7:147)" fill-opacity=".4" stroke="url(#jayce-record-2-page-2-paint1_linear_7:147)" stroke-miterlimit="10" stroke-width="4" d="M371.59 627.349l9.92 37.04 51.36-23.43 9.28 32.19 246.36-134.32-29.09-62.52-287.83 151.04z" class="section-1-neutral"></path><g class="section-1-hover" filter="url(#jayce-record-2-page-2-filter0_ddd_7:147)"><path fill="url(#jayce-record-2-page-2-paint2_linear_7:147)" fill-opacity=".4" d="M371.59 627.349l9.92 37.04 51.36-23.43 9.28 32.19 246.36-134.32-29.09-62.52-287.83 151.04z" shape-rendering="crispEdges"></path><path stroke="url(#jayce-record-2-page-2-paint3_linear_7:147)" stroke-miterlimit="10" stroke-width="4" d="M371.59 627.349l9.92 37.04 51.36-23.43 9.28 32.19 246.36-134.32-29.09-62.52-287.83 151.04z" shape-rendering="crispEdges"></path></g></g><g class="section-2"><path fill="#fff" fill-rule="evenodd" d="M730.924 704.856L662.52 727l-23 23 23 23 26.929 34.167 7.861 18.183s237.36-127.55 342.4-94.81l-58.66-79.12a.908.908 0 01-.039-.004c-2.379-.278-114.837-13.386-250.087 53.44z" class="section-2-clickable" clip-rule="evenodd"></path><path fill="url(#jayce-record-2-page-2-paint4_linear_7:147)" fill-opacity=".4" stroke="url(#jayce-record-2-page-2-paint5_linear_7:147)" stroke-miterlimit="10" stroke-width="4" d="M662.52 744.87l34.79 80.48s237.36-127.55 342.4-94.81l-58.66-79.12c-.01.01-153.47-19.09-318.53 93.45z" class="section-2-neutral"></path><g class="section-2-hover" filter="url(#jayce-record-2-page-2-filter1_ddd_7:147)"><path fill="url(#jayce-record-2-page-2-paint6_linear_7:147)" fill-opacity=".4" d="M662.52 744.87l34.79 80.48s237.36-127.55 342.4-94.81l-58.66-79.12c-.01.01-153.47-19.09-318.53 93.45z" shape-rendering="crispEdges"></path><path stroke="url(#jayce-record-2-page-2-paint7_linear_7:147)" stroke-miterlimit="10" stroke-width="4" d="M662.52 744.87l34.79 80.48s237.36-127.55 342.4-94.81l-58.66-79.12c-.01.01-153.47-19.09-318.53 93.45z" shape-rendering="crispEdges"></path></g></g><g class="section-3"><path fill="#fff" fill-rule="evenodd" d="M470.861 1037.48l-13.24-54.501 313.35-156.94 134.36-40.93 25.92 48.43-.016.012-.234 33.449-23 23-72.735 12.36-48.605 34.849-232.59 131.641-83.21-31.37z" class="section-3-clickable" clip-rule="evenodd"></path><path fill="url(#jayce-record-2-page-2-paint8_linear_7:147)" fill-opacity=".4" stroke="url(#jayce-record-2-page-2-paint9_linear_7:147)" stroke-miterlimit="10" stroke-width="4" d="M457.621 982.979l13.24 54.501 64.11-26.6 19.1 57.97 232.59-131.641-13.65-27.96 158.24-75.71-25.92-48.43-122.77 60.03-11.59-19.1-313.35 156.94z" class="section-3-neutral"></path><g class="section-3-hover" filter="url(#jayce-record-2-page-2-filter2_ddd_7:147)"><path fill="url(#jayce-record-2-page-2-paint10_linear_7:147)" fill-opacity=".4" d="M457.621 982.979l13.24 54.501 64.11-26.6 19.1 57.97 232.59-131.641-13.65-27.96 158.24-75.71-25.92-48.43-122.77 60.03-11.59-19.1-313.35 156.94z" shape-rendering="crispEdges"></path><path stroke="url(#jayce-record-2-page-2-paint11_linear_7:147)" stroke-miterlimit="10" stroke-width="4" d="M457.621 982.979l13.24 54.501 64.11-26.6 19.1 57.97 232.59-131.641-13.65-27.96 158.24-75.71-25.92-48.43-122.77 60.03-11.59-19.1-313.35 156.94z" shape-rendering="crispEdges"></path></g></g></g><defs><linearGradient id="jayce-record-2-page-2-paint0_linear_7:147" x1="530.05" x2="474.198" y1="476.309" y2="679.528" class="paint0_linear_7:147" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jayce-record-2-page-2-paint1_linear_7:147" x1="606.5" x2="579.249" y1="428.255" y2="678.778" class="paint1_linear_7:147" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jayce-record-2-page-2-paint2_linear_7:147" x1="530.05" x2="474.198" y1="476.309" y2="679.528" class="paint2_linear_7:147" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jayce-record-2-page-2-paint3_linear_7:147" x1="606.5" x2="579.249" y1="428.255" y2="678.778" class="paint3_linear_7:147" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jayce-record-2-page-2-paint4_linear_7:147" x1="851.115" x2="812.771" y1="650.199" y2="836.806" class="paint4_linear_7:147" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jayce-record-2-page-2-paint5_linear_7:147" x1="942.103" x2="923.881" y1="607.441" y2="831.515" class="paint5_linear_7:147" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jayce-record-2-page-2-paint6_linear_7:147" x1="851.115" x2="812.771" y1="650.199" y2="836.806" class="paint6_linear_7:147" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jayce-record-2-page-2-paint7_linear_7:147" x1="942.103" x2="923.881" y1="607.441" y2="831.515" class="paint7_linear_7:147" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jayce-record-2-page-2-paint8_linear_7:147" x1="694.436" x2="616.4" y1="785.109" y2="1079.49" class="paint8_linear_7:147" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jayce-record-2-page-2-paint9_linear_7:147" x1="808.689" x2="770.77" y1="715.842" y2="1077.26" class="paint9_linear_7:147" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jayce-record-2-page-2-paint10_linear_7:147" x1="694.436" x2="616.4" y1="785.109" y2="1079.49" class="paint10_linear_7:147" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jayce-record-2-page-2-paint11_linear_7:147" x1="808.689" x2="770.77" y1="715.842" y2="1077.26" class="paint11_linear_7:147" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><filter id="jayce-record-2-page-2-filter0_ddd_7:147" width="361.871" height="242.535" x="349.244" y="453.562" class="filter0_ddd_7:147" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_7:147"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_7:147" result="effect2_dropShadow_7:147"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_7:147" result="effect3_dropShadow_7:147"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_7:147" result="shape"></feBlend></filter><filter id="jayce-record-2-page-2-filter1_ddd_7:147" width="424.939" height="219.943" x="640.028" y="628.199" class="filter1_ddd_7:147" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_7:147"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_7:147" result="effect2_dropShadow_7:147"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_7:147" result="effect3_dropShadow_7:147"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_7:147" result="shape"></feBlend></filter><filter id="jayce-record-2-page-2-filter2_ddd_7:147" width="518.7" height="329.325" x="435.302" y="762.466" class="filter2_ddd_7:147" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_7:147"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_7:147" result="effect2_dropShadow_7:147"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_7:147" result="effect3_dropShadow_7:147"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_7:147" result="shape"></feBlend></filter></defs></svg>'
         },
-        k1Xn: function(e, t) {
-            throw new Error("Module parse failed: Unexpected character '' (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n(Source code omitted for this binary file)")
+        k1Xn: function(e, t, o) {
+            "use strict";
+            o.r(t), t.default = o.p + "videos/collection-jinx-closed-record-1.webm?a7e396adbe9aa2a985b4e5e1c1c84fe5"
         },
         k31m: function(e, t, o) {
             "use strict";
@@ -16531,7 +17088,7 @@
                 v = (o("5DmW"), o("52dk")),
                 g = o("YKMj");
 
-            function y(e) {
+            function x(e) {
                 var t = function() {
                     if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                     if (Reflect.construct.sham) return !1;
@@ -16551,7 +17108,7 @@
                     return p()(this, o)
                 }
             }
-            var x = function(e, t, o, r) {
+            var y = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -16561,7 +17118,7 @@
                 },
                 m = function(e) {
                     l()(o, e);
-                    var t = y(o);
+                    var t = x(o);
 
                     function o() {
                         return i()(this, o), t.apply(this, arguments)
@@ -16587,7 +17144,7 @@
                         hoverAsset: "ui-arcane-hover"
                     }
                 }))),
-                B = m = x([g.a], m),
+                B = m = y([g.a], m),
                 C = o("KHd+"),
                 w = Object(C.a)(B, (function() {
                     var e = this,
@@ -16698,9 +17255,9 @@
                     return o
                 }(u.h);
             v([Object(u.e)(Object)], g.prototype, "layer", void 0);
-            var y = g = v([u.a], g),
-                x = o("KHd+"),
-                m = Object(x.a)(y, (function() {
+            var x = g = v([u.a], g),
+                y = o("KHd+"),
+                m = Object(y.a)(x, (function() {
                     var e = this,
                         t = e.$createElement;
                     return (e._self._c || t)("div", e._b({
@@ -16722,7 +17279,7 @@
             o.r(t), o.d(t, "playerSettingsConfig", (function() {
                 return O
             })), o.d(t, "inject", (function() {
-                return b
+                return S
             }));
             o("tkto"), o("pNMO"), o("TeQF"), o("5DmW"), o("FZtP"), o("27RR");
             var r = o("lSNA"),
@@ -16743,7 +17300,7 @@
                 }
                 return o
             }
-            var f, d, u, h, v, g, y, x, m = l()("arcane-nlex-hub-2021"),
+            var f, d, u, h, v, g, x, y, m = l()("arcane-nlex-hub-2021"),
                 B = {
                     skinChampion1: {
                         label: "Skin Champion 1",
@@ -16837,7 +17394,7 @@
                         caitlynUnlocked: !0
                     },
                     "Jinx Collection": {
-                        enabled: !1,
+                        enabled: !0,
                         date: new Date("2021-11-24T16:00:00+00:00").valueOf(),
                         defaultRoute: "/",
                         jinxUnlocked: !0
@@ -16873,13 +17430,13 @@
                         jinxViewed: !1,
                         jinxTrunkOpened: !1
                     }
-                }).enabled, u = void 0 === d || d, h = f.useFallback, v = void 0 === h ? "after-timeout" : h, g = f.timeout, y = void 0 === g ? c.inject.inBrowser ? 1e3 : 1e4 : g, x = f.data, {
+                }).enabled, u = void 0 === d || d, h = f.useFallback, v = void 0 === h ? "after-timeout" : h, g = f.timeout, x = void 0 === g ? c.inject.inBrowser ? 1e3 : 1e4 : g, y = f.data, {
                     enabled: u,
                     useFallback: v,
-                    timeout: y,
-                    data: void 0 === x ? {} : x
+                    timeout: x,
+                    data: void 0 === y ? {} : y
                 }),
-                b = {
+                S = {
                     tencentPreviousBuildVersion: 17,
                     buildVersion: 18,
                     prefix: m,
@@ -16933,7 +17490,7 @@
                     return p()(this, o)
                 }
             }
-            var y = function(e, t, o, r) {
+            var x = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -16941,7 +17498,7 @@
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
-                x = ["primary", "secondary"],
+                y = ["primary", "secondary"],
                 m = function(e) {
                     l()(o, e);
                     var t = g(o);
@@ -16987,7 +17544,7 @@
                         key: "created",
                         value: function() {
                             var e = this;
-                            x.forEach((function(t) {
+                            y.forEach((function(t) {
                                 e.$watch((function() {
                                     return e[t]
                                 }), (function(o) {
@@ -17001,7 +17558,7 @@
                 }(v.h.extend({
                     render: function() {}
                 })),
-                B = (new(m = y([v.a], m))).$mount(),
+                B = (new(m = x([v.a], m))).$mount(),
                 C = function(e) {
                     l()(o, e);
                     var t = g(o);
@@ -17017,7 +17574,7 @@
                                     primary: void 0,
                                     secondary: void 0
                                 };
-                            x.forEach((function(o) {
+                            y.forEach((function(o) {
                                 e.$watch((function() {
                                     return {
                                         prop: e[o],
@@ -17036,7 +17593,7 @@
                                     immediate: !0
                                 })
                             })), this.$on("hook:beforeDestroy", (function() {
-                                x.forEach((function(e) {
+                                y.forEach((function(e) {
                                     var o;
                                     null === (o = t[e]) || void 0 === o || o.remove(), t[e] = void 0
                                 }))
@@ -17049,7 +17606,7 @@
                         }
                     }]), o
                 }(v.h);
-            y([Object(v.e)([String, Object])], C.prototype, "primary", void 0), y([Object(v.e)([String, Object])], C.prototype, "secondary", void 0), y([Object(v.e)(Boolean)], C.prototype, "inheritUnsetChannel", void 0), C = y([v.a], C), t.default = C
+            x([Object(v.e)([String, Object])], C.prototype, "primary", void 0), x([Object(v.e)([String, Object])], C.prototype, "secondary", void 0), x([Object(v.e)(Boolean)], C.prototype, "inheritUnsetChannel", void 0), C = x([v.a], C), t.default = C
         },
         maqG: function(e, t, o) {
             "use strict";
@@ -17082,7 +17639,7 @@
                 v = (o("ma9I"), o("8AyJ"), o("qePV"), o("FZtP"), o("2B1R"), o("CXaQ")),
                 g = o("RCUf");
 
-            function y(e, t) {
+            function x(e, t) {
                 var o = Object.keys(e);
                 if (Object.getOwnPropertySymbols) {
                     var r = Object.getOwnPropertySymbols(e);
@@ -17093,12 +17650,12 @@
                 return o
             }
 
-            function x(e) {
+            function y(e) {
                 for (var t = 1; t < arguments.length; t++) {
                     var o = null != arguments[t] ? arguments[t] : {};
-                    t % 2 ? y(Object(o), !0).forEach((function(t) {
+                    t % 2 ? x(Object(o), !0).forEach((function(t) {
                         i()(e, t, o[t])
-                    })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(o)) : y(Object(o)).forEach((function(t) {
+                    })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(o)) : x(Object(o)).forEach((function(t) {
                         Object.defineProperty(e, t, Object.getOwnPropertyDescriptor(o, t))
                     }))
                 }
@@ -17165,7 +17722,7 @@
                         },
                         values: function() {
                             var e = this;
-                            return x(x({}, l()(B.map((function(t) {
+                            return y(y({}, l()(B.map((function(t) {
                                 return [t, e[t]]
                             })))), {}, {
                                 inView: this.inView
@@ -17179,7 +17736,7 @@
                     }
                 },
                 O = o("KHd+"),
-                b = Object(O.a)(w, (function() {
+                S = Object(O.a)(w, (function() {
                     var e = this,
                         t = e.$createElement,
                         o = e._self._c || t;
@@ -17193,7 +17750,7 @@
                         }
                     }, [e._t("default", null, null, e.values)], 2)], 1)
                 }), [], !1, null, null, null);
-            t.default = b.exports
+            t.default = S.exports
         },
         mrkV: function(e, t, o) {
             "use strict";
@@ -17418,10 +17975,10 @@
                                 h = void 0 !== d && d,
                                 v = t.andLog,
                                 g = void 0 !== v && v,
-                                y = g ? e : function(e) {
+                                x = g ? e : function(e) {
                                     return e
                                 },
-                                x = [];
+                                y = [];
                             return Object(p.withTimeout)((function() {
                                 return new Promise(function() {
                                     var e = s()(c.a.mark((function e(t, o) {
@@ -17454,7 +18011,7 @@
                                                                 o(), t(new Error("Can't opt into series with internal name of ".concat(a, " because it's missing.")))
                                                             }
                                                         });
-                                                        x.push(o)
+                                                        y.push(o)
                                                     }));
                                                 case 10:
                                                     r = e.sent;
@@ -17465,13 +18022,13 @@
                                                             seriesId: r,
                                                             confirmOptIn: h
                                                         }
-                                                    }), x.push(u.onSeriesUpdated((function(e) {
+                                                    }), y.push(u.onSeriesUpdated((function(e) {
                                                         return e.find((function(e) {
                                                             return e.id == r || e.internalName == a
                                                         }))
                                                     }), (function(e) {
                                                         var t = e.status;
-                                                        return "ACTIVE" === y(t, "opting into", r)
+                                                        return "ACTIVE" === x(t, "opting into", r)
                                                     }), (function(e) {
                                                         e && t()
                                                     }), {
@@ -17495,7 +18052,7 @@
                                     }
                                 }())
                             }), l, "Timed out waiting for Mission Series to become opted into.")().finally((function() {
-                                x.forEach((function(e) {
+                                y.forEach((function(e) {
                                     return e()
                                 }))
                             }))
@@ -17584,8 +18141,8 @@
                 h = o.n(u),
                 v = o("Nsbk"),
                 g = o.n(v),
-                y = o("cDf5"),
-                x = o.n(y),
+                x = o("cDf5"),
+                y = o.n(x),
                 m = (o("5DmW"), o("Rm1S"), o("rB9j"), o("YKMj"));
 
             function B(e, t) {
@@ -17634,12 +18191,12 @@
             var O = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
-                    if ("object" === ("undefined" == typeof Reflect ? "undefined" : x()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
+                    if ("object" === ("undefined" == typeof Reflect ? "undefined" : y()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
                     else
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
-                b = function(e) {
+                S = function(e) {
                     d()(o, e);
                     var t = w(o);
 
@@ -17676,7 +18233,7 @@
                         }
                     }]), o
                 }(m.h);
-            O([Object(m.e)(String)], b.prototype, "image", void 0), O([Object(m.e)(Boolean)], b.prototype, "fullSize", void 0), O([Object(m.e)(Boolean)], b.prototype, "halfSize", void 0), b = O([m.a], b), t.default = b
+            O([Object(m.e)(String)], S.prototype, "image", void 0), O([Object(m.e)(Boolean)], S.prototype, "fullSize", void 0), O([Object(m.e)(Boolean)], S.prototype, "halfSize", void 0), S = O([m.a], S), t.default = S
         },
         ohEt: function(e, t) {
             function o(e) {
@@ -17855,7 +18412,7 @@
                     return p()(this, o)
                 }
             }
-            var y = function(e, t, o, r) {
+            var x = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -17863,7 +18420,7 @@
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
-                x = function(e) {
+                y = function(e) {
                     l()(o, e);
                     var t = g(o);
 
@@ -17878,14 +18435,14 @@
                         }
                     }]), o
                 }(v.h);
-            y([Object(v.e)(Boolean)], x.prototype, "active", void 0), y([Object(v.e)({
+            x([Object(v.e)(Boolean)], y.prototype, "active", void 0), x([Object(v.e)({
                 type: String,
                 validator: function(e) {
                     return ["page", "collection"].includes(e)
                 },
                 default: "page"
-            })], x.prototype, "type", void 0), y([Object(v.e)(Boolean)], x.prototype, "forceHover", void 0);
-            var m = x = y([v.a], x),
+            })], y.prototype, "type", void 0), x([Object(v.e)(Boolean)], y.prototype, "forceHover", void 0);
+            var m = y = x([v.a], y),
                 B = o("KHd+"),
                 C = Object(B.a)(m, (function() {
                     var e = this,
@@ -17968,7 +18525,7 @@
                     return o("mBeq")("./".concat(e, ".ts")).default
                 })),
                 f = n.a.reduce((function(e, t, o) {
-                    return o + 1 <= 3 ? c(c({}, e), {}, i()({}, t, !0)) : e
+                    return o + 1 <= 4 ? c(c({}, e), {}, i()({}, t, !0)) : e
                 }), {}),
                 d = n.a.reduce((function(e, t) {
                     var o;
@@ -18036,7 +18593,7 @@
                     return p()(this, o)
                 }
             }
-            var y = function(e, t, o, r) {
+            var x = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -18044,7 +18601,7 @@
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
-                x = function(e) {
+                y = function(e) {
                     l()(o, e);
                     var t = g(o);
 
@@ -18070,13 +18627,13 @@
                         }
                     }]), o
                 }(v.h);
-            y([Object(v.e)()], x.prototype, "value", void 0), y([Object(v.e)({
+            x([Object(v.e)()], y.prototype, "value", void 0), x([Object(v.e)({
                 type: Object,
                 default: function() {
                     return {}
                 }
-            })], x.prototype, "closePingMeta", void 0), y([Object(v.g)("backdrop")], x.prototype, "backdrop", void 0);
-            var m = x = y([v.a], x),
+            })], y.prototype, "closePingMeta", void 0), x([Object(v.g)("backdrop")], y.prototype, "backdrop", void 0);
+            var m = y = x([v.a], y),
                 B = o("KHd+"),
                 C = Object(B.a)(m, (function() {
                     var e = this,
@@ -18801,8 +19358,9 @@
             "use strict";
             o.r(t), t.default = o.p + "images/collection-caitlyn-record-1-view-3.jpg?280568730749364fd3440fffce4b98cb"
         },
-        rHIu: function(e, t) {
-            throw new Error("Module parse failed: Unexpected character 'ï¿½' (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n(Source code omitted for this binary file)")
+        rHIu: function(e, t, o) {
+            "use strict";
+            o.r(t), t.default = o.p + "images/collection-jinx-opened-vfx-fallback.png?cf446fa3261dab747df56cd8a2bcfad5"
         },
         rIAT: function(e, t, o) {
             "use strict";
@@ -18835,7 +19393,7 @@
             o.r(t),
                 function(e, r) {
                     o.d(t, "updatePlayerSettings", (function() {
-                        return x
+                        return y
                     })), o.d(t, "inject", (function() {
                         return B
                     }));
@@ -18873,11 +19431,11 @@
                         h = s.playerSettingsConfig.data,
                         v = null,
                         g = n.a.observable(e(h, (function() {}))),
-                        y = Object.keys(h);
+                        x = Object.keys(h);
 
-                    function x(e) {
+                    function y(e) {
                         var t = Object(l.MD5)(e);
-                        v != t && (v = t, Object.assign(g, r(e, y)))
+                        v != t && (v = t, Object.assign(g, r(e, x)))
                     }
                     var m = p(p({}, e(h, (function(e, t) {
                             return function() {
@@ -18983,7 +19541,7 @@
             o.r(t),
                 function(e) {
                     o.d(t, "inject", (function() {
-                        return y
+                        return x
                     }));
                     o("tkto"), o("pNMO"), o("TeQF"), o("5DmW"), o("FZtP"), o("27RR");
                     var r = o("yXPU"),
@@ -19050,7 +19608,7 @@
                         "button-pageup-click": "/fe/lol-static-assets/sounds/sfx-uikit-button-pageup-click.ogg",
                         "icon-click": "/fe/lol-static-assets/sounds/sfx-uikit-text-click-small.ogg"
                     };
-                    var y = {
+                    var x = {
                         getPlayAmbience: function(e) {
                             var t = e.category,
                                 o = e.otherAssetsHash,
@@ -19067,7 +19625,7 @@
                                 };
                             return function() {
                                 var e = i()(l.a.mark((function e(o, r) {
-                                    var i, a, f, u, h, v, g, y;
+                                    var i, a, f, u, h, v, g, x;
                                     return l.a.wrap((function(e) {
                                         for (;;) switch (e.prev = e.next) {
                                             case 0:
@@ -19077,13 +19635,13 @@
                                                     e.next = 8;
                                                     break
                                                 }
-                                                if (!(y = Object(c.filterBoolean)([a, i]).find((function(e) {
+                                                if (!(x = Object(c.filterBoolean)([a, i]).find((function(e) {
                                                         return !(e in g)
                                                     })))) {
                                                     e.next = 8;
                                                     break
                                                 }
-                                                throw new Error('Missing: Asset ID="'.concat(y, '" not in AssetList ID="').concat(t, '"'));
+                                                throw new Error('Missing: Asset ID="'.concat(x, '" not in AssetList ID="').concat(t, '"'));
                                             case 8:
                                                 p.inject._sendMessage({
                                                     messageType: d[o],
@@ -19129,7 +19687,7 @@
                                                 }
                                                 throw new Error('Missing: Asset ID="'.concat(o, '" not in AssetList ID="').concat(t, '"'));
                                             case 6:
-                                                y.playAudioUI(c[o] || o);
+                                                x.playAudioUI(c[o] || o);
                                             case 7:
                                             case "end":
                                                 return e.stop()
@@ -19639,8 +20197,8 @@
                     h = o.n(u),
                     v = o("cDf5"),
                     g = o.n(v),
-                    y = (o("5DmW"), o("pNMO"), o("4Brf"), o("07d7"), o("ma9I"), o("TeQF"), o("q2iy")),
-                    x = o("YKMj");
+                    x = (o("5DmW"), o("pNMO"), o("4Brf"), o("07d7"), o("ma9I"), o("TeQF"), o("q2iy")),
+                    y = o("YKMj");
 
                 function m(e) {
                     var t = function() {
@@ -19714,21 +20272,21 @@
                         }, {
                             key: "activeCollections",
                             get: function() {
-                                return e(y.a, (function(e, t) {
+                                return e(x.a, (function(e, t) {
                                     return e && t
                                 })).filter(Boolean)
                             }
                         }]), r
-                    }(x.h.extend({
+                    }(y.h.extend({
                         provide: function() {
                             return i()({}, C.from, this)
                         }
                     }));
-                w = B([x.a], w), t.a = w
+                w = B([y.a], w), t.a = w
             }).call(this, o("3WF5"))
         },
         sffe: function(e, t) {
-            throw new Error('Module parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n> <svg\n| \txmlns="http://www.w3.org/2000/svg"\n| \twidth="2112"')
+            e.exports = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 2112 1442"><g class="jinx-record-1-page-1"><g class="section-5"><path fill="#fff" d="M695.56 720.68L614 710l-68 28-23 23-3 99 110 10 42-68 23.56-81.32z" class="section-5-clickable"></path><path fill="url(#jinx-record-1-page-1-paint0_linear_39:2693)" fill-opacity=".4" stroke="url(#jinx-record-1-page-1-paint1_linear_39:2693)" stroke-miterlimit="10" stroke-width="4" d="M614 710l81.56 10.68L672 802l-42 68-110-10 28-100 66-50z" class="section-5-neutral"></path><g class="section-5-hover" filter="url(#jinx-record-1-page-1-filter0_ddd_39:2693)"><path fill="url(#jinx-record-1-page-1-paint2_linear_39:2693)" fill-opacity=".4" d="M614 710l81.56 10.68L672 802l-42 68-110-10 28-100 66-50z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-1-paint3_linear_39:2693)" stroke-miterlimit="10" stroke-width="4" d="M614 710l81.56 10.68L672 802l-42 68-110-10 28-100 66-50z" shape-rendering="crispEdges"></path></g></g><g class="section-4"><path fill="#fff" d="M1429 657l-23-23-209.25 33.55-49.6 54.33-85.05 170.08 340.17 75.6 111.03-129.93 9.45-68.5L1429 657z" class="section-4-clickable"></path><path fill="url(#jinx-record-1-page-1-paint4_linear_39:2693)" fill-opacity=".4" stroke="url(#jinx-record-1-page-1-paint5_linear_39:2693)" stroke-miterlimit="10" stroke-width="4" d="M1196.75 667.55l-11.81 40.16-37.79 14.17-85.05 170.08 340.17 75.6 56.69-137.01 54.34 7.08 9.45-68.5-113.39-113.39-212.61 11.81z" class="section-4-neutral"></path><g class="section-4-hover" filter="url(#jinx-record-1-page-1-filter1_ddd_39:2693)"><path fill="url(#jinx-record-1-page-1-paint6_linear_39:2693)" fill-opacity=".4" d="M1196.75 667.55l-11.81 40.16-37.79 14.17-85.05 170.08 340.17 75.6 56.69-137.01 54.34 7.08 9.45-68.5-113.39-113.39-212.61 11.81z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-1-paint7_linear_39:2693)" stroke-miterlimit="10" stroke-width="4" d="M1196.75 667.55l-11.81 40.16-37.79 14.17-85.05 170.08 340.17 75.6 56.69-137.01 54.34 7.08 9.45-68.5-113.39-113.39-212.61 11.81z" shape-rendering="crispEdges"></path></g></g><g class="section-3"><path fill="#fff" d="M702 675l23-23 75-2 54 44-72 208-122-26 42-105v-96z" class="section-3-clickable"></path><path fill="url(#jinx-record-1-page-1-paint8_linear_39:2693)" fill-opacity=".4" stroke="url(#jinx-record-1-page-1-paint9_linear_39:2693)" stroke-miterlimit="10" stroke-width="4" d="M724 674l76-24 54 44-54 92-18 116-122-26 53.19-119.66L724 674z" class="section-3-neutral"></path><g class="section-3-hover" filter="url(#jinx-record-1-page-1-filter2_ddd_39:2693)"><path fill="url(#jinx-record-1-page-1-paint10_linear_39:2693)" fill-opacity=".4" d="M724 674l76-24 54 44-54 92-18 116-122-26 53.19-119.66L724 674z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-1-paint11_linear_39:2693)" stroke-miterlimit="10" stroke-width="4" d="M724 674l76-24 54 44-54 92-18 116-122-26 53.19-119.66L724 674z" shape-rendering="crispEdges"></path></g></g><g class="section-2"><path fill="#fff" d="M1015 790l-23 23-95.25 135.66-16.54 51.97 128.35-25.99 86.62-177.17L1015 790z" class="section-2-clickable"></path><path fill="url(#jinx-record-1-page-1-paint12_linear_39:2693)" fill-opacity=".4" stroke="url(#jinx-record-1-page-1-paint13_linear_39:2693)" stroke-miterlimit="10" stroke-width="4" d="M1008.56 974.639l-128.35 25.991 16.54-51.971 118.11-141.74 80.32-9.45-86.62 177.17z" class="section-2-neutral"></path><g class="section-2-hover" filter="url(#jinx-record-1-page-1-filter3_ddd_39:2693)"><path fill="url(#jinx-record-1-page-1-paint14_linear_39:2693)" fill-opacity=".4" d="M1008.56 974.639l-128.35 25.991 16.54-51.971 118.11-141.74 80.32-9.45-86.62 177.17z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-1-paint15_linear_39:2693)" stroke-miterlimit="10" stroke-width="4" d="M1008.56 974.639l-128.35 25.991 16.54-51.971 118.11-141.74 80.32-9.45-86.62 177.17z" shape-rendering="crispEdges"></path></g></g><g class="section-1"><path fill="#fff" d="M914 573l-23 23-25.7 71.1 103.44 60.85 107.49 6.08 46.65-99.38-123.72-44.62L914 573z" class="section-1-clickable"></path><path fill="url(#jinx-record-1-page-1-paint16_linear_39:2693)" fill-opacity=".4" stroke="url(#jinx-record-1-page-1-paint17_linear_39:2693)" stroke-miterlimit="10" stroke-width="4" d="M865.3 667.101l103.44 60.85 107.49 6.08 46.65-99.38-123.72-44.62-89.24 4.06-44.62 73.01z" class="section-1-neutral"></path><g class="section-1-hover" filter="url(#jinx-record-1-page-1-filter4_ddd_39:2693)"><path fill="url(#jinx-record-1-page-1-paint18_linear_39:2693)" fill-opacity=".4" d="M865.3 667.101l103.44 60.85 107.49 6.08 46.65-99.38-123.72-44.62-89.24 4.06-44.62 73.01z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-1-paint19_linear_39:2693)" stroke-miterlimit="10" stroke-width="4" d="M865.3 667.101l103.44 60.85 107.49 6.08 46.65-99.38-123.72-44.62-89.24 4.06-44.62 73.01z" shape-rendering="crispEdges"></path></g></g></g><defs><linearGradient id="jinx-record-1-page-1-paint0_linear_39:2693" x1="607.78" x2="546.154" y1="710" y2="862.81" class="paint0_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint1_linear_39:2693" x1="650.13" x2="618.059" y1="670.94" y2="871.867" class="paint1_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint2_linear_39:2693" x1="607.78" x2="546.154" y1="710" y2="862.81" class="paint2_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint3_linear_39:2693" x1="650.13" x2="618.059" y1="670.94" y2="871.867" class="paint3_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint4_linear_39:2693" x1="1292.42" x2="1197.25" y1="655.74" y2="973.475" class="paint4_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint5_linear_39:2693" x1="1403.55" x2="1356.6" y1="579.618" y2="975.609" class="paint5_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint6_linear_39:2693" x1="1292.42" x2="1197.25" y1="655.74" y2="973.475" class="paint6_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint7_linear_39:2693" x1="1403.55" x2="1356.6" y1="579.618" y2="975.609" class="paint7_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint8_linear_39:2693" x1="757" x2="636.105" y1="650" y2="860.329" class="paint8_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint9_linear_39:2693" x1="803.798" x2="733.604" y1="588.481" y2="897.033" class="paint9_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint10_linear_39:2693" x1="757" x2="636.105" y1="650" y2="860.329" class="paint10_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint11_linear_39:2693" x1="803.798" x2="733.604" y1="588.481" y2="897.033" class="paint11_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint12_linear_39:2693" x1="987.695" x2="907.399" y1="797.469" y2="989.477" class="paint12_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint13_linear_39:2693" x1="1039.55" x2="997.404" y1="747.873" y2="1002.52" class="paint13_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint14_linear_39:2693" x1="987.695" x2="907.399" y1="797.469" y2="989.477" class="paint14_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint15_linear_39:2693" x1="1039.55" x2="997.404" y1="747.873" y2="1002.52" class="paint15_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint16_linear_39:2693" x1="994.09" x2="956.816" y1="590.031" y2="740.707" class="paint16_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint17_linear_39:2693" x1="1056.23" x2="1038.24" y1="554.878" y2="738.557" class="paint17_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint18_linear_39:2693" x1="994.09" x2="956.816" y1="590.031" y2="740.707" class="paint18_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-1-paint19_linear_39:2693" x1="1056.23" x2="1038.24" y1="554.878" y2="738.557" class="paint19_linear_39:2693" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><filter id="jinx-record-1-page-1-filter0_ddd_39:2693" width="220.703" height="204.193" x="497.426" y="687.91" class="filter0_ddd_39:2693" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2693"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2693" result="effect2_dropShadow_39:2693"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2693" result="effect3_dropShadow_39:2693"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2693" result="shape"></feBlend></filter><filter id="jinx-record-1-page-1-filter1_ddd_39:2693" width="505.702" height="356.184" x="1039.17" y="633.693" class="filter1_ddd_39:2693" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2693"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2693" result="effect2_dropShadow_39:2693"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2693" result="effect3_dropShadow_39:2693"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2693" result="shape"></feBlend></filter><filter id="jinx-record-1-page-1-filter2_ddd_39:2693" width="239.423" height="296.629" x="637.17" y="627.768" class="filter2_ddd_39:2693" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2693"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2693" result="effect2_dropShadow_39:2693"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2693" result="effect3_dropShadow_39:2693"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2693" result="shape"></feBlend></filter><filter id="jinx-record-1-page-1-filter3_ddd_39:2693" width="261.314" height="248.209" x="857.272" y="775.055" class="filter3_ddd_39:2693" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2693"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2693" result="effect2_dropShadow_39:2693"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2693" result="effect3_dropShadow_39:2693"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2693" result="shape"></feBlend></filter><filter id="jinx-record-1-page-1-filter4_ddd_39:2693" width="303.09" height="188.088" x="842.533" y="568.016" class="filter4_ddd_39:2693" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2693"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2693" result="effect2_dropShadow_39:2693"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2693" result="effect3_dropShadow_39:2693"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2693" result="shape"></feBlend></filter></defs></svg>'
         },
         sqMC: function(e, t, o) {
             "use strict";
@@ -19809,7 +20367,7 @@
                 v = (o("5DmW"), o("52dk")),
                 g = o("YKMj");
 
-            function y(e) {
+            function x(e) {
                 var t = function() {
                     if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                     if (Reflect.construct.sham) return !1;
@@ -19829,7 +20387,7 @@
                     return p()(this, o)
                 }
             }
-            var x = function(e, t, o, r) {
+            var y = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -19839,7 +20397,7 @@
                 },
                 m = function(e) {
                     l()(o, e);
-                    var t = y(o);
+                    var t = x(o);
 
                     function o() {
                         return i()(this, o), t.apply(this, arguments)
@@ -19897,11 +20455,11 @@
                         unhoverTimeout: 0
                     }
                 }));
-            x([Object(g.e)({
+            y([Object(g.e)({
                 type: String,
                 required: !0
             })], m.prototype, "type", void 0);
-            var B = m = x([g.a], m),
+            var B = m = y([g.a], m),
                 C = o("KHd+"),
                 w = Object(C.a)(B, (function() {
                     var e = this,
@@ -19999,8 +20557,8 @@
                 h = o.n(u),
                 v = o("Nsbk"),
                 g = o.n(v),
-                y = o("cDf5"),
-                x = o.n(y),
+                x = o("cDf5"),
+                y = o.n(x),
                 m = (o("5DmW"), o("oVuX"), o("2B1R"), o("DhMN"), o("ma9I"), o("EnZy"), o("rB9j"), o("SYor"), o("qePV"), o("YKMj"));
 
             function B(e) {
@@ -20026,7 +20584,7 @@
             var C = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
-                    if ("object" === ("undefined" == typeof Reflect ? "undefined" : x()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
+                    if ("object" === ("undefined" == typeof Reflect ? "undefined" : y()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
                     else
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
@@ -20274,8 +20832,9 @@
             "use strict";
             o.r(t), t.default = o.p + "images/navatar-jinx.png?18c13aca0fe1b38ee9e853ab88d7c01b"
         },
-        vcti: function(e, t) {
-            throw new Error("Module parse failed: Unexpected character 'ï¿½' (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n(Source code omitted for this binary file)")
+        vcti: function(e, t, o) {
+            "use strict";
+            o.r(t), t.default = o.p + "images/collection-jinx-closed-vfx-fallback.png?e6e8706b9d04c2b97f5e47ca0c54e26d"
         },
         vq87: function(e, t) {
             e.exports = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 3208 1440"><g class="collections"><g class="jayce-archive"><path fill="#fff" d="M730.5 1027L697 853v-34.5l47.5-69.5H825l141.5 19 68.5-15.5 43 26.5 254 22v35l-17 130-92 16h-123.5L956 1003.5c-64.667 7.83-194.8 23.5-198 23.5h-27.5z" class="jayce-archive-clickable"></path><g class="jayce-archive-neutral"><path fill="url(#collections-paint0_linear_31:1427)" fill-opacity=".4" d="M703 852.5v-29h46V803l-3.5-1.5v-26H758l-4.5-19.5h7.5v-2h49.5v2h9l4.5 18h52.5v14.5H999l4 4.5v10h5.5v-3.5l47.5 2c3-1.667 9.3-5 10.5-5 1.2 0 13.17-1 19-1.5l1.5 3.5 13.5-2 18 2v4.5l50-1.5-9.5 70.5-4.5 2-11 9.5v5.5h-33v-34l-10-8.5-81.5 2-33 28V920l-29.5 25-2 55c-1.6.8-17 3-24.5 4l-14.5-8.5L796 1010l-6.5 8c-2.8 2-29.167 4.83-42 6l-3.5-3.5c0-1.83-.3-6.5-1.5-10.5s-5.833-13-8-17h-3V863h-4L703 852.5z" class="neutral-fill-left"></path><path fill="url(#collections-paint1_linear_31:1427)" fill-opacity=".4" d="M1218 868l7.5-61.5h11l5-4.5h43.5l1 4.5 4 6.5 3.5 1.5h29.5l4 3.5v16l-1.5 1.5h-13l-3 2.5v85.5l-32 8V952l-50 5.5c-2-10.8-10.17-28.833-14-36.5l8-.5c4 0 5-3.333 5-5v-7c3-3 3.5-7 3.5-9.5 0-2-2.33-3.833-3.5-4.5l1-17-9.5-9.5z" class="neutral-fill-right"></path><g class="neutral-outline-left" filter="url(#collections-filter0_ddd_31:1427)"><path stroke="url(#collections-paint2_linear_31:1427)" stroke-width="2" d="M703 852.5v-29h46V803l-3.5-1.5v-26H758l-4.5-19.5h7.5v-2h49.5v2h9l4.5 18h52.5v14.5H999l4 4.5v10h5.5v-3.5l47.5 2c3-1.667 9.3-5 10.5-5 1.2 0 13.17-1 19-1.5l1.5 3.5 13.5-2 18 2v4.5l50-1.5-9.5 70.5-4.5 2-11 9.5v5.5h-33v-34l-10-8.5-81.5 2-33 28V920l-29.5 25-2 55c-1.6.8-17 3-24.5 4l-14.5-8.5L796 1010l-6.5 8c-2.8 2-29.167 4.83-42 6l-3.5-3.5c0-1.83-.3-6.5-1.5-10.5s-5.833-13-8-17h-3V863h-4L703 852.5z" shape-rendering="crispEdges"></path></g><g class="neutral-outline-right" filter="url(#collections-filter1_ddd_31:1427)"><path stroke="url(#collections-paint3_linear_31:1427)" stroke-width="2" d="M1218 868l7.5-61.5h11l5-4.5h43.5l1 4.5 4 6.5 3.5 1.5h29.5l4 3.5v16l-1.5 1.5h-13l-3 2.5v85.5l-32 8V952l-50 5.5c-2-10.8-10.17-28.833-14-36.5l8-.5c4 0 5-3.333 5-5v-7c3-3 3.5-7 3.5-9.5 0-2-2.33-3.833-3.5-4.5l1-17-9.5-9.5z" shape-rendering="crispEdges"></path></g></g><g class="jayce-archive-hover"><g class="hover-outline-left" filter="url(#collections-filter2_dd_31:1427)"><path fill="url(#collections-paint4_linear_31:1427)" d="M703 852.5v-29h46V803l-3.5-1.5v-26H758l-4.5-19.5h7.5v-2h49.5v2h9l4.5 18h52.5v14.5H999l4 4.5v10h5.5v-3.5l47.5 2c3-1.667 9.3-5 10.5-5 1.2 0 13.17-1 19-1.5l1.5 3.5 13.5-2 18 2v4.5l50-1.5-9.5 70.5-4.5 2-11 9.5v5.5h-33v-34l-10-8.5-81.5 2-33 28V920l-29.5 25-2 55c-1.6.8-17 3-24.5 4l-14.5-8.5L796 1010l-6.5 8c-2.8 2-29.167 4.83-42 6l-3.5-3.5c0-1.83-.3-6.5-1.5-10.5s-5.833-13-8-17h-3V863h-4L703 852.5z" shape-rendering="crispEdges"></path><path stroke="#C2F7F7" stroke-width="2" d="M703 852.5v-29h46V803l-3.5-1.5v-26H758l-4.5-19.5h7.5v-2h49.5v2h9l4.5 18h52.5v14.5H999l4 4.5v10h5.5v-3.5l47.5 2c3-1.667 9.3-5 10.5-5 1.2 0 13.17-1 19-1.5l1.5 3.5 13.5-2 18 2v4.5l50-1.5-9.5 70.5-4.5 2-11 9.5v5.5h-33v-34l-10-8.5-81.5 2-33 28V920l-29.5 25-2 55c-1.6.8-17 3-24.5 4l-14.5-8.5L796 1010l-6.5 8c-2.8 2-29.167 4.83-42 6l-3.5-3.5c0-1.83-.3-6.5-1.5-10.5s-5.833-13-8-17h-3V863h-4L703 852.5z" shape-rendering="crispEdges"></path><path stroke="url(#collections-paint5_linear_31:1427)" stroke-width="2" d="M703 852.5v-29h46V803l-3.5-1.5v-26H758l-4.5-19.5h7.5v-2h49.5v2h9l4.5 18h52.5v14.5H999l4 4.5v10h5.5v-3.5l47.5 2c3-1.667 9.3-5 10.5-5 1.2 0 13.17-1 19-1.5l1.5 3.5 13.5-2 18 2v4.5l50-1.5-9.5 70.5-4.5 2-11 9.5v5.5h-33v-34l-10-8.5-81.5 2-33 28V920l-29.5 25-2 55c-1.6.8-17 3-24.5 4l-14.5-8.5L796 1010l-6.5 8c-2.8 2-29.167 4.83-42 6l-3.5-3.5c0-1.83-.3-6.5-1.5-10.5s-5.833-13-8-17h-3V863h-4L703 852.5z" shape-rendering="crispEdges"></path></g><g class="hover-outline-right" filter="url(#collections-filter3_dd_31:1427)"><path fill="url(#collections-paint6_linear_31:1427)" d="M1218 868l7.5-61.5h11l5-4.5h43.5l1 4.5 4 6.5 3.5 1.5h29.5l4 3.5v16l-1.5 1.5h-13l-3 2.5v85.5l-32 8V952l-50 5.5c-2-10.8-10.17-28.833-14-36.5l8-.5c4 0 5-3.333 5-5v-7c3-3 3.5-7 3.5-9.5 0-2-2.33-3.833-3.5-4.5l1-17-9.5-9.5z" shape-rendering="crispEdges"></path><path stroke="#C2F7F7" stroke-width="2" d="M1218 868l7.5-61.5h11l5-4.5h43.5l1 4.5 4 6.5 3.5 1.5h29.5l4 3.5v16l-1.5 1.5h-13l-3 2.5v85.5l-32 8V952l-50 5.5c-2-10.8-10.17-28.833-14-36.5l8-.5c4 0 5-3.333 5-5v-7c3-3 3.5-7 3.5-9.5 0-2-2.33-3.833-3.5-4.5l1-17-9.5-9.5z" shape-rendering="crispEdges"></path><path stroke="url(#collections-paint7_linear_31:1427)" stroke-width="2" d="M1218 868l7.5-61.5h11l5-4.5h43.5l1 4.5 4 6.5 3.5 1.5h29.5l4 3.5v16l-1.5 1.5h-13l-3 2.5v85.5l-32 8V952l-50 5.5c-2-10.8-10.17-28.833-14-36.5l8-.5c4 0 5-3.333 5-5v-7c3-3 3.5-7 3.5-9.5 0-2-2.33-3.833-3.5-4.5l1-17-9.5-9.5z" shape-rendering="crispEdges"></path></g></g></g><g class="vi-archive"><path fill="#fff" d="M1507.98 743h-54.84l-32.64 20c-4.49 0-7.31 2.439-8.8 4.889l-14.14 7.857-5.06 24.748v17.275l9.51 88.231h16.14l26.35-71 124.56-5.5 22.86 55.244 7.58 2.527 7.86-2.619 2.62-64.527 2.14-10.1v-15.102l-43.06-21.732-15.5-10.691-25.06-10.5-20.52-9z" class="vi-archive-clickable"></path><g class="vi-archive-neutral"><path fill="url(#collections-paint8_linear_31:1427)" fill-opacity=".4" d="M1406.5 901v-82l-9-1.5V801l16-1v-1l-1-2 5-2.5V792c-.4-.4-2.83-1.833-4-2.5v-9.25H1402V779l13.5-7.5c.5-1.5 2-3.5 5-3.5 2.4 0 3.33 2 3.5 3l14 7.5v1.5h-8.5c-3.2 0-3.67.667-3.5 1v8.5l-4 2.5v1.5l2-.5c1.17-.166 4.1-.6 6.5-1 2.4-.4 3 .834 3 1.5 1.67-.166 5.4-.5 7-.5 1.6 0 3 .667 3.5 1l.5 1.5c2-3.5 4.5-3 6-2s1.5 1 2.5 1 1-1.5 3-1.5c1.6 0 1.33 2.667 1 4h4v-4.5l3-1h27c0-3 .5-4 2-5 1.2-.8 3.5-1.333 4.5-1.5.5-4.5 4-5 6-5.5 1.6-.4 6.33 1.167 8.5 2V777c0-1.999 6-9.5 13-9.5 5.6 0 7.67 3.667 8 5.5.4-1.6 1.83-1.666 2.5-1.5.83-.166 2.8-.6 4-1 1.2-.4 4.83-.166 6.5 0 .17-1.166 1.2-3.4 4-3 2.8.4 3.83 2.167 4 3l12.5 7v1.5h-11l-.5 1.5 1 2v8l1.5.5v4l4 2 42 2 2 1.5v9l-2 1.5-1 70-3 1-3-1v-70l-183 8v82h-7z" class="fill"></path><g class="stroke" filter="url(#collections-filter4_ddd_31:1427)"><path stroke="url(#collections-paint9_linear_31:1427)" stroke-width="2" d="M1406.5 901v-82l-9-1.5V801l16-1v-1l-1-2 5-2.5V792c-.4-.4-2.83-1.833-4-2.5v-9.25H1402V779l13.5-7.5c.5-1.5 2-3.5 5-3.5 2.4 0 3.33 2 3.5 3l14 7.5v1.5h-8.5c-3.2 0-3.67.667-3.5 1v8.5l-4 2.5v1.5l2-.5c1.17-.166 4.1-.6 6.5-1 2.4-.4 3 .834 3 1.5 1.67-.166 5.4-.5 7-.5 1.6 0 3 .667 3.5 1l.5 1.5c2-3.5 4.5-3 6-2s1.5 1 2.5 1 1-1.5 3-1.5c1.6 0 1.33 2.667 1 4h4v-4.5l3-1h27c0-3 .5-4 2-5 1.2-.8 3.5-1.333 4.5-1.5.5-4.5 4-5 6-5.5 1.6-.4 6.33 1.167 8.5 2V777c0-1.999 6-9.5 13-9.5 5.6 0 7.67 3.667 8 5.5.4-1.6 1.83-1.666 2.5-1.5.83-.166 2.8-.6 4-1 1.2-.4 4.83-.166 6.5 0 .17-1.166 1.2-3.4 4-3 2.8.4 3.83 2.167 4 3l12.5 7v1.5h-11l-.5 1.5 1 2v8l1.5.5v4l4 2 42 2 2 1.5v9l-2 1.5-1 70-3 1-3-1v-70l-183 8v82h-7z" shape-rendering="crispEdges"></path></g></g><g class="vi-archive-inactive"><path fill="url(#collections-paint10_linear_31:1427)" fill-opacity=".2" d="M1406.5 901v-82l-9-1.5V801l16-1v-1l-1-2 5-2.5V792c-.4-.4-2.83-1.833-4-2.5v-9.25H1402V779l13.5-7.5c.5-1.5 2-3.5 5-3.5 2.4 0 3.33 2 3.5 3l14 7.5v1.5h-8.5c-3.2 0-3.67.667-3.5 1v8.5l-4 2.5v1.5l2-.5c1.17-.166 4.1-.6 6.5-1 2.4-.4 3 .834 3 1.5 1.67-.166 5.4-.5 7-.5 1.6 0 3 .667 3.5 1l.5 1.5c2-3.5 4.5-3 6-2s1.5 1 2.5 1 1-1.5 3-1.5c1.6 0 1.33 2.667 1 4h4v-4.5l3-1h27c0-3 .5-4 2-5 1.2-.8 3.5-1.333 4.5-1.5.5-4.5 4-5 6-5.5 1.6-.4 6.33 1.167 8.5 2V777c0-1.999 6-9.5 13-9.5 5.6 0 7.67 3.667 8 5.5.4-1.6 1.83-1.666 2.5-1.5.83-.166 2.8-.6 4-1 1.2-.4 4.83-.166 6.5 0 .17-1.166 1.2-3.4 4-3 2.8.4 3.83 2.167 4 3l12.5 7v1.5h-11l-.5 1.5 1 2v8l1.5.5v4l4 2 42 2 2 1.5v9l-2 1.5-1 70-3 1-3-1v-70l-183 8v82h-7z" class="fill_2"></path><g class="stroke_2" filter="url(#collections-filter5_ddd_31:1427)"><path stroke="url(#collections-paint11_linear_31:1427)" stroke-width="2" d="M1406.5 901v-82l-9-1.5V801l16-1v-1l-1-2 5-2.5V792c-.4-.4-2.83-1.833-4-2.5v-9.25H1402V779l13.5-7.5c.5-1.5 2-3.5 5-3.5 2.4 0 3.33 2 3.5 3l14 7.5v1.5h-8.5c-3.2 0-3.67.667-3.5 1v8.5l-4 2.5v1.5l2-.5c1.17-.166 4.1-.6 6.5-1 2.4-.4 3 .834 3 1.5 1.67-.166 5.4-.5 7-.5 1.6 0 3 .667 3.5 1l.5 1.5c2-3.5 4.5-3 6-2s1.5 1 2.5 1 1-1.5 3-1.5c1.6 0 1.33 2.667 1 4h4v-4.5l3-1h27c0-3 .5-4 2-5 1.2-.8 3.5-1.333 4.5-1.5.5-4.5 4-5 6-5.5 1.6-.4 6.33 1.167 8.5 2V777c0-1.999 6-9.5 13-9.5 5.6 0 7.67 3.667 8 5.5.4-1.6 1.83-1.666 2.5-1.5.83-.166 2.8-.6 4-1 1.2-.4 4.83-.166 6.5 0 .17-1.166 1.2-3.4 4-3 2.8.4 3.83 2.167 4 3l12.5 7v1.5h-11l-.5 1.5 1 2v8l1.5.5v4l4 2 42 2 2 1.5v9l-2 1.5-1 70-3 1-3-1v-70l-183 8v82h-7z" shape-rendering="crispEdges"></path></g></g><g class="vi-archive-hover" filter="url(#collections-filter6_dd_31:1427)"><path fill="url(#collections-paint12_linear_31:1427)" d="M1406.5 901v-82l-9-1.5V801l16-1v-1l-1-2 5-2.5V792c-.4-.4-2.83-1.833-4-2.5v-9.25H1402V779l13.5-7.5c.5-1.5 2-3.5 5-3.5 2.4 0 3.33 2 3.5 3l14 7.5v1.5h-8.5c-3.2 0-3.67.667-3.5 1v8.5l-4 2.5v1.5l2-.5c1.17-.166 4.1-.6 6.5-1 2.4-.4 3 .834 3 1.5 1.67-.166 5.4-.5 7-.5 1.6 0 3 .667 3.5 1l.5 1.5c2-3.5 4.5-3 6-2s1.5 1 2.5 1 1-1.5 3-1.5c1.6 0 1.33 2.667 1 4h4v-4.5l3-1h27c0-3 .5-4 2-5 1.2-.8 3.5-1.333 4.5-1.5.5-4.5 4-5 6-5.5 1.6-.4 6.33 1.167 8.5 2V777c0-1.999 6-9.5 13-9.5 5.6 0 7.67 3.667 8 5.5.4-1.6 1.83-1.666 2.5-1.5.83-.166 2.8-.6 4-1 1.2-.4 4.83-.166 6.5 0 .17-1.166 1.2-3.4 4-3 2.8.4 3.83 2.167 4 3l12.5 7v1.5h-11l-.5 1.5 1 2v8l1.5.5v4l4 2 42 2 2 1.5v9l-2 1.5-1 70-3 1-3-1v-70l-183 8v82h-7z" shape-rendering="crispEdges"></path><path stroke="#C2F7F7" stroke-width="2" d="M1406.5 901v-82l-9-1.5V801l16-1v-1l-1-2 5-2.5V792c-.4-.4-2.83-1.833-4-2.5v-9.25H1402V779l13.5-7.5c.5-1.5 2-3.5 5-3.5 2.4 0 3.33 2 3.5 3l14 7.5v1.5h-8.5c-3.2 0-3.67.667-3.5 1v8.5l-4 2.5v1.5l2-.5c1.17-.166 4.1-.6 6.5-1 2.4-.4 3 .834 3 1.5 1.67-.166 5.4-.5 7-.5 1.6 0 3 .667 3.5 1l.5 1.5c2-3.5 4.5-3 6-2s1.5 1 2.5 1 1-1.5 3-1.5c1.6 0 1.33 2.667 1 4h4v-4.5l3-1h27c0-3 .5-4 2-5 1.2-.8 3.5-1.333 4.5-1.5.5-4.5 4-5 6-5.5 1.6-.4 6.33 1.167 8.5 2V777c0-1.999 6-9.5 13-9.5 5.6 0 7.67 3.667 8 5.5.4-1.6 1.83-1.666 2.5-1.5.83-.166 2.8-.6 4-1 1.2-.4 4.83-.166 6.5 0 .17-1.166 1.2-3.4 4-3 2.8.4 3.83 2.167 4 3l12.5 7v1.5h-11l-.5 1.5 1 2v8l1.5.5v4l4 2 42 2 2 1.5v9l-2 1.5-1 70-3 1-3-1v-70l-183 8v82h-7z" shape-rendering="crispEdges"></path><path stroke="url(#collections-paint13_linear_31:1427)" stroke-width="2" d="M1406.5 901v-82l-9-1.5V801l16-1v-1l-1-2 5-2.5V792c-.4-.4-2.83-1.833-4-2.5v-9.25H1402V779l13.5-7.5c.5-1.5 2-3.5 5-3.5 2.4 0 3.33 2 3.5 3l14 7.5v1.5h-8.5c-3.2 0-3.67.667-3.5 1v8.5l-4 2.5v1.5l2-.5c1.17-.166 4.1-.6 6.5-1 2.4-.4 3 .834 3 1.5 1.67-.166 5.4-.5 7-.5 1.6 0 3 .667 3.5 1l.5 1.5c2-3.5 4.5-3 6-2s1.5 1 2.5 1 1-1.5 3-1.5c1.6 0 1.33 2.667 1 4h4v-4.5l3-1h27c0-3 .5-4 2-5 1.2-.8 3.5-1.333 4.5-1.5.5-4.5 4-5 6-5.5 1.6-.4 6.33 1.167 8.5 2V777c0-1.999 6-9.5 13-9.5 5.6 0 7.67 3.667 8 5.5.4-1.6 1.83-1.666 2.5-1.5.83-.166 2.8-.6 4-1 1.2-.4 4.83-.166 6.5 0 .17-1.166 1.2-3.4 4-3 2.8.4 3.83 2.167 4 3l12.5 7v1.5h-11l-.5 1.5 1 2v8l1.5.5v4l4 2 42 2 2 1.5v9l-2 1.5-1 70-3 1-3-1v-70l-183 8v82h-7z" shape-rendering="crispEdges"></path></g></g><g class="jinx-closed-archive"><path fill="#fff" d="M1848.5 889h-60.42l-51.58 26.5-26.54 7.027-44.78 42.985L1655 992.24v26.4l12.52 81.66 287.84 16.08-4.19-185.215-43.67-8.638-59-33.527z" class="jinx-closed-archive-clickable"></path><g class="jinx-closed-archive-neutral"><path fill="url(#collections-paint14_linear_31:1427)" fill-opacity=".4" d="M1671 995l8-8v-13l7-7.5h3l28.5-28 70.5 5.5c0-1.5 5-4.5 25-4.5s27 3.667 28 5.5l66.5 2.5 1.5-1.5h22.5l3.5 29 2 .5 1 42.5 2 82.5-259-15V1061l1-2.5V1021h-4l-7-3.5v-4l8-8v-3l-8-4V995z" class="Fill"></path><g class="stroke_3" filter="url(#collections-filter7_ddd_31:1427)"><path stroke="url(#collections-paint15_linear_31:1427)" stroke-width="2" d="M1671 995l8-8v-13l7-7.5h3l28.5-28 70.5 5.5c0-1.5 5-4.5 25-4.5s27 3.667 28 5.5l66.5 2.5 1.5-1.5h22.5l3.5 29 2 .5 1 42.5 2 82.5-259-15V1061l1-2.5V1021h-4l-7-3.5v-4l8-8v-3l-8-4V995z" shape-rendering="crispEdges"></path></g></g><g class="jinx-closed-archive-inactive"><path fill="url(#collections-paint16_linear_31:1427)" fill-opacity=".2" d="M1671 995l8-8v-13l7-7.5h3l28.5-28 70.5 5.5c0-1.5 5-4.5 25-4.5s27 3.667 28 5.5l66.5 2.5 1.5-1.5h22.5l3.5 29 2 .5 1 42.5 2 82.5-259-15V1061l1-2.5V1021h-4l-7-3.5v-4l8-8v-3l-8-4V995z" class="Fill_2"></path><g class="stroke_4" filter="url(#collections-filter8_ddd_31:1427)"><path stroke="url(#collections-paint17_linear_31:1427)" stroke-width="2" d="M1671 995l8-8v-13l7-7.5h3l28.5-28 70.5 5.5c0-1.5 5-4.5 25-4.5s27 3.667 28 5.5l66.5 2.5 1.5-1.5h22.5l3.5 29 2 .5 1 42.5 2 82.5-259-15V1061l1-2.5V1021h-4l-7-3.5v-4l8-8v-3l-8-4V995z" shape-rendering="crispEdges"></path></g></g><g class="jinx-closed-archive-hover" filter="url(#collections-filter9_dd_31:1427)"><path fill="url(#collections-paint18_linear_31:1427)" d="M1671 995l8-8v-13l7-7.5h3l28.5-28 70.5 5.5c0-1.5 5-4.5 25-4.5s27 3.667 28 5.5l66.5 2.5 1.5-1.5h22.5l3.5 29 2 .5 1 42.5 2 82.5-259-15V1061l1-2.5V1021h-4l-7-3.5v-4l8-8v-3l-8-4V995z" shape-rendering="crispEdges"></path><path stroke="#C2F7F7" stroke-width="2" d="M1671 995l8-8v-13l7-7.5h3l28.5-28 70.5 5.5c0-1.5 5-4.5 25-4.5s27 3.667 28 5.5l66.5 2.5 1.5-1.5h22.5l3.5 29 2 .5 1 42.5 2 82.5-259-15V1061l1-2.5V1021h-4l-7-3.5v-4l8-8v-3l-8-4V995z" shape-rendering="crispEdges"></path><path stroke="url(#collections-paint19_linear_31:1427)" stroke-width="2" d="M1671 995l8-8v-13l7-7.5h3l28.5-28 70.5 5.5c0-1.5 5-4.5 25-4.5s27 3.667 28 5.5l66.5 2.5 1.5-1.5h22.5l3.5 29 2 .5 1 42.5 2 82.5-259-15V1061l1-2.5V1021h-4l-7-3.5v-4l8-8v-3l-8-4V995z" shape-rendering="crispEdges"></path></g></g><g class="caitlyn-archive"><path fill="#fff" d="M2367.78 922.5h9.42l124.5 41h5.92l70.41 86.38 12.55.63 160.58-12.87L2762 894.689v-12.042l-39.86-113.437-6.8-4.33-67.68-50.38h-15.32l-78 5h-14.59l-106.39 73.926-55.12 36.057-23.24 41.204v8.005l5.7 20.205 7.08 23.603z" class="caitlyn-archive-clickable"></path><g class="caitlyn-archive-neutral"><path fill="url(#collections-paint20_linear_31:1427)" fill-opacity=".4" d="M2744 919l2.5 114-11.5-2.5V1014l-145.5 11 1 20.5-10-.5-3.5-118.5-67-8V959h-7.5l-1-41.5-123.5-17v17h-7v-18.186l-5.5-1.314v-20h-5.5v-6l22-1v-38h14l-2-3v-1.5l40.5-1-6.5-9.5v-3l8.5-11h16l1.5-3 55 1 1-3.5 9-9.5c2.8-7.6 9.5-16.833 12.5-20.5V766c2.8-3.6 7.5-2.166 9.5-1l2.5-2v-6.5l-5-16V738l3.5-3v-7.5c6.8-5.2 11.83-2.166 13.5 0v6.5l4 2.5v1.5l-1.5 1v9l4.5-4h2.5l2-3.5h6v-4h9.5c4 0 7.33 2.667 8.5 4 4.4.8 9.83 7 12 10h3.5l1.5 3v3l-5 4.5 2 2h5.5l8 2v15l4.5 2.5v-6c.4-5.6 6.5-10 9.5-11.5l2-4-6-27 4-3v-8c5.6-4.4 11.33-2.5 13.5-1v7.5l6.5 2.5-4.5 30h36c5.6 0 10.67 7 12.5 10.5v4l11-7.5h4.5l5.5 3.5v5.5l-16.5 8.5v1.5h14.5l8 8v41.5l-3 2V880h14.5l2 3.5h20V895h-5v22.5l-8 1.5z" class="fill_3"></path><g class="stroke_5" filter="url(#collections-filter10_ddd_31:1427)"><path stroke="url(#collections-paint21_linear_31:1427)" stroke-width="2" d="M2744 919l2.5 114-11.5-2.5V1014l-145.5 11 1 20.5-10-.5-3.5-118.5-67-8V959h-7.5l-1-41.5-123.5-17v17h-7v-18.186l-5.5-1.314v-20h-5.5v-6l22-1v-38h14l-2-3v-1.5l40.5-1-6.5-9.5v-3l8.5-11h16l1.5-3 55 1 1-3.5 9-9.5c2.8-7.6 9.5-16.833 12.5-20.5V766c2.8-3.6 7.5-2.166 9.5-1l2.5-2v-6.5l-5-16V738l3.5-3v-7.5c6.8-5.2 11.83-2.166 13.5 0v6.5l4 2.5v1.5l-1.5 1v9l4.5-4h2.5l2-3.5h6v-4h9.5c4 0 7.33 2.667 8.5 4 4.4.8 9.83 7 12 10h3.5l1.5 3v3l-5 4.5 2 2h5.5l8 2v15l4.5 2.5v-6c.4-5.6 6.5-10 9.5-11.5l2-4-6-27 4-3v-8c5.6-4.4 11.33-2.5 13.5-1v7.5l6.5 2.5-4.5 30h36c5.6 0 10.67 7 12.5 10.5v4l11-7.5h4.5l5.5 3.5v5.5l-16.5 8.5v1.5h14.5l8 8v41.5l-3 2V880h14.5l2 3.5h20V895h-5v22.5l-8 1.5z" shape-rendering="crispEdges"></path></g></g><g class="caitlyn-archive-inactive"><path fill="url(#collections-paint22_linear_31:1427)" fill-opacity=".2" d="M2744 919l2.5 114-11.5-2.5V1014l-145.5 11 1 20.5-10-.5-3.5-118.5-67-8V959h-7.5l-1-41.5-123.5-17v17h-7v-18.186l-5.5-1.314v-20h-5.5v-6l22-1v-38h14l-2-3v-1.5l40.5-1-6.5-9.5v-3l8.5-11h16l1.5-3 55 1 1-3.5 9-9.5c2.8-7.6 9.5-16.833 12.5-20.5V766c2.8-3.6 7.5-2.166 9.5-1l2.5-2v-6.5l-5-16V738l3.5-3v-7.5c6.8-5.2 11.83-2.166 13.5 0v6.5l4 2.5v1.5l-1.5 1v9l4.5-4h2.5l2-3.5h6v-4h9.5c4 0 7.33 2.667 8.5 4 4.4.8 9.83 7 12 10h3.5l1.5 3v3l-5 4.5 2 2h5.5l8 2v15l4.5 2.5v-6c.4-5.6 6.5-10 9.5-11.5l2-4-6-27 4-3v-8c5.6-4.4 11.33-2.5 13.5-1v7.5l6.5 2.5-4.5 30h36c5.6 0 10.67 7 12.5 10.5v4l11-7.5h4.5l5.5 3.5v5.5l-16.5 8.5v1.5h14.5l8 8v41.5l-3 2V880h14.5l2 3.5h20V895h-5v22.5l-8 1.5z" class="fill_4"></path><g class="stroke_6" filter="url(#collections-filter11_ddd_31:1427)"><path stroke="url(#collections-paint23_linear_31:1427)" stroke-width="2" d="M2744 919l2.5 114-11.5-2.5V1014l-145.5 11 1 20.5-10-.5-3.5-118.5-67-8V959h-7.5l-1-41.5-123.5-17v17h-7v-18.186l-5.5-1.314v-20h-5.5v-6l22-1v-38h14l-2-3v-1.5l40.5-1-6.5-9.5v-3l8.5-11h16l1.5-3 55 1 1-3.5 9-9.5c2.8-7.6 9.5-16.833 12.5-20.5V766c2.8-3.6 7.5-2.166 9.5-1l2.5-2v-6.5l-5-16V738l3.5-3v-7.5c6.8-5.2 11.83-2.166 13.5 0v6.5l4 2.5v1.5l-1.5 1v9l4.5-4h2.5l2-3.5h6v-4h9.5c4 0 7.33 2.667 8.5 4 4.4.8 9.83 7 12 10h3.5l1.5 3v3l-5 4.5 2 2h5.5l8 2v15l4.5 2.5v-6c.4-5.6 6.5-10 9.5-11.5l2-4-6-27 4-3v-8c5.6-4.4 11.33-2.5 13.5-1v7.5l6.5 2.5-4.5 30h36c5.6 0 10.67 7 12.5 10.5v4l11-7.5h4.5l5.5 3.5v5.5l-16.5 8.5v1.5h14.5l8 8v41.5l-3 2V880h14.5l2 3.5h20V895h-5v22.5l-8 1.5z" shape-rendering="crispEdges"></path></g></g><g class="caitlyn-archive-hover" filter="url(#collections-filter12_dd_31:1427)"><path fill="url(#collections-paint24_linear_31:1427)" d="M2744 919l2.5 114-11.5-2.5V1014l-145.5 11 1 20.5-10-.5-3.5-118.5-67-8V959h-7.5l-1-41.5-123.5-17v17h-7v-18.186l-5.5-1.314v-20h-5.5v-6l22-1v-38h14l-2-3v-1.5l40.5-1-6.5-9.5v-3l8.5-11h16l1.5-3 55 1 1-3.5 9-9.5c2.8-7.6 9.5-16.833 12.5-20.5V766c2.8-3.6 7.5-2.166 9.5-1l2.5-2v-6.5l-5-16V738l3.5-3v-7.5c6.8-5.2 11.83-2.166 13.5 0v6.5l4 2.5v1.5l-1.5 1v9l4.5-4h2.5l2-3.5h6v-4h9.5c4 0 7.33 2.667 8.5 4 4.4.8 9.83 7 12 10h3.5l1.5 3v3l-5 4.5 2 2h5.5l8 2v15l4.5 2.5v-6c.4-5.6 6.5-10 9.5-11.5l2-4-6-27 4-3v-8c5.6-4.4 11.33-2.5 13.5-1v7.5l6.5 2.5-4.5 30h36c5.6 0 10.67 7 12.5 10.5v4l11-7.5h4.5l5.5 3.5v5.5l-16.5 8.5v1.5h14.5l8 8v41.5l-3 2V880h14.5l2 3.5h20V895h-5v22.5l-8 1.5z" shape-rendering="crispEdges"></path><path stroke="#C2F7F7" stroke-width="2" d="M2744 919l2.5 114-11.5-2.5V1014l-145.5 11 1 20.5-10-.5-3.5-118.5-67-8V959h-7.5l-1-41.5-123.5-17v17h-7v-18.186l-5.5-1.314v-20h-5.5v-6l22-1v-38h14l-2-3v-1.5l40.5-1-6.5-9.5v-3l8.5-11h16l1.5-3 55 1 1-3.5 9-9.5c2.8-7.6 9.5-16.833 12.5-20.5V766c2.8-3.6 7.5-2.166 9.5-1l2.5-2v-6.5l-5-16V738l3.5-3v-7.5c6.8-5.2 11.83-2.166 13.5 0v6.5l4 2.5v1.5l-1.5 1v9l4.5-4h2.5l2-3.5h6v-4h9.5c4 0 7.33 2.667 8.5 4 4.4.8 9.83 7 12 10h3.5l1.5 3v3l-5 4.5 2 2h5.5l8 2v15l4.5 2.5v-6c.4-5.6 6.5-10 9.5-11.5l2-4-6-27 4-3v-8c5.6-4.4 11.33-2.5 13.5-1v7.5l6.5 2.5-4.5 30h36c5.6 0 10.67 7 12.5 10.5v4l11-7.5h4.5l5.5 3.5v5.5l-16.5 8.5v1.5h14.5l8 8v41.5l-3 2V880h14.5l2 3.5h20V895h-5v22.5l-8 1.5z" shape-rendering="crispEdges"></path><path stroke="url(#collections-paint25_linear_31:1427)" stroke-width="2" d="M2744 919l2.5 114-11.5-2.5V1014l-145.5 11 1 20.5-10-.5-3.5-118.5-67-8V959h-7.5l-1-41.5-123.5-17v17h-7v-18.186l-5.5-1.314v-20h-5.5v-6l22-1v-38h14l-2-3v-1.5l40.5-1-6.5-9.5v-3l8.5-11h16l1.5-3 55 1 1-3.5 9-9.5c2.8-7.6 9.5-16.833 12.5-20.5V766c2.8-3.6 7.5-2.166 9.5-1l2.5-2v-6.5l-5-16V738l3.5-3v-7.5c6.8-5.2 11.83-2.166 13.5 0v6.5l4 2.5v1.5l-1.5 1v9l4.5-4h2.5l2-3.5h6v-4h9.5c4 0 7.33 2.667 8.5 4 4.4.8 9.83 7 12 10h3.5l1.5 3v3l-5 4.5 2 2h5.5l8 2v15l4.5 2.5v-6c.4-5.6 6.5-10 9.5-11.5l2-4-6-27 4-3v-8c5.6-4.4 11.33-2.5 13.5-1v7.5l6.5 2.5-4.5 30h36c5.6 0 10.67 7 12.5 10.5v4l11-7.5h4.5l5.5 3.5v5.5l-16.5 8.5v1.5h14.5l8 8v41.5l-3 2V880h14.5l2 3.5h20V895h-5v22.5l-8 1.5z" shape-rendering="crispEdges"></path></g></g><g class="jinx-opened-archive"><path fill="#fff" d="M1844.51 997.5H1788l-78 64.51v10.49l15.85 8 68.94-1 19.8 1.98 88.91 4.02 23.5-40-82.49-48z" class="jinx-opened-archive-clickable"></path><g class="jinx-opened-archive-neutral"><path fill="url(#collections-paint26_linear_31:1427)" fill-opacity=".4" d="M1735.5 1054.5c-4 2.4-11.33 9.33-14.5 12.5 1 .5 8.1 1.5 28.5 1.5 25.5 0 42.5 5.5 47.5 6.5s7.5 0 32 0c19.6 0 49.17 3.67 61.5 5.5l21-31 1-5-6-1-4-4.5c-2.5.33-9.1.8-15.5 0-8-1-24.5-1.5-33.5-2-7.2-.4-14.67 1.17-17.5 2-2.67-.17-9.6-1.1-16-3.5s-35.67-2.67-49.5-2.5c-2.5 6.5-30 18.5-35 21.5z" class="fill_5"></path><g class="stroke_7" filter="url(#collections-filter13_ddd_31:1427)"><path stroke="url(#collections-paint27_linear_31:1427)" stroke-width="2" d="M1735.5 1054.5c-4 2.4-11.33 9.33-14.5 12.5 1 .5 8.1 1.5 28.5 1.5 25.5 0 42.5 5.5 47.5 6.5s7.5 0 32 0c19.6 0 49.17 3.67 61.5 5.5l21-31 1-5-6-1-4-4.5c-2.5.33-9.1.8-15.5 0-8-1-24.5-1.5-33.5-2-7.2-.4-14.67 1.17-17.5 2-2.67-.17-9.6-1.1-16-3.5s-35.67-2.67-49.5-2.5c-2.5 6.5-30 18.5-35 21.5z" shape-rendering="crispEdges"></path></g></g><g class="jinx-opened-archive-inactive"><path fill="url(#collections-paint28_linear_31:1427)" fill-opacity=".2" d="M1735.5 1054.5c-4 2.4-11.33 9.33-14.5 12.5 1 .5 8.1 1.5 28.5 1.5 25.5 0 42.5 5.5 47.5 6.5s7.5 0 32 0c19.6 0 49.17 3.67 61.5 5.5l21-31 1-5-6-1-4-4.5c-2.5.33-9.1.8-15.5 0-8-1-24.5-1.5-33.5-2-7.2-.4-14.67 1.17-17.5 2-2.67-.17-9.6-1.1-16-3.5s-35.67-2.67-49.5-2.5c-2.5 6.5-30 18.5-35 21.5z" class="fill_6"></path><g class="stroke_8" filter="url(#collections-filter14_ddd_31:1427)"><path stroke="url(#collections-paint29_linear_31:1427)" stroke-width="2" d="M1735.5 1054.5c-4 2.4-11.33 9.33-14.5 12.5 1 .5 8.1 1.5 28.5 1.5 25.5 0 42.5 5.5 47.5 6.5s7.5 0 32 0c19.6 0 49.17 3.67 61.5 5.5l21-31 1-5-6-1-4-4.5c-2.5.33-9.1.8-15.5 0-8-1-24.5-1.5-33.5-2-7.2-.4-14.67 1.17-17.5 2-2.67-.17-9.6-1.1-16-3.5s-35.67-2.67-49.5-2.5c-2.5 6.5-30 18.5-35 21.5z" shape-rendering="crispEdges"></path></g></g><g class="jinx-opened-archive-hover" filter="url(#collections-filter15_dd_31:1427)"><path fill="url(#collections-paint30_linear_31:1427)" d="M1735.5 1054.5c-4 2.4-11.33 9.33-14.5 12.5 1 .5 8.1 1.5 28.5 1.5 25.5 0 42.5 5.5 47.5 6.5s7.5 0 32 0c19.6 0 49.17 3.67 61.5 5.5l21-31 1-5-6-1-4-4.5c-2.5.33-9.1.8-15.5 0-8-1-24.5-1.5-33.5-2-7.2-.4-14.67 1.17-17.5 2-2.67-.17-9.6-1.1-16-3.5s-35.67-2.67-49.5-2.5c-2.5 6.5-30 18.5-35 21.5z" shape-rendering="crispEdges"></path><path stroke="#C2F7F7" stroke-width="2" d="M1735.5 1054.5c-4 2.4-11.33 9.33-14.5 12.5 1 .5 8.1 1.5 28.5 1.5 25.5 0 42.5 5.5 47.5 6.5s7.5 0 32 0c19.6 0 49.17 3.67 61.5 5.5l21-31 1-5-6-1-4-4.5c-2.5.33-9.1.8-15.5 0-8-1-24.5-1.5-33.5-2-7.2-.4-14.67 1.17-17.5 2-2.67-.17-9.6-1.1-16-3.5s-35.67-2.67-49.5-2.5c-2.5 6.5-30 18.5-35 21.5z" shape-rendering="crispEdges"></path><path stroke="url(#collections-paint31_linear_31:1427)" stroke-width="2" d="M1735.5 1054.5c-4 2.4-11.33 9.33-14.5 12.5 1 .5 8.1 1.5 28.5 1.5 25.5 0 42.5 5.5 47.5 6.5s7.5 0 32 0c19.6 0 49.17 3.67 61.5 5.5l21-31 1-5-6-1-4-4.5c-2.5.33-9.1.8-15.5 0-8-1-24.5-1.5-33.5-2-7.2-.4-14.67 1.17-17.5 2-2.67-.17-9.6-1.1-16-3.5s-35.67-2.67-49.5-2.5c-2.5 6.5-30 18.5-35 21.5z" shape-rendering="crispEdges"></path></g></g></g><defs><linearGradient id="collections-paint0_linear_31:1427" x1="935.75" x2="863.558" y1="754" y2="1035.28" class="paint0_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="collections-paint1_linear_31:1427" x1="1270.25" x2="1193.71" y1="802" y2="928.261" class="paint1_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="collections-paint2_linear_31:1427" x1="1165.76" x2="1137.74" y1="676.458" y2="1034" class="paint2_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="collections-paint3_linear_31:1427" x1="1326.33" x2="1289.25" y1="757.341" y2="957.661" class="paint3_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="collections-paint4_linear_31:1427" x1="935.75" x2="935.75" y1="738.864" y2="1096.26" class="paint4_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#C2F6F6" stop-opacity=".02"></stop><stop offset="1" stop-color="#C2F6F6"></stop></linearGradient><linearGradient id="collections-paint5_linear_31:1427" x1="1048.04" x2="1013.08" y1="688.087" y2="1032.24" class="paint5_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"></stop><stop offset=".427" stop-color="#BFFFFD"></stop><stop offset="1" stop-color="#4BBDE1"></stop></linearGradient><linearGradient id="collections-paint6_linear_31:1427" x1="1270.25" x2="1270.25" y1="793.283" y2="999.117" class="paint6_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#C2F6F6" stop-opacity=".02"></stop><stop offset="1" stop-color="#C2F6F6"></stop></linearGradient><linearGradient id="collections-paint7_linear_31:1427" x1="1297.63" x2="1252.2" y1="764.039" y2="953.388" class="paint7_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"></stop><stop offset=".427" stop-color="#BFFFFD"></stop><stop offset="1" stop-color="#4BBDE1"></stop></linearGradient><linearGradient id="collections-paint8_linear_31:1427" x1="1501.5" x2="1462.52" y1="767.453" y2="904.667" class="paint8_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="collections-paint9_linear_31:1427" x1="1542.23" x2="1525.93" y1="734.851" y2="905.271" class="paint9_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="collections-paint10_linear_31:1427" x1="1576.26" x2="1496.89" y1="886.415" y2="751.093" class="paint10_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#7C7C7C"></stop><stop offset=".108" stop-color="#3F3F3F"></stop><stop offset=".28" stop-color="#999"></stop><stop offset=".729" stop-color="#484848"></stop><stop offset=".866" stop-color="#343434"></stop><stop offset="1" stop-color="#747474"></stop></linearGradient><linearGradient id="collections-paint11_linear_31:1427" x1="1576.26" x2="1496.89" y1="886.415" y2="751.093" class="paint11_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#A8A8A8"></stop><stop offset=".108" stop-color="#CDCDCD"></stop><stop offset=".28" stop-color="#B5B5B5"></stop><stop offset=".729" stop-color="#9D9D9D"></stop><stop offset="1" stop-color="#D5D5D5"></stop></linearGradient><linearGradient id="collections-paint12_linear_31:1427" x1="1501.5" x2="1501.5" y1="759.967" y2="936.742" class="paint12_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#C2F6F6" stop-opacity=".02"></stop><stop offset="1" stop-color="#C2F6F6"></stop></linearGradient><linearGradient id="collections-paint13_linear_31:1427" x1="1551.68" x2="1532.58" y1="734.851" y2="904.684" class="paint13_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"></stop><stop offset=".427" stop-color="#BFFFFD"></stop><stop offset="1" stop-color="#4BBDE1"></stop></linearGradient><linearGradient id="collections-paint14_linear_31:1427" x1="1805.5" x2="1760.74" y1="938.5" y2="1106.46" class="paint14_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="collections-paint15_linear_31:1427" x1="1858.18" x2="1839.61" y1="898.952" y2="1105.91" class="paint15_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="collections-paint16_linear_31:1427" x1="1902.19" x2="1809.01" y1="1082.81" y2="913.443" class="paint16_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#7C7C7C"></stop><stop offset=".108" stop-color="#3F3F3F"></stop><stop offset=".28" stop-color="#999"></stop><stop offset=".729" stop-color="#484848"></stop><stop offset=".866" stop-color="#343434"></stop><stop offset="1" stop-color="#747474"></stop></linearGradient><linearGradient id="collections-paint17_linear_31:1427" x1="1902.19" x2="1809.01" y1="1082.81" y2="913.443" class="paint17_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#A8A8A8"></stop><stop offset=".108" stop-color="#CDCDCD"></stop><stop offset=".28" stop-color="#B5B5B5"></stop><stop offset=".729" stop-color="#9D9D9D"></stop><stop offset="1" stop-color="#D5D5D5"></stop></linearGradient><linearGradient id="collections-paint18_linear_31:1427" x1="1805.5" x2="1805.5" y1="929.419" y2="1143.86" class="paint18_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#C2F6F6" stop-opacity=".02"></stop><stop offset="1" stop-color="#C2F6F6"></stop></linearGradient><linearGradient id="collections-paint19_linear_31:1427" x1="1870.39" x2="1848.63" y1="898.952" y2="1105.28" class="paint19_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"></stop><stop offset=".427" stop-color="#BFFFFD"></stop><stop offset="1" stop-color="#4BBDE1"></stop></linearGradient><linearGradient id="collections-paint20_linear_31:1427" x1="2558.5" x2="2442.8" y1="720.275" y2="1039.46" class="paint20_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="collections-paint21_linear_31:1427" x1="2636.24" x2="2585.87" y1="640.881" y2="1053.55" class="paint21_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="collections-paint22_linear_31:1427" x1="2701.2" x2="2488.72" y1="1009.98" y2="726.071" class="paint22_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#7C7C7C"></stop><stop offset=".108" stop-color="#3F3F3F"></stop><stop offset=".28" stop-color="#999"></stop><stop offset=".729" stop-color="#484848"></stop><stop offset=".866" stop-color="#343434"></stop><stop offset="1" stop-color="#747474"></stop></linearGradient><linearGradient id="collections-paint23_linear_31:1427" x1="2701.2" x2="2488.72" y1="1009.98" y2="726.071" class="paint23_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#A8A8A8"></stop><stop offset=".108" stop-color="#CDCDCD"></stop><stop offset=".28" stop-color="#B5B5B5"></stop><stop offset=".729" stop-color="#9D9D9D"></stop><stop offset="1" stop-color="#D5D5D5"></stop></linearGradient><linearGradient id="collections-paint24_linear_31:1427" x1="2558.5" x2="2558.5" y1="702.044" y2="1132.54" class="paint24_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#C2F6F6" stop-opacity=".02"></stop><stop offset="1" stop-color="#C2F6F6"></stop></linearGradient><linearGradient id="collections-paint25_linear_31:1427" x1="2654.27" x2="2595.39" y1="640.88" y2="1051.25" class="paint25_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"></stop><stop offset=".427" stop-color="#BFFFFD"></stop><stop offset="1" stop-color="#4BBDE1"></stop></linearGradient><linearGradient id="collections-paint26_linear_31:1427" x1="1816.75" x2="1811.02" y1="1032.96" y2="1085.12" class="paint26_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="collections-paint27_linear_31:1427" x1="1854.25" x2="1851.99" y1="1021.35" y2="1082.49" class="paint27_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="collections-paint28_linear_31:1427" x1="1885.58" x2="1871.62" y1="1075.31" y2="1013.73" class="paint28_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#7C7C7C"></stop><stop offset=".108" stop-color="#3F3F3F"></stop><stop offset=".28" stop-color="#999"></stop><stop offset=".729" stop-color="#484848"></stop><stop offset=".866" stop-color="#343434"></stop><stop offset="1" stop-color="#747474"></stop></linearGradient><linearGradient id="collections-paint29_linear_31:1427" x1="1885.58" x2="1871.62" y1="1075.31" y2="1013.73" class="paint29_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#A8A8A8"></stop><stop offset=".108" stop-color="#CDCDCD"></stop><stop offset=".28" stop-color="#B5B5B5"></stop><stop offset=".729" stop-color="#9D9D9D"></stop><stop offset="1" stop-color="#D5D5D5"></stop></linearGradient><linearGradient id="collections-paint30_linear_31:1427" x1="1816.75" x2="1816.75" y1="1030.29" y2="1093.22" class="paint30_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#C2F6F6" stop-opacity=".02"></stop><stop offset="1" stop-color="#C2F6F6"></stop></linearGradient><linearGradient id="collections-paint31_linear_31:1427" x1="1862.95" x2="1860.29" y1="1021.35" y2="1082.46" class="paint31_linear_31:1427" gradientUnits="userSpaceOnUse"><stop stop-color="#fff"></stop><stop offset=".427" stop-color="#BFFFFD"></stop><stop offset="1" stop-color="#4BBDE1"></stop></linearGradient><filter id="collections-filter0_ddd_31:1427" width="507.648" height="312.038" x="682" y="733" class="filter0_ddd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858333 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.629167 0 0 0 0 0.97775 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_31:1427" result="effect3_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_31:1427" result="shape"></feBlend></filter><filter id="collections-filter1_ddd_31:1427" width="156.07" height="197.596" x="1191.93" y="781" class="filter1_ddd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858333 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.629167 0 0 0 0 0.97775 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_31:1427" result="effect3_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_31:1427" result="shape"></feBlend></filter><filter id="collections-filter2_dd_31:1427" width="507.648" height="312.038" x="682" y="733" class="filter2_dd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 0.2 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.492014 0 0 0 0 0.883354 0 0 0 0 0.908333 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect2_dropShadow_31:1427" result="shape"></feBlend></filter><filter id="collections-filter3_dd_31:1427" width="156.07" height="197.596" x="1191.93" y="781" class="filter3_dd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 0.2 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.492014 0 0 0 0 0.883354 0 0 0 0 0.908333 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect2_dropShadow_31:1427" result="shape"></feBlend></filter><filter id="collections-filter4_ddd_31:1427" width="250" height="175.547" x="1376.5" y="746.453" class="filter4_ddd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858333 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.629167 0 0 0 0 0.97775 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_31:1427" result="effect3_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_31:1427" result="shape"></feBlend></filter><filter id="collections-filter5_ddd_31:1427" width="250" height="175.547" x="1376.5" y="746.453" class="filter5_ddd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.783605 0 0 0 0 0.783605 0 0 0 0 0.783605 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.808605 0 0 0 0 0.808605 0 0 0 0 0.808605 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.896105 0 0 0 0 0.896105 0 0 0 0 0.896105 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_31:1427" result="effect3_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_31:1427" result="shape"></feBlend></filter><filter id="collections-filter6_dd_31:1427" width="250" height="175.547" x="1376.5" y="746.453" class="filter6_dd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 0.2 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.492014 0 0 0 0 0.883354 0 0 0 0 0.908333 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect2_dropShadow_31:1427" result="shape"></feBlend></filter><filter id="collections-filter7_ddd_31:1427" width="311.026" height="204.094" x="1650" y="917.468" class="filter7_ddd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858333 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.629167 0 0 0 0 0.97775 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_31:1427" result="effect3_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_31:1427" result="shape"></feBlend></filter><filter id="collections-filter8_ddd_31:1427" width="311.026" height="204.094" x="1650" y="917.468" class="filter8_ddd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.783605 0 0 0 0 0.783605 0 0 0 0 0.783605 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.808605 0 0 0 0 0.808605 0 0 0 0 0.808605 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.896105 0 0 0 0 0.896105 0 0 0 0 0.896105 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_31:1427" result="effect3_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_31:1427" result="shape"></feBlend></filter><filter id="collections-filter9_dd_31:1427" width="311.026" height="204.094" x="1650" y="917.468" class="filter9_dd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 0.2 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.492014 0 0 0 0 0.883354 0 0 0 0 0.908333 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect2_dropShadow_31:1427" result="shape"></feBlend></filter><filter id="collections-filter10_ddd_31:1427" width="439" height="367.279" x="2339" y="699.275" class="filter10_ddd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858333 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.629167 0 0 0 0 0.97775 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_31:1427" result="effect3_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_31:1427" result="shape"></feBlend></filter><filter id="collections-filter11_ddd_31:1427" width="439" height="367.279" x="2339" y="699.275" class="filter11_ddd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.783605 0 0 0 0 0.783605 0 0 0 0 0.783605 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.808605 0 0 0 0 0.808605 0 0 0 0 0.808605 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.896105 0 0 0 0 0.896105 0 0 0 0 0.896105 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_31:1427" result="effect3_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_31:1427" result="shape"></feBlend></filter><filter id="collections-filter12_dd_31:1427" width="439" height="367.279" x="2339" y="699.275" class="filter12_dd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 0.2 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.492014 0 0 0 0 0.883354 0 0 0 0 0.908333 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect2_dropShadow_31:1427" result="shape"></feBlend></filter><filter id="collections-filter13_ddd_31:1427" width="234.371" height="89.622" x="1699.31" y="1011.96" class="filter13_ddd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858333 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.629167 0 0 0 0 0.97775 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_31:1427" result="effect3_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_31:1427" result="shape"></feBlend></filter><filter id="collections-filter14_ddd_31:1427" width="234.371" height="89.622" x="1699.31" y="1011.96" class="filter14_ddd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.783605 0 0 0 0 0.783605 0 0 0 0 0.783605 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.808605 0 0 0 0 0.808605 0 0 0 0 0.808605 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.896105 0 0 0 0 0.896105 0 0 0 0 0.896105 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_31:1427" result="effect3_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_31:1427" result="shape"></feBlend></filter><filter id="collections-filter15_dd_31:1427" width="234.371" height="89.622" x="1699.31" y="1011.96" class="filter15_dd_31:1427" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 0.2 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_31:1427"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.492014 0 0 0 0 0.883354 0 0 0 0 0.908333 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_31:1427" result="effect2_dropShadow_31:1427"></feBlend><feBlend in="SourceGraphic" in2="effect2_dropShadow_31:1427" result="shape"></feBlend></filter></defs></svg>'
@@ -20308,8 +20867,8 @@
                 h = o.n(u),
                 v = o("cDf5"),
                 g = o.n(v),
-                y = (o("5DmW"), o("qePV"), o("YKMj")),
-                x = o("FZhB"),
+                x = (o("5DmW"), o("qePV"), o("YKMj")),
+                y = o("FZhB"),
                 m = o("bNQv"),
                 B = o.n(m);
             o("EnZy"), o("rB9j");
@@ -20327,7 +20886,7 @@
             var w = o("PGn1"),
                 O = o("Jy/+");
 
-            function b(e, t) {
+            function S(e, t) {
                 var o = Object.keys(e);
                 if (Object.getOwnPropertySymbols) {
                     var r = Object.getOwnPropertySymbols(e);
@@ -20338,19 +20897,19 @@
                 return o
             }
 
-            function S(e) {
+            function M(e) {
                 for (var t = 1; t < arguments.length; t++) {
                     var o = null != arguments[t] ? arguments[t] : {};
-                    t % 2 ? b(Object(o), !0).forEach((function(t) {
+                    t % 2 ? S(Object(o), !0).forEach((function(t) {
                         i()(e, t, o[t])
-                    })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(o)) : b(Object(o)).forEach((function(t) {
+                    })) : Object.getOwnPropertyDescriptors ? Object.defineProperties(e, Object.getOwnPropertyDescriptors(o)) : S(Object(o)).forEach((function(t) {
                         Object.defineProperty(e, t, Object.getOwnPropertyDescriptor(o, t))
                     }))
                 }
                 return e
             }
 
-            function M(e) {
+            function b(e) {
                 var t = function() {
                     if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                     if (Reflect.construct.sham) return !1;
@@ -20380,7 +20939,7 @@
                 },
                 E = function(e) {
                     p()(o, e);
-                    var t = M(o);
+                    var t = b(o);
 
                     function o() {
                         var e;
@@ -20394,7 +20953,7 @@
                     }, {
                         key: "getOptions",
                         value: function() {
-                            return S(S({}, this.staggerApplyContext.options), this.options)
+                            return M(M({}, this.staggerApplyContext.options), this.options)
                         }
                     }, {
                         key: "apply",
@@ -20403,7 +20962,7 @@
                             var e = this.getOptions(),
                                 t = e.addClass,
                                 o = e.addStyle;
-                            t && C(this.$el, t), o && Object(x.a)(this.$el, o)
+                            t && C(this.$el, t), o && Object(y.a)(this.$el, o)
                         }
                     }, {
                         key: "reverse",
@@ -20412,7 +20971,7 @@
                             var e = this.getOptions(),
                                 t = e.addClass,
                                 o = e.addStyle;
-                            t && C(this.$el, t, !1), o && Object(x.a)(this.$el, o, {
+                            t && C(this.$el, t, !1), o && Object(y.a)(this.$el, o, {
                                 reverse: !0
                             })
                         }
@@ -20427,7 +20986,7 @@
                             this.$emit("input", e)
                         }
                     }]), o
-                }(Object(y.d)(y.h.extend({
+                }(Object(x.d)(x.h.extend({
                     render: Object(w.a)({
                         slotScope: function() {
                             return {
@@ -20435,16 +20994,16 @@
                             }
                         }
                     })
-                }), y.h.extend(Object(O.optionsMixin)())));
-            G([Object(y.e)({
+                }), x.h.extend(Object(O.optionsMixin)())));
+            G([Object(x.e)({
                 type: Number
-            })], E.prototype, "order", void 0), G([Object(y.e)({
+            })], E.prototype, "order", void 0), G([Object(x.e)({
                 type: Boolean,
                 default: !0
-            })], E.prototype, "trueValue", void 0), G([Object(y.e)({
+            })], E.prototype, "trueValue", void 0), G([Object(x.e)({
                 type: Boolean,
                 default: !1
-            })], E.prototype, "falseValue", void 0), G([Object(y.c)(O.injectStaggerApplyContext)], E.prototype, "staggerApplyContext", void 0), G([Object(y.i)("applied")], E.prototype, "appliedChanged", null), E = G([y.a], E);
+            })], E.prototype, "falseValue", void 0), G([Object(x.c)(O.injectStaggerApplyContext)], E.prototype, "staggerApplyContext", void 0), G([Object(x.i)("applied")], E.prototype, "appliedChanged", null), E = G([x.a], E);
             t.default = E
         },
         wU6H: function(e, t, o) {
@@ -20452,7 +21011,7 @@
             o.r(t), t.default = o.p + "videos/collection-vi-artifact-1.webm?398bc40448bcb2c2dd0f0ab3488ca7d3"
         },
         wYtO: function(e, t) {
-            throw new Error('Module parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n> <svg\n| \txmlns="http://www.w3.org/2000/svg"\n| \twidth="2110"')
+            e.exports = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 2110 1440"><g class="jinx-opened"><g class="record-1"><path fill="#fff" d="M443 847l10 28 956 182 18-9 200-485-39-51-324-57-171.44-33L811 410 443 847z" class="record-1-clickable"></path><path fill="url(#jinx-opened-paint0_linear_40:2894)" fill-opacity=".4" stroke="url(#jinx-opened-paint1_linear_40:2894)" stroke-miterlimit="10" stroke-width="4" d="M1485 508.5c6-.333 22.8 0 42 4 14.32 2.984 31.58 4.113 43.5 4.425l-4 17.075 14 7-2 13.5 36 2.5 1.5 19-193.5 465c-3 2-10.9 6.1-18.5 6.5-9.5.5-55.5-8.5-66-12.5s-137.5-39-188.5-50.5-173-26.5-186-27.5c-10.4-.8-14 4.333-14.5 7-12 1-67-14-79.5-19s-11.5-7-15-11.5-7-6-14.5-7-23.5-7.5-45.5-15.5S664 879.5 620 871.5s-113.5-9-138.5-7.5c-20 1.2-26-14.5-26.5-22.5L794 459h3.5l20.5-33.5 20.5 2 5.846-7.5c21.787 14.01 45.22 14.157 68.654 16.5 25 2.5 50 5 62 6s74.5 12.5 85 15.5 36 13.5 38 13.5c1.6 0 14 3.667 20 5.5 8.83 3.333 27.7 10 32.5 10 6 0 10 4 14.5 8 3.6 3.2 10.5 14 13.5 19 8.83-8.5 28.5-26.4 36.5-30 10-4.5 26.5-5.5 39-5.5 10 0 29.5-1 38-1.5l-2 7c9.33-1.667 30.7-5.1 41.5-5.5 13.5-.5 61 3.5 77 8.5 12.8 4 56.33 16 76.5 21.5z" class="record-1-neutral"></path><g class="record-1-hover" filter="url(#jinx-opened-filter0_ddd_40:2894)"><path fill="url(#jinx-opened-paint2_linear_40:2894)" fill-opacity=".4" d="M1485 508.5c6-.333 22.8 0 42 4 14.32 2.984 31.58 4.113 43.5 4.425l-4 17.075 14 7-2 13.5 36 2.5 1.5 19-193.5 465c-3 2-10.9 6.1-18.5 6.5-9.5.5-55.5-8.5-66-12.5s-137.5-39-188.5-50.5-173-26.5-186-27.5c-10.4-.8-14 4.333-14.5 7-12 1-67-14-79.5-19s-11.5-7-15-11.5-7-6-14.5-7-23.5-7.5-45.5-15.5S664 879.5 620 871.5s-113.5-9-138.5-7.5c-20 1.2-26-14.5-26.5-22.5L794 459h3.5l20.5-33.5 20.5 2 5.846-7.5c21.787 14.01 45.22 14.157 68.654 16.5 25 2.5 50 5 62 6s74.5 12.5 85 15.5 36 13.5 38 13.5c1.6 0 14 3.667 20 5.5 8.83 3.333 27.7 10 32.5 10 6 0 10 4 14.5 8 3.6 3.2 10.5 14 13.5 19 8.83-8.5 28.5-26.4 36.5-30 10-4.5 26.5-5.5 39-5.5 10 0 29.5-1 38-1.5l-2 7c9.33-1.667 30.7-5.1 41.5-5.5 13.5-.5 61 3.5 77 8.5 12.8 4 56.33 16 76.5 21.5z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-opened-paint3_linear_40:2894)" stroke-miterlimit="10" stroke-width="4" d="M1485 508.5c6-.333 22.8 0 42 4 14.32 2.984 31.58 4.113 43.5 4.425l-4 17.075 14 7-2 13.5 36 2.5 1.5 19-193.5 465c-3 2-10.9 6.1-18.5 6.5-9.5.5-55.5-8.5-66-12.5s-137.5-39-188.5-50.5-173-26.5-186-27.5c-10.4-.8-14 4.333-14.5 7-12 1-67-14-79.5-19s-11.5-7-15-11.5-7-6-14.5-7-23.5-7.5-45.5-15.5S664 879.5 620 871.5s-113.5-9-138.5-7.5c-20 1.2-26-14.5-26.5-22.5L794 459h3.5l20.5-33.5 20.5 2 5.846-7.5c21.787 14.01 45.22 14.157 68.654 16.5 25 2.5 50 5 62 6s74.5 12.5 85 15.5 36 13.5 38 13.5c1.6 0 14 3.667 20 5.5 8.83 3.333 27.7 10 32.5 10 6 0 10 4 14.5 8 3.6 3.2 10.5 14 13.5 19 8.83-8.5 28.5-26.4 36.5-30 10-4.5 26.5-5.5 39-5.5 10 0 29.5-1 38-1.5l-2 7c9.33-1.667 30.7-5.1 41.5-5.5 13.5-.5 61 3.5 77 8.5 12.8 4 56.33 16 76.5 21.5z" shape-rendering="crispEdges"></path></g></g><g class="artifact-3"><path fill="#fff" d="M307 1106.5l123.5 69.5h108l70 21H633l79.5-93.5L723 971l-317-64.5-43 25.5-56 116.5v58z" class="artifact-3-clickable"></path><g class="artifact-3-hover" filter="url(#jinx-opened-filter1_ddd_40:2894)"><path fill="url(#jinx-opened-paint4_linear_40:2894)" d="M478.5 946c12 16.8 27 62.67 33 83.5.334-.67 1.3-2.5 2.5-4.5s2.834-1.83 3.5-1.5l16.5 4c4.5-4.5 1.5-8 1.5-10s1.5-6 3-8.5 2-2.5 5.5-2.5 5 2 9.5 3.5 7 10 7.5 15.5c.4 4.4-2.833 6.83-4.5 7.5H548l-5.5 7.5-1.5 5.5c25.5-15.17 81.5-48.2 101.5-59 25-13.5 40.5-16.5 49.5-16s17 6.5 21 10 4.5 11 3.5 19.5-12 16.5-24 23c-9.6 5.2-16.666 13.83-19 17.5h5c5 1 13.5 11.5 15 14s10.5 20 12 24-1.5 16-5.5 22.5-9 18-15.5 25.5-21.5 26.5-27.5 33-26 25.5-34.5 30-10.5-5-12-9-5.5-10.5-14.5-14.5-27.5-1.5-40-1.5-12-4-15.5-7-21.5-39.5-26.5-48c-4-6.8-5.666-12.83-6-15-1.5 3.67-5 11.8-7 15-2.5 4-17 17-26.5 28s-30.5 30.5-38.5 32.5-7-7.5-7.5-10.5 14-34 17.5-40.5c2.8-5.2 13.5-20.83 18.5-28-5.5 4.5-11 5-22 6.5s-19.5 6-28.5 8-24.5-1.5-39-3.5-38 1.5-43.5 2-13.5.5-16-2 7-22.5 10-30c2.401-6 12.334-12.83 17-15.5-7.666-1.17-23.8-3.8-27-5-4-1.5-3-1.5-2-6.5s5.5-11.5 9-19.5 10.5-10 20.5-14.5c8-3.6 20.333-16.833 25.5-23-1.6-2-.334-4.167.5-5 2.166-2 7.3-7.6 10.5-14 4-8-4.5-23.5-6-28.5s1-5 13.5-16.5 34-8.5 51-6.5 25.5 7 40.5 28z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-opened-paint5_linear_40:2894)" stroke-miterlimit="10" stroke-width="4" d="M478.5 946c12 16.8 27 62.67 33 83.5.334-.67 1.3-2.5 2.5-4.5s2.834-1.83 3.5-1.5l16.5 4c4.5-4.5 1.5-8 1.5-10s1.5-6 3-8.5 2-2.5 5.5-2.5 5 2 9.5 3.5 7 10 7.5 15.5c.4 4.4-2.833 6.83-4.5 7.5H548l-5.5 7.5-1.5 5.5c25.5-15.17 81.5-48.2 101.5-59 25-13.5 40.5-16.5 49.5-16s17 6.5 21 10 4.5 11 3.5 19.5-12 16.5-24 23c-9.6 5.2-16.666 13.83-19 17.5h5c5 1 13.5 11.5 15 14s10.5 20 12 24-1.5 16-5.5 22.5-9 18-15.5 25.5-21.5 26.5-27.5 33-26 25.5-34.5 30-10.5-5-12-9-5.5-10.5-14.5-14.5-27.5-1.5-40-1.5-12-4-15.5-7-21.5-39.5-26.5-48c-4-6.8-5.666-12.83-6-15-1.5 3.67-5 11.8-7 15-2.5 4-17 17-26.5 28s-30.5 30.5-38.5 32.5-7-7.5-7.5-10.5 14-34 17.5-40.5c2.8-5.2 13.5-20.83 18.5-28-5.5 4.5-11 5-22 6.5s-19.5 6-28.5 8-24.5-1.5-39-3.5-38 1.5-43.5 2-13.5.5-16-2 7-22.5 10-30c2.401-6 12.334-12.83 17-15.5-7.666-1.17-23.8-3.8-27-5-4-1.5-3-1.5-2-6.5s5.5-11.5 9-19.5 10.5-10 20.5-14.5c8-3.6 20.333-16.833 25.5-23-1.6-2-.334-4.167.5-5 2.166-2 7.3-7.6 10.5-14 4-8-4.5-23.5-6-28.5s1-5 13.5-16.5 34-8.5 51-6.5 25.5 7 40.5 28z" shape-rendering="crispEdges"></path></g><g class="artifact-3-active" filter="url(#jinx-opened-filter2_ddd_40:2894)"><path fill="url(#jinx-opened-paint6_linear_40:2894)" fill-opacity=".4" d="M478.5 946c12 16.8 27 62.67 33 83.5.334-.67 1.3-2.5 2.5-4.5s2.834-1.83 3.5-1.5l16.5 4c4.5-4.5 1.5-8 1.5-10s1.5-6 3-8.5 2-2.5 5.5-2.5 5 2 9.5 3.5 7 10 7.5 15.5c.4 4.4-2.833 6.83-4.5 7.5H548l-5.5 7.5-1.5 5.5c25.5-15.17 81.5-48.2 101.5-59 25-13.5 40.5-16.5 49.5-16s17 6.5 21 10 4.5 11 3.5 19.5-12 16.5-24 23c-9.6 5.2-16.666 13.83-19 17.5h5c5 1 13.5 11.5 15 14s10.5 20 12 24-1.5 16-5.5 22.5-9 18-15.5 25.5-21.5 26.5-27.5 33-26 25.5-34.5 30-10.5-5-12-9-5.5-10.5-14.5-14.5-27.5-1.5-40-1.5-12-4-15.5-7-21.5-39.5-26.5-48c-4-6.8-5.666-12.83-6-15-1.5 3.67-5 11.8-7 15-2.5 4-17 17-26.5 28s-30.5 30.5-38.5 32.5-7-7.5-7.5-10.5 14-34 17.5-40.5c2.8-5.2 13.5-20.83 18.5-28-5.5 4.5-11 5-22 6.5s-19.5 6-28.5 8-24.5-1.5-39-3.5-38 1.5-43.5 2-13.5.5-16-2 7-22.5 10-30c2.401-6 12.334-12.83 17-15.5-7.666-1.17-23.8-3.8-27-5-4-1.5-3-1.5-2-6.5s5.5-11.5 9-19.5 10.5-10 20.5-14.5c8-3.6 20.333-16.833 25.5-23-1.6-2-.334-4.167.5-5 2.166-2 7.3-7.6 10.5-14 4-8-4.5-23.5-6-28.5s1-5 13.5-16.5 34-8.5 51-6.5 25.5 7 40.5 28z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-opened-paint7_linear_40:2894)" stroke-miterlimit="10" stroke-width="4" d="M478.5 946c12 16.8 27 62.67 33 83.5.334-.67 1.3-2.5 2.5-4.5s2.834-1.83 3.5-1.5l16.5 4c4.5-4.5 1.5-8 1.5-10s1.5-6 3-8.5 2-2.5 5.5-2.5 5 2 9.5 3.5 7 10 7.5 15.5c.4 4.4-2.833 6.83-4.5 7.5H548l-5.5 7.5-1.5 5.5c25.5-15.17 81.5-48.2 101.5-59 25-13.5 40.5-16.5 49.5-16s17 6.5 21 10 4.5 11 3.5 19.5-12 16.5-24 23c-9.6 5.2-16.666 13.83-19 17.5h5c5 1 13.5 11.5 15 14s10.5 20 12 24-1.5 16-5.5 22.5-9 18-15.5 25.5-21.5 26.5-27.5 33-26 25.5-34.5 30-10.5-5-12-9-5.5-10.5-14.5-14.5-27.5-1.5-40-1.5-12-4-15.5-7-21.5-39.5-26.5-48c-4-6.8-5.666-12.83-6-15-1.5 3.67-5 11.8-7 15-2.5 4-17 17-26.5 28s-30.5 30.5-38.5 32.5-7-7.5-7.5-10.5 14-34 17.5-40.5c2.8-5.2 13.5-20.83 18.5-28-5.5 4.5-11 5-22 6.5s-19.5 6-28.5 8-24.5-1.5-39-3.5-38 1.5-43.5 2-13.5.5-16-2 7-22.5 10-30c2.401-6 12.334-12.83 17-15.5-7.666-1.17-23.8-3.8-27-5-4-1.5-3-1.5-2-6.5s5.5-11.5 9-19.5 10.5-10 20.5-14.5c8-3.6 20.333-16.833 25.5-23-1.6-2-.334-4.167.5-5 2.166-2 7.3-7.6 10.5-14 4-8-4.5-23.5-6-28.5s1-5 13.5-16.5 34-8.5 51-6.5 25.5 7 40.5 28z" shape-rendering="crispEdges"></path></g></g><g class="artifact-2"><path fill="#fff" d="M746 364L588 538 345 399l16.5-65L609 223l43-17 94 158z" class="artifact-2-clickable"></path><g class="artifact-2-hover"><g class="Fill" filter="url(#jinx-opened-filter3_ddd_40:2894)"><path fill="url(#jinx-opened-paint8_linear_40:2894)" d="M446.5 349.5l-35.5-11v3.5l24.5 15c-1.6.8-7.333 6.333-10 9-16.833-7.167-52-22-58-24-5.999-2-3.833.833-2 2.5L416 381l-5 13c-11.666-5.333-36.2-16.4-41-18-4.8-1.6-3.666.667-2.5 2l37 28.5c2 9.2 5.167 13.5 6.5 14.5.834 1.333 2.7 4.6 3.5 7 1 3 15 11.5 21 15 4.8 2.8 11 2.5 13.5 2l4.5-2c17.167 10 55.1 31.9 69.5 39.5 18 9.5 26 19.5 26 21.5s3 3 17 9 15.5 3 22 3 9-5 21-15.5c9.6-8.4 13.667-30.833 14.5-41 3.5 0 4 0 5.5-4.5s1.5-12 0-14c-1.2-1.6-8.166-5.667-11.5-7.5-1.2-1.2-7.833-5.833-11-8-.8-9.2-14-10.167-20.5-9.5l-94.5-55.5c-1-4.5 0-5-7-11-5.6-4.8-12-3.667-14.5-2.5-3.333-1-10.4-2.9-12-2.5-1.6.4-8.333 3.5-11.5 5z" shape-rendering="crispEdges"></path><path fill="url(#jinx-opened-paint9_linear_40:2894)" d="M569 341.5c4-2.8 20.667-2.5 28.5-2-2.166-3-7.3-9.9-10.5-13.5-3.2-3.6-2-6.167-1-7-6.167-4.667-19.8-15.7-25-22.5-6.5-8.5-2.5-16.5-2.5-21s1.5-14.5 14-28 36-13.5 39-14S622 237 625 239c2.4 1.6 14 13.667 19.5 19.5v4c4.833 5.167 15.7 16.8 20.5 22 6 6.5 7.5 11 8 12 .4.8 10.5 12.333 15.5 18l7-4.5c-14.833-26-45.1-79.4-47.5-85-2.4-5.6-.333-8 1-8.5 35.5 71 64 104 64 105.5 0 1.2-6.667 6.167-10 8.5 2.167 2.167 8 8.4 14 16 7.5 9.5 3 24 0 38.5s-23.5 20-33 24-16 4.5-25 1.5c-7.2-2.4-13.333-12-15.5-16.5-.833 1-2.9 3.4-4.5 5-2 2-6.5 1.5-11 0-3.6-1.2-7.5-3.833-9-5-1.167 2.167-4.8 7-10 9-6.5 2.5-16 2.5-22 2s-8-2-15.5-4.5S560 391 555 385s-4-10.5-4.5-20.5 13.5-19.5 18.5-23z" shape-rendering="crispEdges"></path></g><g class="Outline" filter="url(#jinx-opened-filter4_ddd_40:2894)"><path stroke="url(#jinx-opened-paint10_linear_40:2894)" stroke-miterlimit="10" stroke-width="4" d="M446.5 349.5l-35.5-11v3.5l24.5 15c-1.6.8-7.333 6.333-10 9-16.833-7.167-52-22-58-24-5.999-2-3.833.833-2 2.5L416 381l-5 13c-11.666-5.333-36.2-16.4-41-18-4.8-1.6-3.666.667-2.5 2l37 28.5c2 9.2 5.167 13.5 6.5 14.5.834 1.333 2.7 4.6 3.5 7 1 3 15 11.5 21 15 4.8 2.8 11 2.5 13.5 2l4.5-2c17.167 10 55.1 31.9 69.5 39.5 18 9.5 26 19.5 26 21.5s3 3 17 9 15.5 3 22 3 9-5 21-15.5c9.6-8.4 13.667-30.833 14.5-41 3.5 0 4 0 5.5-4.5s1.5-12 0-14c-1.2-1.6-8.166-5.667-11.5-7.5-1.2-1.2-7.833-5.833-11-8-.8-9.2-14-10.167-20.5-9.5l-94.5-55.5c-1-4.5 0-5-7-11-5.6-4.8-12-3.667-14.5-2.5-3.333-1-10.4-2.9-12-2.5-1.6.4-8.333 3.5-11.5 5z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-opened-paint11_linear_40:2894)" stroke-miterlimit="10" stroke-width="4" d="M569 341.5c4-2.8 20.667-2.5 28.5-2-2.166-3-7.3-9.9-10.5-13.5-3.2-3.6-2-6.167-1-7-6.167-4.667-19.8-15.7-25-22.5-6.5-8.5-2.5-16.5-2.5-21s1.5-14.5 14-28 36-13.5 39-14S622 237 625 239c2.4 1.6 14 13.667 19.5 19.5v4c4.833 5.167 15.7 16.8 20.5 22 6 6.5 7.5 11 8 12 .4.8 10.5 12.333 15.5 18l7-4.5c-14.833-26-45.1-79.4-47.5-85-2.4-5.6-.333-8 1-8.5 35.5 71 64 104 64 105.5 0 1.2-6.667 6.167-10 8.5 2.167 2.167 8 8.4 14 16 7.5 9.5 3 24 0 38.5s-23.5 20-33 24-16 4.5-25 1.5c-7.2-2.4-13.333-12-15.5-16.5-.833 1-2.9 3.4-4.5 5-2 2-6.5 1.5-11 0-3.6-1.2-7.5-3.833-9-5-1.167 2.167-4.8 7-10 9-6.5 2.5-16 2.5-22 2s-8-2-15.5-4.5S560 391 555 385s-4-10.5-4.5-20.5 13.5-19.5 18.5-23z" shape-rendering="crispEdges"></path></g></g><g class="artifact-2-active" filter="url(#jinx-opened-filter5_ddd_40:2894)"><path fill="url(#jinx-opened-paint12_linear_40:2894)" fill-opacity=".4" d="M446.5 349.5l-35.5-11v3.5l24.5 15c-1.6.8-7.333 6.333-10 9-16.833-7.167-52-22-58-24-5.999-2-3.833.833-2 2.5L416 381l-5 13c-11.666-5.333-36.2-16.4-41-18-4.8-1.6-3.666.667-2.5 2l37 28.5c2 9.2 5.167 13.5 6.5 14.5.834 1.333 2.7 4.6 3.5 7 1 3 15 11.5 21 15 4.8 2.8 11 2.5 13.5 2l4.5-2c17.167 10 55.1 31.9 69.5 39.5 18 9.5 26 19.5 26 21.5s3 3 17 9 15.5 3 22 3 9-5 21-15.5c9.6-8.4 13.667-30.833 14.5-41 3.5 0 4 0 5.5-4.5s1.5-12 0-14c-1.2-1.6-8.166-5.667-11.5-7.5-1.2-1.2-7.833-5.833-11-8-.8-9.2-14-10.167-20.5-9.5l-94.5-55.5c-1-4.5 0-5-7-11-5.6-4.8-12-3.667-14.5-2.5-3.333-1-10.4-2.9-12-2.5-1.6.4-8.333 3.5-11.5 5z" shape-rendering="crispEdges"></path><path fill="url(#jinx-opened-paint13_linear_40:2894)" fill-opacity=".4" d="M569 341.5c4-2.8 20.667-2.5 28.5-2-2.166-3-7.3-9.9-10.5-13.5-3.2-3.6-2-6.167-1-7-6.167-4.667-19.8-15.7-25-22.5-6.5-8.5-2.5-16.5-2.5-21s1.5-14.5 14-28 36-13.5 39-14S622 237 625 239c2.4 1.6 14 13.667 19.5 19.5v4c4.833 5.167 15.7 16.8 20.5 22 6 6.5 7.5 11 8 12 .4.8 10.5 12.333 15.5 18l7-4.5c-14.833-26-45.1-79.4-47.5-85-2.4-5.6-.333-8 1-8.5 35.5 71 64 104 64 105.5 0 1.2-6.667 6.167-10 8.5 2.167 2.167 8 8.4 14 16 7.5 9.5 3 24 0 38.5s-23.5 20-33 24-16 4.5-25 1.5c-7.2-2.4-13.333-12-15.5-16.5-.833 1-2.9 3.4-4.5 5-2 2-6.5 1.5-11 0-3.6-1.2-7.5-3.833-9-5-1.167 2.167-4.8 7-10 9-6.5 2.5-16 2.5-22 2s-8-2-15.5-4.5S560 391 555 385s-4-10.5-4.5-20.5 13.5-19.5 18.5-23z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-opened-paint14_linear_40:2894)" stroke-miterlimit="10" stroke-width="4" d="M446.5 349.5l-35.5-11v3.5l24.5 15c-1.6.8-7.333 6.333-10 9-16.833-7.167-52-22-58-24-5.999-2-3.833.833-2 2.5L416 381l-5 13c-11.666-5.333-36.2-16.4-41-18-4.8-1.6-3.666.667-2.5 2l37 28.5c2 9.2 5.167 13.5 6.5 14.5.834 1.333 2.7 4.6 3.5 7 1 3 15 11.5 21 15 4.8 2.8 11 2.5 13.5 2l4.5-2c17.167 10 55.1 31.9 69.5 39.5 18 9.5 26 19.5 26 21.5s3 3 17 9 15.5 3 22 3 9-5 21-15.5c9.6-8.4 13.667-30.833 14.5-41 3.5 0 4 0 5.5-4.5s1.5-12 0-14c-1.2-1.6-8.166-5.667-11.5-7.5-1.2-1.2-7.833-5.833-11-8-.8-9.2-14-10.167-20.5-9.5l-94.5-55.5c-1-4.5 0-5-7-11-5.6-4.8-12-3.667-14.5-2.5-3.333-1-10.4-2.9-12-2.5-1.6.4-8.333 3.5-11.5 5z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-opened-paint15_linear_40:2894)" stroke-miterlimit="10" stroke-width="4" d="M569 341.5c4-2.8 20.667-2.5 28.5-2-2.166-3-7.3-9.9-10.5-13.5-3.2-3.6-2-6.167-1-7-6.167-4.667-19.8-15.7-25-22.5-6.5-8.5-2.5-16.5-2.5-21s1.5-14.5 14-28 36-13.5 39-14S622 237 625 239c2.4 1.6 14 13.667 19.5 19.5v4c4.833 5.167 15.7 16.8 20.5 22 6 6.5 7.5 11 8 12 .4.8 10.5 12.333 15.5 18l7-4.5c-14.833-26-45.1-79.4-47.5-85-2.4-5.6-.333-8 1-8.5 35.5 71 64 104 64 105.5 0 1.2-6.667 6.167-10 8.5 2.167 2.167 8 8.4 14 16 7.5 9.5 3 24 0 38.5s-23.5 20-33 24-16 4.5-25 1.5c-7.2-2.4-13.333-12-15.5-16.5-.833 1-2.9 3.4-4.5 5-2 2-6.5 1.5-11 0-3.6-1.2-7.5-3.833-9-5-1.167 2.167-4.8 7-10 9-6.5 2.5-16 2.5-22 2s-8-2-15.5-4.5S560 391 555 385s-4-10.5-4.5-20.5 13.5-19.5 18.5-23z" shape-rendering="crispEdges"></path></g></g><g class="artifact-1"><path fill="#fff" d="M1637.56 253.9l73.89-68.609 169.94 6.333 89.72 52.776 20.05 31.666 36.94 151.995-5.27 112.94-44.34 31.666-135.1 18.999L1737.84 598l-43.28-14.778-29.56-15.833-47.49-33.776-30.61-55.943 6.33-110.829 44.33-112.941z" class="artifact-1-clickable"></path><g class="artifact-1-hover" filter="url(#jinx-opened-filter6_ddd_40:2894)"><path fill="url(#jinx-opened-paint16_linear_40:2894)" d="M1659.64 251.599L1709.31 203l16.2 37.625c4.36-4.18 13.7-13.169 16.21-15.677 3.14-3.135 21.43-7.316 26.66-7.839 4.18-.418 18.47 1.568 25.1 2.613l2.09 8.361h25.61v-3.135l19.35-12.019 34.5 1.568 24.57 26.128-2.09 21.948-5.75 1.568c9.62 3.344 27.36 19.161 35.03 26.651l20.38-6.793c.18-.871.42-3.136 0-5.226-.52-2.613 2.62-13.587 4.71-18.813 2.09-5.225 8.36-3.658 10.46-4.18 1.67-.418 11.85 16.896 16.72 25.606 1.05 7.49 3.35 23.306 4.19 26.651.83 3.344-1.4 8.013-2.62 9.929l-13.59 3.658-9.93-21.426-16.73 5.749c18.4 26.755 29.62 80.824 32.93 104.514l21.44-12.542 8.36 4.181c1.4 5.051 4.71 16.409 6.8 21.425 2.61 6.271 0 22.471-2.62 30.309-2.09 6.271-3.65 18.639-4.18 24.039l8.89 11.496c-1.74 2.962-5.65 10.452-7.32 16.723-1.67 6.271 3.14 14.109 5.75 17.245v12.541c.87-.174 1.99-.209-.52 1.045-3.14 1.568-25.09 19.858-29.8 23.516-4.7 3.658-8.89 1.568-17.77-1.568-8.89-3.135-7.85 1.568-13.6 4.704-5.75 3.135-1.57 2.09-8.88 2.09-7.32 0-10.98-2.09-17.26-5.226-5.01-2.508-6.27-1.045-6.27 0-1.57-.348-5.65-1.568-9.41-3.658s-5.4-.871-5.75 0l-16.21 15.155c-15.47 2.09-35.72 5.748-43.91 7.316l-13.59-9.929v-5.748c-2.97 1.045-10.25 4.076-15.69 7.838-5.43 3.763-21.08 9.581-28.23 12.019l-6.27-4.18-2.09 5.748-32.41-1.568-3.66-4.18-4.19 2.613c-6.79-1.568-21.64-5.122-26.66-6.794-5.02-1.672-5.92-6.271-5.75-8.361h-7.84c-2.51 0-15.68-8.013-21.96-12.019v-5.748h-16.73c-3.34 0-14.29-10.8-19.34-16.2v-5.226l12.55-23.516-1.57-3.135-17.78 18.812-4.7-2.612-21.96-37.103v-7.839l5.23-24.038-9.41-17.767 9.41-50.167c-.7-4.703-1.05-18.708 3.14-37.103 5.22-22.993 24.04-39.715 31.89-49.122 6.27-7.525 13.41-31.354 16.2-42.328z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-opened-paint17_linear_40:2894)" stroke-miterlimit="10" stroke-width="4" d="M1659.64 251.599L1709.31 203l16.2 37.625c4.36-4.18 13.7-13.169 16.21-15.677 3.14-3.135 21.43-7.316 26.66-7.839 4.18-.418 18.47 1.568 25.1 2.613l2.09 8.361h25.61v-3.135l19.35-12.019 34.5 1.568 24.57 26.128-2.09 21.948-5.75 1.568c9.62 3.344 27.36 19.161 35.03 26.651l20.38-6.793c.18-.871.42-3.136 0-5.226-.52-2.613 2.62-13.587 4.71-18.813 2.09-5.225 8.36-3.658 10.46-4.18 1.67-.418 11.85 16.896 16.72 25.606 1.05 7.49 3.35 23.306 4.19 26.651.83 3.344-1.4 8.013-2.62 9.929l-13.59 3.658-9.93-21.426-16.73 5.749c18.4 26.755 29.62 80.824 32.93 104.514l21.44-12.542 8.36 4.181c1.4 5.051 4.71 16.409 6.8 21.425 2.61 6.271 0 22.471-2.62 30.309-2.09 6.271-3.65 18.639-4.18 24.039l8.89 11.496c-1.74 2.962-5.65 10.452-7.32 16.723-1.67 6.271 3.14 14.109 5.75 17.245v12.541c.87-.174 1.99-.209-.52 1.045-3.14 1.568-25.09 19.858-29.8 23.516-4.7 3.658-8.89 1.568-17.77-1.568-8.89-3.135-7.85 1.568-13.6 4.704-5.75 3.135-1.57 2.09-8.88 2.09-7.32 0-10.98-2.09-17.26-5.226-5.01-2.508-6.27-1.045-6.27 0-1.57-.348-5.65-1.568-9.41-3.658s-5.4-.871-5.75 0l-16.21 15.155c-15.47 2.09-35.72 5.748-43.91 7.316l-13.59-9.929v-5.748c-2.97 1.045-10.25 4.076-15.69 7.838-5.43 3.763-21.08 9.581-28.23 12.019l-6.27-4.18-2.09 5.748-32.41-1.568-3.66-4.18-4.19 2.613c-6.79-1.568-21.64-5.122-26.66-6.794-5.02-1.672-5.92-6.271-5.75-8.361h-7.84c-2.51 0-15.68-8.013-21.96-12.019v-5.748h-16.73c-3.34 0-14.29-10.8-19.34-16.2v-5.226l12.55-23.516-1.57-3.135-17.78 18.812-4.7-2.612-21.96-37.103v-7.839l5.23-24.038-9.41-17.767 9.41-50.167c-.7-4.703-1.05-18.708 3.14-37.103 5.22-22.993 24.04-39.715 31.89-49.122 6.27-7.525 13.41-31.354 16.2-42.328z" shape-rendering="crispEdges"></path></g><g class="artifact-1-active" filter="url(#jinx-opened-filter7_ddd_40:2894)"><path fill="url(#jinx-opened-paint18_linear_40:2894)" fill-opacity=".4" d="M1659.64 251.599L1709.31 203l16.2 37.625c4.36-4.18 13.7-13.169 16.21-15.677 3.14-3.135 21.43-7.316 26.66-7.839 4.18-.418 18.47 1.568 25.1 2.613l2.09 8.361h25.61v-3.135l19.35-12.019 34.5 1.568 24.57 26.128-2.09 21.948-5.75 1.568c9.62 3.344 27.36 19.161 35.03 26.651l20.38-6.793c.18-.871.42-3.136 0-5.226-.52-2.613 2.62-13.587 4.71-18.813 2.09-5.225 8.36-3.658 10.46-4.18 1.67-.418 11.85 16.896 16.72 25.606 1.05 7.49 3.35 23.306 4.19 26.651.83 3.344-1.4 8.013-2.62 9.929l-13.59 3.658-9.93-21.426-16.73 5.749c18.4 26.755 29.62 80.824 32.93 104.514l21.44-12.542 8.36 4.181c1.4 5.051 4.71 16.409 6.8 21.425 2.61 6.271 0 22.471-2.62 30.309-2.09 6.271-3.65 18.639-4.18 24.039l8.89 11.496c-1.74 2.962-5.65 10.452-7.32 16.723-1.67 6.271 3.14 14.109 5.75 17.245v12.541c.87-.174 1.99-.209-.52 1.045-3.14 1.568-25.09 19.858-29.8 23.516-4.7 3.658-8.89 1.568-17.77-1.568-8.89-3.135-7.85 1.568-13.6 4.704-5.75 3.135-1.57 2.09-8.88 2.09-7.32 0-10.98-2.09-17.26-5.226-5.01-2.508-6.27-1.045-6.27 0-1.57-.348-5.65-1.568-9.41-3.658s-5.4-.871-5.75 0l-16.21 15.155c-15.47 2.09-35.72 5.748-43.91 7.316l-13.59-9.929v-5.748c-2.97 1.045-10.25 4.076-15.69 7.838-5.43 3.763-21.08 9.581-28.23 12.019l-6.27-4.18-2.09 5.748-32.41-1.568-3.66-4.18-4.19 2.613c-6.79-1.568-21.64-5.122-26.66-6.794-5.02-1.672-5.92-6.271-5.75-8.361h-7.84c-2.51 0-15.68-8.013-21.96-12.019v-5.748h-16.73c-3.34 0-14.29-10.8-19.34-16.2v-5.226l12.55-23.516-1.57-3.135-17.78 18.812-4.7-2.612-21.96-37.103v-7.839l5.23-24.038-9.41-17.767 9.41-50.167c-.7-4.703-1.05-18.708 3.14-37.103 5.22-22.993 24.04-39.715 31.89-49.122 6.27-7.525 13.41-31.354 16.2-42.328z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-opened-paint19_linear_40:2894)" stroke-miterlimit="10" stroke-width="4" d="M1659.64 251.599L1709.31 203l16.2 37.625c4.36-4.18 13.7-13.169 16.21-15.677 3.14-3.135 21.43-7.316 26.66-7.839 4.18-.418 18.47 1.568 25.1 2.613l2.09 8.361h25.61v-3.135l19.35-12.019 34.5 1.568 24.57 26.128-2.09 21.948-5.75 1.568c9.62 3.344 27.36 19.161 35.03 26.651l20.38-6.793c.18-.871.42-3.136 0-5.226-.52-2.613 2.62-13.587 4.71-18.813 2.09-5.225 8.36-3.658 10.46-4.18 1.67-.418 11.85 16.896 16.72 25.606 1.05 7.49 3.35 23.306 4.19 26.651.83 3.344-1.4 8.013-2.62 9.929l-13.59 3.658-9.93-21.426-16.73 5.749c18.4 26.755 29.62 80.824 32.93 104.514l21.44-12.542 8.36 4.181c1.4 5.051 4.71 16.409 6.8 21.425 2.61 6.271 0 22.471-2.62 30.309-2.09 6.271-3.65 18.639-4.18 24.039l8.89 11.496c-1.74 2.962-5.65 10.452-7.32 16.723-1.67 6.271 3.14 14.109 5.75 17.245v12.541c.87-.174 1.99-.209-.52 1.045-3.14 1.568-25.09 19.858-29.8 23.516-4.7 3.658-8.89 1.568-17.77-1.568-8.89-3.135-7.85 1.568-13.6 4.704-5.75 3.135-1.57 2.09-8.88 2.09-7.32 0-10.98-2.09-17.26-5.226-5.01-2.508-6.27-1.045-6.27 0-1.57-.348-5.65-1.568-9.41-3.658s-5.4-.871-5.75 0l-16.21 15.155c-15.47 2.09-35.72 5.748-43.91 7.316l-13.59-9.929v-5.748c-2.97 1.045-10.25 4.076-15.69 7.838-5.43 3.763-21.08 9.581-28.23 12.019l-6.27-4.18-2.09 5.748-32.41-1.568-3.66-4.18-4.19 2.613c-6.79-1.568-21.64-5.122-26.66-6.794-5.02-1.672-5.92-6.271-5.75-8.361h-7.84c-2.51 0-15.68-8.013-21.96-12.019v-5.748h-16.73c-3.34 0-14.29-10.8-19.34-16.2v-5.226l12.55-23.516-1.57-3.135-17.78 18.812-4.7-2.612-21.96-37.103v-7.839l5.23-24.038-9.41-17.767 9.41-50.167c-.7-4.703-1.05-18.708 3.14-37.103 5.22-22.993 24.04-39.715 31.89-49.122 6.27-7.525 13.41-31.354 16.2-42.328z" shape-rendering="crispEdges"></path></g></g></g><defs><linearGradient id="jinx-opened-paint0_linear_40:2894" x1="1035.5" x2="877.865" y1="420" y2="1079.09" class="paint0_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-opened-paint1_linear_40:2894" x1="1315.57" x2="1239.75" y1="266.808" y2="1067.74" class="paint1_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-opened-paint2_linear_40:2894" x1="1035.5" x2="877.865" y1="420" y2="1079.09" class="paint2_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-opened-paint3_linear_40:2894" x1="1315.57" x2="1239.75" y1="266.808" y2="1067.74" class="paint3_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-opened-paint4_linear_40:2894" x1="514.775" x2="514.775" y1="900.677" y2="1264.81" class="paint4_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#C2F6F6" stop-opacity=".02"></stop><stop offset="1" stop-color="#C2F6F6"></stop></linearGradient><linearGradient id="jinx-opened-paint5_linear_40:2894" x1="612.313" x2="570.694" y1="848.943" y2="1198.23" class="paint5_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-opened-paint6_linear_40:2894" x1="644.805" x2="483.903" y1="858.952" y2="1058.7" class="paint6_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-opened-paint7_linear_40:2894" x1="612.313" x2="570.694" y1="848.943" y2="1198.23" class="paint7_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-opened-paint8_linear_40:2894" x1="542.333" x2="542.333" y1="199.669" y2="597.106" class="paint8_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#C2F6F6" stop-opacity=".02"></stop><stop offset="1" stop-color="#C2F6F6"></stop></linearGradient><linearGradient id="jinx-opened-paint9_linear_40:2894" x1="542.333" x2="542.333" y1="199.669" y2="597.106" class="paint9_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#C2F6F6" stop-opacity=".02"></stop><stop offset="1" stop-color="#C2F6F6"></stop></linearGradient><linearGradient id="jinx-opened-paint10_linear_40:2894" x1="628.583" x2="572.921" y1="143.202" y2="521.672" class="paint10_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-opened-paint11_linear_40:2894" x1="628.583" x2="572.921" y1="143.202" y2="521.672" class="paint11_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-opened-paint12_linear_40:2894" x1="657.315" x2="477.574" y1="154.127" y2="334.899" class="paint12_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-opened-paint13_linear_40:2894" x1="657.315" x2="477.574" y1="154.127" y2="334.899" class="paint13_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-opened-paint14_linear_40:2894" x1="628.583" x2="572.921" y1="143.202" y2="521.672" class="paint14_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-opened-paint15_linear_40:2894" x1="628.583" x2="572.921" y1="143.202" y2="521.672" class="paint15_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-opened-paint16_linear_40:2894" x1="1805.5" x2="1805.5" y1="181.586" y2="687.235" class="paint16_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#C2F6F6" stop-opacity=".02"></stop><stop offset="1" stop-color="#C2F6F6"></stop></linearGradient><linearGradient id="jinx-opened-paint17_linear_40:2894" x1="1905.13" x2="1827.48" y1="109.745" y2="589.099" class="paint17_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-opened-paint18_linear_40:2894" x1="1938.32" x2="1710.57" y1="123.644" y2="331.6" class="paint18_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-opened-paint19_linear_40:2894" x1="1905.13" x2="1827.48" y1="109.745" y2="589.099" class="paint19_linear_40:2894" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><filter id="jinx-opened-filter0_ddd_40:2894" width="1205.08" height="672.189" x="432.952" y="397.33" class="filter0_ddd_40:2894" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_40:2894" result="effect2_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_40:2894" result="effect3_dropShadow_40:2894"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_40:2894" result="shape"></feBlend></filter><filter id="jinx-opened-filter1_ddd_40:2894" width="448.337" height="319.086" x="290.607" y="894.098" class="filter1_ddd_40:2894" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_40:2894" result="effect2_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_40:2894" result="effect3_dropShadow_40:2894"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_40:2894" result="shape"></feBlend></filter><filter id="jinx-opened-filter2_ddd_40:2894" width="448.337" height="319.086" x="290.607" y="894.098" class="filter2_ddd_40:2894" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_40:2894" result="effect2_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_40:2894" result="effect3_dropShadow_40:2894"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_40:2894" result="shape"></feBlend></filter><filter id="jinx-opened-filter3_ddd_40:2894" width="397.542" height="340.25" x="343.562" y="196.5" class="filter3_ddd_40:2894" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_40:2894" result="effect2_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_40:2894" result="effect3_dropShadow_40:2894"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_40:2894" result="shape"></feBlend></filter><filter id="jinx-opened-filter4_ddd_40:2894" width="401.542" height="344.754" x="341.562" y="193.996" class="filter4_ddd_40:2894" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_40:2894" result="effect2_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_40:2894" result="effect3_dropShadow_40:2894"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_40:2894" result="shape"></feBlend></filter><filter id="jinx-opened-filter5_ddd_40:2894" width="401.542" height="344.754" x="341.562" y="193.996" class="filter5_ddd_40:2894" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_40:2894" result="effect2_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_40:2894" result="effect3_dropShadow_40:2894"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_40:2894" result="shape"></feBlend></filter><filter id="jinx-opened-filter6_ddd_40:2894" width="457.505" height="427.535" x="1576.91" y="179.533" class="filter6_ddd_40:2894" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_40:2894" result="effect2_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_40:2894" result="effect3_dropShadow_40:2894"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_40:2894" result="shape"></feBlend></filter><filter id="jinx-opened-filter7_ddd_40:2894" width="457.505" height="427.535" x="1576.91" y="179.533" class="filter7_ddd_40:2894" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_40:2894" result="effect2_dropShadow_40:2894"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_40:2894" result="effect3_dropShadow_40:2894"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_40:2894" result="shape"></feBlend></filter></defs></svg>'
         },
         xJib: function(e, t) {
             e.exports = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 2110 1440"><g class="caitlyn-record-1-page-6"><g class="section-1"><path fill="#fff" d="M1012.54 352H790.116l-24.332 72.498 24.328 72.85h228.658l73.15-71.002v-40.063L1012.54 352z" class="section-1-clickable"></path><g class="section-1-hover" filter="url(#caitlyn-record-1-page-6-filter0_ddd_32:2280)"><path fill="url(#caitlyn-record-1-page-6-paint0_linear_32:2280)" fill-opacity=".4" d="M793 356v137.348h224.14v-68.674h70.78v-35.773h-76.21V356H793z" shape-rendering="crispEdges"></path><path stroke="url(#caitlyn-record-1-page-6-paint1_linear_32:2280)" stroke-miterlimit="10" stroke-width="4" d="M793 356v137.348h224.14v-68.674h70.78v-35.773h-76.21V356H793z" shape-rendering="crispEdges"></path></g><path fill="url(#caitlyn-record-1-page-6-paint2_linear_32:2280)" fill-opacity=".4" stroke="url(#caitlyn-record-1-page-6-paint3_linear_32:2280)" stroke-miterlimit="10" stroke-width="4" d="M793 356v137.348h224.14v-68.674h70.78v-35.773h-76.21V356H793z" class="section-1-neutral"></path></g><g class="section-2"><path fill="#fff" d="M868.443 502.762l-57.047-1.816-25.956 25.694 23.698 72.611h242.192v-75.904l-79.711-20.585H868.443z" class="section-2-clickable"></path><g class="section-2-hover" filter="url(#caitlyn-record-1-page-6-filter1_ddd_32:2280)"><path fill="url(#caitlyn-record-1-page-6-paint4_linear_32:2280)" fill-opacity=".4" d="M868.38 506.781v19.662h-56.329v68.808h235.279v-68.808h-76.223v-19.662H868.38z" shape-rendering="crispEdges"></path><path stroke="url(#caitlyn-record-1-page-6-paint5_linear_32:2280)" stroke-miterlimit="10" stroke-width="4" d="M868.38 506.781v19.662h-56.329v68.808h235.279v-68.808h-76.223v-19.662H868.38z" shape-rendering="crispEdges"></path></g><path fill="url(#caitlyn-record-1-page-6-paint6_linear_32:2280)" fill-opacity=".4" stroke="url(#caitlyn-record-1-page-6-paint7_linear_32:2280)" stroke-miterlimit="10" stroke-width="4" d="M868.38 506.781v19.662h-56.329v68.808h235.279v-68.808h-76.223v-19.662H868.38z" class="section-2-neutral"></path></g><g class="section-3"><path fill="#fff" d="M1321.56 527.644l-25.91-25.652-166.07.784-72.99 21.501v74.974h241.35l23.62-71.607z" class="section-3-clickable"></path><g class="section-3-hover" filter="url(#caitlyn-record-1-page-6-filter2_ddd_32:2280)"><path fill="url(#caitlyn-record-1-page-6-paint8_linear_32:2280)" fill-opacity=".4" d="M1130.17 506.781v20.476h-69.58v67.994h234.44v-67.169h-77.87v-21.301h-86.99z" shape-rendering="crispEdges"></path><path stroke="url(#caitlyn-record-1-page-6-paint9_linear_32:2280)" stroke-miterlimit="10" stroke-width="4" d="M1130.17 506.781v20.476h-69.58v67.994h234.44v-67.169h-77.87v-21.301h-86.99z" shape-rendering="crispEdges"></path></g><path fill="url(#caitlyn-record-1-page-6-paint10_linear_32:2280)" fill-opacity=".4" stroke="url(#caitlyn-record-1-page-6-paint11_linear_32:2280)" stroke-miterlimit="10" stroke-width="4" d="M1130.17 506.781v20.476h-69.58v67.994h234.44v-67.169h-77.87v-21.301h-86.99z" class="section-3-neutral"></path></g><g class="section-4"><path fill="#fff" d="M1280.16 655.569h-217.17l-24.38 53.94 24.39 53.162h144.29l72.87-31.49v-75.612z" class="section-4-clickable"></path><g class="section-4-hover" filter="url(#caitlyn-record-1-page-6-filter3_ddd_32:2280)"><path fill="url(#caitlyn-record-1-page-6-paint12_linear_32:2280)" fill-opacity=".4" d="M1065.58 659.569v99.102h140.88v-30.1h69.7v-69.002h-210.58z" shape-rendering="crispEdges"></path><path stroke="url(#caitlyn-record-1-page-6-paint13_linear_32:2280)" stroke-miterlimit="10" stroke-width="4" d="M1065.58 659.569v99.102h140.88v-30.1h69.7v-69.002h-210.58z" shape-rendering="crispEdges"></path></g><path fill="url(#caitlyn-record-1-page-6-paint14_linear_32:2280)" fill-opacity=".4" stroke="url(#caitlyn-record-1-page-6-paint15_linear_32:2280)" stroke-miterlimit="10" stroke-width="4" d="M1065.58 659.569v99.102h140.88v-30.1h69.7v-69.002h-210.58z" class="section-4-neutral"></path></g><g class="section-5"><path fill="#fff" d="M918.516 910.27h-124.44l-24.723 42.266L794.129 993h63.745l201.416-18.886v-46.272L918.516 910.27z" class="section-5-clickable"></path><g class="section-5-hover" filter="url(#caitlyn-record-1-page-6-filter4_ddd_32:2280)"><path fill="url(#caitlyn-record-1-page-6-paint16_linear_32:2280)" fill-opacity=".4" d="M796.385 914.27V989h61.3v-18.505H1055.3v-39.142H918.265V914.27h-121.88z" shape-rendering="crispEdges"></path><path stroke="url(#caitlyn-record-1-page-6-paint17_linear_32:2280)" stroke-miterlimit="10" stroke-width="4" d="M796.385 914.27V989h61.3v-18.505H1055.3v-39.142H918.265V914.27h-121.88z" shape-rendering="crispEdges"></path></g><path fill="url(#caitlyn-record-1-page-6-paint18_linear_32:2280)" fill-opacity=".4" stroke="url(#caitlyn-record-1-page-6-paint19_linear_32:2280)" stroke-miterlimit="10" stroke-width="4" d="M796.385 914.27V989h61.3v-18.505H1055.3v-39.142H918.265V914.27h-121.88z" class="section-5-neutral"></path></g></g><defs><linearGradient id="caitlyn-record-1-page-6-paint0_linear_32:2280" x1="940.462" x2="910.314" y1="356" y2="502.297" class="paint0_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint1_linear_32:2280" x1="1011.61" x2="997.275" y1="322.47" y2="498.175" class="paint1_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint2_linear_32:2280" x1="940.462" x2="910.314" y1="356" y2="502.297" class="paint2_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint3_linear_32:2280" x1="1011.61" x2="997.275" y1="322.47" y2="498.175" class="paint3_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint4_linear_32:2280" x1="929.691" x2="913.786" y1="506.781" y2="602.371" class="paint4_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint5_linear_32:2280" x1="986.447" x2="978.976" y1="485.183" y2="598.622" class="paint5_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint6_linear_32:2280" x1="929.691" x2="913.786" y1="506.781" y2="602.371" class="paint6_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint7_linear_32:2280" x1="986.447" x2="978.976" y1="485.183" y2="598.622" class="paint7_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint8_linear_32:2280" x1="1177.81" x2="1161.85" y1="506.781" y2="602.353" class="paint8_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint9_linear_32:2280" x1="1234.37" x2="1226.87" y1="485.183" y2="598.618" class="paint9_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint10_linear_32:2280" x1="1177.81" x2="1161.85" y1="506.781" y2="602.353" class="paint10_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint11_linear_32:2280" x1="1234.37" x2="1226.87" y1="485.183" y2="598.618" class="paint11_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint12_linear_32:2280" x1="1170.87" x2="1148.9" y1="659.569" y2="765.037" class="paint12_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint13_linear_32:2280" x1="1221.66" x2="1211.22" y1="635.375" y2="762.136" class="paint13_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint14_linear_32:2280" x1="1170.87" x2="1148.9" y1="659.569" y2="765.037" class="paint14_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint15_linear_32:2280" x1="1221.66" x2="1211.22" y1="635.375" y2="762.136" class="paint15_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint16_linear_32:2280" x1="925.84" x2="915.412" y1="914.27" y2="995.918" class="paint16_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint17_linear_32:2280" x1="988.297" x2="983.444" y1="896.026" y2="992.017" class="paint17_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint18_linear_32:2280" x1="925.84" x2="915.412" y1="914.27" y2="995.918" class="paint18_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="caitlyn-record-1-page-6-paint19_linear_32:2280" x1="988.297" x2="983.444" y1="896.026" y2="992.017" class="paint19_linear_32:2280" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><filter id="caitlyn-record-1-page-6-filter0_ddd_32:2280" width="338.923" height="181.348" x="771" y="334" class="filter0_ddd_32:2280" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_32:2280"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_32:2280" result="effect2_dropShadow_32:2280"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_32:2280" result="effect3_dropShadow_32:2280"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_32:2280" result="shape"></feBlend></filter><filter id="caitlyn-record-1-page-6-filter1_ddd_32:2280" width="279.28" height="132.47" x="790.051" y="484.781" class="filter1_ddd_32:2280" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_32:2280"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_32:2280" result="effect2_dropShadow_32:2280"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_32:2280" result="effect3_dropShadow_32:2280"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_32:2280" result="shape"></feBlend></filter><filter id="caitlyn-record-1-page-6-filter2_ddd_32:2280" width="278.446" height="132.47" x="1038.59" y="484.781" class="filter2_ddd_32:2280" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_32:2280"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_32:2280" result="effect2_dropShadow_32:2280"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_32:2280" result="effect3_dropShadow_32:2280"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_32:2280" result="shape"></feBlend></filter><filter id="caitlyn-record-1-page-6-filter3_ddd_32:2280" width="254.578" height="143.102" x="1043.58" y="637.569" class="filter3_ddd_32:2280" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_32:2280"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_32:2280" result="effect2_dropShadow_32:2280"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_32:2280" result="effect3_dropShadow_32:2280"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_32:2280" result="shape"></feBlend></filter><filter id="caitlyn-record-1-page-6-filter4_ddd_32:2280" width="302.911" height="118.73" x="774.385" y="892.27" class="filter4_ddd_32:2280" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_32:2280"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_32:2280" result="effect2_dropShadow_32:2280"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_32:2280" result="effect3_dropShadow_32:2280"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_32:2280" result="shape"></feBlend></filter></defs></svg>'
@@ -21952,8 +22511,9 @@
             "use strict";
             o.r(t), t.default = o.p + "videos/collection-caitlyn.webm?a3d33be9442c5aa793933efcb0778370"
         },
-        xVix: function(e, t) {
-            throw new Error("Module parse failed: Unexpected character 'ï¿½' (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n(Source code omitted for this binary file)")
+        xVix: function(e, t, o) {
+            "use strict";
+            o.r(t), t.default = o.p + "images/collection-jinx-record-1-view-3.jpg?17731c55f6808577c5efe3e2390beedd"
         },
         xco4: function(e, t, o) {
             "use strict";
@@ -21975,9 +22535,9 @@
                     h = o.n(u),
                     v = o("cDf5"),
                     g = o.n(v),
-                    y = (o("5DmW"), o("pNMO"), o("4Brf"), o("07d7"), o("SuFq"), o("YKMj"));
+                    x = (o("5DmW"), o("pNMO"), o("4Brf"), o("07d7"), o("SuFq"), o("YKMj"));
 
-                function x(e) {
+                function y(e) {
                     var t = function() {
                         if ("undefined" == typeof Reflect || !Reflect.construct) return !1;
                         if (Reflect.construct.sham) return !1;
@@ -22013,7 +22573,7 @@
                     },
                     C = function(t) {
                         p()(r, t);
-                        var o = x(r);
+                        var o = y(r);
 
                         function r() {
                             return n()(this, r), o.apply(this, arguments)
@@ -22029,15 +22589,15 @@
                                 return this.$bgImage(this.bgImage || (this.kebabRoute ? "bg-".concat(this.kebabRoute) : this.defaultBgImage))
                             }
                         }]), r
-                    }(y.h.extend({
+                    }(x.h.extend({
                         provide: function() {
                             return i()({}, B.from, this)
                         }
                     }));
-                m([Object(y.e)(String)], C.prototype, "bgImage", void 0), m([Object(y.e)({
+                m([Object(x.e)(String)], C.prototype, "bgImage", void 0), m([Object(x.e)({
                     type: String,
                     default: "bg-default"
-                })], C.prototype, "defaultBgImage", void 0), m([Object(y.e)(String)], C.prototype, "pageSection", void 0), m([Object(y.e)(Boolean)], C.prototype, "noScroll", void 0), m([Object(y.e)(Boolean)], C.prototype, "formatModal", void 0), m([Object(y.g)()], C.prototype, "bgs", void 0), C = m([y.a], C), t.a = C
+                })], C.prototype, "defaultBgImage", void 0), m([Object(x.e)(String)], C.prototype, "pageSection", void 0), m([Object(x.e)(Boolean)], C.prototype, "noScroll", void 0), m([Object(x.e)(Boolean)], C.prototype, "formatModal", void 0), m([Object(x.g)()], C.prototype, "bgs", void 0), C = m([x.a], C), t.a = C
             }).call(this, o("N1om"))
         },
         xnLo: function(e, t, o) {
@@ -22048,7 +22608,7 @@
             e.exports = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 2110 1440"><g class="vi-record-3-page-3"><g class="section-1"><path fill="#fff" fill-rule="evenodd" d="M863.614 482.386L820.6 424.29l559.06-207.03 181.92 215.96-388.98 205.33-155.59 51.02L889.982 518H874l-23-23 12.614-12.614z" class="section-1-clickable" clip-rule="evenodd"></path><path fill="url(#vi-record-3-page-3-paint0_linear_36:2230)" fill-opacity=".4" stroke="url(#vi-record-3-page-3-paint1_linear_36:2230)" stroke-miterlimit="10" stroke-width="4" d="M820.6 424.29l196.41 265.28 155.59-51.02-36.98-54.84 425.96-150.49-181.92-215.96L820.6 424.29z" class="section-1-neutral"></path><g class="section-1-hover" filter="url(#vi-record-3-page-3-filter0_ddd_36:2230)"><path fill="url(#vi-record-3-page-3-paint2_linear_36:2230)" fill-opacity=".4" d="M820.6 424.29l196.41 265.28 155.59-51.02-36.98-54.84 425.96-150.49-181.92-215.96L820.6 424.29z" shape-rendering="crispEdges"></path><path stroke="url(#vi-record-3-page-3-paint3_linear_36:2230)" stroke-miterlimit="10" stroke-width="4" d="M820.6 424.29l196.41 265.28 155.59-51.02-36.98-54.84 425.96-150.49-181.92-215.96L820.6 424.29z" shape-rendering="crispEdges"></path></g></g><g class="section-2"><path fill="#fff" fill-rule="evenodd" d="M1103.51 772.512L1087 756l-23 23 23 23 16.15 5.668 164.41 263.062 582.83-231.53-167.66-242.94-459.11 135.61-120.11 40.642z" class="section-2-clickable" clip-rule="evenodd"></path><path fill="url(#vi-record-3-page-3-paint4_linear_36:2230)" fill-opacity=".4" stroke="url(#vi-record-3-page-3-paint5_linear_36:2230)" stroke-miterlimit="10" stroke-width="4" d="M1085.08 778.75l182.48 291.98 582.83-231.53-167.66-242.94-447.1 155.11-12.01-19.5-138.54 46.88z" class="section-2-neutral"></path><g class="section-2-hover" filter="url(#vi-record-3-page-3-filter1_ddd_36:2230)"><path fill="url(#vi-record-3-page-3-paint6_linear_36:2230)" fill-opacity=".4" d="M1085.08 778.75l182.48 291.98 582.83-231.53-167.66-242.94-447.1 155.11-12.01-19.5-138.54 46.88z" shape-rendering="crispEdges"></path><path stroke="url(#vi-record-3-page-3-paint7_linear_36:2230)" stroke-miterlimit="10" stroke-width="4" d="M1085.08 778.75l182.48 291.98 582.83-231.53-167.66-242.94-447.1 155.11-12.01-19.5-138.54 46.88z" shape-rendering="crispEdges"></path></g></g></g><defs><linearGradient id="vi-record-3-page-3-paint0_linear_36:2230" x1="1191.09" x2="1054.07" y1="217.26" y2="703.061" class="paint0_linear_36:2230" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="vi-record-3-page-3-paint1_linear_36:2230" x1="1369.83" x2="1302.77" y1="101.958" y2="702.704" class="paint1_linear_36:2230" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="vi-record-3-page-3-paint2_linear_36:2230" x1="1191.09" x2="1054.07" y1="217.26" y2="703.061" class="paint2_linear_36:2230" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="vi-record-3-page-3-paint3_linear_36:2230" x1="1369.83" x2="1302.77" y1="101.958" y2="702.704" class="paint3_linear_36:2230" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="vi-record-3-page-3-paint4_linear_36:2230" x1="1467.74" x2="1333.32" y1="596.26" y2="1086.23" class="paint4_linear_36:2230" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="vi-record-3-page-3-paint5_linear_36:2230" x1="1652.35" x2="1586.78" y1="480.431" y2="1084.33" class="paint5_linear_36:2230" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="vi-record-3-page-3-paint6_linear_36:2230" x1="1467.74" x2="1333.32" y1="596.26" y2="1086.23" class="paint6_linear_36:2230" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="vi-record-3-page-3-paint7_linear_36:2230" x1="1652.35" x2="1586.78" y1="480.431" y2="1084.33" class="paint7_linear_36:2230" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><filter id="vi-record-3-page-3-filter0_ddd_36:2230" width="787.564" height="517.023" x="797.407" y="194.896" class="filter0_ddd_36:2230" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_36:2230"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_36:2230" result="effect2_dropShadow_36:2230"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_36:2230" result="effect3_dropShadow_36:2230"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_36:2230" result="shape"></feBlend></filter><filter id="vi-record-3-page-3-filter1_ddd_36:2230" width="811.419" height="519.333" x="1062.04" y="573.871" class="filter1_ddd_36:2230" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_36:2230"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_36:2230" result="effect2_dropShadow_36:2230"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_36:2230" result="effect3_dropShadow_36:2230"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_36:2230" result="shape"></feBlend></filter></defs></svg>'
         },
         ySyK: function(e, t) {
-            throw new Error('Module parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\n> <svg\n| \txmlns="http://www.w3.org/2000/svg"\n| \twidth="2112"')
+            e.exports = '<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 2112 1442"><g class="jinx-record-1-page-5"><g class="section-5"><path fill="#fff" d="M401 721l-23 23 19.529 82.39 138.39 74.51 234.19 53.23 134.12-85.16-221.41-142.65L401 721z" class="section-5-clickable"></path><path fill="url(#jinx-record-1-page-5-paint0_linear_39:2766)" fill-opacity=".4" stroke="url(#jinx-record-1-page-5-paint1_linear_39:2766)" stroke-miterlimit="10" stroke-width="4" d="M399.659 741.23l-2.13 85.16 138.39 74.51 234.19 53.23 134.12-85.16-212.9-97.94-8.51-44.71-283.16 14.91z" class="section-5-neutral"></path><g class="section-5-hover" filter="url(#jinx-record-1-page-5-filter0_ddd_39:2766)"><path fill="url(#jinx-record-1-page-5-paint2_linear_39:2766)" fill-opacity=".4" d="M399.659 741.23l-2.13 85.16 138.39 74.51 234.19 53.23 134.12-85.16-212.9-97.94-8.51-44.71-283.16 14.91z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-5-paint3_linear_39:2766)" stroke-miterlimit="10" stroke-width="4" d="M399.659 741.23l-2.13 85.16 138.39 74.51 234.19 53.23 134.12-85.16-212.9-97.94-8.51-44.71-283.16 14.91z" shape-rendering="crispEdges"></path></g></g><g class="section-4"><path fill="#fff" d="M1080.94 698.65l-55.35 97.93L784 755l-23-23 24.009-84.45L976.619 622l104.321 76.65z" class="section-4-clickable"></path><path fill="url(#jinx-record-1-page-5-paint4_linear_39:2766)" fill-opacity=".4" stroke="url(#jinx-record-1-page-5-paint5_linear_39:2766)" stroke-miterlimit="10" stroke-width="4" d="M1025.59 796.58l55.35-97.93L976.619 622l-191.61 25.55-6.39 83.03 246.971 66z" class="section-4-neutral"></path><g class="section-4-hover" filter="url(#jinx-record-1-page-5-filter1_ddd_39:2766)"><path fill="url(#jinx-record-1-page-5-paint6_linear_39:2766)" fill-opacity=".4" d="M1025.59 796.58l55.35-97.93L976.619 622l-191.61 25.55-6.39 83.03 246.971 66z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-5-paint7_linear_39:2766)" stroke-miterlimit="10" stroke-width="4" d="M1025.59 796.58l55.35-97.93L976.619 622l-191.61 25.55-6.39 83.03 246.971 66z" shape-rendering="crispEdges"></path></g></g>\x3c!-- <g class="section-3"><path fill="#fff" d="M627.459 717.811l-140.51-51.1 17.03-76.64L595 527l55.879-7.189 146.9 80.9-59.61 102.2-110.71 14.9z" class="section-3-clickable"></path><path fill="url(#jinx-record-1-page-5-paint8_linear_39:2766)" fill-opacity=".4" stroke="url(#jinx-record-1-page-5-paint9_linear_39:2766)" stroke-miterlimit="10" stroke-width="4" d="M486.949 666.711l140.51 51.1 110.71-14.9 59.61-102.2-146.9-80.9-146.9 70.26-17.03 76.64z" class="section-3-neutral"></path><g class="section-3-hover" filter="url(#jinx-record-1-page-5-filter2_ddd_39:2766)"><path fill="url(#jinx-record-1-page-5-paint10_linear_39:2766)" fill-opacity=".4" d="M486.949 666.711l140.51 51.1 110.71-14.9 59.61-102.2-146.9-80.9-146.9 70.26-17.03 76.64z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-5-paint11_linear_39:2766)" stroke-miterlimit="10" stroke-width="4" d="M486.949 666.711l140.51 51.1 110.71-14.9 59.61-102.2-146.9-80.9-146.9 70.26-17.03 76.64z" shape-rendering="crispEdges"></path></g></g> --\x3e<g class="section-2"><path fill="#fff" d="M1046 539l-23-23-80.5 14-146.85-8.06-10.64 44.71 97.93 40.45 114.97-6.39L1023 562l23-23z" class="section-2-clickable"></path><path fill="url(#jinx-record-1-page-5-paint12_linear_39:2766)" fill-opacity=".4" stroke="url(#jinx-record-1-page-5-paint13_linear_39:2766)" stroke-miterlimit="10" stroke-width="4" d="M785.01 566.649l91.55 10.65 6.38 29.8 114.97-6.39 31.93-59.61-234.19-19.16-10.64 44.71z" class="section-2-neutral"></path><g class="section-2-hover" filter="url(#jinx-record-1-page-5-filter3_ddd_39:2766)"><path fill="url(#jinx-record-1-page-5-paint14_linear_39:2766)" fill-opacity=".4" d="M785.01 566.649l91.55 10.65 6.38 29.8 114.97-6.39 31.93-59.61-234.19-19.16-10.64 44.71z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-5-paint15_linear_39:2766)" stroke-miterlimit="10" stroke-width="4" d="M785.01 566.649l91.55 10.65 6.38 29.8 114.97-6.39 31.93-59.61-234.19-19.16-10.64 44.71z" shape-rendering="crispEdges"></path></g></g><g class="section-1"><path fill="#fff" d="M749 334l-23 23-55.961 54.23 19.16 85.16 249.1 25.55 83.031-55.35 2.13-68.13L749 334z" class="section-1-clickable"></path><path fill="url(#jinx-record-1-page-5-paint16_linear_39:2766)" fill-opacity=".4" stroke="url(#jinx-record-1-page-5-paint17_linear_39:2766)" stroke-miterlimit="10" stroke-width="4" d="M689.199 496.39l249.1 25.55 83.031-55.35 2.13-68.13-276.771-40.45-76.65 53.22 19.16 85.16z" class="section-1-neutral"></path><g class="section-1-hover" filter="url(#jinx-record-1-page-5-filter4_ddd_39:2766)"><path fill="url(#jinx-record-1-page-5-paint18_linear_39:2766)" fill-opacity=".4" d="M689.199 496.39l249.1 25.55 83.031-55.35 2.13-68.13-276.771-40.45-76.65 53.22 19.16 85.16z" shape-rendering="crispEdges"></path><path stroke="url(#jinx-record-1-page-5-paint19_linear_39:2766)" stroke-miterlimit="10" stroke-width="4" d="M689.199 496.39l249.1 25.55 83.031-55.35 2.13-68.13-276.771-40.45-76.65 53.22 19.16 85.16z" shape-rendering="crispEdges"></path></g></g></g><defs><linearGradient id="jinx-record-1-page-5-paint0_linear_39:2766" x1="650.879" x2="602.47" y1="726.32" y2="969.648" class="paint0_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint1_linear_39:2766" x1="773.11" x2="750.152" y1="670.707" y2="962.269" class="paint1_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint2_linear_39:2766" x1="650.879" x2="602.47" y1="726.32" y2="969.648" class="paint2_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint3_linear_39:2766" x1="773.11" x2="750.152" y1="670.707" y2="962.269" class="paint3_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint4_linear_39:2766" x1="929.779" x2="883.28" y1="622" y2="803.97" class="paint4_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint5_linear_39:2766" x1="1002.71" x2="980.2" y1="579.381" y2="801.926" class="paint5_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint6_linear_39:2766" x1="929.779" x2="883.28" y1="622" y2="803.97" class="paint6_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint7_linear_39:2766" x1="1002.71" x2="980.2" y1="579.381" y2="801.926" class="paint7_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint8_linear_39:2766" x1="642.364" x2="584.954" y1="519.811" y2="723.485" class="paint8_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint9_linear_39:2766" x1="717.345" x2="689.249" y1="471.474" y2="723.321" class="paint9_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint10_linear_39:2766" x1="642.364" x2="584.954" y1="519.811" y2="723.485" class="paint10_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint11_linear_39:2766" x1="717.345" x2="689.249" y1="471.474" y2="723.321" class="paint11_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint12_linear_39:2766" x1="907.425" x2="893.207" y1="521.939" y2="614.312" class="paint12_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint13_linear_39:2766" x1="966.485" x2="959.829" y1="501.15" y2="610.412" class="paint13_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint14_linear_39:2766" x1="907.425" x2="893.207" y1="521.939" y2="614.312" class="paint14_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint15_linear_39:2766" x1="966.485" x2="959.829" y1="501.15" y2="610.412" class="paint15_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint16_linear_39:2766" x1="846.749" x2="810.899" y1="358.01" y2="532.678" class="paint16_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint17_linear_39:2766" x1="932.004" x2="914.967" y1="317.991" y2="527.713" class="paint17_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint18_linear_39:2766" x1="846.749" x2="810.899" y1="358.01" y2="532.678" class="paint18_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#2DE8E0" stop-opacity=".02"></stop><stop offset="1" stop-color="#2DE8E0"></stop></linearGradient><linearGradient id="jinx-record-1-page-5-paint19_linear_39:2766" x1="932.004" x2="914.967" y1="317.991" y2="527.713" class="paint19_linear_39:2766" gradientUnits="userSpaceOnUse"><stop stop-color="#8DFCEB"></stop><stop offset=".427" stop-color="#32E7E2"></stop><stop offset="1" stop-color="#1B7B99"></stop></linearGradient><filter id="jinx-record-1-page-5-filter0_ddd_39:2766" width="552.904" height="272.035" x="375.499" y="704.23" class="filter0_ddd_39:2766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2766"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2766" result="effect2_dropShadow_39:2766"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2766" result="effect3_dropShadow_39:2766"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2766" result="shape"></feBlend></filter><filter id="jinx-record-1-page-5-filter1_ddd_39:2766" width="347.056" height="219.002" x="756.498" y="599.91" class="filter1_ddd_39:2766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2766"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2766" result="effect2_dropShadow_39:2766"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2766" result="effect3_dropShadow_39:2766"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2766" result="shape"></feBlend></filter><filter id="jinx-record-1-page-5-filter2_ddd_39:2766" width="355.924" height="242.295" x="464.616" y="497.562" class="filter2_ddd_39:2766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2766"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2766" result="effect2_dropShadow_39:2766"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2766" result="effect3_dropShadow_39:2766"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2766" result="shape"></feBlend></filter><filter id="jinx-record-1-page-5-filter3_ddd_39:2766" width="290.5" height="129.385" x="762.543" y="499.807" class="filter3_ddd_39:2766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2766"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2766" result="effect2_dropShadow_39:2766"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2766" result="effect3_dropShadow_39:2766"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2766" result="shape"></feBlend></filter><filter id="jinx-record-1-page-5-filter4_ddd_39:2766" width="397.722" height="208.086" x="647.792" y="335.916" class="filter4_ddd_39:2766" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="BackgroundImageFix" result="effect1_dropShadow_39:2766"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.627451 0 0 0 0 0.976471 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect1_dropShadow_39:2766" result="effect2_dropShadow_39:2766"></feBlend><feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix><feOffset></feOffset><feGaussianBlur stdDeviation="10"></feGaussianBlur><feComposite in2="hardAlpha" operator="out"></feComposite><feColorMatrix values="0 0 0 0 0.858824 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"></feColorMatrix><feBlend in2="effect2_dropShadow_39:2766" result="effect3_dropShadow_39:2766"></feBlend><feBlend in="SourceGraphic" in2="effect3_dropShadow_39:2766" result="shape"></feBlend></filter></defs></svg>'
         },
         yauI: function(e, t, o) {
             "use strict";
@@ -22068,8 +22628,8 @@
                 h = o.n(u),
                 v = o("j1EC"),
                 g = o.n(v),
-                y = o("bNQv"),
-                x = o.n(y),
+                x = o("bNQv"),
+                y = o.n(x),
                 m = (o("5DmW"), o("sMBO"), o("FZtP"), o("YKMj")),
                 B = o("PGn1"),
                 C = o("Xs2m"),
@@ -22095,7 +22655,7 @@
                     return p()(this, o)
                 }
             }
-            var b = function(e, t, o, r) {
+            var S = function(e, t, o, r) {
                     var i, a = arguments.length,
                         n = a < 3 ? t : null === r ? r = Object.getOwnPropertyDescriptor(t, o) : r;
                     if ("object" === ("undefined" == typeof Reflect ? "undefined" : h()(Reflect)) && "function" == typeof Reflect.decorate) n = Reflect.decorate(e, t, o, r);
@@ -22103,7 +22663,7 @@
                         for (var s = e.length - 1; s >= 0; s--)(i = e[s]) && (n = (a < 3 ? i(n) : a > 3 ? i(t, o, n) : i(t, o)) || n);
                     return a > 3 && n && Object.defineProperty(t, o, n), n
                 },
-                S = function(e) {
+                M = function(e) {
                     l()(o, e);
                     var t = O(o);
 
@@ -22120,7 +22680,7 @@
                         key: "mounted",
                         value: function() {
                             var e = this;
-                            this.group ? x()(this.$listeners, (function(t, o) {
+                            this.group ? y()(this.$listeners, (function(t, o) {
                                 g()(t).forEach((function(t) {
                                     w.a.call(e, o, t, e.group.$el)
                                 }))
@@ -22132,10 +22692,10 @@
                         slotScope: null
                     })
                 }));
-            b([Object(m.c)(C.inject)], S.prototype, "groupParent", void 0), b([Object(m.e)({
+            S([Object(m.c)(C.inject)], M.prototype, "groupParent", void 0), S([Object(m.e)({
                 type: String,
                 default: "default"
-            })], S.prototype, "name", void 0), S = b([m.a], S), t.default = S
+            })], M.prototype, "name", void 0), M = S([m.a], M), t.default = M
         },
         yhIm: function(e, t, o) {
             "use strict";
@@ -22195,9 +22755,9 @@
                 type: Number,
                 required: !0
             })], g.prototype, "height", void 0);
-            var y = g = v([u.a], g),
-                x = o("KHd+"),
-                m = Object(x.a)(y, (function() {
+            var x = g = v([u.a], g),
+                y = o("KHd+"),
+                m = Object(y.a)(x, (function() {
                     var e = this,
                         t = e.$createElement,
                         o = e._self._c || t;
