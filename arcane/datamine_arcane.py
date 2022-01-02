@@ -220,17 +220,18 @@ if __name__ == "__main__":
         print(dehash(search_str, lines=loaded_lines))
     else:
         r = do_shit()
-        
-        missing = comp()
-        for index, val in enumerate(missing):
-            r["?"*(index+1)] = val
+
+        # write to file
         with open('attempted_bf.json', 'w', encoding="utf-8") as jfile:
             json.dump(r, jfile, indent=4, ensure_ascii=False)
 
+        # check missing
         missing = comp(p=True)
         for index, val in enumerate(missing):
             r["?"*(index+1)] = val
             print(val)
+
+        # write updated output  to file
         with open('attempted_bf.json', 'w', encoding="utf-8") as jfile:
             json.dump(r, jfile, indent=4, ensure_ascii=False)
 
