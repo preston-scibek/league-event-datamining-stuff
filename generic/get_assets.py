@@ -3,19 +3,26 @@ import re, requests, os
 from track_asset_path import get_versioned_asset_path
 from datamine import URL
 
+import jsbeautifier
+
 assets = []
 
 asset_path = get_versioned_asset_path(URL)
 
-# figure out some way to api call this for beautify (ideally without using non-vanilla package)
-with open('dist.js', 'r') as jfile:
-    for line in jfile.readlines():
-        if "png" in line or "webm" in line or "jpg" in line:
-            regex_str = r'^.*"((?:images|video).*(?:png|jpg|webm).*)"[^:].*$'
-            m = re.search(regex_str, line)
-            if m and m.group(1):
-                #print(f"{asset_path}{m.group(1)}")
-                assets.append(f"{asset_path}{m.group(1)}")
+r = requests.get(f"{asset_path}/dist.js")
+assert(r.status_code == 200)
+
+js = jsbeautifier.beautify(f"\n{r.text}")
+with open('dist.js', 'w') as jfile:
+    jfile.writelines(js)
+
+for line in js.split("\n"):
+    if "png" in line or "webm" in line or "jpg" in line:
+        regex_str = r'^.*"((?:images|video).*(?:png|jpg|webm).*)"[^:]?.*$'
+        m = re.search(regex_str, line)
+        if m and m.group(1):
+            #print(f"{asset_path}{m.group(1)}")
+            assets.append(f"{asset_path}{m.group(1)}")
 
 for asset in assets:
     print(f"downloading asset for {asset}")
