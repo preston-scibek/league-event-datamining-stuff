@@ -62,7 +62,7 @@ def get_missing_keys(file_name=DEHASHED_KEY_LINES_FILE, p=False):
 def do_shit(n=40):
     """ Do all the stuff neseccary to link the keys to the lines"""
     # Do stuff
-    return res
+    return None
 
 
 if __name__ == "__main__":
