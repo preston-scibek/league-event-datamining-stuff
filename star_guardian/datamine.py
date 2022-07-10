@@ -91,7 +91,7 @@ if __name__ == "__main__":
         # check missing
         missing = get_missing_keys(p=True)
         for index, val in enumerate(missing):
-            r["?"*(index+1)] = val
+            r[f"?*({index+1})"] = val
             print(val)
 
         # write updated output to file

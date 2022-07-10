@@ -61,9 +61,9 @@ def get_missing_keys(file_name=DEHASHED_KEY_LINES_FILE, p=False):
 
 def do_shit(n=40):
     """ Do all the stuff neseccary to link the keys to the lines"""
-    # Do stuff
-    return None
-
+    loaded_lines = load_lines()
+    res = {}
+    return res
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Search Lines')
@@ -89,7 +89,7 @@ if __name__ == "__main__":
         # check missing
         missing = get_missing_keys(p=True)
         for index, val in enumerate(missing):
-            r["?"*(index+1)] = val
+            r[f"?*({index+1})"] = val
             print(val)
 
         # write updated output to file
