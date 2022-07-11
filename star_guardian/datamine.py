@@ -9,7 +9,10 @@ import argparse
 HASH_PREFIX = "star-guardians-marketing-hub-2022" # example is arcane-nlex-hub-2021
 HASH_PREFIX_NUMBER = 17 
 URL = "https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/star-guardians-hub-2022#" # example is https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-nlex-hub-2021
+URL = "https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/star-guardians-metagame-hub-2022#/"
 URL = "https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/star-guardians-marketing-hub-2022#/" # this url is just temp until event is fully released, but we still want to get the marketing assets
+HASH_PREFIX = URL.split("event/")[1].split("#")[0]
+
 HASHED_KEY_LINES_FILE = "hashed_lines_star_guardian.json" # example is 'lines_arcane.json'
 DEHASHED_KEY_LINES_FILE = "dehashed_lines_star_guardian.json" # example is "attempted_bf.json"
 

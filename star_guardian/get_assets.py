@@ -43,4 +43,10 @@ for asset in assets:
         print(f"download failed for {url}")
         fails.append(url)
 
-print(f"\n\n\n\nfailed downloads are: \n {json.dumps(fails)}\n\n\n")
+with open("failed_downloads.json", "w+") as jfile:
+    json.dump(fails, jfile, indent=4)
+with open("success_downloads.json", "w+") as jfile:
+    json.dump(success, jfile, indent=4)
+
+total_assets = len(assets)
+print(f"Total Assets: {total_assets}\nFails: {len(fails)}\nSuccesses: {len(success)}")
