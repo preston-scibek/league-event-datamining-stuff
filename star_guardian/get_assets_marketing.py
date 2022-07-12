@@ -8,11 +8,11 @@ import jsbeautifier
 assets = []
 
 asset_path = get_versioned_asset_path(URL)
-r = requests.get(f"{asset_path}/dist_marketing.js")
+r = requests.get(f"{asset_path}/dist.js")
 assert(r.status_code == 200)
 
 js = jsbeautifier.beautify(f"\n{r.text}")
-with open('dist.js', 'w') as jfile:
+with open('dist_marketing.js', 'w') as jfile:
     jfile.writelines(js)
 
 for line in js.split("\n"):
