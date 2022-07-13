@@ -39,5 +39,5 @@ if __name__ == "__main__":
         res_post = requests.post(DISCORD_WEBHOOK, data=data)
         print(res_post.text)
 
-    with open("asset_path.json", "w") as jfile:
+    with open("asset_path_marketing.json", "w") as jfile:
             json.dump({"asset_path": asset_path}, jfile)
