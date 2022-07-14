@@ -29,7 +29,7 @@ import concurrent.futures
 
 def request_get(url):
     print(f"downloading asset for {url}")
-    path = "assets/" + url.split("assets/")[1].split("?")[0]
+    path = "assets_marketing/" + url.split("assets/")[1].split("?")[0]
     dir_path = "/".join(path.split("/")[0:-1])
     r = requests.get(url, stream=True)
     if r.status_code == 200:
@@ -52,9 +52,9 @@ with concurrent.futures.ProcessPoolExecutor(max_workers=32) as executor:
                 
     
 
-with open("failed_downloads.json", "w+") as jfile:
+with open("failed_downloads_marketing.json", "w+") as jfile:
     json.dump(fails, jfile, indent=4)
-with open("success_downloads.json", "w+") as jfile:
+with open("success_downloads_marketing.json", "w+") as jfile:
     json.dump(success, jfile, indent=4)
 
 total_assets = len(assets)

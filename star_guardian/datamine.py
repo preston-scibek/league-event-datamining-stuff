@@ -293,6 +293,19 @@ def clean_up_scenes():
             bg = scene['bg']
             if 'parsed' not in bg:
                 scenes[index][indexx]['bg'] = f"{asset_path}parsed-images/obf/bgs/{bg}.jpg"
+            
+            speakerIcon = scene.get('speakerIcon', None)
+            if speakerIcon and 'parsed' not in speakerIcon:
+                scenes[index][indexx]['speakerIcon'] = f"{asset_path}parsed-images/obf/speaker-icons/{speakerIcon}.png"
+
+            bgPortraitR = scene.get('bgPortraitR', None)
+            if bgPortraitR and 'parsed' not in bgPortraitR:
+                scenes[index][indexx]['bgPortraitR'] = f"{asset_path}parsed-images/obf/bg-portraits/{bgPortraitR}.png"
+            
+            bgPortraitL = scene.get('bgPortraitL', None)
+            if bgPortraitL and 'parsed' not in bgPortraitL:
+                scenes[index][indexx]['bgPortraitL'] = f"{asset_path}parsed-images/obf/bg-portraits/{bgPortraitL}.png"
+
             for i in range(1, 4):
                 # group fails for now , its a collection of the other portraits
                 portraits = [f'fgPortraitR{i}', f"fgPortraitL{i}"]#, f'fgPortraitR{i}Group', f"fgPortraitL{i}Group"]
