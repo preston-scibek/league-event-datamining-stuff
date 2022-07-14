@@ -70,6 +70,11 @@ def do_shit(n=40):
         scenes = json.load(jfile)
     for index, scene_list in enumerate(scenes):
         for indexx, scene in enumerate(scene_list):
+            speaker_id = scene.get('speakerId', None)
+            if speaker_id:
+                text = dehash(speaker_id, lines=loaded_lines)
+                if text:
+                    res[speaker_id] = text
             strr = scene['dialogueId']
             text = dehash(strr, lines=loaded_lines)
             if text:
@@ -270,7 +275,11 @@ def do_shit(n=40):
         "nav.countdown_days",
         "nav.countdown_hour",
         "nav.countdown_hours",
-
+        "tooltip.motion_on",
+        "tooltip.motion_off",
+        "tooltip.sound_on",
+        "tooltip.sound_off",
+        "tooltip.client_audio_off"
     ]
     for strr in full_strs:
         text = dehash(strr, lines=loaded_lines)
