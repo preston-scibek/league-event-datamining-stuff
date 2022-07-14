@@ -75,6 +75,12 @@ def do_shit(n=40):
             if text:
                 res[strr] = text
                 scenes[index][indexx]['dialogue'] = text
+            for indexxx, response in enumerate(scene.get('responses', [])):
+                strr = response['dialogueId']
+                text = dehash(strr, lines=loaded_lines)
+                if text:
+                    res[strr] = text
+                    scenes[index][indexx]['responses'][indexxx]['dialogue'] = text
     with open('scenes.json', 'w') as jfile:
         json.dump(scenes, jfile, indent=4, ensure_ascii=False)
 
@@ -151,7 +157,6 @@ def do_shit(n=40):
 
     for i in range(0, 5):
         strr = f"guardian_story.act_{i}.title"
-        print(strr)
         text = dehash(strr, lines=loaded_lines)
         if text:
             res[strr] = text
@@ -198,20 +203,16 @@ def do_shit(n=40):
             text = dehash(strr, lines=loaded_lines)
             if text:
                 res[strr] = text
-                scenes[index][indexx]['dialogue'] = text
 
             strr = f"guardian.reward.level_{i}.{champ}"
-            print(strr)
             text = dehash(strr, lines=loaded_lines)
             if text:
                 res[strr] = text
-                scenes[index][indexx]['dialogue'] = text
         
             strr = f"guardian.title.{champ}"
             text = dehash(strr, lines=loaded_lines)
             if text:
                 res[strr] = text
-                scenes[index][indexx]['dialogue'] = text
     
     full_strs = [
         "tooltip.event_faq",
@@ -275,7 +276,6 @@ def do_shit(n=40):
         text = dehash(strr, lines=loaded_lines)
         if text:
             res[strr] = text
-            scenes[index][indexx]['dialogue'] = text
     return res
 
 
