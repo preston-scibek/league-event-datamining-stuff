@@ -1,0 +1,663 @@
+{
+    "componentChunkName": "component---src-pages-timeline-tsx",
+    "path": "/en-us/timeline/",
+    "result": {
+        "data": {
+            "locales": {
+                "edges": [
+                    {
+                        "node": {
+                            "ns": "404",
+                            "data": "{\"notFound\":\"NOT FOUND in English\",\"message\":\"You just hit a route that doesn't exist... the sadness in English.\"}",
+                            "language": "en-us"
+                        }
+                    },
+                    {
+                        "node": {
+                            "ns": "translation",
+                            "data": "{\"meta\":{\"title\":\"Star Guardian 2022\",\"description\":\"The Star Guardians have returned, brighter than ever! Soar through a magical experience and discover everything Star Guardian 2022 related.\",\"titleEasterEgg\":\"Star Guardian 2022 Secret\",\"descriptionEasterEgg\":\"Well done! It looks like you found something interesting here. Discover all the secrets to earn a magical reward.\"},\"global\":{\"close\":\"CLOSE\",\"sliderPrevious\":\"PREVIOUS\",\"sliderNext\":\"NEXT\",\"playVideo\":\"PLAY\",\"pauseVideo\":\"PAUSE\",\"soundOn\":\"SOUND ON\",\"soundOff\":\"SOUND OFF\",\"screenRotate_title\":\"ROTATE YOUR DEVICE\",\"screenRotate_description\":\"Please rotate your device to portrait mode to experience the website.\"},\"loading\":{\"loading\":\"LOADING\",\"mascot_lol\":\"Ina can fit 34 tapioca pearls in their mouth at once!\",\"mascot_wr\":\"Saki can rotate their head 900 degrees... without getting dizzy!\"},\"home\":{\"subtitle1\":\"THREE GAMES\",\"subtitle2\":\"ONE MAGICAL JOURNEY\",\"start\":\"EXPLORE\"},\"timeline\":{\"skip\":\"SKIP VIDEO\",\"pressSpace\":\"HOLD SPACEBAR TO ENTER\",\"mobileEnter\":\"HOLD TO ENTER\",\"scrollToExplore\":\"SCROLL TO EXPLORE\",\"viewGame\":\"VIEW YOUR GAME\",\"viewYour\":\"VIEW YOUR\",\"game\":\"GAME\",\"selected\":\"SELECTED\",\"playnow\":\"PLAY NOW\",\"discover\":\"DISCOVER\"},\"easterEgg\":{\"sliderCta\":\"TAKE A CLOSER LOOK\",\"score\":\"21 SECRETS FOUND\",\"instruction\":\"MOVE TO EXPLORE\",\"title\":\"CONGRATULATIONS!\",\"subtitle\":\"ALL SECRETS FOUND\",\"downloadCta\":\"DOWNLOAD\"},\"shortStory\":{\"title1\":\"STAR GUARDIAN:\",\"title2\":\"TWIN STARS\",\"chapterCta\":\"VIEW ALL CHAPTERS\",\"bookmarkDesktopTop\":\"READ\",\"bookmarkDesktopBottom\":\"UNREAD\",\"bookmarkSaved\":\"POSITION SAVED\"}}",
+                            "language": "en-us"
+                        }
+                    },
+                    {
+                        "node": {
+                            "ns": "first",
+                            "data": "{\"siteMetadataTitle\":\"Star Guadian\",\"footerBuiltWith\":\"© {{ date }}, Built with Gatsby\",\"welcome\":\"Welcome to your new Gatsbinger site.\",\"main_title\":\"Hi There\",\"whoami\":\"[ENGLISH] This namespace is from first.json\"}",
+                            "language": "en-us"
+                        }
+                    },
+                    {
+                        "node": {
+                            "ns": "home",
+                            "data": "{\"start\":\"Start the experience\"}",
+                            "language": "en-us"
+                        }
+                    },
+                    {
+                        "node": {
+                            "ns": "second",
+                            "data": "{\"goodbye\":\"english goodbye second.json\",\"farewell\":\"english farewell second.json\",\"nested\":{\"title\":\"english nested key\"},\"cards\":[{\"title\":\"english titleA\"},{\"title\":\"english titleB\"},{\"title\":\"english titleC\"}]}",
+                            "language": "en-us"
+                        }
+                    }
+                ]
+            },
+            "hotspots": {
+                "nodes": [
+                    {
+                        "uid": "bltf7475a564e755e40",
+                        "label": "MUSIC VIDEO",
+                        "locked_subtitle": "UNLOCKS JULY 14",
+                        "locked_title": "?",
+                        "content_metadata": {
+                            "content_type": "video",
+                            "order": 12,
+                            "publish_date": "2022-07-14T15:00:00.000Z",
+                            "related_game": "none",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt44e2f6783e3ee9bb",
+                                "url": "/everything-goes-on",
+                                "title": "EVERYTHING GOES ON",
+                                "label": "MUSIC VIDEO"
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "blt4617c7becdbbbbbd",
+                        "label": "VIDEO",
+                        "locked_subtitle": "UNLOCKS JULY 12",
+                        "locked_title": "LEAGUE OF LEGENDS - EVENT TRAILER",
+                        "content_metadata": {
+                            "content_type": "video",
+                            "order": 7,
+                            "publish_date": "2022-07-11T18:00:00.000Z",
+                            "related_game": "lol",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "bltefd142f637150ad0",
+                                "url": "/league-of-legends-event-trailer",
+                                "title": "LEAGUE OF LEGENDS - EVENT TRAILER",
+                                "label": "VIDEO"
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "blt18a3d37d60472dfe",
+                        "label": "VIDEO",
+                        "locked_subtitle": "UNLOCKS JULY 12",
+                        "locked_title": "WILD RIFT - EVENT TRAILER",
+                        "content_metadata": {
+                            "content_type": "video",
+                            "order": 10,
+                            "publish_date": "2022-07-12T15:01:00.000Z",
+                            "related_game": "wildrift",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blte553404f47508fa8",
+                                "url": "/wild-rift-event-trailer",
+                                "title": "WILD RIFT - EVENT TRAILER",
+                                "label": "VIDEO"
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "bltede8868a469e71df",
+                        "label": "",
+                        "locked_subtitle": "UNLOCKS AUGUST 4",
+                        "locked_title": "?",
+                        "content_metadata": {
+                            "content_type": "article",
+                            "order": 23,
+                            "publish_date": "2022-08-04T20:00:00.000Z",
+                            "related_game": "none",
+                            "thumbnail": {
+                                "content_type": "image/png",
+                                "url": "https://images.contentstack.io/v3/assets/bltf98232cd20baaf14/blt6147b5d6eb9af6d6/628ce717bdec0b542e4f0d09/Star-Guardian_Winter-Festival_Yan_final.png"
+                            }
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt0fb4064ec9a58402",
+                                "url": "/winter-festival",
+                                "title": "WINTER FESTIVAL",
+                                "label": ""
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "blt061df277395b435d",
+                        "label": "DEV ARTICLE",
+                        "locked_subtitle": "UNLOCKS AUGUST 1",
+                        "locked_title": "?",
+                        "content_metadata": {
+                            "content_type": "article",
+                            "order": 20,
+                            "publish_date": "2022-08-01T15:00:00.000Z",
+                            "related_game": "lol",
+                            "thumbnail": {
+                                "content_type": "image/jpeg",
+                                "url": "https://images.contentstack.io/v3/assets/bltf98232cd20baaf14/blt7be2ed55163c6609/628b9f24dffcc8654954f3e9/SG_cover-video.jpeg"
+                            }
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt2497feed75daf834",
+                                "url": "/developing-the-star-nemesis-villains",
+                                "title": "DEVELOPING THE STAR NEMESIS VILLAINS",
+                                "label": "DEV ARTICLE"
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "blt27e9239d985fce1f",
+                        "label": "",
+                        "locked_subtitle": "UNLOCKS JULY 28",
+                        "locked_title": "LEAGUE OF LEGENDS - SKINS - GROUP 2",
+                        "content_metadata": {
+                            "content_type": "article",
+                            "order": 17,
+                            "publish_date": "2022-07-28T20:00:00.000Z",
+                            "related_game": "lol",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "bltc8a86cb76b1bd60f",
+                                "url": "/league-of-legends-skins-group-2",
+                                "title": "LEAGUE OF LEGENDS - SKINS - GROUP 2",
+                                "label": ""
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "bltb44932383d2c95ca",
+                        "label": "VIDEO",
+                        "locked_subtitle": "UNLOCKS JULY 28",
+                        "locked_title": "?",
+                        "content_metadata": {
+                            "content_type": "video",
+                            "order": 16,
+                            "publish_date": "2022-07-28T15:15:00.000Z",
+                            "related_game": "lol",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "bltd2f3b76932430cce",
+                                "url": "/shadow-of-a-doubt",
+                                "title": "SHADOW OF A DOUBT",
+                                "label": "VIDEO"
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "blt851623c00ebfe4e7",
+                        "label": "VIDEO",
+                        "locked_subtitle": "UNLOCKS JULY 27",
+                        "locked_title": "?",
+                        "content_metadata": {
+                            "content_type": "video",
+                            "order": 15,
+                            "publish_date": "2022-07-27T16:00:00.000Z",
+                            "related_game": "wildrift",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt7663ebd167b066c9",
+                                "url": "/wild-rift-senna-vlog",
+                                "title": "WILD RIFT - SENNA VLOG",
+                                "label": "VIDEO"
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "blt1b4dd138bc2ec0e5",
+                        "label": "VIDEO",
+                        "locked_subtitle": "UNLOCKS JULY 20",
+                        "locked_title": "?",
+                        "content_metadata": {
+                            "content_type": "video",
+                            "order": 14,
+                            "publish_date": "2022-07-20T15:00:00.000Z",
+                            "related_game": "wildrift",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt4c0f0b5e315ff584",
+                                "url": "/wild-rift-orianna-vlog",
+                                "title": "WILD RIFT - ORIANNA VLOG",
+                                "label": "VIDEO"
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "blt7eb4206ab870c48c",
+                        "label": "VIDEO",
+                        "locked_subtitle": "UNLOCKS JULY 14",
+                        "locked_title": "?",
+                        "content_metadata": {
+                            "content_type": "video",
+                            "order": 13,
+                            "publish_date": "2022-07-14T23:00:00.000Z",
+                            "related_game": "wildrift",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt2e515942348b8d65",
+                                "url": "/wild-rift-seraphine-vlog",
+                                "title": "WILD RIFT - SERAPHINE VLOG",
+                                "label": "VIDEO"
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "bltc5849b5412950554",
+                        "label": "",
+                        "locked_subtitle": "",
+                        "locked_title": "",
+                        "content_metadata": {
+                            "content_type": "article",
+                            "order": 6,
+                            "publish_date": "2022-05-23T14:54:30.000Z",
+                            "related_game": "lol",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blte6741ab15a5cd742",
+                                "url": "/league-of-legends-event-info",
+                                "title": "LEAGUE OF LEGENDS - EVENT INFO",
+                                "label": ""
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "bltdb7bd70e022b0bdd",
+                        "label": "",
+                        "locked_subtitle": "",
+                        "locked_title": "",
+                        "content_metadata": {
+                            "content_type": "article",
+                            "order": 8,
+                            "publish_date": "2022-05-23T15:09:34.000Z",
+                            "related_game": "lol",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blta49079f953f0402a",
+                                "url": "/league-of-legends-skins-group-1",
+                                "title": "LEAGUE OF LEGENDS - SKINS - GROUP 1",
+                                "label": ""
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "blt5834420f63a0c168",
+                        "label": "VIDEO",
+                        "locked_subtitle": "UNLOCKS JULY 11",
+                        "locked_title": "?",
+                        "content_metadata": {
+                            "content_type": "video",
+                            "order": 21,
+                            "publish_date": "2022-06-02T21:15:00.000Z",
+                            "related_game": "none",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt396680e05c9d1045",
+                                "url": "/sessions-star-guardian",
+                                "title": "SESSIONS: STAR GUARDIAN",
+                                "label": "VIDEO"
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "bltddaa2e667baa5037",
+                        "label": "",
+                        "locked_subtitle": "",
+                        "locked_title": "",
+                        "content_metadata": {
+                            "content_type": "article",
+                            "order": 9,
+                            "publish_date": "2022-05-23T15:19:48.000Z",
+                            "related_game": "wildrift",
+                            "thumbnail": {
+                                "content_type": "image/jpeg",
+                                "url": "https://images.contentstack.io/v3/assets/bltf98232cd20baaf14/blt1b3d2f4d6f4a7c51/6290d6fe588ffb4d799f7712/SG_Akali_FINAL.jpg"
+                            }
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt9adcc991b173c486",
+                                "url": "/wild-rift-event-info",
+                                "title": "WILD RIFT - EVENT INFO",
+                                "label": ""
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "blt117f99539e5cfbc1",
+                        "label": "",
+                        "locked_subtitle": "",
+                        "locked_title": "",
+                        "content_metadata": {
+                            "content_type": "article",
+                            "order": 22,
+                            "publish_date": "2022-05-23T15:46:09.000Z",
+                            "related_game": "none",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt075481c04066222e",
+                                "url": "/merchandise",
+                                "title": "MERCHANDISE",
+                                "label": ""
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "bltb9912850c6567faf",
+                        "label": "",
+                        "locked_subtitle": "",
+                        "locked_title": "",
+                        "content_metadata": {
+                            "content_type": "article",
+                            "order": 19,
+                            "publish_date": "2022-05-23T15:41:48.000Z",
+                            "related_game": "none",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt46da2d85dd7154d0",
+                                "url": "/gallery",
+                                "title": "GALLERY",
+                                "label": ""
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "blt3fe43e914509ff20",
+                        "label": "",
+                        "locked_subtitle": "",
+                        "locked_title": "",
+                        "content_metadata": {
+                            "content_type": "article",
+                            "order": 1000,
+                            "publish_date": "2022-05-23T15:49:07.000Z",
+                            "related_game": "none",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt336b6cf60c4df1dd",
+                                "url": "/to-be-continued",
+                                "title": "TO BE CONTINUED...",
+                                "label": ""
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "blt639f47cb7906be99",
+                        "label": "",
+                        "locked_subtitle": "",
+                        "locked_title": "",
+                        "content_metadata": {
+                            "content_type": "article",
+                            "order": 18,
+                            "publish_date": "2022-05-23T15:40:33.000Z",
+                            "related_game": "runeterra",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "bltc83e9409a1791329",
+                                "url": "/legends-of-runeterra",
+                                "title": "LEGENDS OF RUNETERRA",
+                                "label": ""
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "bltdaebe453b2eb6462",
+                        "label": "",
+                        "locked_subtitle": "",
+                        "locked_title": "",
+                        "content_metadata": {
+                            "content_type": "article",
+                            "order": 11,
+                            "publish_date": "2022-05-23T15:27:55.000Z",
+                            "related_game": "wildrift",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt276e880fda56d9d3",
+                                "url": "/wild-rift-skins",
+                                "title": "WILD RIFT - SKINS",
+                                "label": ""
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "bltb008b5931ba2e8cd",
+                        "label": "VIDEO",
+                        "locked_subtitle": "",
+                        "locked_title": "",
+                        "content_metadata": {
+                            "content_type": "video",
+                            "order": 5,
+                            "publish_date": "2022-05-23T14:53:11.000Z",
+                            "related_game": "none",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt9f02118565baac1c",
+                                "url": "/event-teaser",
+                                "title": "EVENT TEASER",
+                                "label": "VIDEO"
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "blt9f04095b8807d12a",
+                        "label": "VIDEO",
+                        "locked_subtitle": "",
+                        "locked_title": "",
+                        "content_metadata": {
+                            "content_type": "video",
+                            "order": 4,
+                            "publish_date": "2022-05-23T14:51:28.000Z",
+                            "related_game": "none",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt59bc01285db6f756",
+                                "url": "/orchestral-theme-2022",
+                                "title": "ORCHESTRAL THEME 2022",
+                                "label": "VIDEO"
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "blte76bf8060a902cb3",
+                        "label": "VIDEO",
+                        "locked_subtitle": "",
+                        "locked_title": "",
+                        "content_metadata": {
+                            "content_type": "video",
+                            "order": 3,
+                            "publish_date": "2022-05-23T14:47:12.000Z",
+                            "related_game": "none",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt880d7e3d13682236",
+                                "url": "/return-to-valoran-city",
+                                "title": "RETURN TO VALORAN CITY",
+                                "label": "VIDEO"
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "blt3a65fd170a3359f0",
+                        "label": "SHORT STORY",
+                        "locked_subtitle": "",
+                        "locked_title": "",
+                        "content_metadata": {
+                            "content_type": "story",
+                            "order": 2,
+                            "publish_date": "2022-05-31T15:23:09.000Z",
+                            "related_game": "none",
+                            "thumbnail": null
+                        },
+                        "reference": [
+                            {
+                                "uid": "blt88f397f3957b99c5",
+                                "url": "/story",
+                                "title": "STAR GUARDIAN: TWIN STARS",
+                                "label": "SHORT STORY"
+                            }
+                        ]
+                    },
+                    {
+                        "uid": "blt66972b19818cb240",
+                        "label": "LORE ARTICLE",
+                        "locked_subtitle": "",
+                        "locked_title": "",
+                        "content_metadata": {
+                            "content_type": "article",
+                            "order": 1,
+                            "publish_date": "2022-05-17T22:00:00.000Z",
+                            "related_game": "none",
+                            "thumbnail": {
+                                "content_type": "image/jpeg",
+                                "url": "https://images.contentstack.io/v3/assets/bltf98232cd20baaf14/bltf22844efeb0da418/627be132d2794936634fb736/cover.jpg"
+                            }
+                        },
+                        "reference": [
+                            {
+                                "uid": "blte100d99ecbf9bedd",
+                                "url": "/previously-on-star-guardian",
+                                "title": "PREVIOUSLY ON STAR GUARDIAN",
+                                "label": "LORE ARTICLE"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "contentstackFeaturedContent": {
+                "title": "Featured Content",
+                "uid": "blt19fde591feb4005d",
+                "featured": {
+                    "desktop": [
+                        {
+                            "uid": "blt44e2f6783e3ee9bb",
+                            "modular_blocks": [
+                                {
+                                    "video": {
+                                        "orientation": "landscape",
+                                        "poster": {
+                                            "uid": "bltebbe7172a4df5970",
+                                            "content_type": "image/jpeg",
+                                            "file_size": "352257",
+                                            "filename": "Everything_Goes_On_-_Thumbnail.jpg",
+                                            "url": "https://images.contentstack.io/v3/assets/bltf98232cd20baaf14/bltebbe7172a4df5970/62cc8f33429ac43379ca23e3/Everything_Goes_On_-_Thumbnail.jpg",
+                                            "title": "Everything_Goes_On_-_Thumbnail.jpg",
+                                            "dimension": {
+                                                "width": 1920,
+                                                "height": 1080
+                                            }
+                                        },
+                                        "youtube_url": "https://youtu.be/eEFVxI9lqjU",
+                                        "video_file": null
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "mobile": [
+                        {
+                            "uid": "blt44e2f6783e3ee9bb",
+                            "modular_blocks": [
+                                {
+                                    "video": {
+                                        "orientation": "landscape",
+                                        "poster": {
+                                            "uid": "bltebbe7172a4df5970",
+                                            "content_type": "image/jpeg",
+                                            "file_size": "352257",
+                                            "filename": "Everything_Goes_On_-_Thumbnail.jpg",
+                                            "url": "https://images.contentstack.io/v3/assets/bltf98232cd20baaf14/bltebbe7172a4df5970/62cc8f33429ac43379ca23e3/Everything_Goes_On_-_Thumbnail.jpg",
+                                            "title": "Everything_Goes_On_-_Thumbnail.jpg",
+                                            "dimension": {
+                                                "width": 1920,
+                                                "height": 1080
+                                            }
+                                        },
+                                        "youtube_url": "https://youtu.be/eEFVxI9lqjU",
+                                        "video_file": null
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        "pageContext": {
+            "language": "en-us",
+            "i18n": {
+                "language": "en-us",
+                "languages": [
+                    "ar-ae",
+                    "cs-cz",
+                    "de-de",
+                    "el-gr",
+                    "en-us",
+                    "es-es",
+                    "es-mx",
+                    "fr-fr",
+                    "hu-hu",
+                    "id-id",
+                    "it-it",
+                    "ja-jp",
+                    "ko-kr",
+                    "ms-my",
+                    "pl-pl",
+                    "pt-br",
+                    "ro-ro",
+                    "ru-ru",
+                    "th-th",
+                    "tr-tr",
+                    "vi-vn",
+                    "zh-tw"
+                ],
+                "defaultLanguage": "en-us",
+                "generateDefaultLanguagePage": true,
+                "routed": true,
+                "originalPath": "/timeline/",
+                "path": "en-us/timeline/"
+            }
+        }
+    },
+    "staticQueryHashes": [
+        "3485666118"
+    ]
+}
