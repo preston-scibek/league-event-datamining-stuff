@@ -297,23 +297,27 @@ def clean_up_scenes():
     with open('groups.json', 'r') as jfile:
         groups = json.load(jfile)
 
+    with open('speakers_reverse.json', 'r') as jfile:
+        speakers_named = json.load(jfile)
+
     for index, scene_list in enumerate(scenes):
         for indexx, scene in enumerate(scene_list):
             bg = scene['bg']
             if 'parsed' not in bg:
-                scenes[index][indexx]['bg'] = f"{asset_path}parsed-images/obf/bgs/{bg}.jpg"
+                scenes[index][indexx]['bg' + "URL"] = f"{asset_path}parsed-images/obf/bgs/{bg}.jpg"
             
             speakerIcon = scene.get('speakerIcon', None)
             if speakerIcon and 'parsed' not in speakerIcon:
-                scenes[index][indexx]['speakerIcon'] = f"{asset_path}parsed-images/obf/speaker-icons/{speakerIcon}.png"
+                scenes[index][indexx]['speakerIcon' + "URL"] = f"{asset_path}parsed-images/obf/speaker-icons/{speakerIcon}.png"
 
             bgPortraitR = scene.get('bgPortraitR', None)
             if bgPortraitR and 'parsed' not in bgPortraitR:
-                scenes[index][indexx]['bgPortraitR'] = f"{asset_path}parsed-images/obf/bg-portraits/{bgPortraitR}.png"
+                scenes[index][indexx]['bgPortraitR' + "URL"] = f"{asset_path}parsed-images/obf/bg-portraits/{bgPortraitR}.png"
+                scenes[index][indexx]['bgPortraitR' + "Label"] = speakers_named.get(bgPortraitR, None)
             
             bgPortraitL = scene.get('bgPortraitL', None)
             if bgPortraitL and 'parsed' not in bgPortraitL:
-                scenes[index][indexx]['bgPortraitL'] = f"{asset_path}parsed-images/obf/bg-portraits/{bgPortraitL}.png"
+                scenes[index][indexx]['bgPortraitL' + "URL"] = f"{asset_path}parsed-images/obf/bg-portraits/{bgPortraitL}.png"
 
             for i in range(1, 4):
                 # group fails for now , its a collection of the other portraits
@@ -321,14 +325,17 @@ def clean_up_scenes():
                 for portrait in portraits:
                     fgportrait = scene.get(portrait, None)
                     if fgportrait and 'parsed' not in fgportrait:
-                        scenes[index][indexx][portrait] = f"{asset_path}parsed-images/obf/fg-portraits/{fgportrait}.png"
+                        scenes[index][indexx][portrait + "URL"] = f"{asset_path}parsed-images/obf/fg-portraits/{fgportrait}.png"
+                        scenes[index][indexx][portrait + "Label"] = speakers_named.get(fgportrait, None)
                 for portrait in [f'fgPortraitR{i}Group', f"fgPortraitL{i}Group"]:
                     group = scene.get(portrait, None)
                     if group and isinstance(group, str):
                         image_list = []
                         for image_id in groups[group]:
                             image_list.append(f"{asset_path}parsed-images/obf/fg-portraits/{image_id}.png")
-                        scenes[index][indexx][portrait] = image_list
+                        scenes[index][indexx][portrait + "URLS"] = image_list
+            scenes[index][indexx] = {k : v for k, v in sorted(scenes[index][indexx].items(), key=lambda q: q[0])}
+            
     with open('scenes.json', 'w') as jfile:
         json.dump(scenes, jfile, indent=4, ensure_ascii=False)
 

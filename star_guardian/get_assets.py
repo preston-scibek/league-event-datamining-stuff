@@ -30,7 +30,14 @@ import concurrent.futures
 
 def request_get(url):
     print(f"downloading asset for {url}")
-    path = "assets_metagame/" + url.split("assets/")[1].split("?")[0]
+    with open('speakers_reverse.json', 'r') as jfile:
+        speakers_named = json.load(jfile)
+    id = url.rsplit(".", 1)[0].rsplit("/", 1)[1]
+    speaker_name = speakers_named.get(id, None)
+    if speaker_name:
+        path = f'assets_metagame/{speaker_name}/{url.split("assets/")[1].split("?")[0]}'
+    else:
+        path = "assets_metagame/" + url.split("assets/")[1].split("?")[0]
     dir_path = "/".join(path.split("/")[0:-1])
     r = requests.get(url, stream=True)
     if r.status_code == 200:
