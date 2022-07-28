@@ -80,5 +80,5 @@ if __name__ == "__main__":
 						while box['next_scene_id'] is not None and not box['next_scene_id'].isdigit():
 							box = scenes[box['next_scene_id']]
 							res += (f"\t{box['speaker']}: {box['dialogue']}\n")
-	with open('story_slim.txt', 'w+') as slimfile:
+	with open('scenes_slim.txt', 'w+') as slimfile:
 		slimfile.write(res)
