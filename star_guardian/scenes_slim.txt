@@ -1,4 +1,5 @@
-Tutorial Act None
+----------
+Tutorial
 ----------
 speaker_unknown: W-what is that?! That girl… Is she some kind of monster?!
 speaker_unknown: That’s… That’s the Twilight Star! She’s going to destroy the entire city! W-what do we do?!
@@ -38,6 +39,7 @@ speaker_kaisa: Right, I think I’ve got it.
 speaker_kaisa: What’s next? Can we move to combat training?
 speaker_ina: [You sure do like fighting! But first, let's talk about navigation. Being a strong fighter is useless if you can’t get to the battle in time!]
 speaker_ina: [Your star phone has a special interface, updated by yours truly. Let's take a look now.]
+----------
 Chapter 1 Act 1
 ----------
 speaker_unknown: [It’s just like before…]
@@ -141,6 +143,7 @@ speaker_akali: …No matter what, huh?
 speaker_kaisa: Yep!
 ----------
 speaker_kaisa: No matter what.
+----------
 Chapter 1 Act 2
 ----------
 speaker_unknown: Ah… Akali…
@@ -261,6 +264,7 @@ speaker_kaisa: …Akali, are you okay?
 speaker_akali: …I’m sorry, Kai… I think I need to go home…
 speaker_kaisa: Yeah.
 speaker_kaisa: Yeah, me too. I hope everyone’s okay.
+----------
 Chapter 1 Act 3
 ----------
 speaker_morgana: My, my. What a quaint little street.
@@ -363,6 +367,7 @@ speaker_sona: ...!
 speaker_chiizu: WHAT DID I SAY WRONG?! WAS IT BASK?! I HAVE A VERY LARGE VOCABULARY!
 speaker_taliyah: Heh. But, yeah… makes you wonder…
 speaker_taliyah: Who else might be watching us?
+----------
 Chapter 2 Act 1
 ----------
 speaker_kaisa: Tell me, what would you do?
@@ -488,6 +493,7 @@ speaker_akali: K… Kai? Kai’Sa?
 speaker_akali: Ekko?! Taliyah?! Sona?! …Anybody?!
 speaker_fiddlesticks: …YouuUu… WiLL…
 speaker_fiddlesticks: …FALL…
+----------
 Chapter 2 Act 2
 ----------
 speaker_kaisa: Kali! Hey! Stop walking so fast!
@@ -608,6 +614,7 @@ speaker_kaisa: ...
 speaker_kaisa: Star Guardians are meant to fall, huh…?
 ----------
 speaker_kaisa: Akali… No. I won’t let you.
+----------
 Chapter 2 Act 3
 ----------
 speaker_fiddlesticks: …Kai’Sa… Help me…
@@ -765,6 +772,7 @@ speaker_syndra: ...
 ----------
 speaker_syndra: The stars are finally out, guardians… Don’t worry, my old friend will treat you well.
 speaker_syndra: Train them to be strong, Nilah. They will need it for the trials to come.
+----------
 Chapter 3 Act 1
 ----------
 speaker_taliyah: Dialogue is not Available Yet
@@ -880,6 +888,7 @@ speaker_nilah: Dialogue is not Available Yet
 speaker_nilah: Dialogue is not Available Yet
 speaker_akali: Dialogue is not Available Yet
 speaker_akali: Dialogue is not Available Yet
+----------
 Chapter 3 Act 2
 ----------
 speaker_morgana: Dialogue is not Available Yet
@@ -968,6 +977,7 @@ speaker_morgana: Dialogue is not Available Yet
 speaker_akali: Dialogue is not Available Yet
 ----------
 speaker_akali: Dialogue is not Available Yet
+----------
 Chapter 3 Act 3
 ----------
 speaker_unknown: Dialogue is not Available Yet
@@ -1061,6 +1071,7 @@ speaker_morgana: Dialogue is not Available Yet
 speaker_morgana: Dialogue is not Available Yet
 speaker_akali: Dialogue is not Available Yet
 speaker_akali: Dialogue is not Available Yet
+----------
 Chapter 4 Act 1
 ----------
 speaker_morgana: Dialogue is not Available Yet
@@ -1152,6 +1163,7 @@ speaker_akali: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
+----------
 Chapter 4 Act 2
 ----------
 speaker_morgana: Dialogue is not Available Yet
@@ -1278,6 +1290,7 @@ speaker_nilah: Dialogue is not Available Yet
 speaker_akali: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
+----------
 Chapter 4 Act 3
 ----------
 speaker_morgana: Dialogue is not Available Yet
@@ -1518,6 +1531,7 @@ speaker_unknown: Dialogue is not Available Yet
 speaker_unknown: Dialogue is not Available Yet
 ----------
 speaker_unknown: Dialogue is not Available Yet
+----------
 Epilogue Act 1
 ----------
 speaker_narrator: Dialogue is not Available Yet
@@ -1566,6 +1580,7 @@ speaker_syndra: Dialogue is not Available Yet
 speaker_syndra: Dialogue is not Available Yet
 speaker_zoe: Dialogue is not Available Yet
 speaker_zoe: Dialogue is not Available Yet
+----------
 Epilogue Act 2
 ----------
 speaker_harp: Dialogue is not Available Yet
@@ -1624,6 +1639,7 @@ speaker_rell: Dialogue is not Available Yet
 speaker_rell: Dialogue is not Available Yet
 speaker_rakan: Dialogue is not Available Yet
 speaker_rell: Dialogue is not Available Yet
+----------
 Epilogue Act 3
 ----------
 speaker_narrator: Dialogue is not Available Yet
@@ -1679,7 +1695,8 @@ speaker_syndra: Dialogue is not Available Yet
 ----------
 speaker_nilah: Dialogue is not Available Yet
 speaker_syndra: Dialogue is not Available Yet
-akali Act 1
+----------
+Akali Act 1
 ----------
 speaker_akali: Mrph… gulp… urp… so good.
 speaker_kaisa: Slow down, Akali. Those noodles aren’t going anywhere.
@@ -1778,7 +1795,8 @@ speaker_noodle_bill: That just means she needs you to trust in her even more. So
 speaker_kaisa: Heh. Thanks, Noodle Bill.
 speaker_noodle_bill: …Ahem.
 speaker_kaisa: Oh… uh… Put it on our tab.
-akali Act 2
+----------
+Akali Act 2
 ----------
 speaker_kaisa: Akali?
 speaker_kaisa: Akali?
@@ -1880,7 +1898,8 @@ speaker_kaisa: No, wait, Kali!
 speaker_akali: Later, skater!
 speaker_kaisa: ...
 speaker_kaisa: Ugh!
-akali Act 3
+----------
+Akali Act 3
 ----------
 speaker_kaisa: [Akali hasn’t talked to me since that last time we hung out…]
 speaker_kaisa: [I… didn’t handle that conversation well. If only Lux…]
@@ -1984,7 +2003,8 @@ speaker_akali: Friends ‘til the end? Even if that end super turbo sucks?
 speaker_kaisa: You and me, Kali. Until the sucky, turbo end.
 ----------
 speaker_kaisa: …Pfft. Sky goblins.
-ekko Act 1
+----------
+Ekko Act 1
 ----------
 speaker_prof_ikari: Alright, there’s no way you’ll be able to compute this equation at such a speed.
 speaker_ekko: Try me.
@@ -2067,7 +2087,8 @@ speaker_strange_machine: Wooooooshh. Icka icka icka icka…
 speaker_kaisa: Wh-what is that?!
 speaker_ekko: Huh. You’re earlier than last time… captain.
 speaker_kaisa: [Oh, shoot.]
-ekko Act 2
+----------
+Ekko Act 2
 ----------
 speaker_ekko: Inventor’s Log: After a few setbacks, I’m prepared to proceed with ChronoDisplacer Test 91.
 speaker_ekko: Recalibrated the internal zeptometer for more accurate retrieval to the millisecond.
@@ -2149,7 +2170,8 @@ speaker_ekko: I’m doing this, Captain. Either you can help me, or you can leav
 speaker_ekko: I don’t care about when or where we’re “allowed” to use our powers, or how they’re supposed to be used, or whatever dumb rules you come up with. This is my choice.
 speaker_kaisa: Ekko, I’m only… Okay. I’ll do it. Let’s change the past.
 speaker_kaisa: How do we get this thing going?
-ekko Act 3
+----------
+Ekko Act 3
 ----------
 speaker_kaisa: [So, our first test didn’t work. The machine puttered out, generating some weird, blue gas.]
 speaker_kaisa: [Second test failed, too. And the third.]
@@ -2272,7 +2294,8 @@ speaker_kaisa: …Retrieving coordinates…
 speaker_ekko: Thanks, Kai’Sa.
 speaker_kaisa: Yeah, no problem. I just had to push a button.
 speaker_ekko: No. For everything.
-kaisa Act 1
+----------
+Kaisa Act 1
 ----------
 speaker_akali: You sure you’re okay with doing this, Kai?
 speaker_kaisa: It’s not like we have any other choice.
@@ -2378,7 +2401,8 @@ speaker_kaisa: ...
 speaker_chiizu: Are you mad?
 speaker_kaisa: …………
 speaker_chiizu: Because you look mad.
-kaisa Act 2
+----------
+Kaisa Act 2
 ----------
 speaker_kaisa: Umi?!
 speaker_ina: [Worried cheep.]
@@ -2479,7 +2503,8 @@ speaker_noodle_bill: Why not stay a while, Kai’Sa? I think you could use a bre
 speaker_kaisa: Ah… that aroma… The Targon Park bicentennial special tonkotsu… but they only make it once a year...!
 speaker_noodle_bill: I wrote that recipe, so really, it’s whenever I decide to make it. Gotta break the rules sometimes if you wanna live long! Wahaha!
 speaker_kaisa: …Okay, okay. We’ll stay.
-kaisa Act 3
+----------
+Kaisa Act 3
 ----------
 speaker_kaisa: Good morning, everybody!
 speaker_ina: [Surprised cheep.]
@@ -2562,7 +2587,8 @@ speaker_kaisa: …I’m sure it’ll end. One day. It has to.
 speaker_umi: [Hungry chirp.]
 speaker_kaisa: Haha! And good ramen is important, too. How could I forget?
 speaker_kaisa: Yeah… a nice, big meal… to share with a friend…
-nilah Act 1
+----------
+Nilah Act 1
 ----------
 speaker_unknown: Dialogue is not Available Yet
 speaker_unknown: Dialogue is not Available Yet
@@ -2651,7 +2677,8 @@ speaker_nilah: Dialogue is not Available Yet
 speaker_nilah: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
-nilah Act 2
+----------
+Nilah Act 2
 ----------
 speaker_nilah: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
@@ -2735,7 +2762,8 @@ speaker_nilah: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
 speaker_akali: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
-nilah Act 3
+----------
+Nilah Act 3
 ----------
 speaker_kaisa: Dialogue is not Available Yet
 speaker_quinn: Dialogue is not Available Yet
@@ -2832,7 +2860,8 @@ speaker_nilah: Dialogue is not Available Yet
 ----------
 speaker_nilah: Dialogue is not Available Yet
 speaker_nilah: Dialogue is not Available Yet
-quinn Act 1
+----------
+Quinn Act 1
 ----------
 speaker_prof_okamoto: Dialogue is not Available Yet
 speaker_prof_okamoto: Dialogue is not Available Yet
@@ -2935,7 +2964,8 @@ speaker_quinn: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
-quinn Act 2
+----------
+Quinn Act 2
 ----------
 speaker_kaisa: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
@@ -3037,7 +3067,8 @@ speaker_quinn: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
-quinn Act 3
+----------
+Quinn Act 3
 ----------
 speaker_akali: Dialogue is not Available Yet
 speaker_prof_okamoto: Dialogue is not Available Yet
@@ -3136,7 +3167,8 @@ speaker_kaisa: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
 speaker_quinn: Dialogue is not Available Yet
-rell Act 1
+----------
+Rell Act 1
 ----------
 speaker_student: Dialogue is not Available Yet
 speaker_student: Dialogue is not Available Yet
@@ -3228,7 +3260,8 @@ speaker_rell: Dialogue is not Available Yet
 speaker_rell: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
-rell Act 2
+----------
+Rell Act 2
 ----------
 speaker_quinn: Dialogue is not Available Yet
 speaker_quinn: Dialogue is not Available Yet
@@ -3313,7 +3346,8 @@ speaker_rell: Dialogue is not Available Yet
 speaker_rell: Dialogue is not Available Yet
 speaker_kaisa: Dialogue is not Available Yet
 speaker_rell: Dialogue is not Available Yet
-rell Act 3
+----------
+Rell Act 3
 ----------
 speaker_student: Dialogue is not Available Yet
 speaker_student: Dialogue is not Available Yet
@@ -3409,7 +3443,8 @@ speaker_kaisa: Dialogue is not Available Yet
 speaker_rell: Dialogue is not Available Yet
 ----------
 speaker_rell: Dialogue is not Available Yet
-sona Act 1
+----------
+Sona Act 1
 ----------
 speaker_school_bell: [RING RONG RING RONG. DING DONG DING DONG.]
 speaker_akali: Kai’Sa, is she here?
@@ -3500,7 +3535,8 @@ speaker_chiizu: RUN AWAY! SHE’S BRIMMING WITH RAGE!
 speaker_student: Eek!
 speaker_another_student: Professor, one of the lab rats escaped!
 speaker_a_third_student: Sona was chasing it through the hall! And I think it was wearing… glasses?!
-sona Act 2
+----------
+Sona Act 2
 ----------
 speaker_kaisa: [It’s sooooo early.]
 speaker_kaisa: [Why would Sona possibly want to meet at the mall now?]
@@ -3606,7 +3642,8 @@ speaker_kaisa: Sorry, Sona. I… don’t understand.
 speaker_sona: ...
 speaker_kaisa: Sona, wait!
 speaker_kaisa: We… never got your books.
-sona Act 3
+----------
+Sona Act 3
 ----------
 speaker_kaisa: [Okay, so my last attempt to help Sona didn’t go so hot.]
 speaker_kaisa: [But now… I’ve got a new plan of attack.]
@@ -3705,7 +3742,8 @@ speaker_sona: [“I’d love that.”]
 speaker_chiizu: Ooh! I’ll get my wood block!
 speaker_chiizu: Don’t start the lesson without me! The great wood block musician and interpreter extraordinaire, Chiizu! Squeak!
 speaker_sona: [Sona signs a laugh.]
-taliyah Act 1
+----------
+Taliyah Act 1
 ----------
 speaker_kaisa: Taliyah?
 speaker_kaisa: Taliyah? Did anyone see where Taliyah went?
@@ -3763,7 +3801,8 @@ speaker_kaisa: Isn’t what I… expected…
 speaker_taliyah: …Hmm? Is there something on my face?
 ----------
 speaker_taliyah: Hang on… Okay, did I wipe it off? Captain? Did I get it?
-taliyah Act 2
+----------
+Taliyah Act 2
 ----------
 speaker_kaisa: You think you can take me down?! Not today, First Year!
 ----------
@@ -3839,7 +3878,8 @@ speaker_kaisa: Of course, Tali! You’re my—
 speaker_kaisa: Ow, ow, ow, my back. My sides. My legs. My head. Ow, ow, ow, ow, ow…
 speaker_taliyah: Argh! I’m really, really sorry! I never should have made you ride the pain train!
 speaker_kaisa: Café Cuties Bard… take me away…
-taliyah Act 3
+----------
+Taliyah Act 3
 ----------
 speaker_taliyah: Uh… I dunno about this one…
 speaker_kaisa: I think it looks nice.

@@ -54,7 +54,7 @@ if __name__ == "__main__":
 	res = ""
 	for chapter_name, acts in new_scenes.items():
 		for act_name, scenes in acts.items():
-			res += (f"\n{chapter_name} {act_name}\n")
+			res += (f"{'-'*10}\n{chapter_name.title()} {act_name if 'None' not in act_name else ''}").strip() + "\n"
 			prior = None
 			prior_bg = None
 			for scene_id, lines in scenes.items():
