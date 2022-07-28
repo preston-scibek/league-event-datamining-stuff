@@ -39,22 +39,13 @@ def slim_scenes_2(scenes):
 		for act_key, act_value in chapter_value.items():
 			res[chapter_key][act_key] = {k : v for k, v in sorted(act_value.items(), key=lambda q: int(q[0]) if q[0].isdigit() else int(q[0].split("_")[0][0:-1]))}
 		res[chapter_key] = {k : v for k, v in sorted(chapter_value.items(), key=lambda q: q[0].split(" ")[1] if len(q[0].split(" ")) > 1 else q[0])}
-	res = {k : v for k, v in sorted(res.items(), key=lambda q: f"ZZZ{q[0]}" if ('Chapter' not in q[0] and 'Epi' not in q[0] and "Tut" not in q[0]) else f"BBB{q[0]}" if "Tut" not in q[0] else f"AAA{q[0]}")}
-	return res
-
-if __name__ == "__main__":
-	with open('scenes.json', 'r') as jfile:
-		scenes = json.load(jfile)
-
-	new_scenes = slim_scenes_2(scenes)
-
-	with open('scenes_slim.json', 'w', encoding="utf-8") as jfile:
-		json.dump(new_scenes, jfile, indent=4, ensure_ascii=False)
-
-	res = ""
-	for chapter_name, acts in new_scenes.items():
+	res_dict = {k : v for k, v in sorted(res.items(), key=lambda q: f"ZZZ{q[0]}" if ('Chapter' not in q[0] and 'Epi' not in q[0] and "Tut" not in q[0]) else f"BBB{q[0]}" if "Tut" not in q[0] else f"AAA{q[0]}")}
+	
+	
+	res_text = ""
+	for chapter_name, acts in res_dict.items():
 		for act_name, scenes in acts.items():
-			res += (f"{'-'*10}\n{chapter_name.title()} {act_name if 'None' not in act_name else ''}").strip() + "\n"
+			res_text += (f"{'-'*10}\n{chapter_name.title()} {act_name if 'None' not in act_name else ''}").strip() + "\n"
 			prior = None
 			prior_bg = None
 			for scene_id, lines in scenes.items():
@@ -63,22 +54,34 @@ if __name__ == "__main__":
 				if prior is not None:
 					assert(scene_id == prior)
 				if prior_bg != lines['bg_url']:
-					res += f"{'-'*10}\n"
+					res_text += f"{'-'*10}\n"
 				prior = lines['next_scene_id']
 				prior_bg = lines['bg_url']
 
-				res += (f"{lines['speaker']}: {lines['dialogue']}\n")
+				res_text += (f"{lines['speaker']}: {lines['dialogue']}\n")
 
 				if len(lines.get('response')) > 0:
 					i = 1
 					for index, response in enumerate(lines.get('response')):
-						res += (f"\t[Option {index + 1}] {response.get('dialogue', 'unknown')}\n")
+						res_text += (f"\t[Option {index + 1}] {response.get('dialogue', 'unknown')}\n")
 						i += 1
 						box = response
 						# follow the option until we break outta the tree
 						box['next_scene_id'] = box['nextSceneId']
 						while box['next_scene_id'] is not None and not box['next_scene_id'].isdigit():
 							box = scenes[box['next_scene_id']]
-							res += (f"\t{box['speaker']}: {box['dialogue']}\n")
+							res_text += (f"\t{box['speaker']}: {box['dialogue']}\n")
+
+	return res_dict, res_text
+
+if __name__ == "__main__":
+	with open('scenes.json', 'r') as jfile:
+		scenes = json.load(jfile)
+
+	new_scenes, res = slim_scenes_2(scenes)
+
+	with open('scenes_slim.json', 'w', encoding="utf-8") as jfile:
+		json.dump(new_scenes, jfile, indent=4, ensure_ascii=False)
+
 	with open('scenes_slim.txt', 'w+') as slimfile:
 		slimfile.write(res)

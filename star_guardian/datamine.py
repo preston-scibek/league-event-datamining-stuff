@@ -345,6 +345,7 @@ if __name__ == "__main__":
     parser.add_argument('-s', "--search", type=str, help='Search a key and see if we can we link it to al ine')
     parser.add_argument('-g', "--get_lines", type=bool, help='Pull down the latest set of lines')
     parser.add_argument("-S", "--clean_up_scenes", type=bool, help="Clean up scenes with various fixes")
+    parser.add_argument("-L", "--slim_scenes", type=bool, help="Slim the scenes to a single text reading")
 
     args = parser.parse_args()
     if args.get_lines:
@@ -355,6 +356,18 @@ if __name__ == "__main__":
         print(dehash(search_str, lines=loaded_lines))
     elif args.clean_up_scenes:
         clean_up_scenes()
+    elif args.slim_scenes:
+        from slim_scenes import slim_scenes_2
+        with open('scenes.json', 'r') as jfile:
+            scenes = json.load(jfile)
+
+        new_scenes, res = slim_scenes_2(scenes)
+
+        with open('scenes_slim.json', 'w', encoding="utf-8") as jfile:
+            json.dump(new_scenes, jfile, indent=4, ensure_ascii=False)
+
+        with open('scenes_slim.txt', 'w+') as slimfile:
+            slimfile.write(res)
     else:
         r = do_shit()
 

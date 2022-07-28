@@ -775,302 +775,302 @@ speaker_syndra: Train them to be strong, Nilah. They will need it for the trials
 ----------
 Chapter 3 Act 1
 ----------
-speaker_taliyah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_sona: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_sona: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_sona: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_ekko: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_ekko: Dialogue is not Available Yet
-	speaker_ekko: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_sona: Dialogue is not Available Yet
-	speaker_ekko: Dialogue is not Available Yet
-	speaker_sona: Dialogue is not Available Yet
-	speaker_ekko: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_taliyah: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_taliyah: Dialogue is not Available Yet
-	speaker_taliyah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
+speaker_taliyah: So… should we be talking about the shooting star?
+speaker_kaisa: We’ve talked about the shooting star. At length.
+speaker_taliyah: Okay, but counterpoint: I want to talk about it more.
+speaker_ekko: I agree with Tal. That thing looked a lot like a Star Guardian entering orbit.
+speaker_sona: [“I’ve never seen colors like that. Is it someone new?”]
+speaker_ekko: Sona’s asking if it’s a new guardian.
+speaker_sona: [“Thanks, Chiizu II.”]
+speaker_ekko: Hey, don’t compare me to that talking rat!
+speaker_kaisa: Honestly… I’m not sure what it was. Normally, Ina would be able to pinpoint the impact site, but with everything going on lately…
+speaker_kaisa: …Hmph. If we could just find a way to break past Morgana’s aura… As it stands, I can barely sense where any of you are.
+speaker_sona: [“Good luck with that.”]
+speaker_ekko: She’s everywhere, ’Kai. With Fiddlesticks gone, it’s like her power is enveloping the whole city. Seems like everyone’s on edge…
+speaker_taliyah: Yeah. And now we’re on meet-and-greet duty for the transfer students when we should be finding a way to stop her.
+speaker_kaisa: I know it’s not ideal, but we beat one monster. We can beat another… We just have to work together.
+speaker_ekko: …Together, huh? Where’s Akali?
+speaker_kaisa: Ah… that…
+	[Option 1] She’s doing okay. Just recovering from the battle.
+	speaker_ekko: Hmm. If you say so.
+	speaker_kaisa: Fiddlesticks’ powers took a big toll on her. She’s been resting since that night.
+	speaker_ekko: I dunno, Captain. Things seem… different. She’s barely talked to any of us.
+	speaker_ekko: Might want to reach out when you get the chance.
+	[Option 2] We’re not doing great. Things have been… tense.
+	speaker_sona: [“Give her a little space. She might come around.”]
+	speaker_ekko: Sona says…
+	speaker_sona: [“It’s not cute when Chiizu does it, and it’s not cute now.”]
+	speaker_ekko: Yeesh, alright! The captain’s sign language isn’t perfect yet, but I get it.
+	[Option 3] Probably eating her body weight in noodles somewhere.
+	speaker_taliyah: That sounds perfectly reasonable… but she hasn’t been at Noodle Bill’s in a few days. I asked.
+	speaker_kaisa: Hrm… That’s concerning.
+	speaker_taliyah: I-I don’t know what to do. She’s not answering her texts… and she’s really gloomy in class…
+	speaker_taliyah: I’m getting a little worried…
+speaker_kaisa: Strange… I know things have been tough, but with the hallucinations gone, I figured she’d snap out of her spiral.
+speaker_kaisa: We’ll have to—
+speaker_unknown: KNOCK IT OFF, JERKS!
+speaker_unknown: Rell, maybe don’t pick any fights on our first day…
 ----------
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
+speaker_rell: C’mon, Q. They were messin’ with us first!
+speaker_quinn: We don’t want to draw more attention to ourselves.
+speaker_rell: Look I’m not gonna let them target my best friend and get away with it. I don’t care who sees.
 ----------
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_quinn: Ugh, this is Kiiso Middle School all over again…
+speaker_kaisa: Hello, Kiiso High transfers! My name is Kai’Sa, and…
+speaker_rell: Are you gonna bully us too?
+speaker_quinn: Don’t be like that, Rell… We should hear what they have to say.
+speaker_rell: Alright, but I’ll keep my eyes peeled for a sneak attack.
+speaker_quinn: I have a good feeling about these two. Promise.
+speaker_rell: Fine. I trust you.
+speaker_quinn: Hello, everyone. I’m Quinn, and this is Rell. We’re the Kiiso High transfer students.
+speaker_quinn: You must be the Valoran City Star Guardians.
+speaker_kaisa: W-what?!
+speaker_taliyah: O-oh, that’s not true! We’d never be… those guys...!
+speaker_rell: Relax. We’re Star Guardians too.
+speaker_quinn: I’ve been at it for about a year now, specializing in scouting and reconnaissance. Rell is new.
+speaker_rell: I’m armored cavalry… so put me right in the middle of the action!
+speaker_kaisa: !!!
+speaker_kaisa: Quinn, Rell, welcome to Valoran City… and welcome to the squad, I guess!
+speaker_kaisa: This is Taliyah, Sona, and Ekko. I’m Kai’Sa… and I guess you’ll have to meet Akali later.
+speaker_kaisa: Once we get better acquainted, you should know what’s going on here.
 ----------
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_morgana: Dialogue is not Available Yet
-	speaker_morgana: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_morgana: Dialogue is not Available Yet
-	speaker_morgana: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_morgana: Dialogue is not Available Yet
-	speaker_morgana: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
+speaker_kaisa: …We’ve been having a bit of a monster problem.
+speaker_akali: …I don’t understand. Why haven’t my visions stopped?
+speaker_akali: Everyone else is fine now… so why not me? I was there! I helped kill that stupid thing!
+speaker_akali: It’s not fair! None of this makes any sense!
+speaker_akali: Why is this happening to me? Why did I ever agree to be a Star Guardian?!
+speaker_unknown: Well, well, my dear…
+speaker_morgana: Now you’re asking the right questions.
+speaker_akali: You...!
+speaker_akali: You won’t catch me off guard this time, witch.
+speaker_morgana: In the middle of the day, no less! Little guardian, I am so very impressed with you. You’ve come a long, long way since that awful beast was stalking you.
+speaker_akali: Not long enough. I’m betting that if I kill you, my nightmares will finally stop.
+speaker_morgana: Ah, if only that were the case… but alas, I’m not responsible for those.
+speaker_morgana: I’m not here to fight you, child. I’m here to offer… some guidance.
+speaker_akali: Guidance? From you? Yeah, I don’t think so.
+speaker_morgana: …A shame about poor Harp, wasn’t it? What a shocking twist! The monster Fiddlesticks was a Star Guardian the entire time.
+speaker_morgana: I wonder… What pushed her over the edge? Was it loss? Anger? Hatred?
+speaker_morgana: …Or did it come to her in dreams?
+	[Option 1] Say another word and you’re a dead woman. If that’s what you even are.
+	speaker_morgana: Hmhmhm! Brave words, little guardian.
+	speaker_morgana: I doubt you can handle me… but let’s test the waters a bit, shall we?
+	[Option 2] That sounded like a threat. I don’t like threats.
+	speaker_morgana: Hmhmhm! Brave words, little guardian.
+	speaker_morgana: I doubt you can handle me… but let’s test the waters a bit, shall we?
+	[Option 3] I’m not afraid of you. You’re on a teacher’s salary.
+	speaker_morgana: Ugh, the state of the Valoran City education system… It almost makes an interstellar threat such as myself weep for the future.
+	speaker_morgana: I should process those feelings.
+speaker_akali: ...!
+speaker_morgana: There it is… that old, familiar darkness...!
+speaker_akali: Ungh! Wh… what is this?! I’m… I’m...!
+speaker_morgana: You’re very special, Akali. And very lucky.
+speaker_morgana: A multitude of Star Guardians have fallen through the ages… and I’ve helped so many along the way. But you… You have a certain… knack for it.
+speaker_morgana: An excruciating enmity with your friends? Recurring night terrors? An overwhelming fear of death?! Oh, Akali! You’re perfect!
+speaker_akali: Hnnng!
+speaker_akali: Kai… why did you… let me fall...?
+speaker_akali: You… You should all… fall… with me…
+speaker_morgana: Yes! Give in, Akali! Give in to the darkness of your soul! Give in… and destroy the Star Guardians!
+speaker_unknown: I have you now, monster!
+speaker_morgana: Nilah!
+speaker_nilah: [Mumbling.]
+speaker_akali: Wh… what happened?! What did she do to me?!
+speaker_nilah: You couldn’t escape me forever, Morgana. Stand against me… and find your bliss in battle.
+speaker_morgana: […Ngh! I can’t face an Outer Guardian here! Not when I’m so close...!]
+speaker_morgana: Well… it appears you got lucky, girl.
+speaker_morgana: The legendary Nilah coming to this worthless blue dot… hmhmhm. That didn’t factor into my plans.
+speaker_morgana: We’ll have to put our duel on hold for now, Outer Guardian. Until then, Akali… I’ll be watching you.
+speaker_nilah: Ha! And just like that, she’s gone.
+speaker_akali: …Ugh. Aren’t you gonna follow her?
+speaker_nilah: …No. I’m bound to protect you and your friends. Facing Morgana is… tempting… but it is not what I promised.
+speaker_akali: What? But we’ve never even met you…
+speaker_nilah: I’ll explain later. Come. I should return you to the rest of your team.
+speaker_nilah: Heh… team. I haven’t been part of a squad in a long, long time.
+speaker_nilah: Are they good friends of yours? Capable?
+speaker_akali: ...
+speaker_akali: I’m not so sure anymore…
 ----------
 Chapter 3 Act 2
 ----------
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
+speaker_morgana: …I hope your weekend was exciting, everyone.
+speaker_morgana: I’m sure it went better for some of you than others.
+speaker_akali: ...
 ----------
-speaker_morgana: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_morgana: Dialogue is not Available Yet
-	speaker_morgana: Dialogue is not Available Yet
-	speaker_morgana: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_morgana: Dialogue is not Available Yet
-	speaker_morgana: Dialogue is not Available Yet
-	speaker_morgana: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_morgana: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
+speaker_morgana: Maybe even just one of you. Not naming names… Akali.
+speaker_kaisa: Don't listen to her, Kali. She’s just mad that her plan got disrupted.
+speaker_morgana: My lesson plan, that is. And when I find out who did it, there will be consequences.
+speaker_morgana: …Ahem. Academic consequences, of course.
+	[Option 1] Oh yeah? Like what?
+	speaker_morgana: A housecall, perhaps. It’s tragic, but delinquency can often be traced back to a student’s home life.
+	speaker_morgana: It’s important that I bring any issues to the family’s attention… and, of course, take steps to correct them with each relative I come across.
+	speaker_morgana: Permanently, in most cases.
+	[Option 2] Where’d you say you got your teaching credentials again?
+	speaker_morgana: You doubt my credentials? I’ll have you know I’ve been doing this a long, long time.
+	speaker_morgana: Longer than most of you have been alive. Longer than your minds can possibly comprehend.
+	speaker_morgana: So your little school pranks won’t work. I’ve seen it all… children.
+	[Option 3] Hey, Nilah. What do you think about that?
+	speaker_nilah: I could do without the vague threats.
+	speaker_morgana: Ah, the new third-year transfer student. Your little intervention won’t work a second time, I’m afraid.
+	speaker_nilah: She’s right, Kai’Sa. I won’t be able to catch her off guard again. And she’s far too strong to attack directly, even for me.
+	speaker_morgana: Sorry to say, but I hold all the cards this time.
+speaker_morgana: So remember, class… I’ll be watching you. Waiting.
+speaker_morgana: And just when you think you’ve lost… when you think you’re on the verge of defeat… when you feel like you can’t bear any more…
+speaker_akali: ...
+speaker_morgana: I’ll spring my trap. And then the true suffering will begin.
+speaker_kaisa: Why isn’t the class reacting?! It’s like they can’t hear what she’s saying!
+speaker_akali: Her aura is too strong… They’re trapped in an illusion.
+speaker_kaisa: No way! Is the entire city like this?!
+speaker_morgana: In time, my dear. In time.
+speaker_morgana: Now, who’s ready for a pop quiz?
 ----------
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_akali: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_akali: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_akali: Dialogue is not Available Yet
-	speaker_akali: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_akali: Dialogue is not Available Yet
-	speaker_akali: Dialogue is not Available Yet
-	speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
+speaker_kaisa: Kali, try not to let Morgana get to you. We’ll find a way to stop her.
+speaker_akali: Kai...
+speaker_kaisa: With Quinn and Rell joining us… not to mention Nilah… we’ve got enough heavy hitters on our team to take her down. You don’t have to be afraid.
+speaker_akali: I just… wish I could believe you.
+speaker_kaisa: Akali!
+speaker_akali: It’s not going to end with Morgana. After she’s gone, then who are we fighting? Syndra? Zoe?
+speaker_akali: They said they’d come back. What happens when they do?
+speaker_kaisa: Then we’ll fight them, and we’ll win.
+speaker_akali: Will we? What if it’s something even stronger than they are? Are we supposed to keep throwing ourselves at monsters until we die?
+speaker_kaisa: I… I don’t know. We just have to keep fighting… and hope one day that we’ll be safe.
+speaker_akali: ...
+speaker_akali: They call this tree “the wishing tree.” Apparently, if you wish for something hard enough, it will grant your deepest desire…
+speaker_akali: I’ve been thinking a lot, Kai. I keep having these dreams… dreams where I die, or worse… where I turn into a monster…
+speaker_akali: I… I wish I had never joined the Star Guardians…
+speaker_kaisa: Y-you don’t mean that!
+speaker_akali: Why? Is thinking that so wrong?
+	[Option 1] The guardians need you, Akali. I need you.
+	speaker_akali: You have a funny way of showing it.
+	speaker_kaisa: I know I can be a little serious at times… but please… don’t say things like that…
+	speaker_akali: I feel how I feel, Kai. That isn’t going to change.
+	[Option 2] We’re in this together. Best friends forever, remember?
+	speaker_akali: Ha. Best friends...?
+	speaker_akali: Once, maybe… but you care way more about being a Star Guardian than whatever we used to be.
+	speaker_kaisa: Is… that how you really feel?
+	[Option 3] I never think, and it’s been working out for me.
+	speaker_akali: Heh.
+	speaker_akali: I like it when you joke with me. Almost fools me into believing we’ll be okay.
+	speaker_akali: But I know… I know that I won’t… no matter what you do…
+speaker_kaisa: Kali…
+speaker_kaisa: How about this: we spend some time together, just you and me? Hit all the spots around town, just like we used to.
+speaker_akali: Just like we used to, huh...?
+speaker_kaisa: Come on… please...?
+speaker_akali: ...
+speaker_akali: Alright. Yeah, we can do that.
+speaker_kaisa: Really?!
+speaker_akali: I’m totally serious. No Star Guardian talk though. I don’t want to hear about fighting monsters or saving the world.
+speaker_kaisa: It’ll be hard for me, but it’s a deal.
+speaker_akali: And just you and me, okay? I want this to be a day for us.
+speaker_akali: I love everybody… You know I do. But since school started, we’ve barely been able to get some alone time.
+speaker_akali: You were my best friend, Kai… I just want to get back to that…
+speaker_kaisa: I promise we will, Kali. I promise.
+speaker_kaisa: Text me tomorrow, and I’ll meet you bright and early, alright? No excuses!
+speaker_kaisa: While I personally think it’s disgusting, I know how much you like Noodle Bill’s Breakfast Ramen.
+speaker_akali: It comes with unlimited seasoned eggs! You cannot beat that deal!
+speaker_kaisa: …I’m really glad we’re doing this, Akali. Really.
+speaker_akali: Yeah…
+speaker_akali: …me, too.
+speaker_morgana: How emotional of you. Friendship! Love! Working things out!
+speaker_morgana: It’s enough to make me vomit.
+speaker_akali: I just… couldn’t leave things the way they were.
+speaker_morgana: Of course not, my dear. You humans have always been so sentimental.
+speaker_morgana: So… are you ready? Once you begin the change, there’s no turning back.
+speaker_akali: ...
 ----------
-speaker_akali: Dialogue is not Available Yet
+speaker_akali: I’m ready. Let’s do this.
 ----------
 Chapter 3 Act 3
 ----------
-speaker_unknown: Dialogue is not Available Yet
+speaker_unknown: Gyoooohhhhhnnnn…!
 ----------
-speaker_unknown: Dialogue is not Available Yet
-speaker_man: Dialogue is not Available Yet
-speaker_woman: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_man: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_dark_herald: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
+speaker_unknown: Gyoooohhhhhhhnnnn!
+speaker_man: Another one!? Wh-what’s going on?!
+speaker_woman: That thing is gigantic! It’s way bigger than the monsters from before!
+speaker_unknown: Gyooooohhnnnnnn!
+speaker_man: R-run!! Run for your lives!
+speaker_morgana: See? Look at that. The darkness isn’t so bad.
+speaker_morgana: I think it’s rather beautiful… and the operatic singing voice was a nice touch. Don’t you agree, Herald?
+speaker_dark_herald: Gyooooohhnnnnnn!
+speaker_akali: Whatever. I don’t care if you kill anyone, I just don’t want to see them die.
+speaker_morgana: No? Well, you’ll develop a taste for it eventually. This promises to be quite the show.
+speaker_morgana: Do your best, Herald. I await as much death and destruction as you’re able to handle.
+speaker_akali: ...
+speaker_akali: Be safe, Kai… Just hold on a little longer…
 ----------
-speaker_dark_herald: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_sona: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_sona: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_dark_herald: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_ekko: Dialogue is not Available Yet
-	speaker_sona: Dialogue is not Available Yet
-	speaker_taliyah: Dialogue is not Available Yet
-	speaker_ekko: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_ekko: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_ekko: Dialogue is not Available Yet
-	speaker_sona: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_dark_herald: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_dark_herald: Dialogue is not Available Yet
+speaker_dark_herald: Gyoooooohhhnnnnn!
+speaker_ekko: Okay, now we’re fighting evil space kaiju? What is going on, Kai?!
+speaker_sona: [“If we don’t stop it soon, that creature will reach downtown! All those people...!”]
+speaker_kaisa: I’m trying to think of something… It’s so big… If only we had someone who loves fighting giant monsters…
+speaker_nilah: Aha! A Dark Herald! I haven’t seen one of these in a hundred years!
+speaker_nilah: Worthy enemy, face me in storied battle! Find your joy in the heart of combat, and our legend will dance through time immemorial!
+speaker_ekko: Okay, I like her a lot.
+speaker_sona: [“She’s fun and strong! Feels like she’d fit right in!”]
+speaker_nilah: Kai’Sa. Do you have a plan? As my acting captain, I defer to you.
+speaker_kaisa: Me?! Aren’t you an Outer Guardian?
+speaker_nilah: I am. But I’m supposed to be teaching you, not doing your job.
+speaker_nilah: If I slay this beast for you, what will you learn? Morgana is far more powerful and represents a much greater threat.
+speaker_nilah: The deaths of any inexperienced guardians will be firmly on my hands. It would take me twenty… thirty… maybe fifty years to get over the guilt.
+speaker_kaisa: I’m so glad you care.
+speaker_nilah: You are welcome!
+speaker_ekko: Hi? Everyone? Giant monster?!
+speaker_dark_herald: GYOOOOHHHHHHNNNN!
+speaker_kaisa: Hmm. It’s almost here.
+	[Option 1] Ekko, take Sona and Tali. Sweep the streets of any smaller creatures.
+	speaker_ekko: Got it, Captain. Can we pick a cool team name?
+	speaker_sona: [“Later! More of those little monsters are swarming all around the giant one!”]
+	speaker_taliyah: I love fighting those little guys. Put me in, Coach! Chu chu!
+	speaker_ekko: Right, right, next time! Sona. Tali. Let’s roll.
+	speaker_kaisa: Good luck, you three.
+	[Option 2] Nilah, you’re with me. Rell and Quinn are backing us up.
+	speaker_nilah: By your word, Captain.
+	speaker_ekko: Oh! Oh, no! Is that your game face?!
+	speaker_nilah: What? I’m trying something new. Go fight those smaller monsters, and I’ll practice my “game face” later.
+	speaker_kaisa: Good luck.
+	[Option 3] …Has anyone seen Akali?!
+	speaker_nilah: Curious. I do not feel her presence anywhere.
+	speaker_ekko: I have a really bad feeling about this, Captain…
+	speaker_sona: [“We can figure it out later! Right now, there are people to save!”]
+	speaker_kaisa: Right. Good luck.
+speaker_taliyah: H-hey! Ekko, Sona, wait up! I wanna punch some stuff, too!
+speaker_quinn: You’ve been spending way too much time with Taliyah.
+speaker_rell: So now team bonding is a bad thing?
+speaker_rell: I thought I was making good progress, thank you very much!
+speaker_kaisa: Thanks for coming, you two. The more guardians we have on our side, the more people we can save.
+speaker_rell: And we’d better save ‘em fast. Look at the size of that thing! Sebastien and I are ready to charge that monster like Don Quixote.
+speaker_nilah: Ah, a fellow enjoyer of the classics!
+speaker_rell: Mecha Don Quixote uses a lance of meteor metal stolen from the Zalbaxian Empire...!
+speaker_quinn: Oh my God.
+speaker_kaisa: Focus up, team. This is the biggest monster we’ve ever faced, and the safety of the city is in our hands.
+speaker_kaisa: Nilah, can you cut us a path through the Herald’s attacks? If we can reach that lady on its head, we can win this, but those claws are massive, and there are a lot of them.
+speaker_nilah: Without question. They will sing of my skill for all of time.
+speaker_kaisa: Glad to hear it.
+speaker_kaisa: Rell… when we’re through, charge into the Herald’s center of mass. Hit it as hard as you can, as many times as you can.
+speaker_rell: Now we’re talkin’! GYOOOHHHHN!
+speaker_kaisa: Oh, that’s… erm… okay. Happy about the enthusiasm.
+speaker_rell: Uh… this isn’t your favorite part of the job?
+speaker_quinn: Charging in headfirst isn’t everyone’s style, y’know…
+speaker_rell: It’s only the BEST one!
+speaker_kaisa: Quinn, you and Valor stick to me. Once Rell stuns the Herald, you and I are going in for the kill.
+speaker_quinn: Our eyes are yours, Captain.
+speaker_kaisa: Get ready, team. It’s just us this time… so let's prove those other victories weren’t flukes!
+speaker_nilah: There were other victories?
+speaker_quinn: I don’t think we were here for those.
+speaker_kaisa: Just fight!
+speaker_dark_herald: GYOOOOOOHHNNNNNNN!
+speaker_nilah: Seize the bliss in your heart, and face me!
+speaker_rell: Now it’s my turn, loser. Bad luck!
+speaker_quinn: The head is exposed! Valor, to me!
+speaker_kaisa: I don’t know where you came from, but this is our city! The Star Guardians will never back down!
+speaker_dark_herald: Gyoooooooohnnnnn…!
 ----------
-speaker_dark_herald: Dialogue is not Available Yet
+speaker_dark_herald: [CRASH!]
 ----------
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
+speaker_morgana: Hmph. Your stupid little friends are stronger than I anticipated.
+speaker_morgana: It doesn’t matter. The darkness unleashed by the Herald is more than enough…
+speaker_morgana: Yes… Such power… This is what it must have felt like when Zoe became the Twilight Star!
+speaker_morgana: Mhmhmhahaha! Justice will die! Entropy will reign forever! And you, girl… You… will bear witness to the birth of a dark new age...!
+speaker_morgana: And age without light, without darkness… and without Star Guardians!
+speaker_akali: ...
+speaker_akali: Heh. I can’t wait.
 ----------
 Chapter 4 Act 1
 ----------
@@ -2590,859 +2590,859 @@ speaker_kaisa: Yeah… a nice, big meal… to share with a friend…
 ----------
 Nilah Act 1
 ----------
-speaker_unknown: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
+speaker_unknown: And you’re sure he’s here? Valoran City?
+speaker_unknown: Positive. We’d recognize that smiling moron anywhere.
 ----------
-speaker_nilah: Dialogue is not Available Yet
-speaker_ahri: Dialogue is not Available Yet
-speaker_miss_fortune: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_miss_fortune: Dialogue is not Available Yet
+speaker_nilah: Luxanna Crownguard didn’t say anything about a chaos-tainted Star Guardian. I should track him down and destroy him before he causes any further damage.
+speaker_ahri: Belay that. We’re handling it.
+speaker_miss_fortune: And if I recall correctly, you made a promise to train these powder monkeys into real fighters. I thought the Outer Guardians didn’t break promises.
+speaker_nilah: …We do not.
+speaker_nilah: But know that if you fail, I will find and slay Rakan. And there is no force in this universe that will stop me.
+speaker_miss_fortune: Nilah, if we fail…
 ----------
-speaker_miss_fortune: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_dahlia: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_dahlia: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_miss_fortune: …he’ll come looking for those kids next.
+speaker_nilah: [Mumbling.]
+speaker_kaisa: Um… Nilah...?
+speaker_nilah: Hmm? Yes, Captain Kai’Sa of the Star Guardians?
+speaker_kaisa: Oh! How extremely formal!
+speaker_nilah: There’s power in a true name, Captain Kai’Sa of the Star Guardians. You would do well to remember that.
+speaker_kaisa: I… uh… I will do that! I will remember this lesson!
+speaker_nilah: Ha!
+speaker_nilah: Let your hair down a little, Kai’Sa. I’m teasing you.
+speaker_kaisa: Haha! I knew that! I totally understood that!
+speaker_kaisa: [Idiot! Your first talk with a real guardian, and you’re blowing it!]
+speaker_kaisa: So… what are you doing? I thought we could get to know each other… you know, if that’s alright with you…
+speaker_nilah: ...
+speaker_kaisa: Maybe you could… show me the ropes? Teach me some Star Guardian wisdom or something?
+speaker_nilah: “Wisdom?” I’m a warrior, Kai’Sa. I can teach you how to fight, and how to survive.
+speaker_nilah: But if you insist… I’ll share what I know. I warn you, I may not have your answers. Few Guardians live as long as I have. Of those who have, none recorded their learnings.
+speaker_kaisa: Ulp! W-wait, I didn’t prepare…
+speaker_nilah: Ask me any question you wish. This first one is a courtesy. The rest you’ll have to earn. Preferably through combat.
+speaker_kaisa: Oh, okay! Uh, let’s see…
+	[Option 1] What can you tell me about the oath?
+	speaker_nilah: A very good question! The oath is a bond between the First Star, the First Light, and a prospective guardian. Think of the First Star as… a broker in a transaction.
+	speaker_kaisa: Like it’s a middleman?!
+	speaker_nilah: Both Light and Star are very similar—perhaps even one and the same, if the truly ancient guardians are to be believed.
+	speaker_nilah: The First Star is born of the First Light and is its physical manifestation in this universe. The oath we take connects us to that avatar, and through it, we gain power.
+	[Option 2] Where do all those monsters come from?
+	speaker_nilah: Monsters?! The manifestation of dark forces in the universe, the great hounds of anti-light!
+	speaker_kaisa: Whoa! Are you okay?!
+	speaker_nilah: These beasts are tied to chaos and entropy, spawned from their well of darkness. It is a great cycle that gives us the gift of these colossal foes, so we might test our strength against them!
+	speaker_nilah: …Ahem. My apologies. The idea of facing another titanic beast… Whew, it’s very exciting.
+	[Option 3] I had a dream where you were my dad.
+	speaker_nilah: That is extremely disturbing.
+	speaker_kaisa: I’m really sorry.
+	speaker_nilah: It’s also not a question, but I’m counting it as one. You have lost your question privileges.
+	speaker_nilah: If this is what I have to work with, I swear…
+speaker_nilah: There. From now on, you will earn your answers through rigor or guile.
+speaker_nilah: [Mumbling.]
+speaker_kaisa: What was that thing you did just now?
+speaker_nilah: You mean this? It’s a special gesture paired with a recitation. It prevents my power from consuming me, and I must perform it often.
+speaker_nilah: The recitation isn’t anything special. Usually, I quote literature or an old Star Guardian text. The passage must, however, bring me joy.
+speaker_kaisa: Are you saying you’re constantly on the verge of falling?
+speaker_nilah: …Not as you understand it, no. Guardians who live long enough may chance upon powers beyond even the First Star’s capabilities.
+speaker_nilah: As the centuries passed, I encountered one myself. And in our own ways, we both emerged victorious.
+speaker_kaisa: Centuries?!
+speaker_nilah: Is that strange? Many Outer Guardians are hundreds or even thousands of years old.
+speaker_kaisa: Thousands of years? What about your families, your friends?
+speaker_nilah: All gone, I’m afraid.
+speaker_nilah: The oath magically halts aging. All Star Guardians are destined to die in battle or in darkness. There is no third option.
+speaker_nilah: You will see all that you care for live, grow old, and fade away. Cities will rise and fall, great threats will menace the universe and be destroyed…
+speaker_nilah: …and you will see your closest friends, those who knew you best… fall in turn. Until, if you are unlucky enough, you are the last one left.
+speaker_nilah: [Mumbling.]
+speaker_nilah: A prayer, offered for the departed.
+speaker_kaisa: So, everyone you knew is gone? There’s no one left who remembers you?
+speaker_nilah: Dahlia remembers.
+speaker_dahlia: [Yee hee hee!]
+speaker_nilah: Well spoken, old friend. You are wise beyond your many, many years.
+	[Option 1] I know it’s rude, but how old are you, exactly?
+	speaker_nilah: My team was the seventh to be inducted. In our day, we were quite the heroes.
+	speaker_kaisa: WHAT?! That would make you...!
+	speaker_nilah: Far too old for high school! Hahaha!
+	[Option 2] Where’s the rest of your squad? Are they still around?
+	speaker_nilah: Sadly, most are gone. The Twilight Star claimed one. Two were lost in a legendary battle for the fate of the universe… though that’s a tale for another day.
+	speaker_nilah: One remains. Though I haven’t seen him in almost a thousand years… I assume he’s still out there somewhere, slaying monsters to prove his strength.
+	speaker_nilah: He was always a proud one.
+	[Option 3] Is that a hyena ball? A ball that’s also a hyena?
+	speaker_nilah: She’s more hyena than ball, but it’s an apt description.
+	speaker_dahlia: [Yip yee hee!]
+	speaker_nilah: Of course you’re a great warrior. We’re all very impressed.
+speaker_nilah: Ah, I wasn’t supposed to answer another question! Well played, Kai’Sa.
+speaker_kaisa: Th-thanks. You make me really nervous.
+speaker_nilah: Ha! Luxanna Crownguard mentioned I might intimidate you. I was hoping she’d be right!
+speaker_kaisa: Luxanna… Do you mean Lux? You know Lux?!
+speaker_nilah: Who do you think asked me to train you?
+speaker_kaisa: I… I… What’s she like?! Did she say anything else?! What did—?
+speaker_nilah: Another time, Kai’Sa. It is my job to prepare you for the many threats you will face.
+speaker_nilah: Remember: Do well and win knowledge. Hahaha!
+speaker_kaisa: Nilah…
+speaker_kaisa: Alright, time to nail some training.
 ----------
 Nilah Act 2
 ----------
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_nilah: Kai’Sa! Why are you letting your guard down?
+speaker_kaisa: I’m not letting you through again! I can… huff… I can still fight!
+speaker_nilah: Good! Let our battle sing across time and space! Let this day mark the awakening of your inner power!
+speaker_kaisa: Ugh! How are you… so strong… I’ve never felt anything like this...!
+speaker_kaisa: N-no! I won’t stay down! You won’t stop me, no matter how powerful you are!
+speaker_nilah: Yes! I am Nilah of the Seventh Layer! My joy is endless, my bliss eternal! And you, worthy enemy, are done!
+speaker_kaisa: Aaaaaagh!!!
 ----------
-speaker_nilah: Dialogue is not Available Yet
+speaker_nilah: Kai’Sa? Kai’Sa? If you’re dead, Lux will be very angry with me.
 ----------
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_akali: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_akali: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_akali: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_akali: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_kaisa: Ow… What happened? Did I win?
+speaker_akali: You got smoked, bro.
+speaker_nilah: You did, in fact, get “smoked, bro.”
+speaker_nilah: Ah, much better.
+speaker_nilah: Your father asked some awkward questions about the uniform. I told him I work at Café Cuties… and it seemed to convince him. I think.
+speaker_nilah: I did have to sing a fairly horrible theme song. Taliyah and Sona helped. It was… not my proudest victory, but a victory nonetheless.
+	[Option 1] Oh, you met my dad?
+	speaker_nilah: I did. Kassadin is a good man. You are very lucky to have him.
+	[Option 2] Nobody saw us battling it out, did they? We can’t risk our identities being exposed.
+	speaker_nilah: Don’t worry. Your training area is impressively remote, considering the view of the city. Your secrets are safe.
+	[Option 3] How did you talk to my dad… if you’re my dad?
+	speaker_akali: I’m sorry, what did you say?
+	speaker_nilah: If I was physically capable of frowning, I would frown at you. Consider this my smile-frown.
+speaker_akali: Yeah, yeah, Kassadad, whatever. Nilah, what was that magic?! It looked like you could cut a mountain in half!
+speaker_nilah: That, Akali, is the power of joy.
+speaker_kaisa: The power of… joy? I thought you were a Star Guardian?
+speaker_nilah: I am indeed a Star Guardian, now an Outer Guardian. But the light is not my only strength.
+speaker_nilah: Long ago, I faced a creature not unlike your Fiddlesticks… a fallen guardian, or perhaps something more. By then, it was impossible to tell.
+speaker_nilah: So great was its hunger that it threatened to devour the cosmos itself. A dark being of twisted, unnatural bliss… the Star of Joy, Ashlesh.
+speaker_akali: The Star of… Joy? I thought there were only two stars… First and Twilight.
+speaker_nilah: Many stars shine in the skies above. The First Star is a part of the universe itself… a natural and benevolent light that touches all things.
+speaker_nilah: Then there are the pretender stars. Stars born from the hearts of guardians and other powerful entities… Twilight is one. Joy was another. I know for certain there are more.
+speaker_kaisa: Ashlesh… That’s the monster that your squad faced, right? But… I thought you killed it?
+speaker_nilah: In a sense. Before it was slain, I was tainted by its cosmic joy. I succumbed to it at first, but successfully fought my way back. Now, the power is mine… as is the threat it poses.
+speaker_akali: Whoa… So you're, like, a monster? You could turn evil and kill us all?
+speaker_kaisa: Kali!
+speaker_akali: What? She kind of is a monster… right?
+speaker_nilah: Ha! Not quite a monster, I’m afraid. There are others like me. The guardian Xayah, I believe, has a similar power after her brush with Zoe.
+speaker_nilah: Just as there are many powerful threats across the universe, there are powerful forces of good. Each balances the other. From this conflict, my joy endures.
+speaker_nilah: [Mumbling.]
+speaker_nilah: And there we are. Sated again, for now.
+speaker_akali: You’re awesome, Nilah.
+speaker_akali: Spar with me next! I want to face the power of a star monster!
+speaker_kaisa: Kali! That’s an Outer Guardian! You can’t say stuff like that!
+speaker_nilah: Oh? And why not?
+speaker_akali: Yeah, Kai? Why not?
+	[Option 1] It’s rude! What if she called you a star monster?
+	speaker_akali: Am I a hot star monster, or a scary star monster?
+	speaker_nilah: Whichever one is more fun for you.
+	speaker_akali: I choose both.
+	[Option 2] Star Guardians should always respect their elders!
+	speaker_nilah: Always? That’s funny. You’re very funny.
+	speaker_kaisa: What? Is that not how we’re supposed to operate?
+	speaker_nilah: Not even a little. Star Guardian recruits are almost always teenagers. Insubordination… Drama… It all comes with the territory.
+	[Option 3] That’s my dad you’re talking to!
+	speaker_nilah: I don’t understand. Do you need another father figure? You have an actual father.
+	speaker_akali: She’s desperate for Lux’s approval, and you’ve talked to Lux at least once. It’s this weird mentor-student thing.
+	speaker_kaisa: N-n-no! You don’t understand...!
+	speaker_nilah: That explains all this… Star Guardian merchandise?! I have some uncomfortable questions about the state of this planet.
+speaker_nilah: Hmm.
+speaker_nilah: It’s funny. I’ve fought alone for a long, long time. And with each victory over a great opponent, my reputation among the guardians has grown.
+speaker_nilah: Yet precious few know the true me. Most who did are gone… a fact I’ve learned to accept. Embrace, even.
+speaker_nilah: You two have a special bond of friendship. Whether you realize it or not, you are each other’s lights, and reason to fight on against all odds.
+speaker_akali: I… uh...!
+speaker_kaisa: That is…!
+speaker_nilah: Ha! Let your feud go on a little longer. Time and shared trials will do you wonders.
+speaker_nilah: Tell me, have you ever faced a monster so titanic it blots out the sky? Or an enemy so insidious that you cannot escape it no matter where you turn?
+speaker_kaisa: Morgana?
+speaker_akali: Fiddlesticks?
+speaker_nilah: Two powerful opponents, but I mean physically large. Gigantic. Epic in scale and ferocity.
+speaker_kaisa: Uh… not yet… I don’t think...?
+speaker_nilah: Excellent!
+speaker_akali: Oh, I don’t like that look.
+speaker_kaisa: Nilah, what are you planning on doing?! Isn’t that your “excited about giant monsters” face?
+speaker_nilah: Is it? I only have the one expression. Nuance sometimes escapes me.
+speaker_nilah: I have devised another lesson for your squad—one that will engage me as much as it does you.
+speaker_kaisa: Wait, no! You can’t lure any giant monsters into the city!
+speaker_akali: Y-yeah! There are some lines even I won’t cross! Hot monsters? Sure. Scary? Definitely. But giant? People could get hurt!
+speaker_nilah: Ah, look at the time. I must be off.
+speaker_kaisa: Nilah! H-hey! This isn’t how we’re supposed to train!
+speaker_akali: We're gonna have to fight a huge monster, aren’t we?
+speaker_kaisa: I really, really hope not.
 ----------
 Nilah Act 3
 ----------
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
+speaker_kaisa: Th-that’s...!
+speaker_quinn: How are we supposed to beat this thing?! We’re not strong enough...!
+speaker_rell: Show me whatcha got, coward! I’ve been ready to die since the day I was born!
+speaker_unknown: GYAOOOOOOON
 ----------
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
+speaker_kaisa: Wow, we didn’t stand a chance.
+speaker_nilah: Omega Gromp suffers no fools, Kai’Sa. That’s why he’s Omega, and you are not.
+speaker_rell: Stupid VR machine! You made me lag! I got stream sniped! My headset disconnected!
+speaker_kaisa: It doesn’t lag, we’re not streaming, and the headset is literally tied to your head.
+speaker_rell: I just can’t believe I got melted by his stupid acid spit! It’s the slowest projectile in the game! It’s slower than the concept of slow! I’m so… freaking…
+speaker_rell: OVER THIS!
+speaker_kaisa: How is every member of this squad a toxic gamer? Literally all of you. I feel like we should talk about this.
+speaker_nilah: You’re very skilled, Rell! If you trusted your comrades a bit more, you’d be nearly unstoppable.
+speaker_rell: Ugh, I just hate losing! And in front of Nilah?! I just met her and she’s already my role model!!
+speaker_nilah: I like her! She is learning to open her heart.
+speaker_kaisa: I like her too.
+speaker_kaisa: But what exactly are we supposed to be learning? How to die over and over in a video game?
+speaker_nilah: Ekko told me this is the most advanced combat simulator on the market. If you can’t figure out how to beat virtual giant monsters as a team…
+speaker_nilah: …then I could always attract a real monster into the downtown core. A really nasty one. And believe me, I really, really want to fight a giant monster.
+	[Option 1] What do you mean by “really nasty?”
+	speaker_nilah: Imagine a creature so twisted by darkness that looking at it is like throwing your unprotected mind into the core of the sun.
+	speaker_nilah: Its shadow swallows the entire sky. Each footstep is a cataclysm on par with a globe-spanning extinction event, wiping out millions of innocents without so much as a thought.
+	speaker_nilah: I fight monsters like these all the time. And I can find another one for us to take on, if you like.
+	[Option 2] As captain, I forbid you from endangering this city.
+	speaker_nilah: Heh. You wish to force me into submission?
+	speaker_kaisa: N-no, I…
+	speaker_nilah: If I recall correctly, you didn’t fare so well last time… and I was holding back. Care to try again at my full strength? I’d love the practice.
+	[Option 3] You're Rell's role model? I've been trying to be her role model for WEEKS!
+	speaker_nilah: Perhaps you tried too hard, Kai'Sa. Being a role model comes with experience.
+	speaker_nilah: And I've experienced... centuries. I've seen hundreds, no, thousands of Star Guardians just like you rise against the dark, only to be snuffed out like candles in a hurricane.
+	speaker_nilah: I’ve survived, and whether you like it or not, I’ve been charged with making sure you don’t vanish into the screaming abyss like all those who came before.
+speaker_kaisa: Wow! That’s extremely horrifying!
+speaker_nilah: Why are you smiling if it’s horrifying?
+speaker_kaisa: I don’t know! I’m really intimidated right now! Why did you sound so happy when you said those terrible, terrible things?
+speaker_nilah: I’m glad you asked! Hundreds of years ago, a joy monster erased my other emotions.
+speaker_kaisa: Great! Awesome! Ekko, how are we doing so far?! Please feel free to jump in as quickly as possible...!
+speaker_ekko: I’ve reprogrammed Omega Gromp to be extremely aggressive and twice as strong. Been kinda breezy, if I’m being honest.
+speaker_ekko: I don’t think the average Arcade World employee cares too much about what I’m doing. Or… about anything else.
+speaker_kaisa: Good. Nilah is getting that look in her eye when she senses a good fight, and she’s, uh… saying some very dark stuff? So we should probably start soon.
+speaker_ekko: One extra difficult VR boss encounter, coming up.
+speaker_kaisa: Alright, team! This time we walk away with the win! Put your headsets on, and pair up.
+speaker_nilah: I can’t wait to get in there. Let’s see what you’ve all learned.
+speaker_ekko: Starting instance! Three, two, one...!
 ----------
-speaker_unknown: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
+speaker_unknown: Promise me you’ll teach them, Nilah. Until our fight is over… promise me you won’t let them fall.
+speaker_nilah: You know I can’t do that. It’s not within my power.
+speaker_unknown: Please, won’t you try? You’re so strong… and their light… it’s in terrible danger…
+speaker_unknown: If you could go back and save your friends… wouldn’t you...?
+speaker_nilah: ...
+speaker_nilah: Alright, Luxanna Crownguard. I’ll teach them. I promise.
 ----------
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
+speaker_kaisa: W…what?! This isn’t the simulation!
+speaker_nilah: Relax, Kai’Sa. I spoke with Ekko beforehand. You’re supposed to be seeing this.
+speaker_kaisa: So, the others…
+speaker_nilah: Are fighting a level-900 Omega Gromp. It’s probably not going well, but you never know.
+speaker_kaisa: Then...
+	[Option 1] Where are we, exactly?
+	speaker_nilah: This is my little pocket of the universe. That right there? That’s my home.
+	speaker_kaisa: But… it’s so small…
+	speaker_nilah: It’s all that I need. A place to sit, a few good books, a cup of tea, and silence.
+	[Option 2] Is that a little baby planet? It’s so cute!
+	speaker_nilah: I’m glad you think so. It’s a place I come to in order to rest and refocus.
+	speaker_kaisa: I didn’t expect it to look like this…
+	speaker_nilah: A true warrior doesn’t need much. Just a few essentials, and a little quiet.
+	[Option 3] I’m sorry about the “you being my dad” stuff. Please don’t kill me.
+	speaker_nilah: Ha! It was a little strange, but then again… we’re all a bit off, aren’t we?
+	speaker_kaisa: You’re right. We are.
+	speaker_nilah: That’s the spirit. Embrace your differences, and you won’t need anything else in the world.
+speaker_nilah: [Mumbling.]
+speaker_nilah: …this, I promise.
+speaker_kaisa: Hmm? Promise what?
+speaker_nilah: The truth is, I’m not a teacher. I’m not someone who can tell you how to be a better Star Guardian or how the organization works…
+speaker_nilah: …But I can teach you how to endure.
+speaker_nilah: “Star Guardians burn bright, but are destined to fall.” Isn’t that the saying?
+speaker_nilah: You will give everything, Kai’Sa. This is only the beginning. There will be more threats, and more tragedies, and losses you cannot even begin to imagine.
+speaker_nilah: This is all I have left. A chunk of rock in a distant, lifeless galaxy… a handful of books… and no one.
+speaker_nilah: Almost everyone I’ve ever loved is long gone. Nilah isn’t even my real name. The stories of me conquering legendary villains? They’ve replaced the person I once was.
+speaker_nilah: My days as a young girl… the smile on my mother’s face… I see them in half-formed dreams, yet feel only the weight of this accursed joy.
+speaker_kaisa: Nilah…
+speaker_nilah: Don’t weep for me, Kai’Sa. Despite the loss, the danger, and the constant recitations, I face my future with a smile!
+speaker_nilah: There is much more to do and see! More lives to change, more foes to face! Friends to fight side by side with, against overwhelming odds!
+speaker_nilah: We cannot divert from the path we have taken, and we cannot regain what was lost… but we can enjoy what we have, when we have it, and hold it close.
+speaker_nilah: Hold your friends close, Kai’Sa. Hold them close, and know that darkness will always find you, no matter what form it may take… and try to wrest them away.
+speaker_nilah: Yet, despite all this… do not be afraid to find your joy, and endure.
+speaker_nilah: Do you understand?
+speaker_kaisa: I think I do, Nilah. Thank you.
+speaker_nilah: Good! Then this little excursion wasn’t a waste.
+speaker_kaisa: It wasn’t, Nilah. You’re extremely terrifying sometimes, but thanks… for looking out for us. I mean it.
+speaker_nilah: It is no trouble at all, Kai’Sa.
+speaker_nilah: You and your friends… Stick together, and I think you’ll be alright.
+speaker_kaisa: You’re one of us too, y’know! We’re all stuck with each other now, no matter what you say.
+speaker_nilah: Ha! I know. I was just waiting for you to admit it.
 ----------
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
+speaker_nilah: Consider your promise kept, Luxanna Crownguard.
+speaker_nilah: Buuuut… maybe I’ll stick around a while longer. You know… just to see what happens next.
 ----------
 Quinn Act 1
 ----------
-speaker_prof_okamoto: Dialogue is not Available Yet
-speaker_prof_okamoto: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_prof_okamoto: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_prof_okamoto: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_prof_okamoto: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_prof_okamoto: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_prof_okamoto: Dialogue is not Available Yet
-speaker_prof_okamoto: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
+speaker_prof_okamoto: …Thank you for presenting, Leith.
+speaker_prof_okamoto: The story I heard was full of interesting moments. Let this be a lesson, class: Everyone’s life is engaging and unique in its own ways.
+speaker_akali: Wait, Green Thumb Leith has an interesting life? Leith, Prince of the Greenhouse?
+speaker_kaisa: Kali! Those are group text nicknames! What if he hears you?!
+speaker_akali: So what? He talked about potted plants for like fifteen minutes. If I must suffer, then he must suffer.
+speaker_kaisa: Ugh, true.
+speaker_kaisa: Who knew there were so many types of bean plants? And when he got into root systems and cross pollination…
+speaker_kaisa: I guess not everyone can have a life as exciting as ours.
+speaker_prof_okamoto: That’s all for today, class. Next week, we’ll be starting with… hm… looks like we have Akali—
+speaker_akali: Groan.
+speaker_prof_okamoto: Kai’Sa—
+speaker_kaisa: Jokes on you. I finished my presentation two weeks ago. Guaranteed A. Though I could always touch it up a little…
+speaker_prof_okamoto: And… Quinn! Alright, everyone. See you bright and early next week.
+speaker_akali: Quinn… Why do I know that name?
+speaker_kaisa: Are you serious? She just joined our… you know… “study group.”
+speaker_akali: Wait… one of the new kids?
+speaker_kaisa: Yeah, the falconer. Reserved, sort of old fashioned… uh…
+speaker_kaisa: …B-bird?
+speaker_akali: Bird? Quinn’s defining characteristic is “bird?”
+speaker_kaisa: …I’ve been busy helping the rest of you! Stop enjoying this!
+speaker_quinn: …Professor?
+speaker_prof_okamoto: Yes, Quinn?
+speaker_quinn: Could we present as a group? I’d really prefer—
+speaker_prof_okamoto: No, I’m sorry Quinn. Only you can tell your story. I don’t want to go over this again.
+speaker_prof_okamoto: Feel free to work with your friends. Didn’t I see you making some new ones the other day?
+speaker_quinn: I...
+speaker_quinn: Of course, professor. Sorry to bother you.
 ----------
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_valor: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_akali: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_akali: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-	[Option 1] unknown
-	[Option 2] unknown
-	[Option 3] unknown
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_akali: So… what are you two gonna talk about?
+speaker_kaisa: Hmm. We can’t exactly mention our… extracurricular activities… at the school.
+speaker_akali: Oh, like that’s ever stopped you before.
+speaker_akali: HEY EVERYONE, KAI’SA AND I ARE—
+speaker_kaisa: SHHHHH!
+speaker_akali: Oh, c’mon. I wasn’t gonna say it.
+speaker_kaisa: Obviously, I can’t talk about family.
+speaker_kaisa: …So I’m planning on sticking to life before the oath.
+speaker_quinn: Hi, Kai’Sa! Hi, Akali! Are you talking about Star Guardian stuff?
+speaker_akali: Yeah, Kai. Are we?
+speaker_kaisa: Uh… we try not to talk about it at school too much.
+speaker_akali: Don’t want to give away our secret identities. It’s a whole thing.
+speaker_quinn: Doesn’t your squad have masks? I haven’t seen any so far, but I dunno. Maybe fake sunglasses? A super long scarf?
+speaker_kaisa: Uh… well… not really…
+speaker_quinn: Then what secret identity are you protecting?
+speaker_kaisa: T-that’s..! You..!
+speaker_akali: I love this conversation. I love it more than I have ever loved anything.
+speaker_kaisa: …A-ahem! So, Quinn… was there something you wanted to talk about? Other than Star Guardian stuff, I mean.
+speaker_quinn: Do I talk about Star Guardian stuff too much?
+speaker_kaisa: No, not at all! Though we haven’t hung out much without Rell being there too.
+speaker_quinn: Well, she’s my best friend. Back home, it was just the two of us fighting for the First Star. You two... you get it, right?
+speaker_akali: Hmm.
+speaker_kaisa: Yes, we get it.
+speaker_kaisa: But we both realized… We don't really know much about you.
+speaker_akali: We know you like birds! So that’s one thing.
+speaker_quinn: I don’t like all birds. Just this one.
+speaker_valor: [Chirp!]
+speaker_kaisa: About that… How did you get permission to bring a raptor to school?
+speaker_quinn: I don’t think the administration minds. He scares all the pests away, so nobody brings it up.
+speaker_kaisa: Ah, that’s where Chiizu went. Hmm...
+speaker_kaisa: [...I should ask Quinn more about herself.]
+	[Option 1] Where are you from again?
+	speaker_quinn: It’s a small town. You’ve probably never heard of it.
+	speaker_akali: I dunno, Kai is pretty good with geography. Right, Kai?
+	speaker_kaisa: All I know is that it’s pretty far down the rail line. And that Rell will only talk about how much of a dump it was.
+	speaker_kaisa: But… I’d love to know what you think about your town!
+	[Option 2] What do you think of history class?
+	speaker_quinn: It’s fine, I guess. I definitely didn’t think I’d have to talk about my own history.
+	speaker_quinn: I’m… not really much of a public speaker. Never really had to back home, you know?
+	speaker_kaisa: Come on! I’m sure you’ll do great!
+	[Option 3] Can your bird do any tricks?
+	speaker_quinn: Valor is… not really a show bird. Or even really a bird. He just looks like a bird.
+	speaker_quinn: He doesn’t like games, either. More of the serious type. We used to scout the neighborhood in my old town.
+	speaker_akali: He’s super serious! Like you, Kai!
+	speaker_kaisa: ...
+speaker_kaisa: Speaking thereof…
+speaker_kaisa: Would you want to work on our presentations together? Maybe meet up at the cafe tomorrow?
+speaker_quinn: Y-yeah! That sounds great!
+speaker_akali: I thought we were gonna work together, Kai. You know, as a unit.
+speaker_kaisa: We can all work together. Think of it as… a team bonding exercise.
+speaker_akali: Okay, but this isn’t—
+speaker_quinn: Would it be okay if I invite Rell?
+speaker_rell: I’ll be there, Q.
+speaker_kaisa: Oh. Alright then.
+speaker_kaisa: Look at that. We’ve got our own study group!
+speaker_akali: Nope. This sucks.
+speaker_kaisa: Kali! Come on! Aw, man…
+speaker_quinn: W-we don’t have to go! Rell and I know everything there is to know about our hometown!
+speaker_quinn: …Ugh. I’m sorry. Sorry if things have been weird since we got here, Kai’Sa.
+speaker_kaisa: You mean between Akali and I? No, we were having problems before you two got here—
+speaker_quinn: We just don’t want to be an intrusion. You have your team, and you already all know each other so well… I don’t want to cause any problems.
+speaker_kaisa: That’s not gonna happen. You’re not a burden, you’re our friend… If anything, Akali is mad at me. She probably thinks you’re incredible because you burned me on the mask thing.
+speaker_quinn: A-alright, thanks. Things are just so different here in the city… A new squad, a new life… new social landmines. I feel like it’s all moving so fast.
+	[Option 1] Maybe I can give you a tour!
+	[Option 2] They’re not so different once you get used to ’em!
+	[Option 3] Because we lack funding for falconry classes?
+speaker_quinn: …I don’t know. Maybe.
+speaker_quinn: I’m just… not so sure I fit in here.
+speaker_kaisa: Just give it time, Quinn. VC is a lot, but I’m sure you’ll get used to it!
+speaker_quinn: If you say so. I’ll… I’ll see you at the cafe.
+speaker_kaisa: …Bye.
+speaker_kaisa: Akali aside, Quinn was mentioning her old town more than I thought she would.
+speaker_kaisa: Hmm. I wonder…
 ----------
 Quinn Act 2
 ----------
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-	[Option 1] unknown
-	[Option 2] unknown
-	[Option 3] unknown
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_quinn: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_kaisa: [So Akali didn’t show after all…]
+speaker_kaisa: [Which means it’s just Quinn and me…]
+speaker_rell: Hey, K. What’s good here?
+speaker_kaisa: [Oh. And her bestie, Rell.]
+	[Option 1] Their croissants are pretty tasty.
+	[Option 2] They have the best matcha ever!
+	[Option 3] Anything with peach in it. There are like, six peach things.
+speaker_rell: Yeah… I think I’ll pass.
+speaker_quinn: Rell generally prefers places that have ranges of peppers on their menu.
+speaker_rell: Anything under three peppers is coward food.
+speaker_kaisa: …Cool.
+speaker_rell: So you guys are partners on some school thing?
+speaker_quinn: No—not really.
+speaker_kaisa: We each have to give a presentation about our life. We’re just working together.
+speaker_rell: And you’re gonna tell them how we punch monsters so hard they explode, right?
+speaker_kaisa: We can’t talk about being Star Guardians.
+speaker_rell: Why not? In Kiiso, we did it all the time.
+speaker_quinn: Uh… No, we didn’t.
+speaker_rell: I did.
+speaker_kaisa: What… What happened?
+speaker_rell: Nothing. No one believed me.
+speaker_quinn: Valoran City isn’t like Kiiso though. We can’t reveal our identities. We—
+speaker_rell: Hold that thought, Q.
+speaker_rell: The students at the corner table appear to be in a heated argument about “Beastman Chronicles: the Pitmaster Saga!” I better make sure this doesn’t turn violent!
+speaker_kaisa: It sort of just seems like a friendly disagreement -
+speaker_rell: I’ll keep an eye on them K! For Star Guardian reasons! Not because their conversation is interesting to me in any way!
+speaker_kaisa: … So your hometown. It’s called Kiiso?
+speaker_quinn: Yeah. We both grew up there, but didn’t speak too much before she took the oath.
+speaker_kaisa: Oh, really?
+speaker_quinn: We… came from different social circles. You’ll have to ask her about it.
+speaker_quinn: Plus, with her being younger…
+speaker_kaisa: There’s a difference in maturity.
+speaker_quinn: …She means well. She really does.
+speaker_kaisa: Oh, I didn’t mean anything by it!
+speaker_kaisa: Rell is… sweet.
+speaker_quinn: It’s hard for her to open up to people. But once you get to know her, she’ll always be there for you.
+speaker_kaisa: I believe that.
+speaker_quinn: Back in Kiiso, we’d take on HUGE monsters, dozens of them, just the two of us. There was no one I’d rather have in my corner.
+speaker_kaisa: I’m surprised you even get monsters all the way out there.
+speaker_quinn: Valoran City isn’t the only place that needs defending.
+speaker_kaisa: Of course. I—
+speaker_quinn: I had to train her. Alone. And Rell has… issues… with authority figures.
+speaker_quinn: All I had to go on were Lux’s quotes in the Official Star Guardian Daily Planner. And I don’t think most of them are authentic.
+speaker_kaisa: Oh! I have one of those. Mine is… more full than I would like.
+speaker_quinn: Do you have the Ahri Erasable Pen too?
+speaker_kaisa: No, I wish. It—
+speaker_quinn: Sold out almost immediately!
+speaker_kaisa: Yeah… and it matches the Daily Planner so well…
+speaker_kaisa: Sorry, Quinn. I know fighting alone for so long wasn’t easy for you.
+speaker_quinn: Oh, it wasn’t all bad.
+speaker_quinn: Kiiso was our home. It had our friends, our family… I was happy to protect it.
+speaker_kaisa: You really miss it, don’t you?
+speaker_quinn: I...
+speaker_kaisa: Before I was a Star Guardian… things were simpler. I remember when a day at the mall was an adventure.
+speaker_quinn: I remember when the scariest monster I’d ever seen was just in a movie at the cineplex.
+speaker_kaisa: Ha! One year my dad took me to see Night of the Xer’Sai, and I couldn’t sleep for a month.
+speaker_kaisa: I used to get pretty scared.
+speaker_quinn: Really? You got scared?
+	[Option 1] Of course! It’s not weak to be afraid.
+	speaker_quinn: I guess… sometimes you have to be strong for other people. Even when everything changes.
+	speaker_quinn: I just wish I didn’t always have to, you know? It would make things a lot easier…
+	speaker_kaisa: You’re right.
+	[Option 2] I mean, I would never cover my eyes or anything. At least not all the way…
+	speaker_quinn: Yeah… you have to learn to keep the fear inside. People here are counting on us to be brave… and everyone back home, too.
+	speaker_kaisa: Is that why you wear a mask?
+	speaker_quinn: Oh, uh… no. I just think it looks really cool. And it hides my identity.
+	speaker_quinn: Not sure why you still don’t wear one. Eventually somebody will catch on.
+	[Option 3] Yeah, I hated the old High Noon Gothic movies. Those demons are freaky.
+	speaker_quinn: Oh! The one where the cow-skull devil fights the half-demon cowboy?
+	speaker_kaisa: Yeah, and in the sequel, there’s a mechanical angel. Pretty sure they just released a new one about a train heist, but it looks really scary…
+	speaker_quinn: High Noon Gothic 4: Devil of the Sulfur Rail! Rell’s already seen it six times. Apparently, this one guy explodes… so it might not be the movie for me.
+	speaker_kaisa: Or me. I’m fine with my regular Star Guardian night terrors, thanks.
+speaker_kaisa: You know, Quinn… it’s okay to let us know you’re scared. Otherwise, they’ll never feel safe… not even around you.
+speaker_quinn: Did you read that one in the Daily Planner?
+speaker_kaisa: No, that’s a Kai’Sa original.
+speaker_quinn: Ha! Straight from the source!
+speaker_quinn: I don’t know how you do it… School and a full team of guardians. Plus, I heard you were all at the Battle of the Twilight Star… We only saw it on the news.
+speaker_quinn: I struggled with just one guardian! And zero giant invasions!
+speaker_kaisa: Sometimes, I’m not so sure I am doing it. Things fall through the cracks… People get hurt.
+speaker_kaisa: You saw what happened with Akali. That’s been going on since the school year started.
+speaker_quinn: Hhrm. Well, I’m sure you’ll handle it.
+speaker_quinn: It seems like you always do.
+speaker_quinn: I miss home a lot, of course… and everyone there. But talking to you… I feel a little better, I think. Just seeing you rise above the situation.
+speaker_kaisa: I guess I—
+speaker_rell: Q. K. The situation has been handled. Did you finish your homework?
+speaker_quinn: Oh! Actually, we haven’t even—
+speaker_rell: You said you’d go to the mall with me today.
+speaker_rell: For mysterious best-friend activities.
+speaker_rell: …
+speaker_quinn: Rell, calm down! Haha! A promise is a promise.
+speaker_rell: I knew I could count on you, Q! We better head over now! You know how long those lines get!
+speaker_rell: What a great day.
+speaker_quinn: I should probably…
+speaker_kaisa: Yeah, I get it. The things we do for our squads.
+speaker_quinn: Rell will tell you about her secret hobby eventually. But I want to let her do it on her own terms, ya know?
+speaker_kaisa: Of course. Have fun, you two!
+speaker_quinn: Thanks! It was nice talking about, you know, everything!
+speaker_kaisa: Oh, she left her homework…
+speaker_kaisa: Minor grammar error here. And this should be an ellipsis… Move this image over to here…
+speaker_kaisa: Not that I would ever… want to do… double the homework…
 ----------
 Quinn Act 3
 ----------
-speaker_akali: Dialogue is not Available Yet
-speaker_prof_okamoto: Dialogue is not Available Yet
-speaker_prof_okamoto: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_prof_okamoto: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_prof_okamoto: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
+speaker_akali: And that… that would be for me to decide.
+speaker_prof_okamoto: …I, uh…
+speaker_prof_okamoto: Thank you, Akali.
+speaker_kaisa: Woo! Great job, Kali!
+speaker_akali: You can stop applauding now. I totally bombed up there.
+speaker_kaisa: Just showing my support for the mad bomber.
+speaker_akali: Heh. That’s good. I’m keeping that one.
+speaker_prof_okamoto: Quinn, you’re up next.
+speaker_akali: Oh, yeah. How’d prep go with your new study buddy?
+speaker_kaisa: Not great, actually. We weren’t very productive.
+speaker_akali: Oh, noooo. Did her bird eat her homework?
+speaker_kaisa: …You know, she’s actually very nice.
+speaker_kaisa: And she’s one of us now, so be cool.
+speaker_akali: I’m being serious. Did her bird—?
+speaker_prof_okamoto: Akali! Your presentation is over. Please, be quiet.
+speaker_akali: …Lame.
+speaker_quinn: Ahem. Hi. I’m Quinn.
+speaker_kaisa: [C’mon, Quinn. You got this.]
+speaker_quinn: I know I’m still pretty new here, and many of you don’t know me…
+speaker_quinn: But I hope that you will soon.
+speaker_quinn: I spent my whole life in one small town surrounded by huge, sprawling mountains…
 ----------
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
+speaker_quinn: Its name is Kiiso.
+speaker_quinn: It’s the kind of place where everyone knows each other… No matter where you go, there’s always a familiar face.
+speaker_quinn: To me, it’s a place where promises are never broken and friendships last a lifetime.
+speaker_quinn: It was… a fairytale. But fairytales always end.
 ----------
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
+speaker_quinn: My academics were strong enough that I was moved to an accelerated learning program. So… I ended up coming to VC, and leaving Kiiso behind.
+speaker_quinn: My family, most of my friends, and all the memories I’d made there with them… I thought I’d left them all behind. It… it really scared me.
+speaker_quinn: I… I thought that my life was over. It was tough to adjust, and in a lot of ways, it still is.
+speaker_quinn: But I found a new life here, in Valoran City. New friends, new adventures…
+speaker_quinn: And it’s just the beginning…
 ----------
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-	[Option 1] unknown
-	[Option 2] unknown
-	[Option 3] unknown
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_quinn: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_quinn: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
+speaker_kaisa: I really liked your story.
+speaker_quinn: Thanks. I was pretty nervous.
+speaker_kaisa: Really?! You didn’t seem nervous at all!
+speaker_quinn: Oh, yeah. I got some good public-speaking advice from a friend.
+speaker_kaisa: …From me?
+speaker_quinn: No, from Rell. She said to picture the entire class as a “pack of evil deer” and myself as a brave warrior defending the Valoran City Park…
+speaker_kaisa: That sounds like Rell.
+speaker_quinn: It does, haha! That type of thing would only work for her.
+speaker_quinn: I just pictured everyone as the scary, non-deer monsters we’ve been facing.
+speaker_quinn: And I pretended I had the team at my side. Rell, of course, featured heavily. When she’s riding Sebastien, she’s, like, eight feet tall.
+speaker_kaisa: I understand. Sometimes, being a Star Guardian can be easier than being…
+speaker_quinn: …Yourself.
+speaker_kaisa: ...Yeah.
+speaker_quinn: This oath we took… it bonds us for life. Shine bright, only to burn out.
+speaker_quinn: It’s scary… but it’s good, you know?
+speaker_quinn: Friendship can be so fleeting. One day you wake up… and it’s gone.
+speaker_kaisa: You’ll always remember the friends you left behind in Kiiso.
+speaker_quinn: Every day. Not because of all the good times we had…
+speaker_quinn: But because of all the good times we didn’t get to have. You know?
+speaker_kaisa: …I miss Akali.
+speaker_kaisa: I mean—I still see her every day. But it’s different.
+speaker_quinn: What do you miss the most?
+	[Option 1] We used to sing together at karaoke.
+	[Option 2] Reading the new chapters of this webtoon she loves.
+	[Option 3] I just liked laughing with her. It was so easy before.
+speaker_quinn: You don’t think that can happen again?
+speaker_kaisa: I don’t know. I just know that growing up is a drag.
+speaker_quinn: Put that quote in the next Star Guardian Daily Planner.
+speaker_kaisa: Ooh. Being quoted in there would be awesome.
+speaker_quinn: Too bad they don’t take open submissions.
+speaker_quinn: I have a whole list of quotes, though they probably need some work.
+speaker_kaisa: Aww… I never thought I’d turn down an opportunity to proofread, but I think we have bigger problems to worry about.
+speaker_quinn: I suppose my dreams of becoming a published author can wait until AFTER we face Morgana.
+speaker_quinn: … There’s no going back to the way things were, is there?
+speaker_kaisa: No, not for us.
+speaker_kaisa: We’re the only people that will ever understand what it’s like…
+speaker_kaisa: …to hold the fate of the universe in our hands.
+speaker_quinn: Yeah. I try to talk to Valor about this stuff, but he’s not a great conversationalist.
+	[Option 1] You can always talk to me.
+	speaker_quinn: Thanks. You’re easy to talk to.
+	speaker_kaisa: I try really hard to be.
+	speaker_quinn: You don’t need to try. You’re a pro.
+	[Option 2] Sometimes, it’s best to deal with it alone.
+	speaker_quinn: Yeah, I guess I need time to process my thoughts.
+	speaker_quinn: Otherwise, my words come out all “bleh.”
+	speaker_kaisa: Bleh.
+	speaker_quinn: I was just thinking that!
+	[Option 3] You might say he’s a little… bird-brained? Eh? Ehhhh?
+	speaker_quinn: Hey! He’s really sensitive about those kinds of jokes.
+	speaker_kaisa: Oops! Sorry.
+	speaker_kaisa: Sometimes, I don’t think before I speak. It’s… gotten me into trouble before.
+	speaker_quinn: Really? Me, too! I’ll just talk, and it comes out all “bleh.” But you…
+speaker_quinn: …You seem like you always have things under control.
+speaker_kaisa: Guess you’re not the only one who wears a mask.
+speaker_quinn: Ha! Valor liked that one.
+speaker_quinn: I mean… I did too. Not as much. You have to work on your delivery.
+speaker_kaisa: Could I… feed Valor? I’ve always been curious… and he seems so hard to approach…
+speaker_quinn: Sure! I brought some snacks.
+speaker_quinn: I like to take him out here and let him fly around.
+speaker_quinn: It’s as close to Kiiso as we can get.
+speaker_kaisa: I like it here, too. It calms me down when I’m feeling overwhelmed.
+speaker_kaisa: You can see all of Valoran City… the winding streets, the giant skyscrapers…
+speaker_kaisa: It’s beautiful in its own way.
+speaker_quinn: Yeah… I guess it is.
 ----------
 Rell Act 1
 ----------
-speaker_student: Dialogue is not Available Yet
-speaker_student: Dialogue is not Available Yet
+speaker_student: I - I didn’t do anything wrong. I swear!
+speaker_student: Seriously! I was just kidding around!
 ----------
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_student: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_student: Dialogue is not Available Yet
-	[Option 1] unknown
-	[Option 2] unknown
-	[Option 3] unknown
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_student: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_rell: Ah, so you’re a bully AND a liar?
+speaker_rell: I saw you picking on that group of first-years. C’mon, you can do better. Why not try fighting somebody with years of hardened physical training and an undeniable thirst for justice?
+speaker_student: I ONLY PICK ON YOUNGER STUDENTS BECAUSE I’M INCREDIBLY INSECUREEEEE!
+speaker_kaisa: I heard screaming! What’s going on?
+speaker_rell: Hey K — about time you showed up.
+speaker_rell: I was just showing this kid the consequences of being a grade-A dirtbag.
+speaker_student: GAHHHH! KAI’SA! HELP! SHE’S GOT ME IN A SUPER-MEGA CHOKEHOLD! JUST LIKE THE ONE THE KING USED ON THOSE SOLDIERS IN “DERELICT EMPEROR #275”!
+	[Option 1] Rell, let him go right now!
+	[Option 2] There’s a crowd gathering. Drop him before you get us in trouble.
+	[Option 3] Hand him over. I wanna take a swing.
+speaker_rell: Just doing what we’re supposed to do, K. Defending the innocent!
+speaker_rell: But you’re probably right.
+speaker_rell: I’m gonna let you go, kid. But you better apologize to those first-years, and your apology better be super-mega sincere!
+speaker_student: I PROMISE! I’ll NEVER HURT ANOTHER SOUL! AHHHHHH!!!
+speaker_rell: See? He’s totally reformed.
+speaker_rell: Another win for good guys.
+speaker_kaisa: Rell, you shouldn’t waste your time on bullies like him. We’re Star Guardians. We have bigger threats to face.
+speaker_rell: Star Guardians are supposed to protect people.
+speaker_rell: If I didn’t stop that kid, who would?
+speaker_kaisa: I - I don’t know. The teachers?
+speaker_rell: You don’t really believe that. One of our teachers is straight-up evil. And you know I don’t mean in the assigns-too-much-homework kinda way.
+speaker_rell: C’mon - deep down I bet you wanted to take a swing at him too.
+speaker_kaisa: As captain, I have to lead by example. And my example is -
+speaker_rell: Wait, were you gonna quote from the Star Guardian Daily Planner? Q’s always repeating the one about “the true power of friendship” or whatever! That reminds me…!
+speaker_kaisa: Rell! Come back! You dropped your book!
+speaker_kaisa: … Is this a manga?
+speaker_kaisa: “Derelict Emperor #282”...
 ----------
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_man: Dialogue is not Available Yet
-speaker_woman: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_rell: Lux… so you’re the one Q thinks has ALL the answers.
+speaker_kaisa: Rell… hff, hff, wait up!
+speaker_rell: Oh hey, K. Just talking to this statue here. Q says the two of you do it all the time.
+speaker_kaisa: What? She told you that? I don’t talk to statues! … Fine, you caught me. But normally I do my talking when I’m NOT wearing my Star Guardian uniform.
+speaker_rell: Oh! Oops! I was just showing her the new versions of the uniforms. And she was totally agreeing that they are much cooler than the old ones. Silently, of course.
+speaker_rell: Back to normal - see? Don’t worry! There’s no way anybody saw me transform!
+speaker_man: W-was that a Star Guardian transformation just now?
+speaker_woman: I think it was! Right over by the Lux statue!
+speaker_rell: Oh no! They're onto us!
+speaker_kaisa: Rell! Hey - ! … I never returned her book…
 ----------
-speaker_rell: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
+speaker_rell: Cool place, T! I mean… I like the food, but all the costumes and storylines are a bit confusing…
+speaker_taliyah: Um, could you call me Tali? Or Taliyah?
+speaker_rell: Sorry, let me try that again.
+speaker_rell: Cool place, Tali!
+speaker_taliyah: A-ah, much better… Oh, my order number’s up! I should go get it!
+speaker_kaisa: Rell… why are you pretending like you don’t get this place? I bet you’d love it if you gave it a chance. The storyline isn’t any more complicated than this manga you’ve been reading…
+speaker_rell: Hey… why do you have my copy of “Derelict Emperor”! I mean - uh - what is that? I’ve never seen that before! I have to go! Never speak of this!
 ----------
-speaker_ekko: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
+speaker_ekko: Oh, shoot. Looks like I’m next on the VALORANT cabinet. Catch ya later!
+speaker_kaisa: Wow, I can’t believe Ekko lets you play VALORANT with him. Everytime I try to join, he says the red gun is broken and he calls dibs on the blue gun.
+speaker_rell: Yeah - Ekko’s alright. Honestly, your whole team is pretty cool, K. Uh… I-I’m gonna go on patrol.
 ----------
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_sebastien: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_sebastien: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_rell: K, does that deer look suspicious to you? Like it’s going to attack that small child?
+speaker_kaisa: Um… no?
+speaker_rell: OH NO! It just made that baby drop their ice-cream cone! And now they’re crying! UNACCEPTABLE. Hey, Sebastien!
+speaker_sebastien: [Determined whinny.]
+speaker_rell: Time to teach that buck a lesson!
+speaker_sebastien: [Proud whinny.]
+speaker_kaisa: Wait - what? Sebastien! RELL!
 ----------
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_rell: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_rell: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_rell: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_kaisa: I’ve never even heard of someone being kicked out of the park…
+speaker_rell: I’m really sorry about that. You know how I get around injustice.
+speaker_rell: On the bright side…Sebastien totally won that fight! That deer will think twice before trying to get a lick of Freljordian FreeZ ever again!
+speaker_kaisa: Rell, I hate injustice as much as you do… but you have to learn that your actions have consequences.
+speaker_rell: This isn’t just about the deer, is it? Because that thing was a menace.
+speaker_kaisa: No, it’s not just about the deer.
+speaker_rell: It’s just hard for me not to help when I see someone in trouble.
+	[Option 1] You’ll alienate everyone around you, and it’ll hurt the team.
+	speaker_rell: I would never purposefully put your friends in danger.
+	speaker_kaisa: I know you wouldn’t. But…
+	speaker_rell: I told Q I’d be no good on a team.
+	[Option 2] I can’t fix everything you mess up.
+	speaker_rell: It’s just… I’m just used to being with Quinn. And she kind of lets me do my own thing.
+	speaker_kaisa: Working together isn’t always going to be… well… a walk in the park, Rell. But we have to give it a try!
+	speaker_rell: I don’t know if I can… or if I want to.
+	[Option 3] When that deer charged me, I saw my entire life flash before my eyes.
+	speaker_rell: An evil space deer? I wouldn’t put it past her. I bet she’s got squirrells listening in on our conversation right now!
+	speaker_kaisa: Maybe we should speak in code?
+	speaker_rell: I appreciate you trying to make me feel better, K. But I got you kicked out of your favorite park. Looks like I’M the menace, not the deer.
+speaker_rell: I’m just better off alone. Just me - and also Quinn - and Valor and Sebastien sometimes - against the world.
+speaker_kaisa: That doesn’t sound very alone to me. You sure you don’t want to talk -
+speaker_rell: Why does EVERYTHING I do end up hurting people? I can’t keep letting people down! First my parents—and now…
+speaker_kaisa: Your parents...?
+speaker_rell: Forget it…
+speaker_rell: It’s nothing personal, K. I can’t let anybody get close, not again.
+speaker_rell: I have to go. I… need some space.
+speaker_kaisa: Rell…
+speaker_kaisa: What aren’t you telling me?
 ----------
 Rell Act 2
 ----------
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
+speaker_quinn: Hmm. So you want to find Rell when she doesn’t want to be found…
+speaker_quinn: There is one place…
 ----------
-speaker_mall_mascot: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_mall_mascot: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_mall_mascot: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_mall_mascot: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-	[Option 1] unknown
-	[Option 2] unknown
-	[Option 3] unknown
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_mall_mascot: How do you do, young lady! I’m a real-life Star Guardian! Nice to meet ya!
+speaker_rell: WAGH! What in the world?!
+speaker_mall_mascot: Guh! Right in the gemstones!
+speaker_rell: Oh no… I didn't mean to hurt you! You can’t sneak up on me like that…
+speaker_kaisa: ...
+speaker_kaisa: Why would Rell be here -
+speaker_kaisa: Uh sir, are you… rolling around in the fetal position?
+speaker_mall_mascot: Yeah…no big deal… completely my fault…
+speaker_kaisa: Yeah I’m sure she had her reasons…
+speaker_kaisa: But I wonder if Rell being here has anything to do with that book I found…
+speaker_kaisa: What was its name again?
+speaker_mall_mascot: It’s… Derelict… Emperor… release day…
+speaker_kaisa: That’s it! The manga! She must be here to visit the comic shop.
+speaker_kaisa: But I thought only the crazy hardcore fans wait in line for preorders. Like, crazy crazy. Taliyah crazy.
+speaker_kaisa: If that’s true, then that can only mean…
+speaker_rell: It’s finally mine! Derelict Emperor volume two hundred and eighty-six, fully colorized and translated! Plus, it comes with a trading card.
+speaker_rell: In this volume, Derelict Emperor uses the Heart of Camavor as a catalyst, unlocking his ultimate special attack right before the fated showdown with Dread Sentinel Gwenlodias…
+speaker_rell: And he, uh… you know… he…
+speaker_rell: ...
+	[Option 1] …You’re a massive otaku.
+	[Option 2] Hi, Rell. Whatcha reading?
+	[Option 3] I don’t wanna spoil anything, but I heard Gwenlodias is the sister of Sir Skarner.
+speaker_rell: C-c-can I speak with you privately?!
+speaker_kaisa: Lead the way.
 ----------
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_rell: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_rell: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_rell: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
+speaker_kaisa: This collection is ridiculous. And these are just the ones you could fit in your backpack? How many manga volumes do you own?!
+speaker_rell: Whatever I could have shipped to VC. These are some of the rarer editions… plus any I’ve picked up since I moved.
+speaker_kaisa: Battle Academia…Steel Valkyries…the Pentakill comics?! I thought these sold out the minute they were listed!
+speaker_rell: They did. I ordered in the first three seconds.
+speaker_kaisa: Can I borrow it? I promise I’ll give it back.
+speaker_rell: Not a chance.
+speaker_rell: You know… I used to have a lot more manga… some really good ones. But…
+speaker_rell: …my parents found them last year, and, uh, threw them away. What you’re seeing is what I was able to hide.
+speaker_kaisa: Wait, why would they throw your stuff away?
+speaker_rell: I dunno. Mom and dad had big expectations for me, I guess. Our town is small, but a lot of powerful political families have roots there.
+speaker_rell: I had to do exactly what they told me so they could get well connected, you know? Horseback riding, student government, being quiet at boring benefit dinners…
+speaker_rell: And if I did anything they didn’t like… well…
+speaker_rell: …they’d chase off my friends. Give away my stuff. Send me away for entire summers. I could never get close to anyone…
+speaker_kaisa: That’s so awful. I assume your parents don’t keep in touch.
+speaker_rell: Nah.
+speaker_rell: After a while, I couldn’t take the pressure. I just wanted to be able to be myself…my true self.
+speaker_rell: Turns out being my true self wasn’t good enough for them. I was a “huge embarrassment” that “wasted her unlimited potential.”
+speaker_rell: I’m actually grateful they shipped me off to VC. I needed a fresh start, away from Kiiso.
+speaker_rell: But here… I figure it’s best not to make new friends. That way, it’s harder to disappoint anyone.
+speaker_rell: Quinn knows where I come from. She understands… that I’m always just trying to do what’s right. And that if I push people away, it’s only to protect them.
+speaker_rell: You know what I mean?
+	[Option 1] I understand you, Rell.
+	speaker_rell: Ah, uh… y-yeah. Thanks.
+	speaker_rell: Normally, I’d get really defensive right now. Just an FYI. I’m not great with new… uh… friends.
+	speaker_rell: I don’t know you too well yet… so just… give me time, alright?
+	[Option 2] You’re part of a squad now, and we’ll all look out for you.
+	speaker_rell: A team… Aw, man.
+	speaker_rell: I just hope Tali and E feel the same way…
+	speaker_rell: figured if I kept you at a distance, it would make things easier. Rookie mistake.
+	[Option 3] What’s this comic..? “That Time I Was Transported to the Spirit World”?
+	speaker_rell: Are you… unfamiliar with this masterwork of modern literature?
+	speaker_kaisa: I usually only read assigned textbooks…
+	speaker_rell: So, the story takes place in this fantasy world where a mild-mannered festivalgoer falls into the realm of the spirits…
+	speaker_rell: And then… Er, we can talk about this later. In one volume, this snake lady crushes the protagonist, and it is explicit, if you know what I mean.
+speaker_kaisa: Rell… you don’t need to be so hard on yourself. You’re cool. We WANT to be your friend.
+speaker_kaisa: How about we make a deal?
+speaker_rell: A deal? What kind of deal?
+speaker_kaisa: You be the most authentic Rell you can be. Defend first years, talk to statues, defend babies from evil space deers… No matter what, I’ll stand by your side.
+speaker_rell: I like where this is going.
+speaker_kaisa: But in exchange… you open up to us. Let us be a part of your life.
+speaker_rell: Okay… maybe I like this a little less…
+speaker_kaisa: … Even the part of your life that includes secretly reading manga.
+speaker_rell: MANGA?! I have no clue what you’re talking about!
+speaker_kaisa: Rell! You literally just showed me your collection.
+speaker_rell: Sorry, sorry. Force of habit.
+speaker_rell: Hmm…I dunno if I can keep my part of the deal. There’s a reason I don’t have too many friends, K.
+speaker_rell: My family has resources to reach me anywhere. Who’s to say I won’t lose all of you…that I’ll lose Quinn…
+speaker_kaisa: Let them try to scare us off! We aren’t going anywhere.
+speaker_rell: You mean it? Even with all my baggage? You’re really sure you want me around?
+speaker_kaisa: No one is perfect. And I’m sure.
+speaker_rell: Heh. Okay. Let me think about it, alright?
+speaker_rell: In the meantime, wanna read Derelict Emperor? His only weakness is scorpions, but so far, nobody knows that… except for the Crystal Knight, Sir Skarner.
+speaker_rell: I ship them for completely normal reasons. You can’t tell anybody, and that doesn’t count as part of our deal.
+speaker_kaisa: S-sorry, but… what’s a ship?
+speaker_rell: K, get ready to reach a state of pure enlightenment.
 ----------
 Rell Act 3
 ----------
-speaker_student: Dialogue is not Available Yet
-speaker_student: Dialogue is not Available Yet
+speaker_student: I - I didn’t do anything wrong. I swear!
+speaker_student: Don’t hurt me! I’m just a small cat with big responsibilities!!!
 ----------
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_student: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_student: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-	[Option 1] unknown
-	[Option 2] unknown
-	[Option 3] unknown
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_student: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
+speaker_rell: You think THAT’S what Battle Principal Yuumi would say to a God-Weapon? Have you even watched her spin-off series?! She fears nothing!
+speaker_rell: Battle Principal Yuumi has the highest God-Weapon affinity of anyone at Durandal Academy. She even fought back the Praetorian invasion in Chapter 112: Danger! Parallel Future Robot Uprising!
+speaker_student: It may be partially retconned, but I think Battle Instructor Graves is hiding a way higher affinity level! Also, I’m more of a dog person!
+speaker_kaisa: I got here as fast as I could! Point me to the—
+speaker_rell: Heya, K. How’s it hanging?
+speaker_kaisa: It’s going… fine. Were you talking about manga? In public?!
+speaker_student: Yeah, we’ve been debating Battle Academia. Are you… a fan, perchance?
+speaker_kaisa: Oh, uh… I don’t know that one. But hey, I got caught up on Derelict Emperor!
+speaker_rell: Yes! What did you think of the Hecarabius fight?
+	[Option 1] I was not expecting them to destroy Helia with the Prevailing Mist Beam.
+	[Option 2] Kinda surprised by that crossover with Café Cuties.
+	[Option 3] Hecarabius will be my 2D husband. I will be his 3D wife.
+speaker_rell: Right?! We gotta talk about it later. Plus, I just picked up this new manga about a guy who’s sad because he kills everything he touches. It’s awesome.
+speaker_kaisa: Y-yep. See you around!
+speaker_student: Later, Kai’Sa! Okay. One choice, ultimate deathmatch. Gun Goddess or Bullet Angel?
+speaker_rell: Come on, this is troll. Gun Goddess’ AI is so much more advanced! It surpasses the Battle Angel chassis’ superior firepower in every way. Get real. Next question.
 ----------
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_man: Dialogue is not Available Yet
-speaker_woman: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_sebastien: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
+speaker_rell: … And then Sebastien charged forward with the power of a thousand stars!
+speaker_kaisa: Talking to Lux again?
+speaker_kaisa: I honestly didn’t think it’s something you’d keep up with.
+speaker_rell: I can do anything I put my mind to!
+speaker_rell: Even if that involves talking to a statue, loudly recounting Star Guardian stories in broad daylight.
+speaker_man: Keep going! I need to hear what happens next in your totally fictional story!
+speaker_woman: Yeah, don’t leave us hanging!
+speaker_kaisa: Don’t mind me, sorry to interrupt!
+speaker_rell: … The monster looked down at Sebastien. “THIS?! This is the best you Star Guardians could muster?! A tiny horse?!” But Sebastien was no ordinary horse…
+speaker_sebastien: [Whinny.]
+speaker_rell: Sebastien! … Uh! Nothing to see here folks, just my cat in high-quality cosplay.
 ----------
-speaker_rell: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_rell: So you’re saying the Cuties protect their tea shop from giant monsters… who just want to come in and have some tea?!
+speaker_taliyah: Yes! Ohmygosh, have you gotten the Berry Swirl Cake? It comes with an exclusive crossover card for Monster Tamers!
+speaker_rell: I must have it! Order three of them!
+speaker_kaisa: [Wow, those two are really getting along...]
 ----------
-speaker_ekko: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_ekko: I’m locking Phoenix.
+speaker_rell: I’m locking Yoru.
+speaker_ekko: I’m going A.
+speaker_rell: I’ll cover.
+speaker_ekko: SMOKED THEM! OH! DID YOU SEE THAT?! DO YOU SEE WHAT YOU GET WHEN THE TIME LORD IS UPON YOU?!
+speaker_rell: YEAH, OTHER TEAM, GO CRY TO YOUR MOM! I DON’T CARE IF YOU’RE TWELVE! THERE’S NO MERCY IN VIDEO GAMES!
+speaker_kaisa: [First Tali, now Ekko… She’s opening up to everyone!]
 ----------
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_kaisa: I don’t know… I don’t see it.
+speaker_rell: Their eyes are totally glowing a dark, evil purple. Those aren’t normal deer eyes. And that one just stole that woman’s purse!
+speaker_rell: C’mon, you promised I could be my authentic self. And that means defending this park from a bunch of semi-wild animals.
+speaker_kaisa: … wait, that deer really IS running away with some woman’s purse…
+speaker_rell: HEY, MR. PARK RANGER! YOU’RE JUST IN TIME! THIS DEER HAS A REALLY STRONG GRIP, BUT IF WE TUG TOGETHER, I BET WE CAN PRY THE PURSE FREE!
+speaker_kaisa: Guess we won’t get kicked out this time… no more miscommunication about “fighting wildlife unprompted.”
+speaker_rell: That man just made me an honorary Park Ranger. Said he’d never seen a kid tackle a deer before.
+speaker_kaisa: Of course he did.
 ----------
-speaker_rell: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_rell: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_rell: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_rell: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_mall_mascot: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_mall_mascot: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
+speaker_rell: So? How was hanging out with the authentic me? Still interested in keeping me around?
+	[Option 1] Yes! It was an experience I’ll never forget.
+	speaker_rell: In a good way or a bad way?
+	speaker_kaisa: Definitely a good way. Though I’m not sure your Star Guardian uniform has any room for a Park Ranger badge.
+	speaker_rell: Who said anything about putting it on my Star Guardian uniform? I’m wearing this thing to school!
+	[Option 2] Are you kidding? We should be hanging out all the time.
+	speaker_rell: Really? All the time, every day?
+	speaker_kaisa: Maybe not every day…
+	speaker_rell: K, I’m kidding. Hanging out with you would cut into my Q time. But… maybe I’ll text you more. When I’m feeling it.
+	[Option 3] Authentic Rell confuses and inspires me. I like her a lot.
+	speaker_rell: Ha! See, once you get to know me, I’m charming and sweet!
+	speaker_kaisa: Charming and sweet, huh?
+	speaker_rell: Don’t tell anyone. I kinda like being known as the mysterious loner. With friends in my corner, I can own it. I feel powerful.
+speaker_rell: Anyway, thanks for not judging me too harshly. I still have a lot to work through, but it’s nice to know I can count on you.
+speaker_kaisa: Don’t worry about it, Rell. I’m just glad you’re on our side.
+speaker_rell: Yeah you are!
+speaker_rell: ...
+speaker_rell: I wonder… If it was so easy for you to like me, why didn’t my parents? I tried to be the person they wanted me to be…
+speaker_rell: I just don’t get it. Did I do something wrong?
+speaker_kaisa: You didn’t do anything wrong. Parents can be… complicated. They don’t always know what they want.
+speaker_rell: Yeah… I guess.
+speaker_rell: Maybe it’s more important that I like me, and that I surround myself with people who accept me for who I am: an awesome person.
+speaker_rell: It’s just… hard, you know? I don’t know if my parents and I will ever get along. Or if I even want that.
+speaker_rell: Guess you’ll all have to be my family… for now. U-until I can figure out my situation, you know?
+speaker_kaisa: I know. And you can be part of our squad as long as you need to.
+speaker_rell: Heh. Thanks.
+speaker_rell: AHEM! That's a problem for another day. Now, the last step of our agreement is upon us.
+speaker_rell: Time to hit the manga shop!
+speaker_rell: This week, they’re releasing the first volume of “My Life as an Imprisoned Star Dragon”. It’s about this star dragon who…
+speaker_kaisa: …is imprisoned in a giant mountain, and before he can get out, he has to teach a class of middle schoolers how to kill God?
+speaker_rell: YES! It’s by the same author as Super Galaxy, so you know the quality is there.
+speaker_rell: Hopefully that mascot doesn’t sneak up on me again. I wasn’t scared, he just caught me off guard. But this time -
+speaker_mall_mascot: Hey there, friends! I’m a real-life Star Guardian!
+speaker_rell: AAUUUUGH! ROGUE MASCOT ATTACK!
+speaker_mall_mascot: Gyahhh! I was just cleared to return to work!
+speaker_kaisa: Remind me to warn Nilah that this thing is a person. No reason.
+speaker_kaisa: But also… a mascot phobia? Rell, you’re full of surprises.
+speaker_rell: Hope you don’t get sick of surprising Rell facts, because I have a lot of sharing to catch up on. Now let's score that manga!
 ----------
-speaker_rell: Dialogue is not Available Yet
+speaker_rell: Thank you… Thank you all for being my friends. It feels like, after all this time, my heart… is finally full.
 ----------
 Sona Act 1
 ----------
