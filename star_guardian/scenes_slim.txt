@@ -1074,627 +1074,627 @@ speaker_akali: Heh. I can’t wait.
 ----------
 Chapter 4 Act 1
 ----------
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
+speaker_morgana: Why even resist, children?
+speaker_morgana: The final battle is approaching anyway. Enjoy this delicious tension.
 ----------
-speaker_morgana: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_morgana: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_morgana: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_morgana: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_morgana: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_morgana: Dialogue is not Available Yet
-	speaker_morgana: Dialogue is not Available Yet
-	speaker_morgana: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_morgana: Besides, what are you going to do? Expose your identities to the public? Endanger your friends and classmates?
+speaker_taliyah: Captain… w-what do we do...?
+speaker_kaisa: Tell me what you’ve done with Akali… or… or I’ll…
+speaker_morgana: “Or… or I’ll…”
+speaker_morgana: Mhmhmhm. You’re such a funny little girl. So intent on leading, and yet… you can’t be older than sixteen? Seventeen?
+speaker_morgana: I’m older than the planet you walk on. Know when to hold your tongue.
+speaker_taliyah: I-It’s not like you can fight us here, either! Out in the open like this, you wouldn’t stand a chance...!
+speaker_morgana: Is that a stutter I hear? How cute. It just makes me want to pinch your cheeks, mhmhm.
+speaker_morgana: Ah, but I need to prepare for class. I think the students are coming along quite nicely, don’t you? They have a certain… darkness within them. It’s quite fun.
+speaker_morgana: They’re so wrapped up in themselves, they’re not even paying attention to this argument! Mhmhmhahaha!
+	[Option 1] Bring back my friend.
+	speaker_morgana: No.
+	speaker_kaisa: That’s all you have to say?
+	speaker_morgana: I think it gets my point across.
+	[Option 2] The Star Guardians will make you pay for what you’ve done.
+	speaker_morgana: My, my. How many times have I heard that?
+	speaker_kaisa: This will be your last.
+	speaker_morgana: And how many times have I heard that?! It’s never my last, dear! You’ll all die, or fall, or turn on one another… And I’ll just keep on going.
+	[Option 3] If you’re as old as the planet, how does your skin stay so vibrant?
+	speaker_morgana: Oh, that’s funny. Fishing for beauty secrets? You may be Star Guardians, but at least you respect your elders.
+	speaker_morgana: I use a little of this and a little of that. Perks of killing guardians, you know… They always have fantastic makeup kits.
+	speaker_morgana: Mhmhmhmhahahahaha!
+speaker_kaisa: Grrr…! Damn you!
+speaker_ekko: Still no word from Akali, Captain. She hasn’t been to class in weeks.
+speaker_taliyah: Weeks?! A-are we sure she’s okay?
+speaker_quinn: Valor and I have scouted the entire city, and even some neighboring towns…
+speaker_quinn: We’ve got nothing to report. She’s gone, Captain. I’m sorry we failed you.
+speaker_kaisa: It’s… it’s alright.
+speaker_kaisa: You all tried your best. Keep searching, but don’t push yourselves too much.
+speaker_kaisa: Part of me thinks… this is all my fault…
+speaker_kaisa: I didn’t listen to her concerns… I didn’t help her when Fiddlesticks attacked… I was just so focused on being a leader, you know?
+speaker_ekko: Captain…
+speaker_kaisa: [Sigh.]
+speaker_kaisa: It’s okay. I should get back to the search.
+speaker_quinn: During the day, Captain?! You’re going to skip school?!
+speaker_ekko: Wow, this really is serious...!
+speaker_taliyah: Kai’Sa hasn’t broken a single rule all year… This is big.
+speaker_kaisa: Don’t worry about me. I’ll let you know if I find anything.
+speaker_ekko: Good luck, Kai. Bring her back for us.
+speaker_kaisa: ...
+speaker_kaisa: …I think I know where to find her.
 ----------
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-	[Option 1] unknown
-	[Option 2] unknown
-	[Option 3] unknown
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
+speaker_akali: We're wide awake now, our eyes are wide open…
+speaker_akali: We're running this world, we keep it turning…
+speaker_kaisa: AKALI!
+speaker_kaisa: You’re here...! Huff, huff...! I’m...! So glad!
+speaker_akali: Oh, look. It’s you.
+speaker_kaisa: …I knew you’d be here. I knew exactly where to find you...!
+speaker_akali: Heh. Well, can’t say I’m not impressed.
+speaker_akali: This is where we first met. Right after I got in a fight with those bullies… you found me right over there in the alley.
+speaker_kaisa: You were all scratched up… and soaking wet… and you looked so angry. Like you wanted to murder everyone in the world.
+speaker_akali: I was just pissed off. Home life wasn’t great, didn’t have a lot of friends…
+speaker_akali: Reminds me of Rell, in a way.
+speaker_kaisa: She’s a lot like how you used to be, except she has a horse.
+speaker_akali: I am so, so jealous of that stupid horse.
+speaker_kaisa: ...
+speaker_akali: ...
+speaker_kaisa: So… now that I’ve found you…
+	[Option 1] Please come back to the team. I’m sorry for everything.
+	[Option 2] If you rejoin, I’ll buy you as much ramen as you can fit in your mouth.
+	[Option 3] The guardians need you, Akali. I need you.
+speaker_akali: I’m not coming back.
+speaker_kaisa: Kali, please…
+speaker_akali: Don’t “Kali, please” me. How many times have you ignored everything I was saying? Everything I was feeling?
+speaker_akali: I’m just another guardian to you! Just some dumb fighter you can throw at monsters!
+speaker_kaisa: That’s not true! I care about you!
+speaker_akali: Yeah? We almost never talk about my fears, Kai! You just brush them away!
+speaker_akali: These Star Guardians you love so much—they’re all going to die!
+speaker_kaisa: K-Kali?! Why would you...?
+speaker_akali: Taliyah. Ekko. Sona. Quinn. Rell. You. Me. Hell, even Nilah will bite it sooner or later.
+speaker_akali: This oath is a curse. When I joined the guardians with you, I signed my own death warrant. I just didn’t know it yet.
+speaker_kaisa: That’s not true! We can save each other from falling! I know there’s a way!
+speaker_akali: No, Kai. There isn’t.
+speaker_akali: Huh. Look at that. It’s starting to rain.
+speaker_akali: When Nilah stopped me from turning… How lucky do you think that was? An Outer Guardian coming to VC? That’s a one-in-a-million chance.
+speaker_akali: The next monster that attacks us… I’m dead. I’m going to die. And there’s nothing you or I can do about it.
+speaker_kaisa: N-no! Stop saying stuff like that!
+speaker_akali: You know the part that really sucks?
+speaker_akali: You’re so stubborn that you can’t see what’s right in front of you. You can’t see that… I…
+speaker_akali: I’m going with Morgana. I… I’m sorry, Kai…
+speaker_akali: Tell everyone…
 ----------
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_akali: Tell them I’m sorry...!
+speaker_kaisa: Akali! Wait!
+speaker_kaisa: It doesn’t have to end like this! I’m ready now! I can finally save you!
+speaker_kaisa: Akali!!!
 ----------
 Chapter 4 Act 2
 ----------
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
+speaker_morgana: Well, class… it’s almost finals…
+speaker_morgana: Oh, who cares about pretense anymore! These non-guardians are trapped in an illusion of my own design anyway.
+speaker_morgana: Our ultimate showdown is fast approaching, children. If I were you, I’d make my final preparations.
+speaker_morgana: Because after I kill each and every one of you, I’m going to destroy this horrible little city and put an end to your horrible little world.
+speaker_morgana: Clock’s ticking, guardians. Can’t you hear it? Tick… tock…
 ----------
-speaker_morgana: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_sona: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_sona: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_sona: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_sona: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_ekko: Dialogue is not Available Yet
-	speaker_sona: Dialogue is not Available Yet
-	speaker_ekko: Dialogue is not Available Yet
-	speaker_ekko: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_ekko: Dialogue is not Available Yet
-	speaker_ekko: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_ekko: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_ekko: Dialogue is not Available Yet
-	speaker_sona: Dialogue is not Available Yet
-	speaker_ekko: Dialogue is not Available Yet
-	speaker_ekko: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_sona: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_sona: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_morgana: Tick… tock…
+speaker_ekko: Dang! They planted the spike again!
+speaker_ekko: Maybe my light gun is broken… or something’s wrong with the game cabinet…
+speaker_sona: [“I think it’s just you.”]
+speaker_ekko: Really?! You’re really gonna do me like that?
+speaker_sona: [“Don’t hate the game, Ekko. Hate the player.”]
+speaker_ekko: Psh. I never should have learned sign language.
+speaker_kaisa: Hey! I figured I’d find you two here.
+speaker_ekko: Captain Kai! I was just showing Sona the ropes in VALORANT.
+speaker_sona: [“He’s really bad.”]
+speaker_ekko: You’re really bad!
+speaker_sona: [“See what I mean?”]
+	[Option 1] Have you tried using a different Agent?
+	speaker_ekko: Phoenix is my main, and I refuse to abandon him for some… in-meta character.
+	speaker_sona: [“What about Jett? She seems fun.”]
+	speaker_ekko: I’m not playing Jett! I main Phoenix… in good times and bad.
+	speaker_ekko: And these are some trying times to main Phoenix… Balance gods… please, have mercy…
+	[Option 2] Why not switch your loadout?
+	speaker_ekko: Please. I have time powers. I switch my loadout constantly.
+	speaker_ekko: I just… you know… can’t seem to win.
+	speaker_kaisa: You can’t win with infinite tries? That’s so… bleak.
+	speaker_ekko: See, this is bullying behavior, and I don’t have to stand for it.
+	[Option 3] How can you love this game so much and never get any better?
+	speaker_ekko: Gamers have a rich tradition of loving things they never improve at, okay?
+	speaker_sona: [Sona signs something complicated.]
+	speaker_ekko: O-okay, listen, I really did leave my wallet in my desk! I’ll pay you back for lunch! It was Morgana! I’m being set up!
+	speaker_ekko: Shoot… Can’t even talk about gaming without it becoming a whole allegory about “that time I didn’t pay for lunch.”
+speaker_kaisa: That’s right… You two met here, didn’t you?
+speaker_ekko: Oh… you mean…
+speaker_sona: ...
+speaker_ekko: N-no, don’t worry about it! We did technically meet here, but that was a long time ago.
+speaker_ekko: Weird to think it’s been so long since Zoe invaded… almost two years now…
+speaker_ekko: Crazy how almost nothing’s changed.
+speaker_kaisa: Oh?
+speaker_ekko: Well, almost nothing. We still go to school, we still do homework and hang out in the arcade. There are still monsters.
+speaker_ekko: But now, we can fight, y’know? We can do something about it. Change our fate.
+speaker_sona: [“We’re not helpless kids. We’re something more than that.”]
+speaker_ekko: Exactly. We keep the torch lit, so everyone else can follow. You know what I mean?
+speaker_ekko: Hope the rest of your rounds go well, Captain. We’ll see you for the big battle.
+speaker_kaisa: Thanks, you two. Be safe until then.
 ----------
-speaker_taliyah: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_valor: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-	speaker_taliyah: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_rell: Dialogue is not Available Yet
-	speaker_taliyah: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_quinn: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-	speaker_quinn: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_quinn: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
+speaker_taliyah: Oh… Oh, no…
+speaker_rell: Too many… Lovely Lass… Matcha Balls…
+speaker_quinn: You’re both out of control! Eating doesn’t have to be a competition!
+speaker_taliyah: It does! And I’ll never give up!
+speaker_rell: I’m gonna eat so much dessert pastry that it’ll ooze outta my tear ducts. You’re going down, sweatshirt!
+speaker_taliyah: You’ve got two croissants left in you, tops. I’m ready to eat my way into Hell, and—I’m wearing my stretchy pants!
+speaker_quinn: These are our friends, Valor. This is who we choose to hang out with.
+speaker_valor: [Rreeeek.]
+speaker_kaisa: Not causing too much trouble, I… Oh, what happened here? This looks like a pastry massacre.
+speaker_quinn: There’s some exclusive manga you can win if you eat enough food items here.
+speaker_kaisa: Oh, no.
+speaker_quinn: And they only give out one per day…
+speaker_kaisa: OH, NO!
+speaker_rell: You’re done for, Tali!
+speaker_taliyah: You’ve got nothing. Nothing!
+speaker_quinn: They’ve been at it all day. It’s… Well, it’s been a nice distraction.
+	[Option 1] So, now the three of you are hanging out all the time?
+	speaker_quinn: Not all the time, but we’re getting used to the city as best we can. Taliyah here has been a big help.
+	speaker_rell: Her family made us dinner one night! It was awesome!
+	speaker_taliyah: My parents always say that a home-cooked meal is a good way to bring people together.
+	speaker_rell: And a restaurant-cooked meal! And meals from vending machines! Meals are the great connector!
+	[Option 2] Rell, Taliyah, play nice.
+	speaker_rell: Hey! I always play nice!
+	speaker_taliyah: You did tell the barista you would incinerate him with your laser eyes.
+	speaker_kaisa: What did he do?
+	speaker_quinn: He had a bad manga opinion. You can’t have those. It’s against the law.
+	[Option 3] Quinn… I know your pain… the pain of being friends with an otaku…
+	speaker_quinn: You understand nothing.
+	speaker_rell: Ha! Here she goes!
+	speaker_quinn: You’re new. You’re a tourist. Do you know how many day-one releases I’ve had to wait for? Can you even comprehend the smell of those lines?!
+	speaker_kaisa: I feel like maybe I’ve struck a nerve…
+	speaker_quinn: You are nothing, Kai’Sa. I am the ultimate friend. You are some sort of… weak baby friend.
+speaker_taliyah: So… Captain… you making the final rounds?
+speaker_kaisa: I don’t like to call them final…
+speaker_rell: Eh, why run from it? We gotta make the most of every moment. Our job isn’t easy.
+speaker_quinn: It’s alright, Captain. We’ve faced many great threats this year. I’m sure that, whatever comes next, we’ll get through it.
+speaker_rell: It’s just like when Tiger Gauntlet took down the Snake Witch in Zodiac Relic Issue #5! Sure, he destroyed pretty much all of downtown in the process, but he saved the day in the end!
+speaker_quinn: ...
+speaker_taliyah: I haven't even HEARD of that one…
+speaker_kaisa: I… should be on my way. It was good to talk with you all.
+speaker_rell: Seriously?! Did no one get that reference?! It’s not like my taste is obscure!
+speaker_rell: If you just read my list of the Top 100 Manga I sent you, you’d get it! You’d ALL get it!
 ----------
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-	speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_nilah: [Mumbling.]
+speaker_kaisa: Nilah. I’m glad I ran into you…
+speaker_nilah: And I, you. How go the preparations for our final battle with darkness?
+speaker_kaisa: I guess… they’re as good as we’re gonna make them. It’s not like I’m slowly improving a spaceship for some sort of suicide mission.
+speaker_nilah: I don’t mean your combat skills, Kai’Sa. I mean your bonds with your team. Are they as strong as they could be? Will you walk into fire for each other?
+speaker_kaisa: Oh… I guess I’m not sure…
+speaker_nilah: Hmm…
+speaker_nilah: You know this isn’t the end, right?
+speaker_kaisa: Of Morgana?!
+speaker_nilah: No. Of battles with darkness.
+speaker_nilah: There are many, many things beyond this world drawn toward its light, looking to feed on it and snuff it out.
+speaker_nilah: Ha. I look forward to such things! But you… you have friends, family…
+speaker_nilah: Prepare yourself well, Kai’Sa. We are not promised tomorrow… and in the end, only our legends live on.
+	[Option 1] Thank you for helping us, Nilah. I’ll always be grateful.
+	speaker_nilah: It is no worry at all. I am simply keeping a promise to a friend.
+	speaker_nilah: Though… you are a rather charming bunch. I could be convinced to stick around… if that’s something you’d be interested in.
+	speaker_kaisa: Y-yes! Of course I would! Please stay!
+	speaker_nilah: Ha! Very well. I won’t be an Outer Guardian anymore… Shame. It’s such an intimidating title…
+	[Option 2] Will you stay with us after this is all over?
+	speaker_nilah: I have… considered it.
+	speaker_nilah: You’re all so colorful and strange. I have a feeling my little exoplanet will be safe from destruction for another, oh, hundred years.
+	speaker_kaisa: A hundred years?! You want to stay with us that long?
+	speaker_nilah: It will be a fine challenge to keep you all alive for the next century.
+	[Option 3] Will you… be my dad?
+	speaker_nilah: ...
+	speaker_kaisa: Oh… that face again.
+	speaker_nilah: Hmm. Doesn’t it project displeasure? I’ve been working on it ever since the Dark Herald.
+	speaker_nilah: Ah, well. It’s hard when you can only feel joy… except in the specific instance of you calling me your father, which I find off-putting and strange.
+speaker_nilah: Kai’Sa. I have one last gift before you go.
+speaker_kaisa: What? A gift?
+speaker_nilah: Step out from the shadows, if you would. We have something to discuss.
+speaker_akali: What’s shakin’, bacon?
+speaker_kaisa: Kali...?!
+speaker_kaisa: Alright. What exactly is going on...?
 ----------
 Chapter 4 Act 3
 ----------
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
+speaker_morgana: Look at this quiet little city… everyone going about their day… living their lives, chasing their dreams…
+speaker_morgana: …It disgusts me.
 ----------
-speaker_morgana: Dialogue is not Available Yet
-speaker_dark_herald: Dialogue is not Available Yet
-speaker_woman: Dialogue is not Available Yet
-speaker_woman: Dialogue is not Available Yet
-speaker_man: Dialogue is not Available Yet
+speaker_morgana: Flood the land with darkness… Drown everything in sorrow…
+speaker_dark_herald: Rheaaaap!
+speaker_woman: Hmm…?! A monster?!
+speaker_woman: W-wait… There’s… so many of them...! They’re filling the streets!
+speaker_man: What do we do?! They’re moving too fast...! A… aaghhh!
 ----------
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
+speaker_morgana: Justice is a lie… Order is the chain of the wicked master…
+speaker_morgana: Be free from your bed of chaos, writhing beasts of shadow!
 ----------
-speaker_dark_herald: Dialogue is not Available Yet
-speaker_man: Dialogue is not Available Yet
-speaker_woman: Dialogue is not Available Yet
-speaker_man: Dialogue is not Available Yet
-speaker_dark_herald: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
+speaker_dark_herald: Gyooooohhhhnnnnnnn!
+speaker_man: That’s not possible! The Star Guardians destroyed that thing!
+speaker_woman: There’s another one! And another!
+speaker_man: Is this…? Is this the end of the world?! Everybody, run!
+speaker_dark_herald: GYOOOOOOHHHHHNNNNNN!
+speaker_morgana: Yes! YES! Destroy them all! End love, devour mercy!
+speaker_morgana: And above all… bring me the Star Guardians!
 ----------
-speaker_ekko: Dialogue is not Available Yet
-speaker_dark_herald: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_akali: Dialogue is not Available Yet
-	speaker_kaisa: Dialogue is not Available Yet
-	speaker_akali: Dialogue is not Available Yet
-	speaker_akali: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_akali: Dialogue is not Available Yet
-	speaker_akali: Dialogue is not Available Yet
-	speaker_ekko: Dialogue is not Available Yet
-	speaker_akali: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_akali: Dialogue is not Available Yet
-	speaker_akali: Dialogue is not Available Yet
-	speaker_taliyah: Dialogue is not Available Yet
-	speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
+speaker_ekko: Y’know, I somehow wasn’t expecting it to get this bad.
+speaker_dark_herald: Gyoooooohnnnnnnnnn…!
+speaker_nilah: Beasts of ancient darkness, let us claim our joy! Face me!
+speaker_ekko: Glad Nilah’s having fun, at least. Good for her.
+speaker_kaisa: Not the time, Ekko.
+speaker_taliyah: I’m as excited as everyone else to get out there and fight, but Captain… there are thousands of monsters. They’re everywhere!
+speaker_ekko: I’ve seen at least twenty Dark Heralds so far. We needed half the team and an Outer Guardian to take down even one…
+speaker_taliyah: What do we do? Unless we can locate Morgana, we’re…
+speaker_kaisa: Ah, about that…
+speaker_akali: ’Sup, nerds.
+speaker_ekko: ...
+speaker_taliyah: ...
+speaker_akali: Okay, is this about the “me teaming up with Morgana” thing? Because that was just a smart and deeply cool strategy.
+speaker_ekko: She’s going to betray us.
+speaker_taliyah: Yeah… sorry to say, Captain… but I don’t think we can trust her.
+speaker_kaisa: What?! This is Akali we’re talking about! She’s fought side by side with us from day one!
+speaker_akali: I was your cool on-again off-again co-captain. Y’know, until Kai’Sa started being a jerk and I quit.
+speaker_ekko: ...
+speaker_akali: Okay, ask me anything. How do I prove I won’t betray you immediately?
+speaker_kaisa: Hmm...
+	[Option 1] What’s Morgana’s plan?
+	speaker_akali: Hmm. Long answer? She wants to get rid of the Star Guardians. Permanently.
+	speaker_kaisa: What? How’s she going to do that? Even if all of us fall… the First Star will just choose a new squad.
+	speaker_akali: I’m not sure… She keeps talking about darkness and entropy… how nothing should exist at all.
+	speaker_akali: All I know is we have to stop her fast. She’s feeding on the misery of this invasion, and it’s making her absurdly powerful.
+	[Option 2] How do we stop this before the city is destroyed?
+	speaker_akali: Morgana’s the key. Don’t worry about the small fry, or the medium fry, or those giant singing crab things...
+	speaker_akali: Stop Morgana, and all this ends.
+	speaker_ekko: Okay, great plan. But how do we even get to her?
+	speaker_akali: It’s not going to be easy… but it’s not impossible.
+	[Option 3] Is this a complicated double-cross that I will regret falling for?
+	speaker_akali: I mean… it could be. You have no way of knowing.
+	speaker_akali: Morgana offered me something you can’t give me, Kai. Freedom from my oath… freedom from death.
+	speaker_taliyah: No way… She can do that...?
+	speaker_akali: I’m… I’m not sure yet. But she made the offer. The fact that I’m here instead—that should be all the proof you need.
+speaker_akali: Well? Feel better?
+speaker_ekko: ...
+speaker_taliyah: Captain… figure this out first. We’ll save everyone we can until then.
+speaker_akali: Dang. I was hoping they’d stick around.
+speaker_kaisa: Akali, I’m sorry… They didn’t mean what they said…
+speaker_kaisa: Nilah brought you to me for a reason… and I know that once we stop this invasion, we’ll finally be the heroes we’ve always dreamt of being…
+speaker_kaisa: And then… maybe… you and I can finally patch things up.
+speaker_kaisa: Or… at least I’d like to try.
+speaker_akali: That’s real sweet of you, Kai. I’m glad Nilah brought me to you, too.
+speaker_akali: It saved me a lot of trouble trying to hunt you down myself.
+speaker_kaisa: A-Akali?! What are you...?
+speaker_kaisa: Ungh! You...!
+speaker_akali: Gosh, you really did believe that love and friendship were gonna save the day.
+speaker_kaisa: A… kali… Ow! I don’t… I don’t want to fight you...!
+speaker_akali: Honestly, that works for me.
+speaker_kaisa: …Ungh…
+speaker_akali: Man, this is so easy! Everyone’s distracted… You’re refusing to fight back… This could not have gone better.
+speaker_akali: It bears repeating that Morgana said I could break my contract with the First Star. That I’ll never die… unless I want to. But who would want to, bahaha?!
+speaker_akali: Now come here, bestie.
+speaker_akali: I wanna show you a cool knife trick.
+speaker_morgana: Akali! Wait!
+speaker_akali: What do you want?! I’m doing what you told me to do! That’s our deal!
+speaker_morgana: No… I want to watch you kill her in front of me. I want to see the hope drain from her heart. In some ways… it’s all I’ve ever wanted, hmhmhmhmh.
+speaker_morgana: Star Guardians! I summon you… to me!
 ----------
-speaker_akali: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-	[Option 1] unknown
-	[Option 2] unknown
-	[Option 3] unknown
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_ekko: Dialogue is not Available Yet
-speaker_sona: Dialogue is not Available Yet
-speaker_chiizu: Dialogue is not Available Yet
-speaker_taliyah: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_akali: This place again? Boo. Get a better house.
+speaker_morgana: I’ll let that slide, considering all you’ve done for me. Now… show me the girl.
+speaker_kaisa: …Ugh…
+speaker_morgana: Your little friends aren’t here to help you this time, little guardian. With their leader slain… I doubt I’ll have much trouble picking them off one by one.
+speaker_morgana: First Quinn, of course… which will send that Rell into a tailspin. She might even take Taliyah down with her.
+speaker_morgana: Sona’s connection to Ekko… Is it friendship? Romance? Trauma bonding? Who cares! Strike at one, and the other falls with them.
+speaker_morgana: Nilah presents a problem on her own… but without any guardians to protect, she might simply… leave. Or she might not, and I’ll just end her myself.
+speaker_morgana: Well? How did I do?
+	[Option 1] …Ugh…
+	[Option 2] …Mrmfff…
+	[Option 3] …You… suck…
+speaker_morgana: Absolutely stellar choice of last words, my dear. Poetry… really.
+speaker_morgana: Dear Akali, would you do the honors...?
+speaker_akali: Oh, me?
+speaker_akali: Actually? Nah.
+speaker_kaisa: Everyone, now!
+speaker_morgana: You… you tricked me?! After everything I’ve done?!
+speaker_akali: I mean, I thought it would fall apart during the whole boo hoo crying thing. “Tell everyone I’m sorry!” Heh.
+speaker_akali: But your ego is so massive you bought it completely. You even let me talk juuuust long enough for reinforcements to get here.
+speaker_nilah: A well-planned betrayal, Akali. You have a knack for subterfuge.
+speaker_ekko: There y’all are. Finally, we can end this… Rewinding time is so tiring.
+speaker_sona: ...
+speaker_chiizu: Miss Sona says, “Kick her…” Oh, Miss Sona, do I really have to say that? M-Miss Sona? Why do you look so mad?
+speaker_taliyah: Finally, I can finally test my new “super samurai fist punch” out on someone! Chu chu!
+speaker_rell: Honestly, we can drop the name. A good, old-fashioned armored charge works just as well.
+speaker_quinn: Valor and I have eyes on the enemy. She’s not going anywhere this time.
+speaker_kaisa: Everyone…
+speaker_kaisa: Thank you.
+speaker_akali: Hey, Kai. Ready to end this once and for all?
+speaker_kaisa: Kali… I thought you’d never ask.
 ----------
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
+speaker_morgana: A real fight then? One last battle to decide the fate of the world?
+speaker_morgana: What a disgusting little band of cretins you are. Such utter foolishness. I’ll make you all suffer!
 ----------
-speaker_kaisa: Dialogue is not Available Yet
+speaker_kaisa: Everyone! Are you in position?
 ----------
-speaker_kaisa: Dialogue is not Available Yet
+speaker_kaisa: We might not get another chance like this!
 ----------
-speaker_taliyah: Dialogue is not Available Yet
+speaker_taliyah: We’re ready, Captain!
 ----------
-speaker_rell: Dialogue is not Available Yet
+speaker_rell: Say the word, and I’ll dive in!
 ----------
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
+speaker_morgana: Please, children… I taught you all year long… I looked you in the eyes every day and watched you squirm.
+speaker_morgana: So, go ahead. I encourage you to try me.
 ----------
-speaker_nilah: Dialogue is not Available Yet
-speaker_quinn: Dialogue is not Available Yet
+speaker_nilah: Then let it be done! Joy will carry you unto oblivion!
+speaker_quinn: Valor, fly with me!
 ----------
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
+speaker_morgana: Ah, it’s always the same.
+speaker_morgana: And now I, what? Disintegrate while screaming, “Noooo!”?
 ----------
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
+speaker_morgana: You have no idea the kind of power I wield!
+speaker_morgana: Look, children! Look what you’ve made me do!
 ----------
-speaker_ekko: Dialogue is not Available Yet
-speaker_sona: Dialogue is not Available Yet
+speaker_ekko: Ugh! She’s got me! Sona, are you okay?!
+speaker_sona: ...!
 ----------
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
+speaker_akali: This power?! This is what I felt before… The power of entropy...!
+speaker_akali: Kai… help...!
 ----------
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_kaisa: Akali! I’ve got you!
+speaker_kaisa: I’ve got you… always...!
 ----------
-speaker_kaisa: Dialogue is not Available Yet
+speaker_kaisa: I’ll always be there for you…
 ----------
-speaker_kaisa: Dialogue is not Available Yet
+speaker_kaisa: No matter what happens…
 ----------
-speaker_kaisa: Dialogue is not Available Yet
+speaker_kaisa: That… will never change...! I promise!
 ----------
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
+speaker_akali: Oh, this woman is so dead.
+speaker_kaisa: Is this the power of the First Star...?
+speaker_akali: Not bad, to be honest. I kinda like it.
 ----------
-speaker_kaisa: Dialogue is not Available Yet
+speaker_kaisa: Everyone, focus your attacks! We’re not letting some third-rate homeroom teacher take us down!
 ----------
-speaker_ekko: Dialogue is not Available Yet
+speaker_ekko: Sona, let’s show her how we take care of business.
 ----------
-speaker_sona: Dialogue is not Available Yet
+speaker_sona: ...!
 ----------
-speaker_taliyah: Dialogue is not Available Yet
+speaker_taliyah: Ultimate Star Surf Power: Crushing Wave!
 ----------
-speaker_quinn: Dialogue is not Available Yet
+speaker_quinn: Quinn and Valor, locking on!
 ----------
-speaker_rell: Dialogue is not Available Yet
+speaker_rell: It’s over, Morgana! No one hurts my friends! No one!
 ----------
-speaker_nilah: Dialogue is not Available Yet
+speaker_nilah: At long last… a battle of mythical proportions! They will sing of our victory until the end of time!
 ----------
-speaker_morgana: Dialogue is not Available Yet
-speaker_morgana: Dialogue is not Available Yet
+speaker_morgana: What?! What is this?! Am I to die as some cliche?! Disintegrated by the power of… friendship?!
+speaker_morgana: No! I had so much more to conquer...!
 ----------
-speaker_akali: Dialogue is not Available Yet
+speaker_akali: I’m in, Kai! I’ve got your back!
 ----------
-speaker_kaisa: Dialogue is not Available Yet
+speaker_kaisa: One last push! Kali, let’s do it!
 ----------
-speaker_kaisa_and_akali: Dialogue is not Available Yet
+speaker_kaisa_and_akali: Now!
 ----------
-speaker_morgana: Dialogue is not Available Yet
+speaker_morgana: Y-you fools...!
 ----------
-speaker_morgana: Dialogue is not Available Yet
+speaker_morgana: The cycle of the First Light… and the Dark Star…
 ----------
-speaker_morgana: Dialogue is not Available Yet
+speaker_morgana: …can never… be… broken...!
 ----------
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
+speaker_akali: We did it, Kai’Sa. We saved the city. We’re the heroes they’ll believe in, now.
+speaker_kaisa: Akali… it’s alright.
+speaker_kaisa: I’m just glad we came through this… together…
 ----------
-speaker_narrator: Dialogue is not Available Yet
+speaker_narrator: [Sometime later…]
 ----------
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_ahri: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_ahri: Dialogue is not Available Yet
+speaker_akali: Hey, Kai! You want one of these dango-shaped dango, or can I have all three?
+speaker_kaisa: Go for it. I filled up on Noodle Bill’s special winter holiday ramen. Three bowls… because Tali and Rell got distracted by a snowball fight…
+speaker_kaisa: I think I might explode. But that’s probably okay...? He gave me this as a prize. Maybe to puke in. I’m not sure yet.
+speaker_akali: Ha! You’ll get used to it. A meal is something you defeat. Like a monster. Or that math test I failed.
+speaker_kaisa: Heh heh. I guess you’re right.
+speaker_akali: Heck yeah, I am.
+speaker_kaisa: H-hey… Akali… I… I just wanted to apologize. You know. For… well, everything.
+speaker_akali: No sweat, bro.
+speaker_kaisa: What?! After all of that?!
+speaker_akali: You were being a single-minded jerk, true. But we’re all jerks sometimes. And in the end… I guess… that’s okay.
+speaker_akali: Plus, I got these cool new powers! I can turn empty on command! Isn’t that awesome?! I look cool as hell.
+speaker_kaisa: Ha! You really, really do.
+speaker_akali: So… what do we do now that the city is safe once more? Help rebuild? It’s still pretty messed up. Or we could get part-time jobs at the mall.
+speaker_kaisa: I don’t know! I guess we… keep protecting the universe? Nobody saw us save the world this time. With our third year coming up, there should be plenty of drama.
+speaker_akali: And monsters.
+speaker_kaisa: How are there so many monsters?
+speaker_akali: Who knows? I guess it’ll always be a mystery.
+speaker_akali: Or...
+speaker_akali: You could always ask her.
+speaker_ahri: Hello. I’m told you’re the captain of the new squad.
+speaker_kaisa: Y-you… you’re!
+speaker_ahri: Wait… Don’t I recognize you...?
 ----------
-speaker_ahri: Dialogue is not Available Yet
-speaker_miss_fortune: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_akali: Dialogue is not Available Yet
+speaker_ahri: You need to talk to Xayah. She’s over there licking Rakan’s ear.
+speaker_miss_fortune: Ugh, that again?
+speaker_akali: …Hey. Thanks for believing in me, Kai.
+speaker_kaisa: Best friends forever? And I really mean it. Nothing will ever come between us again.
+speaker_akali: Sure thing. Just get comfy, because forever might be a long, long time.
 ----------
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
+speaker_kaisa: Hmm?
+speaker_kaisa: Ugh… My head… I must have had too much punch…
+speaker_kaisa: Wait. What's that drumming sound...?
+speaker_unknown: [You.]
 ----------
-speaker_kaisa: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_kaisa: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
+speaker_kaisa: What?! No… there’s no way…
+speaker_unknown: [You are the one who stands against me.]
+speaker_kaisa: I’m… I’m not…
+speaker_unknown: [Silence.]
+speaker_kaisa: ...!
+speaker_unknown: [Daughter of Light. Cast adrift, unmoored from time.]
+speaker_unknown: [I offer you a warning.]
+speaker_unknown: [My cycle cannot be broken. The unending ring of sound, then light, then nothing. The spokes of an eternal wheel, spinning for untold ages.]
+speaker_unknown: [Crushing all beneath it.]
+speaker_unknown: [You are not the first to rise in challenge. You will not be the last.]
+speaker_unknown: [Just as the light has her children, I have mine. They will descend upon your universe as locusts, consuming everything.]
+speaker_unknown: [You will not survive the coming dark. Destroying my servant has only delayed the sweet embrace of oblivion.]
+speaker_unknown: [You shall stand before me again, Daughter of Light. And only then, as you gaze upon the broken bodies of a trillion souls, will you understand the weight of your failure.]
+speaker_unknown: [Goodbye, girl.]
 ----------
-speaker_unknown: Dialogue is not Available Yet
+speaker_unknown: [Prepare yourself… for the end.]
 ----------
 Epilogue Act 1
 ----------
-speaker_narrator: Dialogue is not Available Yet
+speaker_narrator: [Some months ago…]
 ----------
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
+speaker_zoe: … gasp… gasp…
+speaker_zoe: Did… did I lose...?
+speaker_zoe: No! No! NO! NO NO NO NO NO!
+speaker_zoe: My powers! Wh… what?!
+speaker_zoe: Change back! Change back now!
+speaker_zoe: ...
+speaker_zoe: CHANGE BACK! I HAVE TO KILL THE STAR GUARDIANS! CHANGE...!
+speaker_zoe: … change back…
+speaker_zoe: ...
+speaker_syndra: You’re still weak from the battle, Zoe.
+speaker_zoe: YOU!
+speaker_syndra: More than a dozen guardians combined their magic to destroy you… One even sacrificed himself using the power of love.
+speaker_zoe: Ew! Disgusting! You take that back!
+speaker_syndra: Ha. I wouldn’t have believed it if I hadn’t seen it myself. They truly, truly hated you.
+speaker_zoe: Psh. What-EVER.
+speaker_zoe: They’ll all see...! Soon, they’ll start falling all over again, and…
+speaker_zoe: Ow, ow ow ow...!
+speaker_syndra: Hmph. The Twilight Star herself, brought low by the power of light… Weak, pathetic… vulnerable.
+speaker_syndra: I wonder what Gwen would think. Or Akshan. Or…
+speaker_zoe: Don’t you dare say her name.
+speaker_syndra: Ah, there it is.
+speaker_syndra: I suppose murdering Star Guardians is of no consequence to you at this point. Even murdering our old friends. But bring up Harp…
+speaker_zoe: I’ll kill you, Syndra! I WILL KILL YOU!!!
+speaker_zoe: Ow… my arms… I can barely move…
+speaker_syndra: I could end this here, you know. Right now.
+speaker_zoe: ...
+speaker_syndra: But you already knew that, didn’t you? In the park, on the night of the battle… before the others arrived. You realized what I’d become. You know what I’m capable of.
+speaker_zoe: I still think you should have taken the eye patch off.
+speaker_syndra: One day, Zoe. But not yet.
+speaker_zoe: So why not do it? Why not just kill me and get it over with?
+speaker_zoe: Get revenge after all these long centuries. Go ahead. End it right now!
+speaker_syndra: ...
+speaker_syndra: ...No.
+speaker_zoe: Hmph. Still no fun at all.
+speaker_syndra: I watched you kill our friends right before my eyes… and I hated you for it. For thousands of years, I waited for this very moment…
+speaker_syndra: But we both know this isn’t your fault. Before you became… this… I counted you among my dearest companions.
+speaker_syndra: Only one is to blame for everything that’s happened to us. The one who started it all…
+speaker_zoe: The First Star.
+speaker_zoe: Myehehe! And I suppose you want to do something about it? Maybe a team-up, get the ancient survivors back together again?
+speaker_syndra: Tempting as that may be, no. You might have lost your mind, but our ultimate goals couldn’t be more different.
+speaker_syndra: I just thought… before everything ends… we should put her to rest.
+speaker_syndra: One last mission. You and I. Not for the fate of the universe… but for Harp.
+speaker_zoe: ...
+speaker_zoe: Alright, Syndra-wyndra. Tell me more.
 ----------
 Epilogue Act 2
 ----------
-speaker_harp: Dialogue is not Available Yet
-speaker_harp: Dialogue is not Available Yet
+speaker_harp: Ha… ha… It’s okay… Zoe…
+speaker_harp: I will always… be your best friend… no… matter… what…
 ----------
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_unknown: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-	[Option 1] unknown
-	speaker_rell: Dialogue is not Available Yet
-	speaker_zoe: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-	[Option 2] unknown
-	speaker_rell: Dialogue is not Available Yet
-	speaker_zoe: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-	[Option 3] unknown
-	speaker_rell: Dialogue is not Available Yet
-	speaker_zoe: Dialogue is not Available Yet
-	speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_zoe: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
-speaker_rakan: Dialogue is not Available Yet
-speaker_rell: Dialogue is not Available Yet
+speaker_zoe: Hmph. It’s late. Looks like everyone’s gone home.
+speaker_zoe: I could destroy this city. I could kill everyone on the planet… and they’d never be able to stop me.
+speaker_zoe: Sure, they stopped me once… but that didn’t count! They totally cheated! Using my own power against me is against the rules!
+speaker_zoe: It’s not fair! None of this is fair! Harp… I...!
+speaker_unknown: What’s not fair?
+speaker_rell: Is it your parents, or your responsibilities? How everyone sees you? Come on, what’s your deal?
+speaker_rell: Everyone in this city has a deal! Some like wearing the same sweatshirt every day, some have secret non-nerdy obsessions, and some zealously research ways to time travel. It’s typical city stuff!
+speaker_zoe: Excuse me?! Do you know who I am?!
+speaker_rell: Nope.
+speaker_zoe: EXACTLY, I’M THE TWI— Sorry, what was that?
+speaker_rell: I don’t know who you are. Some sort of… unaccompanied child? Out in the middle of the night in a knockoff Star Guardian outfit?
+speaker_rell: You got some of the colors right, but that star design is WAY off.
+speaker_rell: And I should know. Mine are some real winners.
+speaker_zoe: I don’t think you understand the severity of what you’re saying, or who you’re saying it to. Maybe I should SHOW you...!
+speaker_rell: Aww, you’re so cute! I remember back in elementary school when I wanted to fight the middle schoolers! Course, I was still taller than you back then…
+speaker_zoe: Y-you dare?!
+speaker_rell: I mean I THINK I was taller than you. I blocked out most of the time before I met Quinn.
+speaker_rell: …Ugh. What am I saying? It’s the holidays! I’m not supposed to bring up sad things.
+speaker_rell: But it’s hard not to think about family this time of year…
+speaker_rell: Sorry, you were talking about fighting me or something?
+	[Option 1] I’m going to tear off your skin and wear it as a human cloak.
+	speaker_rell: That’s so metal! A skin cloak!
+	speaker_zoe: You really don’t know who I am, do you?
+	speaker_rell: Some freaky little clown kid? I dunno. You seem fine to me.
+	[Option 2] Every world will hear your screams as I boil the blood inside your body.
+	speaker_rell: Oh, hey! That’s the power the Devil Knights use in Derelict Emperor’s Demon Ascension arc.
+	speaker_zoe: I’m going to enjoy killing you.
+	speaker_rell: That’s the thing they say! You’re not so bad, weird little monster kid!
+	[Option 3] Yes, yes. Or something.
+	speaker_rell: Hey I’m just trying to be friendly!
+	speaker_zoe: Friendship is for losers.
+	speaker_rell: Ya know, I used to think the same thing, tiny circus girl.
+speaker_rell: So… Do you want me to find your parents or something?
+speaker_rell: You do have parents… don’t you?
+speaker_rell: Or maybe your family is a different kind, like mine! Made up of people all the same age as you, fighting for truth and justice!
+speaker_zoe: Pfffhahaha! Is this what’s happened to the Star Guardians?! Where’s the generation that fought so hard to save their world?!
+speaker_rell: The Star Guardians, huh?
+speaker_rell: Never met ‘em. I guess they left.
+speaker_zoe: They… left?
+speaker_rell: Yep. Well, most of ‘em. Some came back. We met a couple earlier.
+speaker_rell: Ahri… Sarah… Xayah… and some bird guy. What’s-his-name.
+speaker_zoe: Rakan...!
+speaker_rell: Yeah, that guy! He is REALLY into himself. Didn’t think people carried around pocket mirrors anymore.
+speaker_rell: Oh, I probably shouldn’t have told you all that stuff. Secrets and all.
+speaker_zoe: Myehehehe. I’ll pretend I didn’t hear it.
+speaker_zoe: I just wanted to see the city one more time. When I think of how close I came to destroying it… I get a little sentimental.
+speaker_zoe: Thank you for speaking with me! When I decide to come back, I’ll make sure to kill you last.
+speaker_rell: Good luck with that! Safe travels!
+speaker_rell: …Heh.
+speaker_rell: So that’s Zoe, huh? The big scary villain who gave everyone so much trouble?
+speaker_rell: She doesn’t seem too bad. Needs to open up more though. Let people in!
+speaker_rakan: Hey, Rell! You coming with us for noodles or what? We got yours with extra wasabi, just how you like it!
+speaker_rell: Rell, it’s gonna be a great year.
 ----------
 Epilogue Act 3
 ----------
-speaker_narrator: Dialogue is not Available Yet
+speaker_narrator: [Long, long ago…]
 ----------
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
+speaker_nilah: [Mumbling.]
+speaker_nilah: …Hmm?
+speaker_syndra: ...
+speaker_syndra: Oh? Apologies, I didn’t mean to…
+speaker_syndra: …Are you a Star Guardian?
+speaker_nilah: In a way, yes. I’m a member of the Outer Guardians.
+speaker_syndra: The… Outer Guardians...?
+speaker_nilah: Our jurisdiction extends beyond the galactic ring. We protect the universe from threats to reality.
+speaker_nilah: That said, I don’t get a lot of visitors here. Care to explain yourself?
+speaker_syndra: Outer Guardians…
+speaker_nilah: Ah, do you number among us as well? I wasn’t aware of any others beyond myself and my old squadmate…
+speaker_syndra: Which team were you? What, um…
+speaker_syndra: Ugh… I feel dizzy…
+speaker_nilah: It’s alright. You are safe here.
+speaker_nilah: I am Nilah, of the Seventh Layer. Six generations of guardians came before, and many have come after.
+speaker_syndra: Seven teams...? And many more...?
+speaker_syndra: How long was I gone...? How long since…
 ----------
-speaker_dark_star: Dialogue is not Available Yet
-speaker_dark_star: Dialogue is not Available Yet
-speaker_dark_star: Dialogue is not Available Yet
+speaker_dark_star: [Daughter of Light. Breaker of Chains.]
+speaker_dark_star: [Open the door.]
+speaker_dark_star: [OPEN THE DOOR.]
 ----------
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_nilah: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
+speaker_syndra: Open...?
+speaker_syndra: Ungh...! My head!
+speaker_nilah: Are you alright?! I can help you. Just tell me what…
+speaker_syndra: Stay back!
+speaker_nilah: You… What’s beneath that patch over your eye...?
+speaker_nilah: The power radiating from it… I’ve never felt anything like it...!
+speaker_nilah: Such incandescent emptiness! A power beyond good or evil… What have you brought to this place?!
+speaker_syndra: I’m warning you, don’t come any closer. I don’t want to hurt you.
+speaker_nilah: Do you believe you can? The taint of your magic suggests that I should destroy you here and now… Do you agree?
+speaker_nilah: Yes… a true challenge, a new legendary foe to overcome...!
+speaker_nilah: It would bring me great joy to face you! Servant of entropy! Slave to the great maw of nothingness!
+speaker_syndra: Heh. So you don’t really know what’s happening. I hoped you’d give me some answers if I played along.
+speaker_nilah: Oho, a feint? Well played! Enlighten me to your intentions, worthy adversary.
+speaker_syndra: No. The time isn’t right… Not yet.
+speaker_syndra: I don’t even know what I’m capable of… I haven’t had a chance to fight since…
+speaker_syndra: Zoe… I wonder where she is now...?
+speaker_nilah: Focus on the face of your enemy! Conquer or be conquered in turn!
+speaker_syndra: Alright, Nilah. We’ll do it your way.
+speaker_syndra: I’ve seen the damage the oath can do. The First Star has extracted its price from me. From my friends. When my companion betrayed us, I had to run to survive.
+speaker_syndra: But I don’t have to run anymore. I found something… something that will break the cycle. If I’m right… no Star Guardian will ever have to run again.
+speaker_syndra: You can call me Syndra. And I’ve got big plans for this universe… I just need to get past you first.
+speaker_syndra: And then… all I need is time.
+speaker_nilah: Ah… to face such a powerful and worthy foe…
+speaker_nilah: To let our battles rage across the universe for all to witness...!
+speaker_nilah: I wouldn’t have it any other way.
+speaker_syndra: I’m glad. Just let me do one last thing… and take off this little eyepatch…
 ----------
-speaker_nilah: Dialogue is not Available Yet
-speaker_syndra: Dialogue is not Available Yet
+speaker_nilah: Impossible...! Wh… what are you?
+speaker_syndra: I… am the end of everything.
 ----------
 Akali Act 1
 ----------
@@ -3188,7 +3188,7 @@ speaker_rell: But you’re probably right.
 speaker_rell: I’m gonna let you go, kid. But you better apologize to those first-years, and your apology better be super-mega sincere!
 speaker_student: I PROMISE! I’ll NEVER HURT ANOTHER SOUL! AHHHHHH!!!
 speaker_rell: See? He’s totally reformed.
-speaker_rell: Another win for good guys.
+speaker_rell: Another win for the good guys.
 speaker_kaisa: Rell, you shouldn’t waste your time on bullies like him. We’re Star Guardians. We have bigger threats to face.
 speaker_rell: Star Guardians are supposed to protect people.
 speaker_rell: If I didn’t stop that kid, who would?
