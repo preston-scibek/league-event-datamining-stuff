@@ -1,5 +1,5 @@
 import re, requests, os
-
+import json
 from track_asset_path import get_versioned_asset_path
 from datamine import URL
 
@@ -18,7 +18,7 @@ with open('dist.js', 'w') as jfile:
 
 for line in js.split("\n"):
     if "png" in line or "webm" in line or "jpg" in line:
-        regex_str = r'^.*"((?:images|video).*(?:png|jpg|webm).*)"[^:]?.*$'
+        regex_str = r'^.*"((?:parsed-)?(?:images|video).*(?:png|jpg|webm).*)"[^:]?.*$'
         m = re.search(regex_str, line)
         if m and m.group(1):
             #print(f"{asset_path}{m.group(1)}")
