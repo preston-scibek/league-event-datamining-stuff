@@ -11,5 +11,5 @@ with open("debug.log", "r") as debug_file:
 
 timestr = time.strftime("%Y%m%d-%H%M%S")
 with open(f'urls_{timestr}.txt', 'w') as urls_file:
-    for url in urls:
+    for url in sorted(urls):
         urls_file.write(f"{url}\n")

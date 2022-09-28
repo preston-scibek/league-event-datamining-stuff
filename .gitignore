@@ -6,3 +6,4 @@ assets*
 dist.js
 lexp.js
 dist*.js
+*.txt

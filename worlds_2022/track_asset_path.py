@@ -21,7 +21,6 @@ def get_versioned_asset_path(url=URL):
                     y = x[1].split("'")[0]  
                     return y
 
-
 if __name__ == "__main__":
     asset_path = get_versioned_asset_path()
     print(f"Asset path = {asset_path}")
@@ -30,11 +29,13 @@ if __name__ == "__main__":
 
     if asset_path != old_path.get('asset_path'):
         # do some shit
+        
+
         with open("../../DiscordBot/.env.json", "r") as envfile:
              params = json.load(envfile)
 
         DISCORD_WEBHOOK = params['explore']['DISCORD_WEBHOOK'][1]
-        data = {"content" :f"Asset path = {asset_path}"}
+        data = {"content" :f"Asset path = {asset_path}\n{asset_path}images/sc-skin-bewitching-cassiopeia.jpg?a20e641a4ab52a9c1e75d0a19b17996e"}
         res_post = requests.post(DISCORD_WEBHOOK, data=data)
         print(res_post.text)
 
