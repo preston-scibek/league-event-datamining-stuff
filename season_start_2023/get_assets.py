@@ -1,8 +1,18 @@
 import re, requests, os, json
-
-from track_asset_path import get_versioned_asset_path
-url = "https://prod.embed.rgpub.io/wwpub-season-start-2023/_nuxt/"
 import jsbeautifier
+
+
+url = "https://prod.embed.rgpub.io/wwpub-season-start-2023/_nuxt/lang-en_US/index.ts.js?ebec20bf36e6cbfd5266" # this one hasthe descriptions
+assets = []
+asset_path = url
+r = requests.get(asset_path + "app.js")
+assert(r.status_code == 200)
+
+js = jsbeautifier.beautify(f"\n{r.text}")
+with open('descriptions_index.js', 'w') as jfile:
+    jfile.writelines(js)
+
+url = "https://prod.embed.rgpub.io/wwpub-season-start-2023/_nuxt/"
 
 assets = []
 asset_path = url
