@@ -29,8 +29,8 @@ def function():
     assets = []
 
     asset_path = get_versioned_asset_path(URL)
-    #print(asset_path)
-    asset_path = "https://lolstatic-a.akamaihd.net/frontpage/apps/prod/worlds-hub-2022/en_US/1d30b2f1028dfada7bf6d9bdd8edbae077301b5d/assets/"
+    print(asset_path)
+    #asset_path = "https://lolstatic-a.akamaihd.net/frontpage/apps/prod/worlds-hub-2022/en_US/1d30b2f1028dfada7bf6d9bdd8edbae077301b5d/assets/"
     r = requests.get(f"{asset_path}dist.js")
     assert(r.status_code == 200)
 
